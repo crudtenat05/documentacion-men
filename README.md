@@ -40,20 +40,33 @@ python3 extraccion/matematicas_estandares.py
 python3 extraccion/matematicas_dba.py
 python3 extraccion/verificar.py matematicas
 python3 extraccion/generar_salidas.py matematicas
+
+python3 extraccion/lenguaje_estandares.py
+python3 extraccion/lenguaje_dba.py
+python3 extraccion/verificar.py lenguaje
+python3 extraccion/generar_salidas.py lenguaje
 ```
+
+`extraccion/dba_men.py` es el extractor común de los DBA del MEN (serie 2016, dos columnas por página);
+cada área lo invoca con su PDF y su rango de páginas.
 
 ## Códigos
 
 - Estándares: `MAT-EBC-{grado inicial}.{grado final}-{pensamiento}-{nn}`, con PN numérico, PE espacial,
   PM métrico, PA aleatorio y PV variacional, numerados en el orden del documento.
-- DBA: `MAT-DBA-{grado}-{nn}`; evidencias: `MAT-DBA-{grado}-{nn}-E{k}`.
+- Estándares de Lenguaje: `LEN-EBC-{grado inicial}.{grado final}-{factor}-{nn}`, con PT producción textual,
+  CI comprensión e interpretación textual, LI literatura, MC medios de comunicación y otros sistemas
+  simbólicos y EC ética de la comunicación. Cada estándar tiene su enunciado identificador y sus
+  subprocesos («Para lo cual,»): `LEN-EBC-…-nn-S{k}`. Según la Nota 1 del documento, el estándar
+  comprende ambos.
+- DBA: `{MAT|LEN}-DBA-{grado}-{nn}`; evidencias: `{MAT|LEN}-DBA-{grado}-{nn}-E{k}`.
 
 ## Estado
 
 | Área | Estándares | DBA | Evidencias | Verificación |
 |---|---|---|---|---|
 | Matemáticas | 172 | 119 | 437 | 728 de 728 literales y completos (2 confirmados manualmente) |
-| Lenguaje | — | — | — | Pendiente |
+| Lenguaje | 35 (con 177 subprocesos) | 88 | 333 | 633 de 633 literales y completos |
 | Ciencias Naturales | — | — | — | Pendiente |
 | Ciencias Sociales y Competencias Ciudadanas | — | — | — | Pendiente |
 | Inglés | — | — | — | Pendiente |

@@ -1,0 +1,5081 @@
+{
+ "resumen": {
+  "area": "lenguaje",
+  "fecha": "2026-09-28",
+  "total": 633,
+  "literales": 633,
+  "completos_automatico": 633,
+  "completos_manual": 0,
+  "pendientes": [],
+  "fuentes": {
+   "estandares-lengua-castellana.pdf": "2475062ca03b4c90801643bcee58cf5e8bb81aaa929a286b4506b30ca83b8695",
+   "dba-lenguaje.pdf": "9918e0e7f44121d32efb652204e7a5f59a9d4b4abf86e47aec09bacf66946f44"
+  }
+ },
+ "textos": [
+  {
+   "tipo": "Estándar",
+   "codigo": "LEN-EBC-1.3-PT-01",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-PT-01-S1",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-PT-01-S2",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-PT-01-S3",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-PT-01-S4",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-PT-01-S5",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-PT-01-S6",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-PT-01-S7",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-PT-01-S8",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "LEN-EBC-1.3-PT-02",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-PT-02-S1",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-PT-02-S2",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-PT-02-S3",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-PT-02-S4",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-PT-02-S5",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-PT-02-S6",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "LEN-EBC-1.3-CI-01",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-CI-01-S1",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-CI-01-S2",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-CI-01-S3",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-CI-01-S4",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-CI-01-S5",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-CI-01-S6",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-CI-01-S7",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "LEN-EBC-1.3-LI-01",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-LI-01-S1",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-LI-01-S2",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-LI-01-S3",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-LI-01-S4",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-LI-01-S5",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-LI-01-S6",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "LEN-EBC-1.3-MC-01",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-MC-01-S1",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-MC-01-S2",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-MC-01-S3",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-MC-01-S4",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-MC-01-S5",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-MC-01-S6",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "LEN-EBC-1.3-MC-02",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-MC-02-S1",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-MC-02-S2",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-MC-02-S3",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-MC-02-S4",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-MC-02-S5",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "LEN-EBC-1.3-EC-01",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-EC-01-S1",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-EC-01-S2",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-EC-01-S3",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-1.3-EC-01-S4",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "LEN-EBC-4.5-PT-01",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-4.5-PT-01-S1",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-4.5-PT-01-S2",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-4.5-PT-01-S3",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-4.5-PT-01-S4",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-4.5-PT-01-S5",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "LEN-EBC-4.5-PT-02",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-4.5-PT-02-S1",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-4.5-PT-02-S2",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-4.5-PT-02-S3",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-4.5-PT-02-S4",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "LEN-EBC-4.5-CI-01",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-4.5-CI-01-S1",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-4.5-CI-01-S2",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-4.5-CI-01-S3",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-4.5-CI-01-S4",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-4.5-CI-01-S5",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-4.5-CI-01-S6",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "LEN-EBC-4.5-LI-01",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-4.5-LI-01-S1",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-4.5-LI-01-S2",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-4.5-LI-01-S3",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-4.5-LI-01-S4",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-4.5-LI-01-S5",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "LEN-EBC-4.5-MC-01",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-4.5-MC-01-S1",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-4.5-MC-01-S2",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-4.5-MC-01-S3",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-4.5-MC-01-S4",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-4.5-MC-01-S5",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "LEN-EBC-4.5-MC-02",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-4.5-MC-02-S1",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-4.5-MC-02-S2",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-4.5-MC-02-S3",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-4.5-MC-02-S4",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "LEN-EBC-4.5-EC-01",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-4.5-EC-01-S1",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-4.5-EC-01-S2",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-4.5-EC-01-S3",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-4.5-EC-01-S4",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "LEN-EBC-6.7-PT-01",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-PT-01-S1",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-PT-01-S2",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-PT-01-S3",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-PT-01-S4",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-PT-01-S5",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-PT-01-S6",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "LEN-EBC-6.7-PT-02",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-PT-02-S1",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-PT-02-S2",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-PT-02-S3",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-PT-02-S4",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-PT-02-S5",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "LEN-EBC-6.7-CI-01",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-CI-01-S1",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-CI-01-S2",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-CI-01-S3",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-CI-01-S4",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-CI-01-S5",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-CI-01-S6",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "LEN-EBC-6.7-LI-01",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-LI-01-S1",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-LI-01-S2",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-LI-01-S3",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-LI-01-S4",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "LEN-EBC-6.7-LI-02",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-LI-02-S1",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-LI-02-S2",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-LI-02-S3",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-LI-02-S4",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-LI-02-S5",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "LEN-EBC-6.7-MC-01",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-MC-01-S1",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-MC-01-S2",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-MC-01-S3",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-MC-01-S4",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "LEN-EBC-6.7-MC-02",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-MC-02-S1",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-MC-02-S2",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-MC-02-S3",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-MC-02-S4",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "LEN-EBC-6.7-EC-01",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-EC-01-S1",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-EC-01-S2",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-EC-01-S3",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-6.7-EC-01-S4",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "LEN-EBC-8.9-PT-01",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-PT-01-S1",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-PT-01-S2",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-PT-01-S3",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-PT-01-S4",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "LEN-EBC-8.9-PT-02",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-PT-02-S1",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-PT-02-S2",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-PT-02-S3",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-PT-02-S4",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-PT-02-S5",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-PT-02-S6",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "LEN-EBC-8.9-CI-01",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-CI-01-S1",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-CI-01-S2",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-CI-01-S3",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-CI-01-S4",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-CI-01-S5",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "LEN-EBC-8.9-LI-01",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-LI-01-S1",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-LI-01-S2",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-LI-01-S3",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-LI-01-S4",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-LI-01-S5",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "LEN-EBC-8.9-MC-01",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-MC-01-S1",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-MC-01-S2",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-MC-01-S3",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-MC-01-S4",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-MC-01-S5",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-MC-01-S6",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-MC-01-S7",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-MC-01-S8",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "LEN-EBC-8.9-MC-02",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-MC-02-S1",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-MC-02-S2",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-MC-02-S3",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-MC-02-S4",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "LEN-EBC-8.9-EC-01",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-EC-01-S1",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-EC-01-S2",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-EC-01-S3",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-EC-01-S4",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-8.9-EC-01-S5",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "LEN-EBC-10.11-PT-01",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-10.11-PT-01-S1",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-10.11-PT-01-S2",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-10.11-PT-01-S3",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-10.11-PT-01-S4",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-10.11-PT-01-S5",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "LEN-EBC-10.11-CI-01",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-10.11-CI-01-S1",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-10.11-CI-01-S2",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-10.11-CI-01-S3",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-10.11-CI-01-S4",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-10.11-CI-01-S5",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "LEN-EBC-10.11-LI-01",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-10.11-LI-01-S1",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-10.11-LI-01-S2",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-10.11-LI-01-S3",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-10.11-LI-01-S4",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "LEN-EBC-10.11-MC-01",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-10.11-MC-01-S1",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-10.11-MC-01-S2",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-10.11-MC-01-S3",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-10.11-MC-01-S4",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "LEN-EBC-10.11-MC-02",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-10.11-MC-02-S1",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-10.11-MC-02-S2",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-10.11-MC-02-S3",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-10.11-MC-02-S4",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "LEN-EBC-10.11-EC-01",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-10.11-EC-01-S1",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-10.11-EC-01-S2",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-10.11-EC-01-S3",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-10.11-EC-01-S4",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Subproceso",
+   "codigo": "LEN-EBC-10.11-EC-01-S5",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/estandares-lengua-castellana.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-1-01",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-1-01-E1",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-1-01-E2",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-1-01-E3",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-1-01-E4",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-1-02",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-1-02-E1",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-1-02-E2",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-1-02-E3",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-1-02-E4",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-1-03",
+   "pagina_pdf": 9,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-1-03-E1",
+   "pagina_pdf": 9,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-1-03-E2",
+   "pagina_pdf": 9,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-1-03-E3",
+   "pagina_pdf": 9,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-1-03-E4",
+   "pagina_pdf": 9,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-1-04",
+   "pagina_pdf": 9,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-1-04-E1",
+   "pagina_pdf": 9,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-1-04-E2",
+   "pagina_pdf": 9,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-1-04-E3",
+   "pagina_pdf": 9,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-1-04-E4",
+   "pagina_pdf": 9,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-1-05",
+   "pagina_pdf": 10,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-1-05-E1",
+   "pagina_pdf": 10,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-1-05-E2",
+   "pagina_pdf": 10,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-1-05-E3",
+   "pagina_pdf": 10,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-1-05-E4",
+   "pagina_pdf": 10,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-1-06",
+   "pagina_pdf": 10,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-1-06-E1",
+   "pagina_pdf": 10,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-1-06-E2",
+   "pagina_pdf": 10,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-1-06-E3",
+   "pagina_pdf": 10,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-1-06-E4",
+   "pagina_pdf": 10,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-1-07",
+   "pagina_pdf": 11,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-1-07-E1",
+   "pagina_pdf": 11,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-1-07-E2",
+   "pagina_pdf": 11,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-1-07-E3",
+   "pagina_pdf": 11,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-1-07-E4",
+   "pagina_pdf": 11,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-1-08",
+   "pagina_pdf": 11,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-1-08-E1",
+   "pagina_pdf": 11,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-1-08-E2",
+   "pagina_pdf": 11,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-1-08-E3",
+   "pagina_pdf": 11,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-1-08-E4",
+   "pagina_pdf": 11,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-1-08-E5",
+   "pagina_pdf": 11,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-2-01",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-2-01-E1",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-2-01-E2",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-2-01-E3",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-2-01-E4",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-2-02",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-2-02-E1",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-2-02-E2",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-2-02-E3",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-2-03",
+   "pagina_pdf": 13,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-2-03-E1",
+   "pagina_pdf": 13,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-2-03-E2",
+   "pagina_pdf": 13,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-2-03-E3",
+   "pagina_pdf": 13,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-2-04",
+   "pagina_pdf": 13,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-2-04-E1",
+   "pagina_pdf": 13,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-2-04-E2",
+   "pagina_pdf": 13,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-2-04-E3",
+   "pagina_pdf": 13,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-2-04-E4",
+   "pagina_pdf": 13,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-2-05",
+   "pagina_pdf": 14,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-2-05-E1",
+   "pagina_pdf": 14,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-2-05-E2",
+   "pagina_pdf": 14,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-2-05-E3",
+   "pagina_pdf": 14,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-2-05-E4",
+   "pagina_pdf": 14,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-2-06",
+   "pagina_pdf": 14,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-2-06-E1",
+   "pagina_pdf": 14,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-2-06-E2",
+   "pagina_pdf": 14,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-2-06-E3",
+   "pagina_pdf": 14,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-2-06-E4",
+   "pagina_pdf": 14,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-2-06-E5",
+   "pagina_pdf": 14,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-2-07",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-2-07-E1",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-2-07-E2",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-2-07-E3",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-2-07-E4",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-2-07-E5",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-2-08",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-2-08-E1",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-2-08-E2",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-2-08-E3",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-2-08-E4",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-2-08-E5",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-2-08-E6",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-3-01",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-3-01-E1",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-3-01-E2",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-3-01-E3",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-3-02",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-3-02-E1",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-3-02-E2",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-3-02-E3",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-3-02-E4",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-3-03",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-3-03-E1",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-3-03-E2",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-3-03-E3",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-3-03-E4",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-3-03-E5",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-3-04",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-3-04-E1",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-3-04-E2",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-3-04-E3",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-3-04-E4",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-3-04-E5",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-3-05",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-3-05-E1",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-3-05-E2",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-3-05-E3",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-3-05-E4",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-3-06",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-3-06-E1",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-3-06-E2",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-3-06-E3",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-3-06-E4",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-3-07",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-3-07-E1",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-3-07-E2",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-3-07-E3",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-3-07-E4",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-3-08",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-3-08-E1",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-3-08-E2",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-3-08-E3",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-3-08-E4",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-3-08-E5",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-4-01",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-4-01-E1",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-4-01-E2",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-4-01-E3",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-4-01-E4",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-4-02",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-4-02-E1",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-4-02-E2",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-4-02-E3",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-4-03",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-4-03-E1",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-4-03-E2",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-4-03-E3",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-4-03-E4",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-4-03-E5",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-4-04",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-4-04-E1",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-4-04-E2",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-4-04-E3",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-4-04-E4",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-4-05",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-4-05-E1",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-4-05-E2",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-4-05-E3",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-4-05-E4",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-4-06",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-4-06-E1",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-4-06-E2",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-4-06-E3",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-4-07",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-4-07-E1",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-4-07-E2",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-4-07-E3",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-4-07-E4",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-4-08",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-4-08-E1",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-4-08-E2",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-4-08-E3",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-4-08-E4",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-4-08-E5",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-5-01",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-5-01-E1",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-5-01-E2",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-5-01-E3",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-5-01-E4",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-5-02",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-5-02-E1",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-5-02-E2",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-5-02-E3",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-5-03",
+   "pagina_pdf": 25,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-5-03-E1",
+   "pagina_pdf": 25,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-5-03-E2",
+   "pagina_pdf": 25,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-5-03-E3",
+   "pagina_pdf": 25,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-5-04",
+   "pagina_pdf": 25,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-5-04-E1",
+   "pagina_pdf": 25,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-5-04-E2",
+   "pagina_pdf": 25,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-5-04-E3",
+   "pagina_pdf": 25,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-5-05",
+   "pagina_pdf": 26,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-5-05-E1",
+   "pagina_pdf": 26,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-5-05-E2",
+   "pagina_pdf": 26,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-5-05-E3",
+   "pagina_pdf": 26,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-5-06",
+   "pagina_pdf": 26,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-5-06-E1",
+   "pagina_pdf": 26,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-5-06-E2",
+   "pagina_pdf": 26,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-5-06-E3",
+   "pagina_pdf": 26,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-5-07",
+   "pagina_pdf": 27,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-5-07-E1",
+   "pagina_pdf": 27,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-5-07-E2",
+   "pagina_pdf": 27,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-5-07-E3",
+   "pagina_pdf": 27,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-5-07-E4",
+   "pagina_pdf": 27,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-5-08",
+   "pagina_pdf": 27,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-5-08-E1",
+   "pagina_pdf": 27,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-5-08-E2",
+   "pagina_pdf": 27,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-5-08-E3",
+   "pagina_pdf": 27,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-6-01",
+   "pagina_pdf": 28,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-6-01-E1",
+   "pagina_pdf": 28,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-6-01-E2",
+   "pagina_pdf": 28,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-6-01-E3",
+   "pagina_pdf": 28,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-6-01-E4",
+   "pagina_pdf": 28,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-6-02",
+   "pagina_pdf": 28,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-6-02-E1",
+   "pagina_pdf": 28,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-6-02-E2",
+   "pagina_pdf": 28,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-6-02-E3",
+   "pagina_pdf": 28,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-6-02-E4",
+   "pagina_pdf": 28,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-6-03",
+   "pagina_pdf": 29,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-6-03-E1",
+   "pagina_pdf": 29,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-6-03-E2",
+   "pagina_pdf": 29,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-6-03-E3",
+   "pagina_pdf": 29,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-6-03-E4",
+   "pagina_pdf": 29,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-6-04",
+   "pagina_pdf": 29,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-6-04-E1",
+   "pagina_pdf": 29,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-6-04-E2",
+   "pagina_pdf": 29,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-6-04-E3",
+   "pagina_pdf": 29,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-6-04-E4",
+   "pagina_pdf": 29,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-6-05",
+   "pagina_pdf": 30,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-6-05-E1",
+   "pagina_pdf": 30,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-6-05-E2",
+   "pagina_pdf": 30,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-6-05-E3",
+   "pagina_pdf": 30,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-6-05-E4",
+   "pagina_pdf": 30,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-6-05-E5",
+   "pagina_pdf": 30,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-6-06",
+   "pagina_pdf": 30,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-6-06-E1",
+   "pagina_pdf": 30,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-6-06-E2",
+   "pagina_pdf": 30,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-6-06-E3",
+   "pagina_pdf": 30,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-6-07",
+   "pagina_pdf": 31,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-6-07-E1",
+   "pagina_pdf": 31,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-6-07-E2",
+   "pagina_pdf": 31,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-6-07-E3",
+   "pagina_pdf": 31,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-6-07-E4",
+   "pagina_pdf": 31,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-6-08",
+   "pagina_pdf": 31,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-6-08-E1",
+   "pagina_pdf": 31,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-6-08-E2",
+   "pagina_pdf": 31,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-6-08-E3",
+   "pagina_pdf": 31,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-7-01",
+   "pagina_pdf": 32,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-7-01-E1",
+   "pagina_pdf": 32,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-7-01-E2",
+   "pagina_pdf": 32,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-7-01-E3",
+   "pagina_pdf": 32,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-7-02",
+   "pagina_pdf": 32,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-7-02-E1",
+   "pagina_pdf": 32,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-7-02-E2",
+   "pagina_pdf": 32,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-7-02-E3",
+   "pagina_pdf": 32,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-7-02-E4",
+   "pagina_pdf": 32,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-7-03",
+   "pagina_pdf": 33,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-7-03-E1",
+   "pagina_pdf": 33,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-7-03-E2",
+   "pagina_pdf": 33,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-7-03-E3",
+   "pagina_pdf": 33,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-7-04",
+   "pagina_pdf": 33,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-7-04-E1",
+   "pagina_pdf": 33,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-7-04-E2",
+   "pagina_pdf": 33,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-7-04-E3",
+   "pagina_pdf": 33,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-7-05",
+   "pagina_pdf": 34,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-7-05-E1",
+   "pagina_pdf": 34,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-7-05-E2",
+   "pagina_pdf": 34,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-7-05-E3",
+   "pagina_pdf": 34,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-7-05-E4",
+   "pagina_pdf": 34,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-7-06",
+   "pagina_pdf": 34,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-7-06-E1",
+   "pagina_pdf": 34,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-7-06-E2",
+   "pagina_pdf": 34,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-7-06-E3",
+   "pagina_pdf": 34,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-7-07",
+   "pagina_pdf": 35,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-7-07-E1",
+   "pagina_pdf": 35,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-7-07-E2",
+   "pagina_pdf": 35,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-7-07-E3",
+   "pagina_pdf": 35,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-7-07-E4",
+   "pagina_pdf": 35,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-7-08",
+   "pagina_pdf": 35,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-7-08-E1",
+   "pagina_pdf": 35,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-7-08-E2",
+   "pagina_pdf": 35,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-7-08-E3",
+   "pagina_pdf": 35,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-7-08-E4",
+   "pagina_pdf": 35,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-8-01",
+   "pagina_pdf": 36,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-8-01-E1",
+   "pagina_pdf": 36,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-8-01-E2",
+   "pagina_pdf": 36,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-8-01-E3",
+   "pagina_pdf": 36,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-8-02",
+   "pagina_pdf": 36,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-8-02-E1",
+   "pagina_pdf": 36,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-8-02-E2",
+   "pagina_pdf": 36,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-8-02-E3",
+   "pagina_pdf": 36,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-8-02-E4",
+   "pagina_pdf": 36,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-8-03",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-8-03-E1",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-8-03-E2",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-8-03-E3",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-8-03-E4",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-8-04",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-8-04-E1",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-8-04-E2",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-8-04-E3",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-8-04-E4",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-8-05",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-8-05-E1",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-8-05-E2",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-8-05-E3",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-8-06",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-8-06-E1",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-8-06-E2",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-8-06-E3",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-8-07",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-8-07-E1",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-8-07-E2",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-8-07-E3",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-8-08",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-8-08-E1",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-8-08-E2",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-8-08-E3",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-8-08-E4",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-9-01",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-9-01-E1",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-9-01-E2",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-9-01-E3",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-9-02",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-9-02-E1",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-9-02-E2",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-9-02-E3",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-9-03",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-9-03-E1",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-9-03-E2",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-9-03-E3",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-9-03-E4",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-9-04",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-9-04-E1",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-9-04-E2",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-9-04-E3",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-9-04-E4",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-9-05",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-9-05-E1",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-9-05-E2",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-9-05-E3",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-9-05-E4",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-9-06",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-9-06-E1",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-9-06-E2",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-9-06-E3",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-9-07",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-9-07-E1",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-9-07-E2",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-9-07-E3",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-9-07-E4",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-9-07-E5",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-9-08",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-9-08-E1",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-9-08-E2",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-9-08-E3",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-10-01",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-10-01-E1",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-10-01-E2",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-10-01-E3",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-10-01-E4",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-10-02",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-10-02-E1",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-10-02-E2",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-10-02-E3",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-10-03",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-10-03-E1",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-10-03-E2",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-10-03-E3",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-10-04",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-10-04-E1",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-10-04-E2",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-10-04-E3",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-10-05",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-10-05-E1",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-10-05-E2",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-10-05-E3",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-10-05-E4",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-10-05-E5",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-10-06",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-10-06-E1",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-10-06-E2",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-10-06-E3",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-10-07",
+   "pagina_pdf": 47,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-10-07-E1",
+   "pagina_pdf": 47,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-10-07-E2",
+   "pagina_pdf": 47,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-10-07-E3",
+   "pagina_pdf": 47,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-10-07-E4",
+   "pagina_pdf": 47,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-10-08",
+   "pagina_pdf": 47,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-10-08-E1",
+   "pagina_pdf": 47,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-10-08-E2",
+   "pagina_pdf": 47,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-10-08-E3",
+   "pagina_pdf": 47,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-11-01",
+   "pagina_pdf": 48,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-11-01-E1",
+   "pagina_pdf": 48,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-11-01-E2",
+   "pagina_pdf": 48,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-11-01-E3",
+   "pagina_pdf": 48,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-11-01-E4",
+   "pagina_pdf": 48,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-11-02",
+   "pagina_pdf": 48,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-11-02-E1",
+   "pagina_pdf": 48,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-11-02-E2",
+   "pagina_pdf": 48,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-11-02-E3",
+   "pagina_pdf": 48,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-11-03",
+   "pagina_pdf": 49,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-11-03-E1",
+   "pagina_pdf": 49,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-11-03-E2",
+   "pagina_pdf": 49,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-11-03-E3",
+   "pagina_pdf": 49,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-11-04",
+   "pagina_pdf": 49,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-11-04-E1",
+   "pagina_pdf": 49,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-11-04-E2",
+   "pagina_pdf": 49,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-11-04-E3",
+   "pagina_pdf": 49,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-11-04-E4",
+   "pagina_pdf": 49,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-11-05",
+   "pagina_pdf": 50,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-11-05-E1",
+   "pagina_pdf": 50,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-11-05-E2",
+   "pagina_pdf": 50,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-11-05-E3",
+   "pagina_pdf": 50,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-11-05-E4",
+   "pagina_pdf": 50,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-11-06",
+   "pagina_pdf": 51,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-11-06-E1",
+   "pagina_pdf": 51,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-11-06-E2",
+   "pagina_pdf": 51,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-11-06-E3",
+   "pagina_pdf": 51,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-11-07",
+   "pagina_pdf": 51,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-11-07-E1",
+   "pagina_pdf": 51,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-11-07-E2",
+   "pagina_pdf": 51,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-11-07-E3",
+   "pagina_pdf": 51,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-11-07-E4",
+   "pagina_pdf": 51,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-11-07-E5",
+   "pagina_pdf": 51,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "LEN-DBA-11-08",
+   "pagina_pdf": 52,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-11-08-E1",
+   "pagina_pdf": 52,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-11-08-E2",
+   "pagina_pdf": 52,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-11-08-E3",
+   "pagina_pdf": 52,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "LEN-DBA-11-08-E4",
+   "pagina_pdf": 52,
+   "fuente": "fuentes/men/dba-lenguaje.pdf",
+   "literal": true,
+   "completo": true
+  }
+ ]
+}

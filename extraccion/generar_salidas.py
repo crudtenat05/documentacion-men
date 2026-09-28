@@ -31,6 +31,13 @@ def main(area):
         w.writerow(['codigo', 'grado_desde', 'grado_hasta', 'eje', 'eje_nombre', 'orden', 'texto', 'fuente', 'pagina_pdf'])
         for e in est:
             w.writerow([e['codigo'], e['grado_desde'], e['grado_hasta'], e['eje'], e['eje_nombre'], e['orden'], e['texto'], e['fuente'], e['pagina_pdf']])
+    if any(e.get('subprocesos') for e in est):
+        with open(f'{base}/subprocesos.csv', 'w', newline='', encoding='utf-8-sig') as f:
+            w = csv.writer(f)
+            w.writerow(['codigo', 'estandar', 'grado_desde', 'grado_hasta', 'numero', 'texto', 'fuente', 'pagina_pdf'])
+            for e in est:
+                for sp in e.get('subprocesos', []):
+                    w.writerow([sp['codigo'], e['codigo'], e['grado_desde'], e['grado_hasta'], sp['numero'], sp['texto'], e['fuente'], e['pagina_pdf']])
     with open(f'{base}/dba.csv', 'w', newline='', encoding='utf-8-sig') as f:
         w = csv.writer(f)
         w.writerow(['codigo', 'grado', 'numero', 'enunciado', 'fuente', 'pagina_pdf'])
@@ -55,7 +62,11 @@ def main(area):
         if e['eje_nombre'] != eje:
             eje = e['eje_nombre']
             L += [f'**{eje.capitalize()}**', '']
-        L += [f"- `{e['codigo']}` {e['texto']}"]
+        if e.get('subprocesos'):
+            L += [f"- **`{e['codigo']}`** {e['texto']}", '  *Para lo cual,*']
+            L += [f"  - `{sp['codigo']}` {sp['texto']}" for sp in e['subprocesos']]
+        else:
+            L += [f"- `{e['codigo']}` {e['texto']}"]
         if est.index(e) + 1 < len(est) and est[est.index(e) + 1]['eje_nombre'] != eje:
             L += ['']
     L += ['', '## Derechos Básicos de Aprendizaje', '']
@@ -75,7 +86,10 @@ def main(area):
     ws.title = 'Revisión'
     cab = ['Página PDF', 'Documento', 'Tipo', 'Código', 'Texto extraído', '¿Coincide con la página?', 'Corrección o comentario', 'Revisó', 'Fecha']
     ws.append(cab)
-    filas = [(e['pagina_pdf'], e['fuente'], 'Estándar', e['codigo'], e['texto']) for e in est]
+    filas = []
+    for e in est:
+        filas.append((e['pagina_pdf'], e['fuente'], 'Estándar', e['codigo'], e['texto']))
+        filas += [(e['pagina_pdf'], e['fuente'], 'Subproceso', sp['codigo'], sp['texto']) for sp in e.get('subprocesos', [])]
     for d in dba:
         filas.append((d['pagina_pdf'], d['fuente'], 'DBA', d['codigo'], d['enunciado']))
         filas += [(d['pagina_pdf'], d['fuente'], 'Evidencia', e['codigo'], e['texto']) for e in d['evidencias']]
@@ -106,7 +120,7 @@ def main(area):
         ins.append([linea])
     ins.column_dimensions['A'].width = 130
     wb.save(f'revision/{area}_planilla.xlsx')
-    print(len(est), 'estándares,', len(dba), 'DBA,', sum(len(d['evidencias']) for d in dba), 'evidencias → CSV, MD y planilla')
+    print(len(est), 'estándares,', sum(len(e.get('subprocesos', [])) for e in est), 'subprocesos,', len(dba), 'DBA,', sum(len(d['evidencias']) for d in dba), 'evidencias → CSV, MD y planilla')
 
 
 if __name__ == '__main__':
