@@ -25,7 +25,7 @@ import unicodedata
 from datetime import date
 
 SIGUIENTES = ('•', 'm', 'Evidenciasdeaprendizaje', 'Ejemplo', 'PENSAMIENTO', 'Matemáticas', 'MatematicasDBA',
-              'Derechos', 'Nota', 'Estándares')
+              'Derechos', 'Nota', 'Estándares', 'Paralocual', 'Lenguaje', 'LENGUAJE')
 
 
 def compacto(s):
@@ -54,13 +54,17 @@ def aparece(texto, fuente):
     return t in fuente or t in sin_llamadas(fuente)
 
 
-def completo(texto, fuente):
+def completo(texto, fuente, inicios=()):
+    """Lo que sigue al texto debe ser el inicio de otro elemento: una viñeta, un encabezado, un título
+    en mayúsculas, un número, o el comienzo de otro texto extraído del mismo documento (en páginas a
+    varias columnas, el flujo interno del PDF pasa de un enunciado al de la columna vecina)."""
     t = compacto(texto)
     for f in (fuente, sin_llamadas(fuente)):
         i = f.find(t)
         while i >= 0:
             despues = f[i + len(t):i + len(t) + 40]
-            if despues.startswith(SIGUIENTES) or re.match(r'\d', despues) or despues == '':
+            if (despues.startswith(SIGUIENTES) or re.match(r'\d', despues) or despues == ''
+                    or re.match(r'[A-ZÁÉÍÓÚÑ]{4,}', despues) or any(despues.startswith(x) for x in inicios)):
                 return True
             i = f.find(t, i + 1)
     return False
@@ -79,17 +83,21 @@ def textos(area):
         for d in json.load(open(f'datos/{area}/{archivo}', encoding='utf-8')):
             pdf = f"fuentes/men/{d['fuente']}"
             yield tipo, d['codigo'], d.get('texto') or d.get('enunciado'), pdf, d['pagina_pdf']
+            for e in d.get('subprocesos', []):
+                yield 'Subproceso', e['codigo'], e['texto'], pdf, d['pagina_pdf']
             for e in d.get('evidencias', []):
                 yield 'Evidencia', e['codigo'], e['texto'], pdf, d['pagina_pdf']
 
 
 def main(area):
     fuentes, filas = {}, []
-    for tipo, cod, texto, pdf, pag in textos(area):
+    todos = list(textos(area))
+    inicios = {pdf: {compacto(t)[:15] for _, _, t, p, _ in todos if p == pdf} for _, _, _, pdf, _ in todos}
+    for tipo, cod, texto, pdf, pag in todos:
         if pdf not in fuentes:
             fuentes[pdf] = texto_pdf(pdf)
         filas.append({'tipo': tipo, 'codigo': cod, 'pagina_pdf': pag, 'fuente': pdf,
-                      'literal': aparece(texto, fuentes[pdf]), 'completo': completo(texto, fuentes[pdf])})
+                      'literal': aparece(texto, fuentes[pdf]), 'completo': completo(texto, fuentes[pdf], inicios[pdf])})
     ruta_manual = f'verificacion/{area}_confirmaciones_manuales.json'
     manuales = {m['codigo']: m for m in json.load(open(ruta_manual, encoding='utf-8'))} if os.path.exists(ruta_manual) else {}
     for f in filas:
