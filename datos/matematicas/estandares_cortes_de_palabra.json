@@ -1,0 +1,658 @@
+[
+ {
+  "codigo": "MAT-EBC-1.3-PN-01",
+  "palabra": "contextos"
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PN-01",
+  "palabra": "localización"
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PN-05",
+  "palabra": "pictóricas–"
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PN-06",
+  "palabra": "pictóricas–"
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PN-07",
+  "palabra": "diferentes"
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PN-10",
+  "palabra": "cálculo"
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PN-11",
+  "palabra": "resultados"
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PN-12",
+  "palabra": "(calculadoras,"
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PE-01",
+  "palabra": "tridimensionales."
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PE-03",
+  "palabra": "paralelismo"
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PE-04",
+  "palabra": "relaciones"
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PE-07",
+  "palabra": "(ampliar,"
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PE-08",
+  "palabra": "figuras"
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PM-01",
+  "palabra": "propiedades"
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PM-01",
+  "palabra": "medir"
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PM-01",
+  "palabra": "capacidad,"
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PM-03",
+  "palabra": "medición"
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PM-04",
+  "palabra": "pertinencia"
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PM-05",
+  "palabra": "problemas"
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PM-06",
+  "palabra": "situaciones"
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PA-01",
+  "palabra": "presento"
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PA-05",
+  "palabra": "tendencias"
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PA-06",
+  "palabra": "ocurrencia"
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PA-07",
+  "palabra": "ocurrencia"
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PA-08",
+  "palabra": "coleccionar"
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PV-01",
+  "palabra": "regularidades"
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PV-01",
+  "palabra": "contextos"
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PV-01",
+  "palabra": "musical,"
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PV-02",
+  "palabra": "situaciones"
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PV-02",
+  "palabra": "gráficas."
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PV-03",
+  "palabra": "símbolos"
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PV-04",
+  "palabra": "propiedades"
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PN-01",
+  "palabra": "situaciones"
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PN-01",
+  "palabra": "razones"
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PN-03",
+  "palabra": "diferentes"
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PN-04",
+  "palabra": "unidades."
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PN-07",
+  "palabra": "proporcionalidad"
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PN-08",
+  "palabra": "matemáticos"
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PN-09",
+  "palabra": "proporcionalidad"
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PN-10",
+  "palabra": "multiplicativas."
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PE-02",
+  "palabra": "características."
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PE-03",
+  "palabra": "estáticas"
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PE-04",
+  "palabra": "localizaciones"
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PE-05",
+  "palabra": "semejanza"
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PE-06",
+  "palabra": "condiciones"
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PE-07",
+  "palabra": "transformaciones"
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PE-08",
+  "palabra": "representaciones"
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PE-08",
+  "palabra": "contrario"
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PM-01",
+  "palabra": "volúmenes"
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PM-01",
+  "palabra": "volúmenes"
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PM-01",
+  "palabra": "cuerpos"
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PM-02",
+  "palabra": "convencionales"
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PM-02",
+  "palabra": "mediciones."
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PM-03",
+  "palabra": "estimación"
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PM-06",
+  "palabra": "magnitudes"
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PM-07",
+  "palabra": "figuras"
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PA-01",
+  "palabra": "diagramas"
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PA-02",
+  "palabra": "representaciones"
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PA-03",
+  "palabra": "líneas,"
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PA-04",
+  "palabra": "predicciones"
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PA-06",
+  "palabra": "promedio)"
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PA-07",
+  "palabra": "partir"
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PA-07",
+  "palabra": "provenientes"
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PV-02",
+  "palabra": "geométrica"
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PV-03",
+  "palabra": "verbales."
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PV-04",
+  "palabra": "dependencia"
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PV-04",
+  "palabra": "regularidad"
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PV-05",
+  "palabra": "desigualdades"
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PV-05",
+  "palabra": "representación"
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PN-02",
+  "palabra": "resolver"
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PN-03",
+  "palabra": "decimal"
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PN-04",
+  "palabra": "entre"
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PN-05",
+  "palabra": "básicas"
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PN-05",
+  "palabra": "adición,"
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PN-06",
+  "palabra": "relaciones"
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PN-07",
+  "palabra": "numéricos."
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PN-12",
+  "palabra": "cálculo"
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PE-02",
+  "palabra": "cortes"
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PE-04",
+  "palabra": "transformaciones"
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PE-05",
+  "palabra": "representaciones"
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PE-06",
+  "palabra": "geométricos."
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PE-07",
+  "palabra": "sistemas"
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PM-02",
+  "palabra": "(diseño"
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PM-04",
+  "palabra": "cantidades"
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PA-01",
+  "palabra": "provenientes"
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PA-02",
+  "palabra": "conjunto"
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PA-03",
+  "palabra": "representaciones"
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PA-03",
+  "palabra": "diagramas"
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PA-04",
+  "palabra": "interpretar"
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PA-04",
+  "palabra": "conjunto"
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PA-05",
+  "palabra": "predecir"
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PA-07",
+  "palabra": "presentados"
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PV-01",
+  "palabra": "diferentes"
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PV-01",
+  "palabra": "generalizadas"
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PV-02",
+  "palabra": "variables"
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PV-03",
+  "palabra": "correlación"
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PV-03",
+  "palabra": "proporcionalidad"
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PV-04",
+  "palabra": "(ensayo"
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PN-01",
+  "palabra": "representaciones"
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PN-02",
+  "palabra": "propiedades"
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PN-02",
+  "palabra": "relaciones"
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PN-04",
+  "palabra": "logaritmación"
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PE-01",
+  "palabra": "semejanzas"
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PE-01",
+  "palabra": "tridimensionales"
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PE-02",
+  "palabra": "geométricas"
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PE-02",
+  "palabra": "(Pitágoras"
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PE-03",
+  "palabra": "problemas."
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PE-04",
+  "palabra": "formular"
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PM-01",
+  "palabra": "cálculo"
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PM-02",
+  "palabra": "instrumentos"
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PA-01",
+  "palabra": "maneras"
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PA-01",
+  "palabra": "interpretaciones."
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PA-02",
+  "palabra": "revistas,"
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PA-02",
+  "palabra": "consultas,"
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PA-04",
+  "palabra": "representa"
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PA-05",
+  "palabra": "experimentos"
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PA-06",
+  "palabra": "seleccionando"
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PA-06",
+  "palabra": "revistas,"
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PA-06",
+  "palabra": "consultas,"
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PA-07",
+  "palabra": "presentan"
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PA-08",
+  "palabra": "técnicas"
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PA-09",
+  "palabra": "probabilidad"
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PA-09",
+  "palabra": "independencia,"
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PV-01",
+  "palabra": "propiedades"
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PV-02",
+  "palabra": "algebraica"
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PV-06",
+  "palabra": "decimales."
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PV-07",
+  "palabra": "maneras"
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PV-07",
+  "palabra": "variación."
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PV-08",
+  "palabra": "cambios"
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PV-08",
+  "palabra": "representación"
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PV-09",
+  "palabra": "gráficas"
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PV-09",
+  "palabra": "comportamientos"
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PV-09",
+  "palabra": "específicas"
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PN-01",
+  "palabra": "reales"
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PN-03",
+  "palabra": "relaciones"
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PN-05",
+  "palabra": "notaciones"
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PE-01",
+  "palabra": "transversales"
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PE-03",
+  "palabra": "transformaciones"
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PE-03",
+  "palabra": "figuras."
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PM-01",
+  "palabra": "requieran"
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PM-01",
+  "palabra": "específicos."
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PM-02",
+  "palabra": "valores"
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PM-02",
+  "palabra": "indirectamente"
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PM-03",
+  "palabra": "mediante"
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PM-03",
+  "palabra": "límites"
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PA-01",
+  "palabra": "estadística"
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PA-01",
+  "palabra": "comunicación."
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PA-02",
+  "palabra": "basadas"
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PA-02",
+  "palabra": "publicados"
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PA-03",
+  "palabra": "sociales)"
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PA-04",
+  "palabra": "observan"
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PA-04",
+  "palabra": "relacionadas."
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PA-05",
+  "palabra": "relacionadas"
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PA-05",
+  "palabra": "frecuencias,"
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PA-06",
+  "palabra": "medidas"
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PA-06",
+  "palabra": "(percentiles,"
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PA-06",
+  "palabra": "normalidad)."
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PA-07",
+  "palabra": "probabilidad"
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PA-08",
+  "palabra": "usando"
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PA-09",
+  "palabra": "estudio"
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PV-02",
+  "palabra": "valor"
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PV-02",
+  "palabra": "matemáticos"
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PV-03",
+  "palabra": "polinómicas"
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PV-04",
+  "palabra": "trigonométricas"
+ }
+]

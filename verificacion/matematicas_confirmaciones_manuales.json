@@ -1,0 +1,16 @@
+[
+ {
+  "codigo": "MAT-DBA-6-05",
+  "pagina_pdf": 47,
+  "razon": "El enunciado termina en «para resolver problemas.»; en el flujo interno del PDF lo sigue el texto de la figura del ejemplo (cancha de fútbol), no la continuación de la frase.",
+  "fecha": "2026-09-28",
+  "revisado_por": "Claude (lectura de la página del PDF); pendiente de confirmación humana en la planilla de revisión"
+ },
+ {
+  "codigo": "MAT-DBA-9-03-E2",
+  "pagina_pdf": 67,
+  "razon": "La evidencia termina en «con otras sucesiones.»; en el flujo interno del PDF la sigue la tabla de la figura del ejemplo (cuadrados, lado, perímetro, área).",
+  "fecha": "2026-09-28",
+  "revisado_por": "Claude (lectura de la página del PDF); pendiente de confirmación humana en la planilla de revisión"
+ }
+]

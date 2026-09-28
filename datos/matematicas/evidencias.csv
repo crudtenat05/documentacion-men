@@ -1,0 +1,438 @@
+﻿codigo,dba,grado,numero,texto,fuente,pagina_pdf
+MAT-DBA-1-01-E1,MAT-DBA-1-01,1,1,Construye e interpreta representaciones pictóricas y diagramas para representar relaciones entre cantidades que se presentan en situaciones o fenómenos.,dba-matematicas.pdf,8
+MAT-DBA-1-01-E2,MAT-DBA-1-01,1,2,Explica cómo y por qué es posible hacer una operación (suma o resta) en relación con los usos de los números y el contexto en el cual se presentan.,dba-matematicas.pdf,8
+MAT-DBA-1-01-E3,MAT-DBA-1-01,1,3,Reconoce en sus actuaciones cotidianas posibilidades de uso de los números y las operaciones.,dba-matematicas.pdf,8
+MAT-DBA-1-01-E4,MAT-DBA-1-01,1,4,"Interpreta y resuelve problemas de juntar, quitar y completar, que involucren la cantidad de elementos de una colección o la medida de magnitudes como longitud, peso, capacidad y duración.",dba-matematicas.pdf,8
+MAT-DBA-1-01-E5,MAT-DBA-1-01,1,5,Utiliza las operaciones (suma y resta) para representar el cambio en una cantidad.,dba-matematicas.pdf,8
+MAT-DBA-1-02-E1,MAT-DBA-1-02,1,1,"Realiza conteos (de uno en uno, de dos en dos, etc.) iniciando en cualquier número.",dba-matematicas.pdf,8
+MAT-DBA-1-02-E2,MAT-DBA-1-02,1,2,"Determina la cantidad de elementos de una colección agrupándolos de 1 en 1, de 2 en 2, de 5 en 5.",dba-matematicas.pdf,8
+MAT-DBA-1-02-E3,MAT-DBA-1-02,1,3,"Describe y resuelve situaciones variadas con las operaciones de suma y resta en problemas cuya estructura puede ser a + b = ?, a + ? = c, o ? + b = c.",dba-matematicas.pdf,8
+MAT-DBA-1-02-E4,MAT-DBA-1-02,1,4,Establece y argumenta conjeturas de los posibles resultados en una secuencia numérica.,dba-matematicas.pdf,8
+MAT-DBA-1-02-E5,MAT-DBA-1-02,1,5,Utiliza las características del sistema decimal de numeración para crear estrategias de cálculo y estimación de sumas y restas,dba-matematicas.pdf,8
+MAT-DBA-1-03-E1,MAT-DBA-1-03,1,1,Realiza composiciones y descomposiciones de números de dos dígitos en términos de la cantidad de “dieces” y de “unos” que los conforman.,dba-matematicas.pdf,9
+MAT-DBA-1-03-E2,MAT-DBA-1-03,1,2,Encuentra parejas de números que al adicionarse dan como resultado otro número dado.,dba-matematicas.pdf,9
+MAT-DBA-1-03-E3,MAT-DBA-1-03,1,3,Halla los números correspondientes a tener “diez más” o “diez menos” que una cantidad determinada.,dba-matematicas.pdf,9
+MAT-DBA-1-03-E4,MAT-DBA-1-03,1,4,Emplea estrategias de cálculo como “el paso por el diez” para realizar adiciones o sustracciones.,dba-matematicas.pdf,9
+MAT-DBA-1-04-E1,MAT-DBA-1-04,1,1,Identifica atributos que se pueden medir en los objetos.,dba-matematicas.pdf,10
+MAT-DBA-1-04-E2,MAT-DBA-1-04,1,2,"Diferencia atributos medibles (longitud, masa, capacidad, duración, cantidad de elementos de una colección), en términos de los instrumentos y las unidades utilizadas para medirlos.",dba-matematicas.pdf,10
+MAT-DBA-1-04-E3,MAT-DBA-1-04,1,3,"Compara y ordena objetos de acuerdo con atributos como altura, peso, intensidades de color, entre otros y recorridos según la distancia de cada trayecto.",dba-matematicas.pdf,10
+MAT-DBA-1-04-E4,MAT-DBA-1-04,1,4,Compara y ordena colecciones según la cantidad de elementos.,dba-matematicas.pdf,10
+MAT-DBA-1-05-E1,MAT-DBA-1-05,1,1,Mide longitudes con diferentes instrumentos y expresa el resultado en unidades estandarizadas o no estandarizadas comunes.,dba-matematicas.pdf,10
+MAT-DBA-1-05-E2,MAT-DBA-1-05,1,2,"Compara objetos a partir de su longitud, masa, capacidad y duración de eventos.",dba-matematicas.pdf,10
+MAT-DBA-1-05-E3,MAT-DBA-1-05,1,3,Toma decisiones a partir de las mediciones realizadas y de acuerdo con los requerimientos del problema.,dba-matematicas.pdf,10
+MAT-DBA-1-06-E1,MAT-DBA-1-06,1,1,"Crea, compone y descompone formas bidimensionales y tridimensionales, para ello utiliza plastilina, papel, palitos, cajas, etc.",dba-matematicas.pdf,11
+MAT-DBA-1-06-E2,MAT-DBA-1-06,1,2,Describe de forma verbal las cualidades y propiedades de un objeto relativas a su forma.,dba-matematicas.pdf,11
+MAT-DBA-1-06-E3,MAT-DBA-1-06,1,3,"Agrupa objetos de su entorno de acuerdo con las semejanzas y las diferencias en la forma y en el tamaño y explica el criterio que utiliza. Por ejemplo, si el objeto es redondo, si tiene puntas, entre otras características.",dba-matematicas.pdf,11
+MAT-DBA-1-06-E4,MAT-DBA-1-06,1,4,Identifica objetos a partir de las descripciones verbales que hacen de sus características geométricas.,dba-matematicas.pdf,11
+MAT-DBA-1-07-E1,MAT-DBA-1-07,1,1,Utiliza representaciones como planos para ubicarse en el espacio.,dba-matematicas.pdf,11
+MAT-DBA-1-07-E2,MAT-DBA-1-07,1,2,Toma decisiones a partir de la ubicación espacial.,dba-matematicas.pdf,11
+MAT-DBA-1-07-E3,MAT-DBA-1-07,1,3,"Dibuja recorridos, para ello considera los ángulos y la lateralidad.",dba-matematicas.pdf,11
+MAT-DBA-1-07-E4,MAT-DBA-1-07,1,4,"Compara distancias a partir de la observación del plano al estimar con pasos, baldosas, etc.",dba-matematicas.pdf,11
+MAT-DBA-1-08-E1,MAT-DBA-1-08,1,1,Identifica y nombra diferencias entre objetos o grupos de objetos.,dba-matematicas.pdf,12
+MAT-DBA-1-08-E2,MAT-DBA-1-08,1,2,Comunica las características identificadas y justifica las diferencias que encuentra.,dba-matematicas.pdf,12
+MAT-DBA-1-08-E3,MAT-DBA-1-08,1,3,Establece relaciones de dependencia entre magnitudes.,dba-matematicas.pdf,12
+MAT-DBA-1-09-E1,MAT-DBA-1-09,1,1,Propone números que satisfacen una igualdad con sumas y restas.,dba-matematicas.pdf,13
+MAT-DBA-1-09-E2,MAT-DBA-1-09,1,2,Describe las características de los números que deben ubicarse en una ecuación de tal manera que satisfaga la igualdad.,dba-matematicas.pdf,13
+MAT-DBA-1-09-E3,MAT-DBA-1-09,1,3,Argumenta sobre el uso de la propiedad transitiva en un conjunto de igualdades.,dba-matematicas.pdf,13
+MAT-DBA-1-10-E1,MAT-DBA-1-10,1,1,Identifica en fichas u objetos reales los valores de la variable en estudio.,dba-matematicas.pdf,13
+MAT-DBA-1-10-E2,MAT-DBA-1-10,1,2,Organiza los datos en tablas de conteo y/o en pictogramas sin escala.,dba-matematicas.pdf,13
+MAT-DBA-1-10-E3,MAT-DBA-1-10,1,3,Lee la información presentada en tablas de conteo y/o pictogramas sin escala (1 a 1).,dba-matematicas.pdf,13
+MAT-DBA-1-10-E4,MAT-DBA-1-10,1,4,"Comunica los resultados respondiendo preguntas tales como: ¿cuántos hay en total?, ¿cuántos hay de cada dato?, ¿cuál es el dato que más se repite?, ¿cuál es el dato que menos aparece?",dba-matematicas.pdf,13
+MAT-DBA-2-01-E1,MAT-DBA-2-01,2,1,Interpreta y construye diagramas para representar relaciones aditivas y multiplicativas entre cantidades que se presentan en situaciones o fenómenos.,dba-matematicas.pdf,15
+MAT-DBA-2-01-E2,MAT-DBA-2-01,2,2,"Describe y resuelve situaciones variadas con las operaciones de suma y resta en problemas cuya estructura puede ser a + b = ?, a + ? = c, o ? + b = c.",dba-matematicas.pdf,15
+MAT-DBA-2-01-E3,MAT-DBA-2-01,2,3,Reconoce en diferentes situaciones relaciones aditivas y multiplicativas y formula problemas a partir de ellas.,dba-matematicas.pdf,15
+MAT-DBA-2-02-E1,MAT-DBA-2-02,2,1,Construye representaciones pictóricas y establece relaciones entre las cantidades involucradas en diferentes fenómenos o situaciones.,dba-matematicas.pdf,15
+MAT-DBA-2-02-E2,MAT-DBA-2-02,2,2,"Usa algoritmos no convencionales para calcular o estimar el resultado de sumas, restas, multiplicaciones y divisiones entre números naturales, los describe y los justifica.",dba-matematicas.pdf,15
+MAT-DBA-2-03-E1,MAT-DBA-2-03,2,1,"Compara y ordena números de menor a mayor y viceversa a través de recursos como la calculadora, aplicación, material gráfico que represente billetes, diagramas de colecciones, etc.",dba-matematicas.pdf,16
+MAT-DBA-2-03-E2,MAT-DBA-2-03,2,2,"Propone ejemplos y comunica de forma oral y escrita las condiciones que puede establecer para conservar una relación (mayor que, menor que) cuando se aplican algunas operaciones a ellos.",dba-matematicas.pdf,16
+MAT-DBA-2-03-E3,MAT-DBA-2-03,2,3,"Reconoce y establece relaciones entre expresiones numéricas (hay más, hay menos, hay la misma cantidad ) y describe el tipo de operaciones que debe realizarse para que a pesar de cambiar los valores numéricos, la relación se conserve.",dba-matematicas.pdf,16
+MAT-DBA-2-04-E1,MAT-DBA-2-04,2,1,Utiliza instrumentos y unidades de medición apropiados para medir magnitudes diferentes.,dba-matematicas.pdf,17
+MAT-DBA-2-04-E2,MAT-DBA-2-04,2,2,"Describe los procedimientos necesarios para medir longitudes, superficies, capacidades, pesos de los objetos y la duración de los eventos.",dba-matematicas.pdf,17
+MAT-DBA-2-04-E3,MAT-DBA-2-04,2,3,Mide magnitudes con unidades arbitrarias y estandarizadas.,dba-matematicas.pdf,17
+MAT-DBA-2-04-E4,MAT-DBA-2-04,2,4,Estima la medida de diferentes magnitudes en situaciones prácticas.,dba-matematicas.pdf,17
+MAT-DBA-2-05-E1,MAT-DBA-2-05,2,1,"Describe objetos y eventos de acuerdo con atributos medibles: superficie, tiempo, longitud, peso, ángulos.",dba-matematicas.pdf,17
+MAT-DBA-2-05-E2,MAT-DBA-2-05,2,2,"Realiza mediciones con instrumentos y unidades no convencionales, como pasos, cuadrados o rectángulos, cuartas, metros, entre otros.",dba-matematicas.pdf,17
+MAT-DBA-2-05-E3,MAT-DBA-2-05,2,3,"Compara eventos según su duración, para ello utiliza relojes convencionales.",dba-matematicas.pdf,17
+MAT-DBA-2-06-E1,MAT-DBA-2-06,2,1,Reconoce las figuras geométricas según el número de lados.,dba-matematicas.pdf,18
+MAT-DBA-2-06-E2,MAT-DBA-2-06,2,2,Diferencia los cuerpos geométricos.,dba-matematicas.pdf,18
+MAT-DBA-2-06-E3,MAT-DBA-2-06,2,3,Compara figuras y cuerpos geométricos y establece relaciones y diferencias entre ambos.,dba-matematicas.pdf,18
+MAT-DBA-2-07-E1,MAT-DBA-2-07,2,1,Describe desplazamientos a partir de las posiciones de las líneas.,dba-matematicas.pdf,19
+MAT-DBA-2-07-E2,MAT-DBA-2-07,2,2,Representa líneas y reconoce las diferentes posiciones y la relación entre ellas.,dba-matematicas.pdf,19
+MAT-DBA-2-07-E3,MAT-DBA-2-07,2,3,"En dibujos, objetos o espacios reales, identifica posiciones de objetos, de aristas o líneas que son paralelas, verticales o perpendiculares.",dba-matematicas.pdf,19
+MAT-DBA-2-07-E4,MAT-DBA-2-07,2,4,Argumenta las diferencias entre las posiciones de las líneas.,dba-matematicas.pdf,19
+MAT-DBA-2-08-E1,MAT-DBA-2-08,2,1,Establece relaciones de reversibilidad entre la suma y la resta.,dba-matematicas.pdf,19
+MAT-DBA-2-08-E2,MAT-DBA-2-08,2,2,Utiliza diferentes procedimientos para calcular un valor desconocido.,dba-matematicas.pdf,19
+MAT-DBA-2-09-E1,MAT-DBA-2-09,2,1,Utiliza las propiedades de las operaciones para encontrar números desconocidos en igualdades numéricas.,dba-matematicas.pdf,20
+MAT-DBA-2-09-E2,MAT-DBA-2-09,2,2,Utiliza las propiedades de las operaciones para encontrar operaciones faltantes en un proceso de cálculo numérico.,dba-matematicas.pdf,20
+MAT-DBA-2-09-E3,MAT-DBA-2-09,2,3,Reconoce que un número puede escribirse de varias maneras equivalentes.,dba-matematicas.pdf,20
+MAT-DBA-2-09-E4,MAT-DBA-2-09,2,4,Utiliza ensayo y error para encontrar valores u operaciones desconocidas.,dba-matematicas.pdf,20
+MAT-DBA-2-10-E1,MAT-DBA-2-10,2,1,Identifica la equivalencia de fichas u objetos con el valor de la variable.,dba-matematicas.pdf,20
+MAT-DBA-2-10-E2,MAT-DBA-2-10,2,2,Organiza los datos en tablas de conteo y en pictogramas con escala (uno a muchos).,dba-matematicas.pdf,20
+MAT-DBA-2-10-E3,MAT-DBA-2-10,2,3,"Lee la información presentada en tablas de conteo, pictogramas con escala y gráficos de puntos.",dba-matematicas.pdf,20
+MAT-DBA-2-10-E4,MAT-DBA-2-10,2,4,"Comunica los resultados respondiendo preguntas tales como: ¿cuántos hay en total?, ¿cuántos hay de cada dato?, ¿cuál es el dato que más se repite?, ¿cuál es el dato que menos se repite?",dba-matematicas.pdf,20
+MAT-DBA-2-11-E1,MAT-DBA-2-11,2,1,Diferencia situaciones cotidianas cuyo resultado puede ser incierto de aquellas cuyo resultado es conocido o seguro.,dba-matematicas.pdf,21
+MAT-DBA-2-11-E2,MAT-DBA-2-11,2,2,"Identifica resultados posibles o imposibles, según corresponda, en una situación cotidiana",dba-matematicas.pdf,21
+MAT-DBA-2-11-E3,MAT-DBA-2-11,2,3,Predice la ocurrencia o no de eventos cotidianos basado en sus observaciones.,dba-matematicas.pdf,21
+MAT-DBA-3-01-E1,MAT-DBA-3-01,3,1,Construye diagramas para representar las relaciones observadas entre las cantidades presentes en una situación.,dba-matematicas.pdf,22
+MAT-DBA-3-01-E2,MAT-DBA-3-01,3,2,Resuelve problemas aditivos (suma o resta) y multiplicativos (multiplicación o división) de composición de medida y de conteo.,dba-matematicas.pdf,22
+MAT-DBA-3-01-E3,MAT-DBA-3-01,3,3,Propone estrategias para calcular el número de combinaciones posibles de un conjunto de atributos.,dba-matematicas.pdf,22
+MAT-DBA-3-01-E4,MAT-DBA-3-01,3,4,Analiza los resultados ofrecidos por el cálculo matemático e identifica las condiciones bajo las cuales ese resultado es o no plausible.,dba-matematicas.pdf,22
+MAT-DBA-3-02-E1,MAT-DBA-3-02,3,1,"Utiliza las propiedades de las operaciones y del Sistema de Numeración Decimal para justificar acciones como: descomposición de números, completar hasta la decena más cercana, duplicar, cambiar la posición, multiplicar abreviadamente por múltiplos de 10, entre otros.",dba-matematicas.pdf,22
+MAT-DBA-3-02-E2,MAT-DBA-3-02,3,2,Reconoce el uso de las operaciones para calcular la medida (compuesta) de diferentes objetos de su entorno.,dba-matematicas.pdf,22
+MAT-DBA-3-02-E3,MAT-DBA-3-02,3,3,Argumenta cuáles atributos de los objetos pueden ser medidos mediante la comparación directa con una unidad y cuáles pueden ser calculados con algunas operaciones entre números.,dba-matematicas.pdf,22
+MAT-DBA-3-03-E1,MAT-DBA-3-03,3,1,Realiza mediciones de un mismo objeto con otros de diferente tamaño y establece equivalencias entre ellas.,dba-matematicas.pdf,23
+MAT-DBA-3-03-E2,MAT-DBA-3-03,3,2,Utiliza las razones y fracciones como una manera de establecer comparaciones entre dos cantidades.,dba-matematicas.pdf,23
+MAT-DBA-3-03-E3,MAT-DBA-3-03,3,3,Propone ejemplos de cantidades que se relacionan entre sí según correspondan a una fracción dada.,dba-matematicas.pdf,23
+MAT-DBA-3-03-E4,MAT-DBA-3-03,3,4,"Utiliza fracciones para expresar la relación de “el todo” con algunas de sus “partes”, asimismo diferencia este tipo de relación de otras como las relaciones de equivalencia (igualdad) y de orden (mayor que y menor que).",dba-matematicas.pdf,23
+MAT-DBA-3-04-E1,MAT-DBA-3-04,3,1,Toma decisiones sobre la magnitud a medir (área o longitud) según la necesidad de una situación.,dba-matematicas.pdf,24
+MAT-DBA-3-04-E2,MAT-DBA-3-04,3,2,Realiza recubrimientos de superficies con diferentes figuras planas.,dba-matematicas.pdf,24
+MAT-DBA-3-04-E3,MAT-DBA-3-04,3,3,Mide y calcula el área y el perímetro de un rectángulo y expresa el resultado en unidades apropiadas según el caso.,dba-matematicas.pdf,24
+MAT-DBA-3-04-E4,MAT-DBA-3-04,3,4,Explica cómo figuras de igual perímetro pueden tener diferente área.,dba-matematicas.pdf,24
+MAT-DBA-3-05-E1,MAT-DBA-3-05,3,1,"Compara objetos según su longitud, área, capacidad, volumen, etc.",dba-matematicas.pdf,25
+MAT-DBA-3-05-E2,MAT-DBA-3-05,3,2,"Hace estimaciones de longitud, área, volumen, peso y tiempo según su necesidad en la situación.",dba-matematicas.pdf,25
+MAT-DBA-3-05-E3,MAT-DBA-3-05,3,3,"Hace estimaciones de volumen, área y longitud en presencia de los objetos y los instrumentos de medida y en ausencia de ellos.",dba-matematicas.pdf,25
+MAT-DBA-3-05-E4,MAT-DBA-3-05,3,4,Empaca objetos en cajas y recipientes variados y calcula la cantidad que podría caber; para ello tiene en cuenta la forma y volumen de los objetos a empacar y la capacidad del recipiente en el que se empaca.,dba-matematicas.pdf,25
+MAT-DBA-3-06-E1,MAT-DBA-3-06,3,1,"Relaciona objetos de su entorno con formas bidimensionales y tridimensionales, nombra y describe sus elementos.",dba-matematicas.pdf,25
+MAT-DBA-3-06-E2,MAT-DBA-3-06,3,2,Clasifica y representa formas bidimensionales y tridimensionales tomando en cuenta sus características geométricas comunes y describe el criterio utilizado.,dba-matematicas.pdf,25
+MAT-DBA-3-06-E3,MAT-DBA-3-06,3,3,"Interpreta, compara y justifica propiedades de formas bidimensionales y tridimensionales.",dba-matematicas.pdf,25
+MAT-DBA-3-07-E1,MAT-DBA-3-07,3,1,Localiza objetos o personas a partir de la descripción o representación de una trayectoria y construye representaciones pictóricas para describir sus relaciones.,dba-matematicas.pdf,26
+MAT-DBA-3-07-E2,MAT-DBA-3-07,3,2,"Identifica y describe patrones de movimiento de figuras bidimensionales que se asocian con transformaciones como: reflexiones, traslaciones y rotaciones de figuras.",dba-matematicas.pdf,26
+MAT-DBA-3-07-E3,MAT-DBA-3-07,3,3,Identifica las propiedades de los objetos que se conservan y las que varían cuando se realizan este tipo de transformaciones.,dba-matematicas.pdf,26
+MAT-DBA-3-07-E4,MAT-DBA-3-07,3,4,Plantea y resuelve situaciones en las que se requiere analizar las transformaciones de diferentes figuras en el plano.,dba-matematicas.pdf,26
+MAT-DBA-3-08-E1,MAT-DBA-3-08,3,1,"Describe de manera cualitativa situaciones de cambio y variación utilizando lenguaje natural, gestos, dibujos y gráficas.",dba-matematicas.pdf,27
+MAT-DBA-3-08-E2,MAT-DBA-3-08,3,2,Construye secuencias numéricas y geométricas utilizando propiedades de los números y de las figuras geométricas.,dba-matematicas.pdf,27
+MAT-DBA-3-08-E3,MAT-DBA-3-08,3,3,Encuentra y representa generalidades y valida sus hallazgos de acuerdo al contexto.,dba-matematicas.pdf,27
+MAT-DBA-3-09-E1,MAT-DBA-3-09,3,1,Propone soluciones con base en los datos a pesar de no conocer el número.,dba-matematicas.pdf,27
+MAT-DBA-3-09-E2,MAT-DBA-3-09,3,2,Toma decisiones sobre cantidades aunque no conozca exactamente los valores.,dba-matematicas.pdf,27
+MAT-DBA-3-09-E3,MAT-DBA-3-09,3,3,Trabaja sobre números desconocidos y con esos números para dar respuestas a los problemas.,dba-matematicas.pdf,27
+MAT-DBA-3-10-E1,MAT-DBA-3-10,3,1,Identifica las características de la población y halla su tamaño a partir de diferentes representaciones estadísticas.,dba-matematicas.pdf,28
+MAT-DBA-3-10-E2,MAT-DBA-3-10,3,2,Construye tablas y gráficos que representan los datos a partir de la información dada.,dba-matematicas.pdf,28
+MAT-DBA-3-10-E3,MAT-DBA-3-10,3,3,Analiza e interpreta información que ofrecen las tablas y los gráficos de acuerdo con el contexto.,dba-matematicas.pdf,28
+MAT-DBA-3-10-E4,MAT-DBA-3-10,3,4,Identifica la moda a partir de datos que se presentan en gráficos y tablas.,dba-matematicas.pdf,28
+MAT-DBA-3-10-E5,MAT-DBA-3-10,3,5,Compara la información representada en diferentes tablas y gráficos para formular y responder preguntas.,dba-matematicas.pdf,28
+MAT-DBA-3-11-E1,MAT-DBA-3-11,3,1,"Formula y resuelve preguntas que involucran expresiones que jerarquizan la posibilidad de ocurrencia de un evento, por ejemplo: imposible, menos posible, igualmente posible, más posible, seguro.",dba-matematicas.pdf,29
+MAT-DBA-3-11-E2,MAT-DBA-3-11,3,2,Representa los posibles resultados de una situación aleatoria simple por enumeración o usando diagramas.,dba-matematicas.pdf,29
+MAT-DBA-3-11-E3,MAT-DBA-3-11,3,3,Asigna la posibilidad de ocurrencia de un evento de acuerdo con la escala definida.,dba-matematicas.pdf,29
+MAT-DBA-3-11-E4,MAT-DBA-3-11,3,4,Predice la posibilidad de ocurrencia de un evento al utilizar los resultados de una situación aleatoria.,dba-matematicas.pdf,29
+MAT-DBA-4-01-E1,MAT-DBA-4-01,4,1,Describe situaciones en las cuales puede usar fracciones y decimales.,dba-matematicas.pdf,30
+MAT-DBA-4-01-E2,MAT-DBA-4-01,4,2,Reconoce situaciones en las que dos cantidades covarían y cuantifica el efecto que los cambios en una de ellas tienen en los cambios de la otra y a partir de este comportamiento determina la razón entre ellas.,dba-matematicas.pdf,30
+MAT-DBA-4-02-E1,MAT-DBA-4-02,4,1,"Utiliza el sistema de numeración decimal para representar, comparar y operar con números mayores o iguales a 10.000.",dba-matematicas.pdf,30
+MAT-DBA-4-02-E2,MAT-DBA-4-02,4,2,Describe y desarrolla estrategias para calcular sumas y restas basadas en descomposiciones aditivas y multiplicativas.,dba-matematicas.pdf,30
+MAT-DBA-4-02-E3,MAT-DBA-4-02,4,3,"Utiliza y justifica algoritmos estandarizados y no estandarizados para realizar operaciones aditivas con representaciones decimales provenientes de fraccionarios cuyas expresiones tengan denominador 10, 100, etc.",dba-matematicas.pdf,30
+MAT-DBA-4-02-E4,MAT-DBA-4-02,4,4,Identifica y construye fracciones equivalentes a una fracción dada.,dba-matematicas.pdf,30
+MAT-DBA-4-02-E5,MAT-DBA-4-02,4,5,Propone estrategias para calcular sumas y restas de algunos fraccionarios.,dba-matematicas.pdf,30
+MAT-DBA-4-03-E1,MAT-DBA-4-03,4,1,Construye y utiliza representaciones pictóricas para comparar números racionales (como fracción o decimales).,dba-matematicas.pdf,31
+MAT-DBA-4-03-E2,MAT-DBA-4-03,4,2,"Establece, justifica y utiliza criterios para comparar fracciones y decimales.",dba-matematicas.pdf,31
+MAT-DBA-4-03-E3,MAT-DBA-4-03,4,3,Construye y compara expresiones numéricas que contienen decimales y fracciones.,dba-matematicas.pdf,31
+MAT-DBA-4-04-E1,MAT-DBA-4-04,4,1,"Reconoce que para medir la capacidad y la masa se hacen comparaciones con la capacidad de recipientes de diferentes tamaños y con paquetes de diferentes masas, respectivamente (litros, centilitros galón, botella, etc., para capacidad, gramos, kilogramos, libras, arrobas, etc., para masa.)",dba-matematicas.pdf,32
+MAT-DBA-4-04-E2,MAT-DBA-4-04,4,2,"Diferencia los atributos medibles como capacidad, masa, volumen, entre otros, a partir de los procedimientos e instrumentos empleados para medirlos y los usos de cada uno en la solución de problemas.",dba-matematicas.pdf,32
+MAT-DBA-4-04-E3,MAT-DBA-4-04,4,3,"Identifica unidades y los instrumentos para medir masa y capacidad, y establece relaciones entre ellos.",dba-matematicas.pdf,32
+MAT-DBA-4-04-E4,MAT-DBA-4-04,4,4,Describe procesos para medir capacidades de un recipiente o el peso de un objeto o producto.,dba-matematicas.pdf,32
+MAT-DBA-4-04-E5,MAT-DBA-4-04,4,5,"Argumenta sobre la importancia y necesidad de medir algunas magnitudes como densidad, dureza, viscosidad, masa, capacidad, etc.",dba-matematicas.pdf,32
+MAT-DBA-4-05-E1,MAT-DBA-4-05,4,1,"Expresa una misma medida en diferentes unidades, establece equivalencias entre ellas y toma decisiones de la unidad más conveniente según las necesidades de la situación.",dba-matematicas.pdf,33
+MAT-DBA-4-05-E2,MAT-DBA-4-05,4,2,"Propone diferentes procedimientos para realizar cálculos (suma y resta de medidas, multiplicación y división de una medida y un número) que aparecen al resolver problemas en diferentes contextos.",dba-matematicas.pdf,33
+MAT-DBA-4-05-E3,MAT-DBA-4-05,4,3,Emplea las relaciones de proporcionalidad directa e inversa para resolver diversas situaciones.,dba-matematicas.pdf,33
+MAT-DBA-4-05-E4,MAT-DBA-4-05,4,4,"Propone y explica procedimientos para lograr mayor precisión en la medición de cantidades de líquidos, masa, etc.",dba-matematicas.pdf,33
+MAT-DBA-4-06-E1,MAT-DBA-4-06,4,1,"Arma, desarma y crea formas bidimensionales y tridimensionales.",dba-matematicas.pdf,33
+MAT-DBA-4-06-E2,MAT-DBA-4-06,4,2,"Reconoce entre un conjunto de desarrollos planos, los que corresponden a determinados sólidos atendiendo a las relaciones entre la posición de las diferentes caras y aristas.",dba-matematicas.pdf,33
+MAT-DBA-4-07-E1,MAT-DBA-4-07,4,1,Aplica movimientos a figuras en el plano.,dba-matematicas.pdf,34
+MAT-DBA-4-07-E2,MAT-DBA-4-07,4,2,Diferencia los efectos de la ampliación y la reducción.,dba-matematicas.pdf,34
+MAT-DBA-4-07-E3,MAT-DBA-4-07,4,3,Elabora argumentos referente a las modificaciones que sufre una imagen al ampliarla o reducirla.,dba-matematicas.pdf,34
+MAT-DBA-4-07-E4,MAT-DBA-4-07,4,4,Representa elementos del entorno que sufren modificaciones en su forma.,dba-matematicas.pdf,34
+MAT-DBA-4-08-E1,MAT-DBA-4-08,4,1,"Realiza cálculos numéricos, organiza la información en tablas, elabora representaciones gráficas y las interpreta.",dba-matematicas.pdf,35
+MAT-DBA-4-08-E2,MAT-DBA-4-08,4,2,Propone patrones de comportamiento numérico.,dba-matematicas.pdf,35
+MAT-DBA-4-08-E3,MAT-DBA-4-08,4,3,Trabaja sobre números desconocidos y con esos números para dar respuestas a los problemas.,dba-matematicas.pdf,35
+MAT-DBA-4-09-E1,MAT-DBA-4-09,4,1,Comunica en forma verbal y pictórica las regularidades observadas en una secuencia.,dba-matematicas.pdf,35
+MAT-DBA-4-09-E2,MAT-DBA-4-09,4,2,Establece diferentes estrategias para calcular los siguientes elementos en una secuencia.,dba-matematicas.pdf,35
+MAT-DBA-4-09-E3,MAT-DBA-4-09,4,3,"Conjetura y argumenta un valor futuro en una secuencia aritmética o geométrica (por ejemplo, en una secuencia de figuras predecir la posición 10, 20 o 100)",dba-matematicas.pdf,35
+MAT-DBA-4-10-E1,MAT-DBA-4-10,4,1,Elabora encuestas sencillas para obtener la información pertinente para responder la pregunta.,dba-matematicas.pdf,36
+MAT-DBA-4-10-E2,MAT-DBA-4-10,4,2,"Construye tablas de doble entrada y gráficos de barras agrupadas, gráficos de líneas o pictogramas con escala.",dba-matematicas.pdf,36
+MAT-DBA-4-10-E3,MAT-DBA-4-10,4,3,"Lee e interpreta los datos representados en tablas de doble entrada, gráficos de barras agrupados, gráficos de línea o pictogramas con escala.",dba-matematicas.pdf,36
+MAT-DBA-4-10-E4,MAT-DBA-4-10,4,4,Encuentra e interpreta la moda y el rango del conjunto de datos y describe el comportamiento de los datos para responder las preguntas planteadas.,dba-matematicas.pdf,36
+MAT-DBA-4-11-E1,MAT-DBA-4-11,4,1,Reconoce situaciones aleatorias en contextos cotidianos.,dba-matematicas.pdf,36
+MAT-DBA-4-11-E2,MAT-DBA-4-11,4,2,Enuncia diferencias entre situaciones aleatorias y deterministas.,dba-matematicas.pdf,36
+MAT-DBA-4-11-E3,MAT-DBA-4-11,4,3,"Usa adecuadamente expresiones como azar o posibilidad, aleatoriedad, determinístico.",dba-matematicas.pdf,36
+MAT-DBA-4-11-E4,MAT-DBA-4-11,4,4,Anticipa los posibles resultados de una situación aleatoria.,dba-matematicas.pdf,36
+MAT-DBA-5-01-E1,MAT-DBA-5-01,5,1,"Interpreta la relación parte - todo y la representa por medio de fracciones, razones o cocientes.",dba-matematicas.pdf,37
+MAT-DBA-5-01-E2,MAT-DBA-5-01,5,2,Interpreta y utiliza números naturales y racionales (fraccionarios) asociados con un contexto para solucionar problemas.,dba-matematicas.pdf,37
+MAT-DBA-5-01-E3,MAT-DBA-5-01,5,3,Determina las operaciones suficientes y necesarias para solucionar diferentes tipos de problemas.,dba-matematicas.pdf,37
+MAT-DBA-5-01-E4,MAT-DBA-5-01,5,4,Resuelve problemas que requieran reconocer un patrón de medida asociado a un número natural o a un racional (fraccionario).,dba-matematicas.pdf,37
+MAT-DBA-5-02-E1,MAT-DBA-5-02,5,1,Utiliza las propiedades de las operaciones con números naturales y racionales (fraccionarios) para justificar algunas estrategias de cálculo o estimación relacionados con áreas de cuadrados y volúmenes de cubos.,dba-matematicas.pdf,37
+MAT-DBA-5-02-E2,MAT-DBA-5-02,5,2,Descompone un número en sus factores primos.,dba-matematicas.pdf,37
+MAT-DBA-5-02-E3,MAT-DBA-5-02,5,3,Identifica y utiliza las propiedades de la potenciación para resolver problemas aritméticos.,dba-matematicas.pdf,37
+MAT-DBA-5-02-E4,MAT-DBA-5-02,5,4,Determina y argumenta acerca de la validez o no de estrategias para calcular potencias.,dba-matematicas.pdf,37
+MAT-DBA-5-03-E1,MAT-DBA-5-03,5,1,Representa fracciones con la ayuda de la recta numérica.,dba-matematicas.pdf,38
+MAT-DBA-5-03-E2,MAT-DBA-5-03,5,2,Determina criterios para ordenar fracciones y expresiones decimales de mayor a menor o viceversa.,dba-matematicas.pdf,38
+MAT-DBA-5-04-E1,MAT-DBA-5-04,5,1,Determina las medidas reales de una figura a partir de un registro gráfico (un plano).,dba-matematicas.pdf,39
+MAT-DBA-5-04-E2,MAT-DBA-5-04,5,2,"Mide superficies y longitudes utilizando diferentes estrategias (composición, recubrimiento, bordeado, cálculo).",dba-matematicas.pdf,39
+MAT-DBA-5-04-E3,MAT-DBA-5-04,5,3,Construye y descompone figuras planas y sólidos a partir de medidas establecidas.,dba-matematicas.pdf,39
+MAT-DBA-5-04-E4,MAT-DBA-5-04,5,4,"Realiza estimaciones y mediciones con unidades apropiadas según sea longitud, área o volumen.",dba-matematicas.pdf,39
+MAT-DBA-5-05-E1,MAT-DBA-5-05,5,1,Compara diferentes figuras a partir de las medidas de sus lados.,dba-matematicas.pdf,39
+MAT-DBA-5-05-E2,MAT-DBA-5-05,5,2,Calcula las medidas de los lados de una figura a partir de su área.,dba-matematicas.pdf,39
+MAT-DBA-5-05-E3,MAT-DBA-5-05,5,3,Dibuja figuras planas cuando se dan las medidas de los lados.,dba-matematicas.pdf,39
+MAT-DBA-5-05-E4,MAT-DBA-5-05,5,4,Propone estrategias para la solución de problemas relativos a la medida de la superficie de figuras planas.,dba-matematicas.pdf,39
+MAT-DBA-5-05-E5,MAT-DBA-5-05,5,5,Reconoce que figuras con áreas diferentes pueden tener el mismo perímetro.,dba-matematicas.pdf,39
+MAT-DBA-5-05-E6,MAT-DBA-5-05,5,6,"Mide superficies y longitudes utilizando diferentes estrategias (composición, recubrimiento, bordeado, cálculo).",dba-matematicas.pdf,39
+MAT-DBA-5-06-E1,MAT-DBA-5-06,5,1,Relaciona objetos tridimensionales y sus propiedades con sus respectivos desarrollos planos.,dba-matematicas.pdf,40
+MAT-DBA-5-06-E2,MAT-DBA-5-06,5,2,Reconoce relaciones intra e interfigurales.,dba-matematicas.pdf,40
+MAT-DBA-5-06-E3,MAT-DBA-5-06,5,3,Determina las mediciones reales de una figura a partir de un registro gráfico (un plano).,dba-matematicas.pdf,40
+MAT-DBA-5-06-E4,MAT-DBA-5-06,5,4,Construye y descompone figuras planas y sólidos a partir de medidas establecidas.,dba-matematicas.pdf,40
+MAT-DBA-5-06-E5,MAT-DBA-5-06,5,5,Utiliza transformaciones a figuras en el plano para describirlas y calcular sus medidas.,dba-matematicas.pdf,40
+MAT-DBA-5-06-E6,MAT-DBA-5-06,5,6,"Reconoce diferentes distribuciones de plantillas de un cuerpo en una superficie, las formas en que pueden acoplarse o encajar, lee la información que presenta la plantilla del cuerpo o su representación en un plano.",dba-matematicas.pdf,40
+MAT-DBA-5-07-E1,MAT-DBA-5-07,5,1,Localiza puntos en un mapa a partir de coordenadas cartesianas.,dba-matematicas.pdf,41
+MAT-DBA-5-07-E2,MAT-DBA-5-07,5,2,"Interpreta los elementos de un sistema de referencia (ejes, cuadrantes, coordenadas).",dba-matematicas.pdf,41
+MAT-DBA-5-07-E3,MAT-DBA-5-07,5,3,"Grafica en el plano cartesiano la posición de un objeto usando direcciones cardinales (norte, sur, oriente y occidente).",dba-matematicas.pdf,41
+MAT-DBA-5-07-E4,MAT-DBA-5-07,5,4,Emplea el plano cartesiano al plantear y resolver situaciones de localización.,dba-matematicas.pdf,41
+MAT-DBA-5-07-E5,MAT-DBA-5-07,5,5,Representa en forma gráfica y simbólica la localización y trayectoria de un objeto.,dba-matematicas.pdf,41
+MAT-DBA-5-08-E1,MAT-DBA-5-08,5,1,Propone patrones de comportamiento numéricos y patrones de comportamiento gráficos.,dba-matematicas.pdf,41
+MAT-DBA-5-08-E2,MAT-DBA-5-08,5,2,"Realiza cálculos numéricos, organiza la información en tablas, elabora representaciones gráficas y las interpreta.",dba-matematicas.pdf,41
+MAT-DBA-5-08-E3,MAT-DBA-5-08,5,3,Trabaja sobre números desconocidos para dar respuestas a los problemas.,dba-matematicas.pdf,41
+MAT-DBA-5-09-E1,MAT-DBA-5-09,5,1,Interpreta y opera con operaciones no convencionales.,dba-matematicas.pdf,42
+MAT-DBA-5-09-E2,MAT-DBA-5-09,5,2,Explora y busca propiedades de tales operaciones.,dba-matematicas.pdf,42
+MAT-DBA-5-09-E3,MAT-DBA-5-09,5,3,"Compara las propiedades de las operaciones convencionales de suma, resta, producto y división con las propiedades de las operaciones no convencionales.",dba-matematicas.pdf,42
+MAT-DBA-5-09-E4,MAT-DBA-5-09,5,4,Resuelve ecuaciones numéricas cuando se involucran operaciones no convencionales.,dba-matematicas.pdf,42
+MAT-DBA-5-10-E1,MAT-DBA-5-10,5,1,Formula preguntas y elabora encuestas para obtener los datos requeridos e identifica quiénes deben responder.,dba-matematicas.pdf,42
+MAT-DBA-5-10-E2,MAT-DBA-5-10,5,2,"Registra, organiza y presenta la información recolectada usando tablas, gráficos de barras, gráficos de línea, y gráficos circulares.",dba-matematicas.pdf,42
+MAT-DBA-5-10-E3,MAT-DBA-5-10,5,3,Selecciona los gráficos teniendo en cuenta el tipo de datos que se va a representar.,dba-matematicas.pdf,42
+MAT-DBA-5-10-E4,MAT-DBA-5-10,5,4,Interpreta la información obtenida y produce conclusiones que le permiten comparar dos grupos de datos de una misma población.,dba-matematicas.pdf,42
+MAT-DBA-5-10-E5,MAT-DBA-5-10,5,5,Escribe informes sencillos en los que compara la distribución de dos grupos de datos.,dba-matematicas.pdf,42
+MAT-DBA-5-11-E1,MAT-DBA-5-11,5,1,Interpreta y encuentra la media y la mediana en un conjunto de datos usando estrategias gráficas y numéricas.,dba-matematicas.pdf,43
+MAT-DBA-5-11-E2,MAT-DBA-5-11,5,2,Explica la información que brinda cada medida en relación con el conjunto de datos.,dba-matematicas.pdf,43
+MAT-DBA-5-11-E3,MAT-DBA-5-11,5,3,Selecciona una de las medidas como la más representativa del comportamiento del conjunto de datos estudiado.,dba-matematicas.pdf,43
+MAT-DBA-5-11-E4,MAT-DBA-5-11,5,4,Argumenta la selección realizada empleando semejanzas y diferencias entre lo que cada una de las medidas indica.,dba-matematicas.pdf,43
+MAT-DBA-5-12-E1,MAT-DBA-5-12,5,1,Reconoce situaciones aleatorias en contextos cotidianos.,dba-matematicas.pdf,43
+MAT-DBA-5-12-E2,MAT-DBA-5-12,5,2,Enumera todos los posibles resultados de un experimento aleatorio simple.,dba-matematicas.pdf,43
+MAT-DBA-5-12-E3,MAT-DBA-5-12,5,3,Identifica y enumera los resultados favorables de ocurrencia de un evento simple.,dba-matematicas.pdf,43
+MAT-DBA-5-12-E4,MAT-DBA-5-12,5,4,Anticipa la ocurrencia de un evento simple.,dba-matematicas.pdf,43
+MAT-DBA-6-01-E1,MAT-DBA-6-01,6,1,"Resuelve problemas en los que intervienen cantidades positivas y negativas en procesos de comparación, transformación y representación.",dba-matematicas.pdf,45
+MAT-DBA-6-01-E2,MAT-DBA-6-01,6,2,"Propone y justifica diferentes estrategias para resolver problemas con números enteros, racionales (en sus representaciones de fracción y de decimal) en contextos escolares y extraescolares.",dba-matematicas.pdf,45
+MAT-DBA-6-01-E3,MAT-DBA-6-01,6,3,Representa en la recta numérica la posición de un número utilizando diferentes estrategias.,dba-matematicas.pdf,45
+MAT-DBA-6-01-E4,MAT-DBA-6-01,6,4,Interpreta y justifica cálculos numéricos al solucionar problemas.,dba-matematicas.pdf,45
+MAT-DBA-6-02-E1,MAT-DBA-6-02,6,1,Propone y utiliza diferentes procedimientos para realizar operaciones con números enteros y racionales.,dba-matematicas.pdf,45
+MAT-DBA-6-02-E2,MAT-DBA-6-02,6,2,"Argumenta de diversas maneras la necesidad de establecer relaciones y características en conjuntos de números (ser par, ser impar, ser primo, ser el doble de, el triple de, la mitad de, etc).",dba-matematicas.pdf,45
+MAT-DBA-6-03-E1,MAT-DBA-6-03,6,1,Determina criterios de comparación para establecer relaciones de orden entre dos o más números.,dba-matematicas.pdf,46
+MAT-DBA-6-03-E2,MAT-DBA-6-03,6,2,Representa en la recta numérica la posición de un número utilizando diferentes estrategias.,dba-matematicas.pdf,46
+MAT-DBA-6-03-E3,MAT-DBA-6-03,6,3,Describe procedimientos para resolver ecuaciones lineales.,dba-matematicas.pdf,46
+MAT-DBA-6-04-E1,MAT-DBA-6-04,6,1,Construye plantillas para cuerpos geométricos dadas sus medidas.,dba-matematicas.pdf,46
+MAT-DBA-6-04-E2,MAT-DBA-6-04,6,2,"Selecciona las plantillas que genera cada cuerpo a partir del análisis de su forma, sus caras y sus vértices.",dba-matematicas.pdf,46
+MAT-DBA-6-04-E3,MAT-DBA-6-04,6,3,Utiliza la regla no graduada y el compás para dibujar las plantillas de cuerpos geométricos cuando se tienen sus medidas.,dba-matematicas.pdf,46
+MAT-DBA-6-05-E1,MAT-DBA-6-05,6,1,Decide acerca de las estrategias para determinar qué tan pertinente es la estimación y analiza las causas de error en procesos de medición y estimación.,dba-matematicas.pdf,47
+MAT-DBA-6-05-E2,MAT-DBA-6-05,6,2,"Estima el resultado de una medición sin realizarla, de acuerdo con un referente previo y aplica el proceso de estimación elegido y valora el resultado de acuerdo con los datos y contexto de un problema.",dba-matematicas.pdf,47
+MAT-DBA-6-05-E3,MAT-DBA-6-05,6,3,"Estima la medida de longitudes, áreas, volúmenes, masas, pesos y ángulos en presencia o no de los objetos y decide sobre la conveniencia de los instrumentos a utilizar, según las necesidades de la situación.",dba-matematicas.pdf,47
+MAT-DBA-6-06-E1,MAT-DBA-6-06,6,1,Diferencia las propiedades geométricas de las figuras y cuerpos geométricos.,dba-matematicas.pdf,48
+MAT-DBA-6-06-E2,MAT-DBA-6-06,6,2,Identifica los elementos que componen las figuras y cuerpos geométricos.,dba-matematicas.pdf,48
+MAT-DBA-6-06-E3,MAT-DBA-6-06,6,3,Describe las congruencias y semejanzas en figuras bidimensionales y tridimensionales.,dba-matematicas.pdf,48
+MAT-DBA-6-06-E4,MAT-DBA-6-06,6,4,Estima áreas y volúmenes de figuras y cuerpos geométricos.,dba-matematicas.pdf,48
+MAT-DBA-6-06-E5,MAT-DBA-6-06,6,5,Construye cuerpos geométricos con el apoyo de instrumentos de medida adecuados.,dba-matematicas.pdf,48
+MAT-DBA-6-07-E1,MAT-DBA-6-07,6,1,"Localiza, describe y representa la posición y la trayectoria de un objeto en un plano cartesiano.",dba-matematicas.pdf,48
+MAT-DBA-6-07-E2,MAT-DBA-6-07,6,2,"Identifica e interpreta la semejanza de dos figuras al realizar rotaciones, ampliaciones y reducciones de formas bidimensionales en el plano cartesiano.",dba-matematicas.pdf,48
+MAT-DBA-6-08-E1,MAT-DBA-6-08,6,1,Propone patrones de comportamiento numéricos y expresa verbalmente o por escrito los procedimientos matemáticos.,dba-matematicas.pdf,49
+MAT-DBA-6-08-E2,MAT-DBA-6-08,6,2,"Realiza cálculos numéricos, organiza la información en tablas, elabora representaciones gráficas y las interpreta.",dba-matematicas.pdf,49
+MAT-DBA-6-08-E3,MAT-DBA-6-08,6,3,Trabaja sobre números desconocidos y con esos números para dar respuestas a los problemas.,dba-matematicas.pdf,49
+MAT-DBA-6-09-E1,MAT-DBA-6-09,6,1,Utiliza las operaciones y sus inversas en problemas de cálculo numérico.,dba-matematicas.pdf,50
+MAT-DBA-6-09-E2,MAT-DBA-6-09,6,2,"Realiza cálculos numéricos, organiza la información en tablas, elabora representaciones gráficas y las interpreta.",dba-matematicas.pdf,50
+MAT-DBA-6-09-E3,MAT-DBA-6-09,6,3,"Realiza combinaciones de operaciones, encuentra propiedades y resuelve ecuaciones en donde están involucradas.",dba-matematicas.pdf,50
+MAT-DBA-6-10-E1,MAT-DBA-6-10,6,1,Lee y extrae la información estadística publicada en diversas fuentes.,dba-matematicas.pdf,50
+MAT-DBA-6-10-E2,MAT-DBA-6-10,6,2,Plantea una pregunta que le facilite recolectar información que le permita contrastar la información estadística publicada.,dba-matematicas.pdf,50
+MAT-DBA-6-10-E3,MAT-DBA-6-10,6,3,Organiza la información recolectada en tablas y la representa mediante gráficas adecuadas.,dba-matematicas.pdf,50
+MAT-DBA-6-10-E4,MAT-DBA-6-10,6,4,"Calcula las medidas requeridas de acuerdo a los datos recolectados y usa, cuando sea posible, calculadoras o software adecuado.",dba-matematicas.pdf,50
+MAT-DBA-6-10-E5,MAT-DBA-6-10,6,5,Escribe un informe en el que analiza la información presentada en el medio de comunicación y la contrasta con la obtenida en su estudio.,dba-matematicas.pdf,50
+MAT-DBA-6-11-E1,MAT-DBA-6-11,6,1,Comprende la diferencia entre la muestra y la población.,dba-matematicas.pdf,51
+MAT-DBA-6-11-E2,MAT-DBA-6-11,6,2,"Selecciona y produce representaciones gráficas apropiadas al conjunto de datos, usando, cuando sea posible, calculadoras o software adecuado.",dba-matematicas.pdf,51
+MAT-DBA-6-11-E3,MAT-DBA-6-11,6,3,Interpreta la información que se presenta en los gráficos usando las medidas de tendencia central y el rango.,dba-matematicas.pdf,51
+MAT-DBA-6-11-E4,MAT-DBA-6-11,6,4,"Compara las características de dos o más poblaciones o de dos o más grupos, haciendo uso conjunto de las respectivas medidas de tendencia central y el rango.",dba-matematicas.pdf,51
+MAT-DBA-6-11-E5,MAT-DBA-6-11,6,5,"Describe el comportamiento de las características de dos o más poblaciones o de dos o más grupos de una población, a partir de las respectivas medidas de tendencia central y el rango.",dba-matematicas.pdf,51
+MAT-DBA-6-12-E1,MAT-DBA-6-12,6,1,Enumera los posibles resultados de un experimento aleatorio sencillo.,dba-matematicas.pdf,52
+MAT-DBA-6-12-E2,MAT-DBA-6-12,6,2,Realiza repeticiones del experimento aleatorio sencillo y registra los resultados en tablas y gráficos de frecuencia.,dba-matematicas.pdf,52
+MAT-DBA-6-12-E3,MAT-DBA-6-12,6,3,"Interpreta y asigna la probabilidad de ocurrencia de un evento dado, teniendo en cuenta el número de veces que ocurre el evento en relación con el número total de veces que realiza el experimento.",dba-matematicas.pdf,52
+MAT-DBA-6-12-E4,MAT-DBA-6-12,6,4,Compara los resultados obtenidos experimentalmente con las predicciones anticipadas.,dba-matematicas.pdf,52
+MAT-DBA-7-01-E1,MAT-DBA-7-01,7,1,Describe situaciones en las que los números enteros y racionales con sus operaciones están presentes.,dba-matematicas.pdf,53
+MAT-DBA-7-01-E2,MAT-DBA-7-01,7,2,Utiliza los signos “positivo” y “negativo” para describir cantidades relativas con números enteros y racionales.,dba-matematicas.pdf,53
+MAT-DBA-7-01-E3,MAT-DBA-7-01,7,3,Resuelve problemas en los que se involucran variaciones porcentuales.,dba-matematicas.pdf,53
+MAT-DBA-7-02-E1,MAT-DBA-7-02,7,1,Representa los números enteros y racionales en una recta numérica.,dba-matematicas.pdf,53
+MAT-DBA-7-02-E2,MAT-DBA-7-02,7,2,Estima el valor de una raíz cuadrada y de una potencia.,dba-matematicas.pdf,53
+MAT-DBA-7-02-E3,MAT-DBA-7-02,7,3,Construye representaciones geométricas y pictóricas para ilustrar relaciones entre cantidades.,dba-matematicas.pdf,53
+MAT-DBA-7-02-E4,MAT-DBA-7-02,7,4,Calcula e interpreta el máximo común divisor y el mínimo común múltiplo entre números enteros.,dba-matematicas.pdf,53
+MAT-DBA-7-02-E5,MAT-DBA-7-02,7,5,"Describe procedimientos para calcular el resultado de una operación (suma, resta, multiplicación y división) entre números enteros y racionales.",dba-matematicas.pdf,53
+MAT-DBA-7-03-E1,MAT-DBA-7-03,7,1,Realiza operaciones para calcular el número decimal que representa una fracción y viceversa.,dba-matematicas.pdf,54
+MAT-DBA-7-03-E2,MAT-DBA-7-03,7,2,"Usa las propiedades distributiva, asociativa, modulativa, del inverso y conmutativa de la suma y la multiplicación en los racionales para proponer diferentes caminos al realizar un cálculo.",dba-matematicas.pdf,54
+MAT-DBA-7-03-E3,MAT-DBA-7-03,7,3,Determina el valor desconocido de una cantidad a partir de las transformaciones de una expresión algebraica.,dba-matematicas.pdf,54
+MAT-DBA-7-04-E1,MAT-DBA-7-04,7,1,Identifica los tipos de escalas y selecciona la adecuada para la elaboración de planos de acuerdo al formato o espacio disponible para dibujar.,dba-matematicas.pdf,55
+MAT-DBA-7-04-E2,MAT-DBA-7-04,7,2,Expresa la misma medida con diferentes unidades según el contexto.,dba-matematicas.pdf,55
+MAT-DBA-7-04-E3,MAT-DBA-7-04,7,3,Representa e interpreta situaciones de ampliación y reducción en contextos diversos.,dba-matematicas.pdf,55
+MAT-DBA-7-05-E1,MAT-DBA-7-05,7,1,Establece relaciones entre la posición y las vistas de un objeto.,dba-matematicas.pdf,55
+MAT-DBA-7-05-E2,MAT-DBA-7-05,7,2,Reconoce e interpreta la representación de un objeto.,dba-matematicas.pdf,55
+MAT-DBA-7-05-E3,MAT-DBA-7-05,7,3,Representa objetos tridimensionales cuando se transforman.,dba-matematicas.pdf,55
+MAT-DBA-7-06-E1,MAT-DBA-7-06,7,1,Interpreta las modificaciones entre el perímetro y el área con un factor de variación respectivo.,dba-matematicas.pdf,56
+MAT-DBA-7-06-E2,MAT-DBA-7-06,7,2,Establece diferencias entre los gráficos del perímetro y del área.,dba-matematicas.pdf,56
+MAT-DBA-7-06-E3,MAT-DBA-7-06,7,3,Coordina los cambios de la variación entre el perímetro y la longitud de los lados o el área de una figura.,dba-matematicas.pdf,56
+MAT-DBA-7-06-E4,MAT-DBA-7-06,7,4,Organiza la información (registros tabulares y gráficos) para comprender la relación entre el perímetro y el área.,dba-matematicas.pdf,56
+MAT-DBA-7-07-E1,MAT-DBA-7-07,7,1,"Plantea modelos algebraicos, gráficos o numéricos en los que identifica variables y rangos de variación de las variables.",dba-matematicas.pdf,56
+MAT-DBA-7-07-E2,MAT-DBA-7-07,7,2,"Toma decisiones informadas en exploraciones numéricas, algebraicas o gráficas de los modelos matemáticos usados.",dba-matematicas.pdf,56
+MAT-DBA-7-07-E3,MAT-DBA-7-07,7,3,Utiliza métodos informales exploratorios para resolver ecuaciones.,dba-matematicas.pdf,56
+MAT-DBA-7-08-E1,MAT-DBA-7-08,7,1,"Plantea preguntas, diseña y realiza un plan para recolectar la información pertinente.",dba-matematicas.pdf,57
+MAT-DBA-7-08-E2,MAT-DBA-7-08,7,2,"Construye tablas de frecuencia y gráficos (histogramas, polígonos de frecuencia, gráficos de línea, entre otros), para datos agrupados usando, calculadoras o software adecuado.",dba-matematicas.pdf,57
+MAT-DBA-7-08-E3,MAT-DBA-7-08,7,3,"Encuentra e interpreta las medidas de tendencia central y el rango en datos agrupados, empleando herramientas tecnológicas cuando sea posible.",dba-matematicas.pdf,57
+MAT-DBA-7-08-E4,MAT-DBA-7-08,7,4,"Analiza la información presentada identificando variaciones, relaciones o tendencias y elabora conclusiones que permiten responder la pregunta planteada.",dba-matematicas.pdf,57
+MAT-DBA-7-09-E1,MAT-DBA-7-09,7,1,Elabora tablas o diagramas de árbol para representar las distintas maneras en que un experimento aleatorio puede suceder.,dba-matematicas.pdf,57
+MAT-DBA-7-09-E2,MAT-DBA-7-09,7,2,Usa el principio multiplicativo para calcular el número de resultados posibles.,dba-matematicas.pdf,57
+MAT-DBA-7-09-E3,MAT-DBA-7-09,7,3,Interpreta el número de resultados considerando que cuando se cambia de orden no se altera el resultado.,dba-matematicas.pdf,57
+MAT-DBA-8-01-E1,MAT-DBA-8-01,8,1,Utiliza procedimientos geométricos para representar números racionales e irracionales.,dba-matematicas.pdf,59
+MAT-DBA-8-01-E2,MAT-DBA-8-01,8,2,Identifica las diferentes representaciones (decimales y no decimales) para argumentar por qué un número es o no racional.,dba-matematicas.pdf,59
+MAT-DBA-8-02-E1,MAT-DBA-8-02,8,1,Utiliza procedimientos geométricos o aritméticos para construir algunos números irracionales y los ubica en la recta numérica.,dba-matematicas.pdf,59
+MAT-DBA-8-02-E2,MAT-DBA-8-02,8,2,Justificar procedimientos con los cuales se representa geométricamente números racionales y números reales.,dba-matematicas.pdf,59
+MAT-DBA-8-02-E3,MAT-DBA-8-02,8,3,"Construye varias representaciones (geométrica, decimales o no decimales) de un mismo número racional o irracional.",dba-matematicas.pdf,59
+MAT-DBA-8-03-E1,MAT-DBA-8-03,8,1,Reconoce el uso del signo igual como relación de equivalencia de expresiones algebraicas en los números reales.,dba-matematicas.pdf,60
+MAT-DBA-8-03-E2,MAT-DBA-8-03,8,2,Propone y ejecuta procedimientos para resolver una ecuación lineal y sistemas de ecuaciones lineales y argumenta la validez o no de un procedimiento,dba-matematicas.pdf,60
+MAT-DBA-8-03-E3,MAT-DBA-8-03,8,3,Usa el conjunto solución de una relación (de equivalencia y de orden) para argumentar la validez o no de un procedimiento.,dba-matematicas.pdf,60
+MAT-DBA-8-04-E1,MAT-DBA-8-04,8,1,Utiliza lenguaje algebraico para representar el volumen de un prisma en términos de sus aristas.,dba-matematicas.pdf,60
+MAT-DBA-8-04-E2,MAT-DBA-8-04,8,2,Realiza la representación gráfica del desarrollo plano de un prisma.,dba-matematicas.pdf,60
+MAT-DBA-8-04-E3,MAT-DBA-8-04,8,3,"Estima, calcula y compara volúmenes a partir de las relaciones entre las aristas de un prisma o de otros sólidos.",dba-matematicas.pdf,60
+MAT-DBA-8-04-E4,MAT-DBA-8-04,8,4,Interpreta las expresiones algebraicas que representan el volumen y el área cuando sus dimensiones varían.,dba-matematicas.pdf,60
+MAT-DBA-8-05-E1,MAT-DBA-8-05,8,1,Estima medidas de volumen con unidades estandarizadas y no estandarizadas.,dba-matematicas.pdf,61
+MAT-DBA-8-05-E2,MAT-DBA-8-05,8,2,"Utiliza la relación de las unidades de capacidad con las unidades de volumen (litros, dm, etc) en la solución de un problema.",dba-matematicas.pdf,61
+MAT-DBA-8-05-E3,MAT-DBA-8-05,8,3,Identifica la posibilidad del error en la medición del volumen haciendo aproximaciones pertinentes al respecto.,dba-matematicas.pdf,61
+MAT-DBA-8-05-E4,MAT-DBA-8-05,8,4,Explora y crea estrategias para calcular el volumen de cuerpos regulares e irregulares.,dba-matematicas.pdf,61
+MAT-DBA-8-06-E1,MAT-DBA-8-06,8,1,Utiliza criterios para argumentar la congruencia de dos triángulos.,dba-matematicas.pdf,62
+MAT-DBA-8-06-E2,MAT-DBA-8-06,8,2,Discrimina casos de semejanza de triángulos en situaciones diversas.,dba-matematicas.pdf,62
+MAT-DBA-8-06-E3,MAT-DBA-8-06,8,3,Resuelve problemas que implican aplicación de los criterios de semejanza.,dba-matematicas.pdf,62
+MAT-DBA-8-06-E4,MAT-DBA-8-06,8,4,Compara figuras y argumenta la posibilidad de ser congruente o semejantes entre sí.,dba-matematicas.pdf,62
+MAT-DBA-8-07-E1,MAT-DBA-8-07,8,1,"Describe teoremas y argumenta su validez a través de diferentes recursos (Software, tangram, papel, entre otros).",dba-matematicas.pdf,62
+MAT-DBA-8-07-E2,MAT-DBA-8-07,8,2,Argumenta la relación pitagórica por medio de construcción al utilizar material concreto.,dba-matematicas.pdf,62
+MAT-DBA-8-07-E3,MAT-DBA-8-07,8,3,"Reconoce relaciones geométricas al utilizar el teorema de Pitágoras y Thales, entre otros.",dba-matematicas.pdf,62
+MAT-DBA-8-07-E4,MAT-DBA-8-07,8,4,Aplica el teorema de Pitágoras para calcular la medida de cualquier lado de un triángulo rectángulo.,dba-matematicas.pdf,62
+MAT-DBA-8-07-E5,MAT-DBA-8-07,8,5,Resuelve problemas utilizando teoremas básicos.,dba-matematicas.pdf,62
+MAT-DBA-8-08-E1,MAT-DBA-8-08,8,1,Opera con formas simbólicas y las interpreta.,dba-matematicas.pdf,63
+MAT-DBA-8-08-E2,MAT-DBA-8-08,8,2,Relaciona un cambio en la variable independiente con el cambio correspondiente en la variable dependiente.,dba-matematicas.pdf,63
+MAT-DBA-8-08-E3,MAT-DBA-8-08,8,3,Encuentra valores desconocidos en ecuaciones algebraicas.,dba-matematicas.pdf,63
+MAT-DBA-8-08-E4,MAT-DBA-8-08,8,4,Reconoce y representa relaciones numéricas mediante expresiones algebraicas y encuentra el conjunto de variación de una variable en función del contexto.,dba-matematicas.pdf,63
+MAT-DBA-8-09-E1,MAT-DBA-8-09,8,1,Opera con formas simbólicas que representan números y encuentra valores desconocidos en ecuaciones numéricas.,dba-matematicas.pdf,63
+MAT-DBA-8-09-E2,MAT-DBA-8-09,8,2,Reconoce patrones numéricos y los describe verbalmente.,dba-matematicas.pdf,63
+MAT-DBA-8-09-E3,MAT-DBA-8-09,8,3,Representa relaciones numéricas mediante expresiones algebraicas y opera con y sobre variables.,dba-matematicas.pdf,63
+MAT-DBA-8-09-E4,MAT-DBA-8-09,8,4,"Describe diferentes usos del signo igual (equivalencia, igualdad condicionada) en las expresiones algebraicas.",dba-matematicas.pdf,63
+MAT-DBA-8-09-E5,MAT-DBA-8-09,8,5,Utiliza las propiedades de los conjuntos numéricos para resolver ecuaciones.,dba-matematicas.pdf,63
+MAT-DBA-8-10-E1,MAT-DBA-8-10,8,1,"Toma decisiones informadas en exploraciones numéricas, algebraicas o gráficas de los modelos matemáticos usados.",dba-matematicas.pdf,64
+MAT-DBA-8-10-E2,MAT-DBA-8-10,8,2,"Relaciona características algebraicas de las funciones, sus gráficas y procesos de aproximación sucesiva.",dba-matematicas.pdf,64
+MAT-DBA-8-11-E1,MAT-DBA-8-11,8,1,Interpreta los datos representados en diferentes tablas y gráficos.,dba-matematicas.pdf,64
+MAT-DBA-8-11-E2,MAT-DBA-8-11,8,2,Usa estrategias gráficas o numéricas para encontrar las medidas de tendencia central de un conjunto de datos agrupados.,dba-matematicas.pdf,64
+MAT-DBA-8-11-E3,MAT-DBA-8-11,8,3,Describe el comportamiento de los datos empleando las medidas de tendencia central y el rango.,dba-matematicas.pdf,64
+MAT-DBA-8-11-E4,MAT-DBA-8-11,8,4,Reconoce cómo varían las medidas de tendencia central y el rango cuando varían los datos.,dba-matematicas.pdf,64
+MAT-DBA-8-12-E1,MAT-DBA-8-12,8,1,Identifica y enumera el espacio muestral de un experimento aleatorio.,dba-matematicas.pdf,65
+MAT-DBA-8-12-E2,MAT-DBA-8-12,8,2,Identifica y enumera los resultados favorables de ocurrencia de un evento indicado.,dba-matematicas.pdf,65
+MAT-DBA-8-12-E3,MAT-DBA-8-12,8,3,Asigna la probabilidad de la ocurrencia de un evento usando valores entre 0 y 1.,dba-matematicas.pdf,65
+MAT-DBA-8-12-E4,MAT-DBA-8-12,8,4,Reconoce cuando dos eventos son o no mutuamente excluyentes y les asigna la probabilidad usando la regla de la adición.,dba-matematicas.pdf,65
+MAT-DBA-9-01-E1,MAT-DBA-9-01,9,1,Considera el error que genera la aproximación de un número real a partir de números racionales.,dba-matematicas.pdf,66
+MAT-DBA-9-01-E2,MAT-DBA-9-01,9,2,Identifica la diferencia entre exactitud y aproximación en las diferentes representaciones de los números reales.,dba-matematicas.pdf,66
+MAT-DBA-9-01-E3,MAT-DBA-9-01,9,3,"Construye representaciones geométricas y numéricas de los números reales (con decimales, raíces, razones, y otros símbolos) y realiza conversiones entre ellas.",dba-matematicas.pdf,66
+MAT-DBA-9-02-E1,MAT-DBA-9-02,9,1,Identifica y utiliza múltiples representaciones de números reales para realizar transformaciones y comparaciones entre expresiones algebraicas.,dba-matematicas.pdf,66
+MAT-DBA-9-02-E2,MAT-DBA-9-02,9,2,"Establece conjeturas al resolver una situación problema, apoyado en propiedades y relaciones entre números reales.",dba-matematicas.pdf,66
+MAT-DBA-9-02-E3,MAT-DBA-9-02,9,3,Determina y describe relaciones al comparar características de gráficas y expresiones algebraicas o funciones.,dba-matematicas.pdf,66
+MAT-DBA-9-03-E1,MAT-DBA-9-03,9,1,Encuentra las relaciones y propiedades que determinan la formación de secuencias numéricas.,dba-matematicas.pdf,67
+MAT-DBA-9-03-E2,MAT-DBA-9-03,9,2,Determina y utiliza la expresión general de una sucesión para calcular cualquier valor de la misma y para compararla con otras sucesiones.,dba-matematicas.pdf,67
+MAT-DBA-9-04-E1,MAT-DBA-9-04,9,1,Estima la capacidad de objetos con superficies redondas.,dba-matematicas.pdf,68
+MAT-DBA-9-04-E2,MAT-DBA-9-04,9,2,Construye cuerpos redondos usando diferentes estrategias.,dba-matematicas.pdf,68
+MAT-DBA-9-04-E3,MAT-DBA-9-04,9,3,Compara y representa las relaciones que encuentra de manera experimental entre el volumen y la capacidad de objetos con superficies redondas.,dba-matematicas.pdf,68
+MAT-DBA-9-04-E4,MAT-DBA-9-04,9,4,"Explica la pertinencia o no de la solución de un problema de cálculo de área o de volumen, de acuerdo con las condiciones de la situación.",dba-matematicas.pdf,68
+MAT-DBA-9-05-E1,MAT-DBA-9-05,9,1,Describe y justifica procesos de medición de longitudes.,dba-matematicas.pdf,68
+MAT-DBA-9-05-E2,MAT-DBA-9-05,9,2,Explica propiedades de figuras geométricas que se involucran en los procesos de medición.,dba-matematicas.pdf,68
+MAT-DBA-9-05-E3,MAT-DBA-9-05,9,3,"Justifica procedimientos de medición a partir del Teorema de Thales, Teorema de Pitágoras y relaciones intra e interfigurales.",dba-matematicas.pdf,68
+MAT-DBA-9-05-E4,MAT-DBA-9-05,9,4,Valida la precisión de instrumentos para medir longitudes.,dba-matematicas.pdf,68
+MAT-DBA-9-05-E5,MAT-DBA-9-05,9,5,Propone alternativas para estimar y medir con precisión diferentes magnitudes.,dba-matematicas.pdf,68
+MAT-DBA-9-06-E1,MAT-DBA-9-06,9,1,Reconoce regularidades en formas bidimensionales y tridimensionales.,dba-matematicas.pdf,69
+MAT-DBA-9-06-E2,MAT-DBA-9-06,9,2,Explica criterios de semejanza y congruencia a partir del teorema de Thales.,dba-matematicas.pdf,69
+MAT-DBA-9-06-E3,MAT-DBA-9-06,9,3,Compara figuras geométricas y conjetura sobre posibles regularidades.,dba-matematicas.pdf,69
+MAT-DBA-9-06-E4,MAT-DBA-9-06,9,4,Redacta y argumenta procesos llevados a cabo para resolver situaciones de semejanza y congruencia de figuras.,dba-matematicas.pdf,69
+MAT-DBA-9-07-E1,MAT-DBA-9-07,9,1,Describe verbalmente procesos de trayectorias y de desplazamiento.,dba-matematicas.pdf,70
+MAT-DBA-9-07-E2,MAT-DBA-9-07,9,2,Explica y representa gráficamente la variación del movimiento de diferentes objetos.,dba-matematicas.pdf,70
+MAT-DBA-9-08-E1,MAT-DBA-9-08,9,1,Opera con formas simbólicas que representan cantidades.,dba-matematicas.pdf,70
+MAT-DBA-9-08-E2,MAT-DBA-9-08,9,2,"Reconoce que las letras pueden representar números y cantidades, y que se pueden operar con ellas y sobre ellas.",dba-matematicas.pdf,70
+MAT-DBA-9-08-E3,MAT-DBA-9-08,9,3,"Interpreta expresiones numéricas, algebraicas o gráficas y toma decisiones con base en su interpretación.",dba-matematicas.pdf,70
+MAT-DBA-9-09-E1,MAT-DBA-9-09,9,1,"Efectúa exploraciones, organiza los resultados de las mismas y propone patrones de comportamiento.",dba-matematicas.pdf,71
+MAT-DBA-9-09-E2,MAT-DBA-9-09,9,2,Propone conjeturas sobre configuraciones geométricas o numéricas y las expresa verbal o simbólicamente.,dba-matematicas.pdf,71
+MAT-DBA-9-09-E3,MAT-DBA-9-09,9,3,Valida las conjeturas y explica sus conclusiones.,dba-matematicas.pdf,71
+MAT-DBA-9-09-E4,MAT-DBA-9-09,9,4,Interpreta expresiones numéricas y toma decisiones con base en su interpretación.,dba-matematicas.pdf,71
+MAT-DBA-9-10-E1,MAT-DBA-9-10,9,1,"Define el método para recolectar los datos (encuestas, observación o experimento simple) e identifica la población y el tamaño de la muestra del estudio.",dba-matematicas.pdf,72
+MAT-DBA-9-10-E2,MAT-DBA-9-10,9,2,Construye diagramas de caja y a partir de los resultados representados en ellos describe y compara la distribución de un conjunto de datos.,dba-matematicas.pdf,72
+MAT-DBA-9-10-E3,MAT-DBA-9-10,9,3,"Compara las distribuciones de los conjuntos de datos a partir de las medidas de tendencia central, las de variación y las de localización.",dba-matematicas.pdf,72
+MAT-DBA-9-10-E4,MAT-DBA-9-10,9,4,Elabora conclusiones para responder el problema planteado.,dba-matematicas.pdf,72
+MAT-DBA-9-11-E1,MAT-DBA-9-11,9,1,"Diferencia experimentos aleatorios realizados con reemplazo, de experimentos aleatorios realizados sin reemplazo.",dba-matematicas.pdf,73
+MAT-DBA-9-11-E2,MAT-DBA-9-11,9,2,"Encuentra el número de posibles resultados de un experimento aleatorio, usando métodos adecuados (diagramas de árbol, combinaciones, permutaciones, regla de la multiplicación, etc.).",dba-matematicas.pdf,73
+MAT-DBA-9-11-E3,MAT-DBA-9-11,9,3,Justifica la elección de un método particular de acuerdo al tipo de situación.,dba-matematicas.pdf,73
+MAT-DBA-9-11-E4,MAT-DBA-9-11,9,4,Encuentra la probabilidad de eventos dados usando razón entre frecuencias.,dba-matematicas.pdf,73
+MAT-DBA-10-01-E1,MAT-DBA-10-01,10,1,Argumenta la existencia de los números irracionales.,dba-matematicas.pdf,74
+MAT-DBA-10-01-E2,MAT-DBA-10-01,10,2,Utiliza representaciones geométricas de los números irracionales y los ubica en una recta numérica.,dba-matematicas.pdf,74
+MAT-DBA-10-01-E3,MAT-DBA-10-01,10,3,Describe la propiedad de densidad de los números reales y utiliza estrategias para calcular un número entre otros dos.,dba-matematicas.pdf,74
+MAT-DBA-10-02-E1,MAT-DBA-10-02,10,1,Ordena de menor a mayor o viceversa números reales.,dba-matematicas.pdf,74
+MAT-DBA-10-02-E2,MAT-DBA-10-02,10,2,"Describe el ‘efecto’ que tendría realizar operaciones con números reales (positivos, negativos, mayores y menores que 1) sobre la cantidad.",dba-matematicas.pdf,74
+MAT-DBA-10-02-E3,MAT-DBA-10-02,10,3,Utiliza las propiedades de la equivalencia para realizar cálculos con números reales.,dba-matematicas.pdf,74
+MAT-DBA-10-03-E1,MAT-DBA-10-03,10,1,Reconoce la relación funcional entre variables asociadas a problemas.,dba-matematicas.pdf,75
+MAT-DBA-10-03-E2,MAT-DBA-10-03,10,2,"Interpreta y expresa magnitudes definidas como razones entre magnitudes (velocidad, aceleración, etc.), con las unidades respectivas y las relaciones entre ellas.",dba-matematicas.pdf,75
+MAT-DBA-10-03-E3,MAT-DBA-10-03,10,3,"Utiliza e interpreta la razón de cambio para resolver problemas relacionados con magnitudes como velocidad, aceleración.",dba-matematicas.pdf,75
+MAT-DBA-10-03-E4,MAT-DBA-10-03,10,4,Explica las respuestas y resultados en un problema usando las expresiones algebraicas y la pertinencia de las unidades utilizadas en los cálculos.,dba-matematicas.pdf,75
+MAT-DBA-10-04-E1,MAT-DBA-10-04,10,1,"Reconoce el significado de las razones trigonométricas en un triángulo rectángulo para ángulos agudos, en particular, seno, coseno y tangente.",dba-matematicas.pdf,76
+MAT-DBA-10-04-E2,MAT-DBA-10-04,10,2,"Explora, en una situación o fenómeno de variación periódica, valores, condiciones, relaciones o comportamientos, a través de diferentes representaciones.",dba-matematicas.pdf,76
+MAT-DBA-10-04-E3,MAT-DBA-10-04,10,3,"Calcula algunos valores de las razones seno y coseno para ángulos no agudos, auxiliándose de ángulos de referencia inscritos en el círculo unitario.",dba-matematicas.pdf,76
+MAT-DBA-10-04-E4,MAT-DBA-10-04,10,4,"Reconoce algunas aplicaciones de las funciones trigonométricas en el estudio de fenómenos diversos de variación periódica, por ejemplo: movimiento circular, movimiento del péndulo, del pistón, ciclo de la respiración, entre otros.",dba-matematicas.pdf,76
+MAT-DBA-10-04-E5,MAT-DBA-10-04,10,5,Modela fenómenos periódicos a través de funciones trigonométricas.,dba-matematicas.pdf,76
+MAT-DBA-10-05-E1,MAT-DBA-10-05,10,1,Localiza objetos geométricos en el plano cartesiano.,dba-matematicas.pdf,76
+MAT-DBA-10-05-E2,MAT-DBA-10-05,10,2,Identifica las propiedades de lugares geométricos a través de sus representación en un sistema de referencia.,dba-matematicas.pdf,76
+MAT-DBA-10-05-E3,MAT-DBA-10-05,10,3,Utiliza las expresiones simbólicas de las cónicas y propone los rangos de variación para obtener una gráfica requerida.,dba-matematicas.pdf,76
+MAT-DBA-10-05-E4,MAT-DBA-10-05,10,4,"Representa lugares geométricos en el plano cartesiano, a partir de su expresión algebraica.",dba-matematicas.pdf,76
+MAT-DBA-10-06-E1,MAT-DBA-10-06,10,1,"Utiliza representaciones gráficas o numéricas para tomar decisiones, frente a la solución de problemas prácticos.",dba-matematicas.pdf,77
+MAT-DBA-10-06-E2,MAT-DBA-10-06,10,2,Determina la tendencia numérica en relación con problemas prácticos como predicción del comportamiento futuro.,dba-matematicas.pdf,77
+MAT-DBA-10-06-E3,MAT-DBA-10-06,10,3,"Relaciona características algebraicas de las funciones, sus gráficas y procesos de aproximación sucesiva.",dba-matematicas.pdf,77
+MAT-DBA-10-07-E1,MAT-DBA-10-07,10,1,Utiliza representaciones gráficas o numéricas para tomar decisiones en problemas prácticos.,dba-matematicas.pdf,77
+MAT-DBA-10-07-E2,MAT-DBA-10-07,10,2,"Usa la pendiente de la recta tangente como razón de cambio, la reconoce y verbaliza en representaciones gráficas, numéricas y algebraicas.",dba-matematicas.pdf,77
+MAT-DBA-10-07-E3,MAT-DBA-10-07,10,3,Utiliza la razón entre magnitudes para tomar decisiones sobre el cambio.,dba-matematicas.pdf,77
+MAT-DBA-10-07-E4,MAT-DBA-10-07,10,4,"Relaciona características algebraicas de las funciones, sus gráficas y procesos de aproximación sucesiva.",dba-matematicas.pdf,77
+MAT-DBA-10-08-E1,MAT-DBA-10-08,10,1,Define la población de la cual va a extraer las muestras.,dba-matematicas.pdf,78
+MAT-DBA-10-08-E2,MAT-DBA-10-08,10,2,Define el tamaño y el método de selección de la muestra.,dba-matematicas.pdf,78
+MAT-DBA-10-08-E3,MAT-DBA-10-08,10,3,Construye gráficas para representar las distribuciones de los datos muestrales y encuentra los estadígrafos adecuados. Usa software cuando sea posible.,dba-matematicas.pdf,78
+MAT-DBA-10-08-E4,MAT-DBA-10-08,10,4,Hace inferencias sobre los parámetros basadas en los estadígrafos calculados.,dba-matematicas.pdf,78
+MAT-DBA-10-08-E5,MAT-DBA-10-08,10,5,Hace análisis críticos de las conclusiones de los estudios presentados en medios de comunicación o en artículos científicos.,dba-matematicas.pdf,78
+MAT-DBA-10-09-E1,MAT-DBA-10-09,10,1,"Encuentra las medidas de tendencia central y de dispersión, usando, cuando sea posible, herramientas tecnológicas.",dba-matematicas.pdf,79
+MAT-DBA-10-09-E2,MAT-DBA-10-09,10,2,Interpreta y compara lo que representan cada una de las medidas de tendencia central en un conjunto de datos.,dba-matematicas.pdf,79
+MAT-DBA-10-09-E3,MAT-DBA-10-09,10,3,Interpreta y compara lo que representan cada una de las medidas de dispersión en un conjunto de datos.,dba-matematicas.pdf,79
+MAT-DBA-10-09-E4,MAT-DBA-10-09,10,4,Usa algunas de las propiedades de las medidas de tendencia central y de dispersión para caracterizar un conjunto de datos.,dba-matematicas.pdf,79
+MAT-DBA-10-09-E5,MAT-DBA-10-09,10,5,"Formula conclusiones sobre la distribución de un conjunto de datos, empleando más de una medida.",dba-matematicas.pdf,79
+MAT-DBA-10-10-E1,MAT-DBA-10-10,10,1,Plantea o identifica una pregunta cuya solución requiera de la realización de un experimento aleatorio.,dba-matematicas.pdf,79
+MAT-DBA-10-10-E2,MAT-DBA-10-10,10,2,Identifica la población y las variables en estudio.,dba-matematicas.pdf,79
+MAT-DBA-10-10-E3,MAT-DBA-10-10,10,3,Encuentra muestras aleatorias para hacer predicciones sobre el comportamiento de las variables en estudio.,dba-matematicas.pdf,79
+MAT-DBA-10-10-E4,MAT-DBA-10-10,10,4,Usa la probabilidad frecuencial para interpretar la posibilidad de ocurrencia de un evento dado.,dba-matematicas.pdf,79
+MAT-DBA-10-10-E5,MAT-DBA-10-10,10,5,Infiere o valida la probabilidad de ocurrencia del evento en estudio.,dba-matematicas.pdf,79
+MAT-DBA-11-01-E1,MAT-DBA-11-01,11,1,Describe propiedades de los números y las operaciones que son comunes y diferentes en los distintos sistemas numéricos.,dba-matematicas.pdf,81
+MAT-DBA-11-01-E2,MAT-DBA-11-01,11,2,Utiliza la propiedad de densidad para justificar la necesidad de otras notaciones para subconjuntos de los números reales.,dba-matematicas.pdf,81
+MAT-DBA-11-01-E3,MAT-DBA-11-01,11,3,Construye representaciones de los conjuntos numéricos y establece relaciones acorde con sus propiedades.,dba-matematicas.pdf,81
+MAT-DBA-11-02-E1,MAT-DBA-11-02,11,1,Utiliza propiedades del producto de números Reales para resolver ecuaciones e inecuaciones.,dba-matematicas.pdf,81
+MAT-DBA-11-02-E2,MAT-DBA-11-02,11,2,Interpreta las operaciones en diversos dominios numéricos para validar propiedades de ecuaciones e inecuaciones.,dba-matematicas.pdf,81
+MAT-DBA-11-03-E1,MAT-DBA-11-03,11,1,Reconoce magnitudes definidas como razones entre otras magnitudes.,dba-matematicas.pdf,82
+MAT-DBA-11-03-E2,MAT-DBA-11-03,11,2,"Interpreta y expresa magnitudes como velocidad y aceleración, con las unidades respectivas y las relaciones entre ellas.",dba-matematicas.pdf,82
+MAT-DBA-11-03-E3,MAT-DBA-11-03,11,3,"Utiliza e interpreta la derivada para resolver problemas relacionados con la variación y la razón de cambio de funciones que involucran magnitudes como velocidad, aceleración, longitud, tiempo.",dba-matematicas.pdf,82
+MAT-DBA-11-03-E4,MAT-DBA-11-03,11,4,Explica las respuestas y resultados en un problema usando las expresiones algebraicas y la pertinencia de las unidades utilizadas en los cálculos.,dba-matematicas.pdf,82
+MAT-DBA-11-04-E1,MAT-DBA-11-04,11,1,Interpreta la rapidez como una razón de cambio entre dos cantidades.,dba-matematicas.pdf,83
+MAT-DBA-11-04-E2,MAT-DBA-11-04,11,2,Justifica la precisión de una medición directa o indirecta de acuerdo con información suministrada en gráficas y tablas.,dba-matematicas.pdf,83
+MAT-DBA-11-04-E3,MAT-DBA-11-04,11,3,"Establece conclusiones pertinentes con respecto a la precisión de mediciones en contextos específicos (científicos, industriales).",dba-matematicas.pdf,83
+MAT-DBA-11-04-E4,MAT-DBA-11-04,11,4,Determina las unidades e instrumentos adecuados para mejorar la precisión en las mediciones.,dba-matematicas.pdf,83
+MAT-DBA-11-04-E5,MAT-DBA-11-04,11,5,Reconoce la diferencia entre la precisión y la exactitud en procesos de medición.,dba-matematicas.pdf,83
+MAT-DBA-11-05-E1,MAT-DBA-11-05,11,1,"Relaciona la noción derivada con características numéricas, geométricas y métricas.",dba-matematicas.pdf,84
+MAT-DBA-11-05-E2,MAT-DBA-11-05,11,2,Utiliza la derivada para estudiar la covariación entre dos magnitudes y relaciona características de la derivada con características de la función.,dba-matematicas.pdf,84
+MAT-DBA-11-05-E3,MAT-DBA-11-05,11,3,Halla la derivada de algunas funciones empleando métodos gráficos y numéricos.,dba-matematicas.pdf,84
+MAT-DBA-11-06-E1,MAT-DBA-11-06,11,1,Reconoce y utiliza distintos sistemas de coordenadas para modelar.,dba-matematicas.pdf,84
+MAT-DBA-11-06-E2,MAT-DBA-11-06,11,2,"Compara objetos geométricos, a partir de puntos de referencia diferentes.",dba-matematicas.pdf,84
+MAT-DBA-11-06-E3,MAT-DBA-11-06,11,3,Explora el entorno y lo representa mediante diversos sistemas de coordenadas.,dba-matematicas.pdf,84
+MAT-DBA-11-07-E1,MAT-DBA-11-07,11,1,Plantea modelos funcionales en los que identifica variables y rangos de variación de las variables.,dba-matematicas.pdf,85
+MAT-DBA-11-07-E2,MAT-DBA-11-07,11,2,"Relaciona el signo de la derivada con características numéricas, geométricas y métricas.",dba-matematicas.pdf,85
+MAT-DBA-11-07-E3,MAT-DBA-11-07,11,3,Utiliza la derivada para estudiar la variación y relaciona características de la derivada con características de la función.,dba-matematicas.pdf,85
+MAT-DBA-11-07-E4,MAT-DBA-11-07,11,4,"Relaciona características algebraicas de las funciones, sus gráficas y procesos de aproximación sucesiva.",dba-matematicas.pdf,85
+MAT-DBA-11-08-E1,MAT-DBA-11-08,11,1,Utiliza la derivada para estudiar la variación y relaciona características de la derivada con características de la función.,dba-matematicas.pdf,85
+MAT-DBA-11-08-E2,MAT-DBA-11-08,11,2,"Relaciona características algebraicas de las funciones, sus gráficas y procesos de aproximación sucesiva.",dba-matematicas.pdf,85
+MAT-DBA-11-08-E3,MAT-DBA-11-08,11,3,Calcula derivadas de funciones.,dba-matematicas.pdf,85
+MAT-DBA-11-09-E1,MAT-DBA-11-09,11,1,En situaciónes matemáticas plantea preguntas que indagan por la correlación o la asociación entre variables.,dba-matematicas.pdf,86
+MAT-DBA-11-09-E2,MAT-DBA-11-09,11,2,"Define el plan de recolección de la información, en el que se incluye: definición de población y muestra, método para recolectar la información (encuestas, observaciones o experimentos simples), variables a estudiar.",dba-matematicas.pdf,86
+MAT-DBA-11-09-E3,MAT-DBA-11-09,11,3,Elabora gráficos de dispersión usando software adecuado como Excel y analiza las relaciones que se visibilizan en el gráfico.,dba-matematicas.pdf,86
+MAT-DBA-11-09-E4,MAT-DBA-11-09,11,4,"Expresa cualitativamente las relaciones entre las variables, para lo cual utiliza su conocimiento de los modelos lineales.",dba-matematicas.pdf,86
+MAT-DBA-11-09-E5,MAT-DBA-11-09,11,5,"Usa adecuadamente la desviación estándar, la media el coeficiente de variación y el de correlación para dar respuesta a la pregunta planteada.",dba-matematicas.pdf,86
+MAT-DBA-11-10-E1,MAT-DBA-11-10,11,1,Propone problemas a estudiar en variedad de situaciones aleatorias.,dba-matematicas.pdf,86
+MAT-DBA-11-10-E2,MAT-DBA-11-10,11,2,Reconoce los diferentes eventos que se proponen en una situación o problema.,dba-matematicas.pdf,86
+MAT-DBA-11-10-E3,MAT-DBA-11-10,11,3,Interpreta y asigna la probabilidad de cada evento.,dba-matematicas.pdf,86
+MAT-DBA-11-10-E4,MAT-DBA-11-10,11,4,Usa la probabilidad condicional de cada evento para decidir si son o no independientes.,dba-matematicas.pdf,86
