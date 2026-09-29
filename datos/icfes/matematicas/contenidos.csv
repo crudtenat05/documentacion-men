@@ -1,0 +1,24 @@
+﻿codigo,categoria,tipo,orden,texto,pagina_pdf
+MAT-CT-EST-G-01,Estadística,generico,1,Diferentes tipos de representación de datos (tablas y gráficas),35
+MAT-CT-EST-G-02,Estadística,generico,2,"Intersección, unión y contenencia de conjuntos",35
+MAT-CT-EST-G-03,Estadística,generico,3,Promedio y rango estadístico,35
+MAT-CT-EST-G-04,Estadística,generico,4,Conteos simples que utilizan principios de suma y multiplicación,35
+MAT-CT-EST-G-05,Estadística,generico,5,"Noción de población, muestra e inferencia muestral",35
+MAT-CT-EST-NG-01,Estadística,no_generico,1,Estimación del error,35
+MAT-CT-EST-NG-02,Estadística,no_generico,2,"Varianza, percentiles, mediana y correlación",35
+MAT-CT-EST-NG-03,Estadística,no_generico,3,Combinaciones y permutaciones,35
+MAT-CT-GEO-G-01,Geometría,generico,1,"Triángulos, círculos, paralelogramos, esferas, paralelepípedos rectos, cilindros y sus medidas",36
+MAT-CT-GEO-G-02,Geometría,generico,2,Relaciones de paralelismo y ortogonalidad entre rectas,36
+MAT-CT-GEO-G-03,Geometría,generico,3,Desigualdad triangular,36
+MAT-CT-GEO-G-04,Geometría,generico,4,Sistemas de coordenadas cartesianas,36
+MAT-CT-GEO-NG-01,Geometría,no_generico,1,"Sólidos y figuras geométricas, como pirámides y polígonos de más de cuatro lados",36
+MAT-CT-GEO-NG-02,Geometría,no_generico,2,Relaciones de congruencia y semejanza,36
+MAT-CT-GEO-NG-03,Geometría,no_generico,3,"Teoremas clásicos, como el de Pitágoras y el de Tales",36
+MAT-CT-GEO-NG-04,Geometría,no_generico,4,Coordenadas polares y tridimensionales,36
+MAT-CT-GEO-NG-05,Geometría,no_generico,5,"Transformaciones en el plano (translaciones, rotaciones, homotecias, reflexiones)",36
+MAT-CT-ALG-G-01,Álgebra y cálculo,generico,1,"Los números racionales expresados como fracciones, razones, números decimales o porcentajes",36
+MAT-CT-ALG-G-02,Álgebra y cálculo,generico,2,"Propiedades básicas de las operaciones aritméticas de suma, resta, multiplicación, división y potenciación (incluida notación científica)",36
+MAT-CT-ALG-G-03,Álgebra y cálculo,generico,3,"Relaciones lineales y afines y razones de cambio (tasas de interés, tasas cambiarias, velocidad, aceleración, etcétera)",36
+MAT-CT-ALG-NG-01,Álgebra y cálculo,no_generico,1,"Expresiones algebraicas; propiedades, relaciones y operaciones entre ellas",36
+MAT-CT-ALG-NG-02,Álgebra y cálculo,no_generico,2,"Representación gráfica y algebraica de funciones racionales, trigonométricas, polinomiales, exponenciales y logarítmicas; además de propiedades básicas, periodicidad, dominios y rangos, condiciones de crecimiento e intersecciones con otras funciones",36
+MAT-CT-ALG-NG-03,Álgebra y cálculo,no_generico,3,Sucesiones y sus límites,36

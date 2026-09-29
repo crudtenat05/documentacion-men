@@ -1,0 +1,293 @@
+{
+ "documento": {
+  "codigo": "ICFES-GUIA-S11-2026-2",
+  "entidad": "ICFES",
+  "titulo": "Guía de orientación del Examen Saber 11º 2026-2 (Calendario A)",
+  "version": "2026-2",
+  "anio": 2026,
+  "archivo": "fuentes/icfes/guia-orientacion-saber11-2026-2.pdf"
+ },
+ "prueba": "matematicas",
+ "competencias": [
+  {
+   "codigo": "MAT-C1",
+   "nombre": "Interpretación y representación",
+   "descripcion": "Esta competencia se relaciona con la habilidad para comprender y transformar la información presentada en formatos distintos, como tablas, gráficas, conjuntos de datos, diagramas, esquemas, etcétera; así como la capacidad de utilizar estas representaciones para extraer información relevante que permita, entre otras cosas, establecer relaciones matemáticas e identificar tendencias y patrones. Con el desarrollo de esta competencia, se espera que un estudiante utilice coherentemente los registros simbólico, natural, gráfico y, en general, todos aquellos que se dan en situaciones que involucran las matemáticas. Esta competencia se relaciona con el proceso de comunicación, representación y razonamiento, definidos en los EBC.",
+   "porcentaje_preguntas": 34,
+   "orden": 1,
+   "pagina": 31,
+   "afirmaciones": [
+    {
+     "codigo": "MAT-A1",
+     "numero": 1,
+     "texto": "Comprende y transforma la información cuantitativa y esquemática presentada en distintos formatos.",
+     "pagina": 31,
+     "evidencias": [
+      {
+       "codigo": "MAT-E1.1",
+       "numero": "1.1",
+       "texto": "Da cuenta de las características básicas de la información presentada en diferentes formatos, como series, gráficas, tablas y esquemas."
+      },
+      {
+       "codigo": "MAT-E1.2",
+       "numero": "1.2",
+       "texto": "Transforma la representación de una o más piezas de información."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "codigo": "MAT-C2",
+   "nombre": "Formulación y ejecución",
+   "descripcion": "Esta competencia se relaciona con la capacidad para plantear y diseñar estrategias que permitan solucionar problemas provenientes de diversos contextos, sean estos netamente matemáticos o cotidianos y susceptibles de tratamiento matemático. Se relaciona también con la habilidad o destreza para seleccionar y verificar la pertinencia de soluciones propuestas a determinados problemas y estrategias de solución desde diferentes puntos de vista. Con el desarrollo de esta competencia, se espera que un estudiante diseñe estrategias apoyadas en herramientas matemáticas, proponga y determine rutas posibles para la solución de problemas, siga estrategias dadas para encontrar soluciones y, finalmente, resuelva las situaciones que se le propongan. Esta competencia evalúa el proceso de formulación, tratamiento y resolución de problemas; el proceso de formulación, comparación y ejercitación de procedimientos; y el proceso de modelación, todos descritos en los EBC.",
+   "porcentaje_preguntas": 43,
+   "orden": 2,
+   "pagina": 32,
+   "afirmaciones": [
+    {
+     "codigo": "MAT-A2",
+     "numero": 2,
+     "texto": "Frente a un problema que involucre información cuantitativa, plantea e implementa estrategias que lleven a soluciones adecuadas.",
+     "pagina": 32,
+     "evidencias": [
+      {
+       "codigo": "MAT-E2.1",
+       "numero": "2.1",
+       "texto": "Diseña planes para la solución de problemas que involucran información cuantitativa o esquemática."
+      },
+      {
+       "codigo": "MAT-E2.2",
+       "numero": "2.2",
+       "texto": "Ejecuta un plan de solución para un problema que involucra información cuantitativa o esquemática."
+      },
+      {
+       "codigo": "MAT-E2.3",
+       "numero": "2.3",
+       "texto": "Resuelve un problema que involucra información cuantitativa o esquemática."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "codigo": "MAT-C3",
+   "nombre": "Argumentación",
+   "descripcion": "Esta competencia se relaciona con la capacidad para validar o refutar conclusiones, estrategias, soluciones, interpretaciones y representaciones en diversas situaciones, siempre, justificando el porqué o el cómo de los hallazgos, a través de ejemplos y contraejemplos o señalando y reflexionando sobre inconsistencias presentes. Con el desarrollo de esta competencia, se espera que un estudiante justifique la aceptación o el rechazo de afirmaciones, interpretaciones y estrategias de solución, con base en propiedades y resultados o verbalizando procedimientos matemáticos. Cabe indicar que esta competencia también se relaciona con los procesos de razonamiento y modelación definidos en los EBC.",
+   "porcentaje_preguntas": 23,
+   "orden": 3,
+   "pagina": 33,
+   "afirmaciones": [
+    {
+     "codigo": "MAT-A3",
+     "numero": 3,
+     "texto": "Valida procedimientos y estrategias matemáticas utilizadas para dar solución a problemas.",
+     "pagina": 33,
+     "evidencias": [
+      {
+       "codigo": "MAT-E3.1",
+       "numero": "3.1",
+       "texto": "Plantea afirmaciones que sustentan o refutan una interpretación dada a la información disponible en el marco de la solución de un problema."
+      },
+      {
+       "codigo": "MAT-E3.2",
+       "numero": "3.2",
+       "texto": "Argumenta a favor o en contra de un procedimiento para resolver un problema a la luz de criterios presentados o establecidos."
+      },
+      {
+       "codigo": "MAT-E3.3",
+       "numero": "3.3",
+       "texto": "Establece la validez o pertinencia de una solución propuesta a un problema dado."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "contenidos": [
+  {
+   "codigo": "MAT-CT-EST-G-01",
+   "categoria": "Estadística",
+   "tipo": "generico",
+   "texto": "Diferentes tipos de representación de datos (tablas y gráficas)",
+   "orden": 1,
+   "pagina": 35
+  },
+  {
+   "codigo": "MAT-CT-EST-G-02",
+   "categoria": "Estadística",
+   "tipo": "generico",
+   "texto": "Intersección, unión y contenencia de conjuntos",
+   "orden": 2,
+   "pagina": 35
+  },
+  {
+   "codigo": "MAT-CT-EST-G-03",
+   "categoria": "Estadística",
+   "tipo": "generico",
+   "texto": "Promedio y rango estadístico",
+   "orden": 3,
+   "pagina": 35
+  },
+  {
+   "codigo": "MAT-CT-EST-G-04",
+   "categoria": "Estadística",
+   "tipo": "generico",
+   "texto": "Conteos simples que utilizan principios de suma y multiplicación",
+   "orden": 4,
+   "pagina": 35
+  },
+  {
+   "codigo": "MAT-CT-EST-G-05",
+   "categoria": "Estadística",
+   "tipo": "generico",
+   "texto": "Noción de población, muestra e inferencia muestral",
+   "orden": 5,
+   "pagina": 35
+  },
+  {
+   "codigo": "MAT-CT-EST-NG-01",
+   "categoria": "Estadística",
+   "tipo": "no_generico",
+   "texto": "Estimación del error",
+   "orden": 1,
+   "pagina": 35
+  },
+  {
+   "codigo": "MAT-CT-EST-NG-02",
+   "categoria": "Estadística",
+   "tipo": "no_generico",
+   "texto": "Varianza, percentiles, mediana y correlación",
+   "orden": 2,
+   "pagina": 35
+  },
+  {
+   "codigo": "MAT-CT-EST-NG-03",
+   "categoria": "Estadística",
+   "tipo": "no_generico",
+   "texto": "Combinaciones y permutaciones",
+   "orden": 3,
+   "pagina": 35
+  },
+  {
+   "codigo": "MAT-CT-GEO-G-01",
+   "categoria": "Geometría",
+   "tipo": "generico",
+   "texto": "Triángulos, círculos, paralelogramos, esferas, paralelepípedos rectos, cilindros y sus medidas",
+   "orden": 1,
+   "pagina": 36
+  },
+  {
+   "codigo": "MAT-CT-GEO-G-02",
+   "categoria": "Geometría",
+   "tipo": "generico",
+   "texto": "Relaciones de paralelismo y ortogonalidad entre rectas",
+   "orden": 2,
+   "pagina": 36
+  },
+  {
+   "codigo": "MAT-CT-GEO-G-03",
+   "categoria": "Geometría",
+   "tipo": "generico",
+   "texto": "Desigualdad triangular",
+   "orden": 3,
+   "pagina": 36
+  },
+  {
+   "codigo": "MAT-CT-GEO-G-04",
+   "categoria": "Geometría",
+   "tipo": "generico",
+   "texto": "Sistemas de coordenadas cartesianas",
+   "orden": 4,
+   "pagina": 36
+  },
+  {
+   "codigo": "MAT-CT-GEO-NG-01",
+   "categoria": "Geometría",
+   "tipo": "no_generico",
+   "texto": "Sólidos y figuras geométricas, como pirámides y polígonos de más de cuatro lados",
+   "orden": 1,
+   "pagina": 36
+  },
+  {
+   "codigo": "MAT-CT-GEO-NG-02",
+   "categoria": "Geometría",
+   "tipo": "no_generico",
+   "texto": "Relaciones de congruencia y semejanza",
+   "orden": 2,
+   "pagina": 36
+  },
+  {
+   "codigo": "MAT-CT-GEO-NG-03",
+   "categoria": "Geometría",
+   "tipo": "no_generico",
+   "texto": "Teoremas clásicos, como el de Pitágoras y el de Tales",
+   "orden": 3,
+   "pagina": 36
+  },
+  {
+   "codigo": "MAT-CT-GEO-NG-04",
+   "categoria": "Geometría",
+   "tipo": "no_generico",
+   "texto": "Coordenadas polares y tridimensionales",
+   "orden": 4,
+   "pagina": 36
+  },
+  {
+   "codigo": "MAT-CT-GEO-NG-05",
+   "categoria": "Geometría",
+   "tipo": "no_generico",
+   "texto": "Transformaciones en el plano (translaciones, rotaciones, homotecias, reflexiones)",
+   "orden": 5,
+   "pagina": 36
+  },
+  {
+   "codigo": "MAT-CT-ALG-G-01",
+   "categoria": "Álgebra y cálculo",
+   "tipo": "generico",
+   "texto": "Los números racionales expresados como fracciones, razones, números decimales o porcentajes",
+   "orden": 1,
+   "pagina": 36
+  },
+  {
+   "codigo": "MAT-CT-ALG-G-02",
+   "categoria": "Álgebra y cálculo",
+   "tipo": "generico",
+   "texto": "Propiedades básicas de las operaciones aritméticas de suma, resta, multiplicación, división y potenciación (incluida notación científica)",
+   "orden": 2,
+   "pagina": 36
+  },
+  {
+   "codigo": "MAT-CT-ALG-G-03",
+   "categoria": "Álgebra y cálculo",
+   "tipo": "generico",
+   "texto": "Relaciones lineales y afines y razones de cambio (tasas de interés, tasas cambiarias, velocidad, aceleración, etcétera)",
+   "orden": 3,
+   "pagina": 36
+  },
+  {
+   "codigo": "MAT-CT-ALG-NG-01",
+   "categoria": "Álgebra y cálculo",
+   "tipo": "no_generico",
+   "texto": "Expresiones algebraicas; propiedades, relaciones y operaciones entre ellas",
+   "orden": 1,
+   "pagina": 36
+  },
+  {
+   "codigo": "MAT-CT-ALG-NG-02",
+   "categoria": "Álgebra y cálculo",
+   "tipo": "no_generico",
+   "texto": "Representación gráfica y algebraica de funciones racionales, trigonométricas, polinomiales, exponenciales y logarítmicas; además de propiedades básicas, periodicidad, dominios y rangos, condiciones de crecimiento e intersecciones con otras funciones",
+   "orden": 2,
+   "pagina": 36
+  },
+  {
+   "codigo": "MAT-CT-ALG-NG-03",
+   "categoria": "Álgebra y cálculo",
+   "tipo": "no_generico",
+   "texto": "Sucesiones y sus límites",
+   "orden": 3,
+   "pagina": 36
+  }
+ ]
+}

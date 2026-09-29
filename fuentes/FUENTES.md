@@ -35,4 +35,12 @@ Todos traen texto incrustado (no son escaneados), por lo que la extracción no r
 | `mallas-de-aprendizaje-primaria/MATEMÁTICAS/MATEMÁTICAS-GRADO-4.pdf` | MEN | _pendiente de ficha_ |  | 35 | `b5341d69d023972b…` | Sin procesar |
 | `mallas-de-aprendizaje-primaria/MATEMÁTICAS/MATEMÁTICAS-GRADO-5.pdf` | MEN | _pendiente de ficha_ |  | 31 | `1370fcd29321e524…` | Sin procesar |
 
-Huella completa de cada archivo: `verificacion/<area>.md` para los procesados; para verificar cualquier archivo: `sha256sum fuentes/men/<archivo>`.
+## ICFES
+
+| Archivo | Entidad | Título | Año | Páginas | SHA-256 | Estado |
+|---|---|---|---|---|---|---|
+| `icfes/guia-orientacion-saber11-2026-2.pdf` | ICFES | Guía de orientación del Examen Saber 11° 2026-2 (Calendario A) | 2026 | 73 | `9022a58a6ab2ff9d…` | Procesado Matemáticas: `datos/icfes/matematicas/` |
+
+Pendiente de conseguir: documento «Niveles de desempeño · Prueba Matemáticas · Saber 11°» del ICFES (PDF original).
+
+Huella completa de cada archivo: `verificacion/<area>.md` para los procesados; para verificar cualquier archivo: `sha256sum fuentes/men/<archivo>` o `sha256sum fuentes/icfes/<archivo>`.

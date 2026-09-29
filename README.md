@@ -1,7 +1,8 @@
 # Documentación MEN · Referentes curriculares verificados
 
-Fuente única de los referentes oficiales (Estándares Básicos de Competencias y Derechos Básicos de
-Aprendizaje) para ValorativoWeb, SIET y cualquier otro uso de Grafimática Digital.
+Fuente única de los referentes oficiales para ValorativoWeb, SIET y cualquier otro uso de Grafimática
+Digital: Estándares Básicos de Competencias y Derechos Básicos de Aprendizaje del MEN, y la taxonomía
+del examen Saber 11° del ICFES (competencias, afirmaciones, evidencias y contenidos).
 
 Ningún texto de este repositorio se transcribe a mano ni con inteligencia artificial: se extrae del PDF
 oficial con un programa, se verifica contra el mismo PDF por una vía independiente y queda registrado.
@@ -10,8 +11,9 @@ oficial con un programa, se verifica contra el mismo PDF por una vía independie
 
 | Carpeta | Contenido |
 |---|---|
-| `fuentes/men/` | PDF originales del MEN, sin modificar. Ficha y huella digital en `fuentes/FUENTES.md`. |
+| `fuentes/men/`, `fuentes/icfes/` | PDF originales del MEN y del ICFES, sin modificar. Ficha y huella digital en `fuentes/FUENTES.md`. |
 | `extraccion/` | Programas que leen el PDF y producen los datos. Cualquiera puede volver a ejecutarlos y obtener lo mismo. |
+| `datos/icfes/<prueba>/` | Taxonomía Saber 11°: `taxonomia.json`, `evidencias.csv`, `contenidos.csv` y `.md` de lectura. |
 | `datos/<area>/` | Resultado: `estandares.json`, `dba.json` (con evidencias), versiones `.csv` para hojas de cálculo y `.md` para lectura. |
 | `verificacion/` | Reporte por área: cuántos textos, cuántos literales, cuántos completos, confirmaciones manuales y pendientes. |
 | `revision/` | Planilla para la revisión humana, página por página. |
@@ -41,6 +43,9 @@ python3 extraccion/matematicas_dba.py
 python3 extraccion/verificar.py matematicas
 python3 extraccion/generar_salidas.py matematicas
 
+python3 extraccion/icfes_matematicas.py
+python3 extraccion/icfes_salidas.py matematicas
+
 python3 extraccion/lenguaje_estandares.py
 python3 extraccion/lenguaje_dba.py
 python3 extraccion/verificar.py lenguaje
@@ -60,6 +65,9 @@ cada área lo invoca con su PDF y su rango de páginas.
   subprocesos («Para lo cual,»): `LEN-EBC-…-nn-S{k}`. Según la Nota 1 del documento, el estándar
   comprende ambos.
 - DBA: `{MAT|LEN}-DBA-{grado}-{nn}`; evidencias: `{MAT|LEN}-DBA-{grado}-{nn}-E{k}`.
+- Saber 11° (ICFES): competencias `MAT-C{n}`, afirmaciones `MAT-A{n}`, evidencias `MAT-E{n.m}` con la
+  numeración de la guía, y contenidos `MAT-CT-{EST|GEO|ALG}-{G|NG}-{nn}` (categoría, genérico o no
+  genérico, orden en la figura de la guía).
 
 ## Estado
 
@@ -70,6 +78,11 @@ cada área lo invoca con su PDF y su rango de páginas.
 | Ciencias Naturales | — | — | — | Pendiente |
 | Ciencias Sociales y Competencias Ciudadanas | — | — | — | Pendiente |
 | Inglés | — | — | — | Pendiente |
+
+| ICFES Saber 11° | Taxonomía | | | Verificación |
+|---|---|---|---|---|
+| Matemáticas | 3 competencias · 3 afirmaciones | 8 evidencias | 23 contenidos | 37 de 37 literales (guía 2026-2) |
+| Matemáticas · niveles de desempeño | — | — | — | Pendiente: falta el PDF original |
 
 Los ejemplos de los DBA se guardan como texto de apoyo (`ejemplo_texto_plano`). Pueden contener
 fórmulas y figuras que el texto plano no reproduce, por eso no se usan como referente literal.
