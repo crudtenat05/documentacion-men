@@ -1,9 +1,5 @@
-"""Genera, a partir de los JSON verificados, las salidas para otros usos. Nunca se editan a mano:
-si algo cambia, se corrige la extracción y se vuelven a generar.
-
-- datos/<area>/estandares.csv, dba.csv, evidencias.csv  (hojas de cálculo, sistemas)
-- datos/<area>/<area>.md                                (lectura)
-- revision/<area>_planilla.xlsx                          (revisión humana página por página)
+"""Genera la planilla de revisión humana (revision/<area>_planilla.xlsx) a partir de los JSON verificados.
+La transcripción legible la publica extraccion/publicar.py en DBA/ y ESTANDARES/.
 
     python3 extraccion/generar_salidas.py matematicas
 """
@@ -25,60 +21,6 @@ def main(area):
     base = f'datos/{area}'
     est = json.load(open(f'{base}/estandares.json', encoding='utf-8'))
     dba = json.load(open(f'{base}/dba.json', encoding='utf-8'))
-
-    with open(f'{base}/estandares.csv', 'w', newline='', encoding='utf-8-sig') as f:
-        w = csv.writer(f)
-        w.writerow(['codigo', 'grado_desde', 'grado_hasta', 'eje', 'eje_nombre', 'orden', 'texto', 'fuente', 'pagina_pdf'])
-        for e in est:
-            w.writerow([e['codigo'], e['grado_desde'], e['grado_hasta'], e['eje'], e['eje_nombre'], e['orden'], e['texto'], e['fuente'], e['pagina_pdf']])
-    if any(e.get('subprocesos') for e in est):
-        with open(f'{base}/subprocesos.csv', 'w', newline='', encoding='utf-8-sig') as f:
-            w = csv.writer(f)
-            w.writerow(['codigo', 'estandar', 'grado_desde', 'grado_hasta', 'numero', 'texto', 'fuente', 'pagina_pdf'])
-            for e in est:
-                for sp in e.get('subprocesos', []):
-                    w.writerow([sp['codigo'], e['codigo'], e['grado_desde'], e['grado_hasta'], sp['numero'], sp['texto'], e['fuente'], e['pagina_pdf']])
-    with open(f'{base}/dba.csv', 'w', newline='', encoding='utf-8-sig') as f:
-        w = csv.writer(f)
-        w.writerow(['codigo', 'grado', 'numero', 'enunciado', 'fuente', 'pagina_pdf'])
-        for d in dba:
-            w.writerow([d['codigo'], d['grado'], d['numero'], d['enunciado'], d['fuente'], d['pagina_pdf']])
-    with open(f'{base}/evidencias.csv', 'w', newline='', encoding='utf-8-sig') as f:
-        w = csv.writer(f)
-        w.writerow(['codigo', 'dba', 'grado', 'numero', 'texto', 'fuente', 'pagina_pdf'])
-        for d in dba:
-            for e in d['evidencias']:
-                w.writerow([e['codigo'], d['codigo'], d['grado'], e['numero'], e['texto'], d['fuente'], d['pagina_pdf']])
-
-    L = [f'# {NOMBRES.get(area, area)}: Estándares Básicos de Competencias y Derechos Básicos de Aprendizaje', '',
-         'Texto extraído y verificado contra los PDF oficiales del MEN (ver `verificacion/`). '
-         'Archivo generado: no editar a mano.', '', '## Estándares Básicos de Competencias', '']
-    ciclo = None
-    for e in est:
-        c = (e['grado_desde'], e['grado_hasta'])
-        if c != ciclo:
-            ciclo, eje = c, None
-            L += [f'### Grados {c[0]}° a {c[1]}°', '']
-        if e['eje_nombre'] != eje:
-            eje = e['eje_nombre']
-            L += [f'**{eje.capitalize()}**', '']
-        if e.get('subprocesos'):
-            L += [f"- **`{e['codigo']}`** {e['texto']}", '  *Para lo cual,*']
-            L += [f"  - `{sp['codigo']}` {sp['texto']}" for sp in e['subprocesos']]
-        else:
-            L += [f"- `{e['codigo']}` {e['texto']}"]
-        if est.index(e) + 1 < len(est) and est[est.index(e) + 1]['eje_nombre'] != eje:
-            L += ['']
-    L += ['', '## Derechos Básicos de Aprendizaje', '']
-    grado = None
-    for d in dba:
-        if d['grado'] != grado:
-            grado = d['grado']
-            L += [f'### Grado {grado}°', '']
-        L += [f"**`{d['codigo']}`** {d['enunciado']}", '', '*Evidencias de aprendizaje*', '']
-        L += [f"- `{e['codigo']}` {e['texto']}" for e in d['evidencias']] + ['']
-    with open(f'{base}/{area}.md', 'w', encoding='utf-8') as f:
-        f.write('\n'.join(L) + '\n')
 
     os.makedirs('revision', exist_ok=True)
     wb = Workbook()
@@ -120,7 +62,7 @@ def main(area):
         ins.append([linea])
     ins.column_dimensions['A'].width = 130
     wb.save(f'revision/{area}_planilla.xlsx')
-    print(len(est), 'estándares,', sum(len(e.get('subprocesos', [])) for e in est), 'subprocesos,', len(dba), 'DBA,', sum(len(d['evidencias']) for d in dba), 'evidencias → CSV, MD y planilla')
+    print(len(est), 'estándares,', sum(len(e.get('subprocesos', [])) for e in est), 'subprocesos,', len(dba), 'DBA,', sum(len(d['evidencias']) for d in dba), 'evidencias → planilla')
 
 
 if __name__ == '__main__':

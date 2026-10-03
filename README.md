@@ -1,20 +1,31 @@
-# Documentación MEN · Referentes curriculares verificados
+# Documentación MEN · Referentes curriculares transcritos
 
-Fuente única de los referentes oficiales para ValorativoWeb, SIET y cualquier otro uso de Grafimática
-Digital: Estándares Básicos de Competencias y Derechos Básicos de Aprendizaje del MEN, y la taxonomía
-del examen Saber 11° del ICFES (competencias, afirmaciones, evidencias y contenidos).
+## Dónde está cada cosa
 
-Ningún texto de este repositorio se transcribe a mano ni con inteligencia artificial: se extrae del PDF
-oficial con un programa, se verifica contra el mismo PDF por una vía independiente y queda registrado.
+| Carpeta | Qué contiene |
+|---|---|
+| **`DBA/`** | Los Derechos Básicos de Aprendizaje transcritos, un archivo por asignatura, organizados por grado. |
+| **`ESTANDARES/`** | Los Estándares Básicos de Competencias transcritos, un archivo por asignatura. El MEN los define por grupos de grados (1.° a 3.°, 4.° a 5.°, 6.° a 7.°, 8.° a 9.°, 10.° a 11.°), y así se organizan. |
 
-## Estructura
+| Asignatura | DBA | Estándares |
+|---|---|---|
+| Matemáticas | 1.° a 11.° | 1.° a 11.° |
+| Lenguaje | 1.° a 11.° | 1.° a 11.° |
+| Ciencias Naturales | 1.° a 11.° | pendiente |
+| Ciencias Sociales | 1.° a 11.° | pendiente |
+| Inglés | Transición a 11.° | pendiente |
+
+Todo se transcribe desde los PDF oficiales de `fuentes/` con un programa y se verifica contra el mismo PDF.
+Las demás carpetas son el soporte de ese proceso; no hace falta abrirlas para usar la transcripción.
+
+## Proceso (soporte)
 
 | Carpeta | Contenido |
 |---|---|
 | `fuentes/men/`, `fuentes/icfes/` | PDF originales del MEN y del ICFES, sin modificar. Ficha y huella digital en `fuentes/FUENTES.md`. |
 | `extraccion/` | Programas que leen el PDF y producen los datos. Cualquiera puede volver a ejecutarlos y obtener lo mismo. |
 | `datos/icfes/<prueba>/` | Taxonomía Saber 11°: `taxonomia.json`, `evidencias.csv`, `contenidos.csv` y `.md` de lectura. |
-| `datos/<area>/` | Resultado: `estandares.json`, `dba.json` (con evidencias), versiones `.csv` para hojas de cálculo y `.md` para lectura. |
+| `datos/<area>/` | Los mismos datos en JSON (`estandares.json`, `dba.json`), para los sistemas (ValorativoWeb, SIET, DocenteWeb). |
 | `verificacion/` | Reporte por área: cuántos textos, cuántos literales, cuántos completos, confirmaciones manuales y pendientes. |
 | `revision/` | Planilla para la revisión humana, página por página. |
 
@@ -30,8 +41,8 @@ oficial con un programa, se verifica contra el mismo PDF por una vía independie
    registra con la razón en `verificacion/<area>_confirmaciones_manuales.json`.
 5. **Revisión humana.** La planilla de `revision/` permite a una persona confirmar, página por
    página, que cada texto quedó bien separado y con el código correcto.
-6. **Salidas.** CSV y Markdown se generan desde los JSON verificados. Si algo se corrige, se corrige la
-   extracción y se regenera todo.
+6. **Publicación.** `extraccion/publicar.py` escribe `DBA/` y `ESTANDARES/` desde los JSON verificados. Si algo
+   se corrige, se corrige la extracción y se vuelve a publicar.
 
 ## Uso
 
@@ -53,15 +64,15 @@ python3 extraccion/generar_salidas.py lenguaje
 
 python3 extraccion/naturales_dba.py
 python3 extraccion/verificar.py ciencias_naturales
-python3 extraccion/salidas_dba.py ciencias_naturales
+python3 extraccion/publicar.py
 
 python3 extraccion/sociales_dba.py
 python3 extraccion/verificar.py ciencias_sociales
-python3 extraccion/salidas_dba.py ciencias_sociales
+
 
 python3 extraccion/ingles_dba.py          # 6.° a 11.° y, con ingles_primaria_dba.py, Transición a 5.°
 python3 extraccion/verificar.py ingles
-python3 extraccion/salidas_dba.py ingles
+
 ```
 
 `extraccion/dba_men.py` es el extractor común de los DBA del MEN (serie 2016, dos columnas por página);
