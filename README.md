@@ -12,7 +12,7 @@
 
 | Asignatura | DBA | Estándares | Mallas |
 |---|---|---|---|
-| Inglés | 6.° a 11.°, formato final: enunciado exacto, habilidades y ejemplo explicado. Primaria, en curso | 1.° a 5.° (A1 y A2.1); 6.° a 11.°, en curso | 6.° (4 módulos); 7.° a 11.°, en curso. Análisis MEN (Anexo 8) |
+| Inglés | 6.° a 11.°, formato final: enunciado exacto, habilidades y ejemplo explicado. Primaria, en curso | 1.° a 5.° (A1 y A2.1); 6.° a 11.°, en curso | 6.° y 7.° (4 módulos cada uno); 8.° a 11.°, en curso. Análisis MEN (Anexo 8) |
 | Matemáticas | 1.° a 11.° (enunciado y evidencias) | 1.° a 11.° | pendiente |
 | Lenguaje | 1.° a 11.° (enunciado y evidencias) | 1.° a 11.° | pendiente |
 | Ciencias Naturales | 1.° a 11.° (enunciado y evidencias) | pendiente | pendiente |
