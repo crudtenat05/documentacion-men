@@ -1263,3 +1263,429 @@ Notas de transcripción (8.°):
 - Módulo 2, evaluación: el PDF habla de una «campaña» aunque las tareas terminan en un plan de prevención. Parece copiado del Módulo 3. Se aclaró entre paréntesis.
 - Módulo 4: «Adverbios de moda» se corrigió a *de modo*, y «Tercero condicional» a *tercer condicional*. Los conectores («Palabras a favor o en contra») se ordenaron en semejanza y contraste, y «similar as» se corrigió a *similar to*.
 - Módulo 4, meta en inglés: «in adolescents» se corrigió a *on adolescents*.
+
+## Grado 9°
+
+Nivel MCER: B1.1 · 4 módulos · Fuente: MEN, *Esquema Curricular Sugerido de Inglés 6° a 11°* (2016), pp. 66–73 (mallas) y 103–106 (rutas).
+
+### Módulo 1
+Eje: Globalización
+Tema: Fenómenos sociales (las TIC)
+Tiempo: 24–27 horas
+Nivel MCER: B1.1
+
+#### Contexto (adaptable)
+
+Meta: Valorar el impacto de las TIC en la vida diaria.
+Meta (inglés): Value the impact of ICT on daily life.
+
+Saber ser:
+- Respeta los puntos de vista de los demás.
+- Participa activamente en las actividades propuestas en clase.
+- Reconoce las ventajas y desventajas de las TIC en su vida diaria.
+
+Tareas:
+1. Identificar, con una encuesta, las actividades diarias de los compañeros relacionadas con el uso de TIC.
+2. Investigar los efectos de las TIC en la vida diaria a partir de textos expositivos escritos.
+3. Elaborar un cuadro de análisis con las semejanzas y diferencias entre lo que mostró la encuesta y lo que dice la investigación.
+4. Realizar un debate sobre el impacto de las TIC en la vida diaria.
+5. Escribir un texto expositivo sobre el impacto de las TIC en la vida diaria.
+
+#### Núcleo de lengua
+
+Funciones de lengua:
+- Dar opiniones sobre fenómenos sociales actuales.
+- Justificar puntos de vista sobre fenómenos sociales actuales.
+- Dar y solicitar información relacionada con fenómenos sociales actuales.
+- Describir experiencias pasadas y planes futuros relacionados con fenómenos sociales actuales.
+- Expresar condiciones relacionadas con fenómenos sociales actuales.
+
+Objetivos:
+- Intercambiar información sobre temas académicos a través de juegos de roles.
+- Producir textos expositivos orales y escritos de mediana extensión relacionados con temas académicos.
+- Identificar relaciones de causa y efecto en textos expositivos orales y escritos de mediana extensión relacionados con temas académicos.
+
+Estándares (Guía 22, nivel B1.1, pp. 24–25):
+
+| Habilidad | Estándares |
+|---|---|
+| Escucha | 2, 3, 7, 8 |
+| Lectura | 4, 6, 8, 9, 10 |
+| Escritura | 4, 5, 6, 7, 10 |
+| Monólogo | 3, 4, 6, 7 |
+| Conversación | 1, 2, 4 |
+
+Saber:
+- Reconoce opiniones y puntos de vista.
+- Reconoce vocabulario relacionado con fenómenos sociales actuales.
+- Identifica el orden temporal de acciones pasadas y futuras.
+- Infiere consecuencias derivadas de una acción.
+
+Saber hacer:
+- Identifica ideas relacionadas con el efecto de las TIC en la vida diaria en textos expositivos orales y escritos usados en clase.
+- Solicita información sobre actividades diarias relacionadas con el uso de TIC a través de preguntas de información (Wh- questions) previamente elaboradas.
+- Da información sobre actividades diarias relacionadas con el uso de TIC con un vocabulario y estructuras adecuados.
+- Presenta el efecto de las TIC en la vida diaria de manera oral y ensayada.
+- Solicita oralmente justificación sobre la información presentada por los pares.
+- Elabora un texto expositivo escrito sobre el efecto de las TIC en la vida diaria con base en información obtenida de diferentes fuentes.
+
+Léxico:
+- Tecnologías de la información: social network, application (apps), blogs, download / upload, website, save as, password, access
+- Conectores de causa y efecto: consequently, as a result, therefore, for this reason, because, as, since
+
+Expresiones:
+- Para sugerir: If I were you, I would… · Have you thought about…? · Why don't you…? · In your position, I would… · You should perhaps… · You could always…
+- Para opinar: I (really) think that… · I believe (that)… · I'm sure that… · In my opinion / My opinion is… · I agree with… · I guess / imagine… · I have no doubt that / I'm certain that… · I strongly believe that… · I've never really thought about this before, but… · My personal opinion is that / Personally, my opinion is that… · To be honest / In my honest opinion… · I could be wrong, but… · I'm positive that… · I'm pretty sure that… · It seems to me that… · Some people may disagree with me, but… · This is just my opinion, but…
+
+Gramática:
+- Condicionales
+- Modales de obligación: should, ought to, had better
+- Comparativos y superlativos
+- Presente perfecto
+- Futuro perfecto
+
+Pronunciación:
+- Reconocer enlaces entre palabras (blendings): is a → «iza» · at the doctor → «atthedoctor»
+
+Discursivo:
+- Comparar y contrastar.
+
+Sociolingüístico / intercultural:
+- Valoración de la diversidad de opiniones.
+- Aprendizaje a través de la interacción.
+- Curiosidad y descubrimiento.
+- Conocimiento de la cultura propia y la de otros.
+
+Evaluación para el aprendizaje:
+- Evalúo la calidad de la información obtenida en la encuesta.
+- Analizo la información obtenida sobre el tema.
+- Confirmo la pertinencia y validez de las fuentes bibliográficas usadas.
+- Realizo borradores de texto escrito como parte del proceso de escritura.
+
+Evaluación del aprendizaje:
+- Rúbrica de participación en debate.
+- Rúbrica de texto expositivo.
+- Examen modular.
+
+### Módulo 2
+Eje: Sostenibilidad
+Tema: Reducción de inequidades
+Tiempo: 20–25 horas
+Nivel MCER: B1.1
+
+#### Contexto (adaptable)
+
+Meta: Proponer acciones de reducción de inequidades (género, acceso a educación) en la comunidad.
+Meta (inglés): Propose actions to reduce inequities (gender, access to education) in the community.
+
+Saber ser:
+- Valora y respeta las diferencias.
+- Reconoce la importancia de la equidad en la sociedad.
+- Asume una posición crítica ante temas sociales de su interés.
+
+Tareas:
+1. Investigar y resumir textos dirigidos a adolescentes sobre inequidad social (género, acceso a la educación, salud).
+2. Compartir situaciones de inequidad social de su entorno.
+3. En grupos, identificar semejanzas y diferencias entre las situaciones descritas.
+4. En los mismos grupos, decidir qué acciones proponer para disminuir esas inequidades.
+5. Escribir un texto expositivo de mediana extensión sobre acciones posibles para disminuir la inequidad en distintos ámbitos de la sociedad.
+
+#### Núcleo de lengua
+
+Funciones de lengua:
+- Expresar acuerdos y desacuerdos sobre temas relacionados con el entorno social.
+- Justificar puntos de vista sobre temas relacionados con el entorno social.
+- Dar opiniones sobre temas relacionados con el entorno social.
+- Expresar planes futuros y condiciones sobre temas relacionados con el entorno social.
+- Describir experiencias pasadas.
+
+Objetivos:
+- Producir textos expositivos orales y escritos de mediana extensión relacionados con temas del entorno social.
+- Intercambiar información sobre temas relacionados con el entorno social a través de conversaciones.
+- Identificar relaciones de contraste y adición en textos orales y escritos de mediana extensión sobre temas relacionados con el entorno social.
+
+Estándares (Guía 22, nivel B1.1, pp. 24–25):
+
+| Habilidad | Estándares |
+|---|---|
+| Escucha | 2, 7, 8 |
+| Lectura | 6, 8, 9 |
+| Escritura | 5, 7, 10 |
+| Monólogo | 3, 6, 7 |
+| Conversación | 1, 2, 4 |
+
+Saber:
+- Reconoce situaciones de inequidad en temas como el acceso a la educación y el género.
+- Reconoce la estructura de textos escritos expositivos.
+- Distingue relaciones de contraste y adición.
+- Identifica estructuras básicas de los tiempos pasado, futuro y condicional.
+
+Saber hacer:
+- Identifica ideas relacionadas con situaciones de falta de equidad en la sociedad en textos expositivos orales y escritos usados en clase.
+- Describe, de manera oral, situaciones de falta de equidad relacionadas con el entorno personal.
+- Formula preguntas de aclaración sobre las situaciones de inequidad que describen los compañeros.
+- Identifica, con apoyo, similitudes y diferencias en las historias narradas sobre situaciones de inequidad en el entorno social.
+- Expresa su opinión sobre posibles acciones para manejar problemas de inequidad.
+
+Léxico:
+- Singular y plural irregular: woman / women, man / men, child / children, person / people
+- Opuestos: just / unjust, wrong / right, fair / unfair · lack of…
+- Contraste y adición: compared to…, in addition to…, nevertheless…, whereas…, on the other hand…, however…, despite…, moreover…, besides…
+
+Expresiones:
+- Para solicitar aclaración: Could you expand a little bit on what you said about…? · Could you be more specific about…? · Something else I'd like to know is… · If I have understood you correctly, your point is that… · I didn't understand what you said about… · I'm sorry, could you repeat what you said about…? · Sorry, but I'm not quite clear about…
+- Para realizar una presentación oral: Today, we would like to present… · Good afternoon, our purpose today is… · My group members are… and I am…
+- Para resumir ideas: On the whole… · Basically he / she is saying that… · In this text, the author argues that… · To support the main claim, the author provides evidence that suggests that…
+
+Gramática:
+- Presente, pasado y futuro simple
+- Presente, pasado y futuro perfecto
+- Condicionales
+- Modales
+- Estilo indirecto
+
+Pronunciación:
+- Entonación.
+- Acento y énfasis en palabras: I am shocked to see… · It is unbelievable… · Absolutely amazing!
+- Reconocer el énfasis en frases cortas: What I hear you say… · My group members are…
+
+Discursivo:
+- Relaciones de contraste y adición.
+- Marcadores orales.
+
+Sociolingüístico / intercultural:
+- Respeto por las diferencias culturales y por los contextos situacionales, sociales e históricos.
+- Aprendizaje a través de la interacción.
+
+Evaluación para el aprendizaje:
+- Reflexiono sobre la calidad del trabajo en grupo.
+- Evalúo el texto escrito con un par.
+- Realizo borradores de texto escrito como parte del proceso de escritura.
+
+Evaluación del aprendizaje:
+- Rúbrica de trabajo en grupo.
+- Rúbrica de texto expositivo.
+- Examen modular.
+
+### Módulo 3
+Eje: Salud
+Tema: Prevención de enfermedades
+Tiempo: 20–25 horas
+Nivel MCER: B1.1
+
+#### Contexto (adaptable)
+
+Meta: Establecer prácticas de prevención de enfermedades en la región.
+Meta (inglés): Establish illness prevention practices in the region.
+
+Saber ser:
+- Reconoce su papel activo en la prevención de enfermedades.
+- Respeta los puntos de vista de los demás.
+- Expresa desacuerdos de manera respetuosa.
+
+Proyecto: campaña de prevención de una enfermedad común en la comunidad.
+- Qué sabe: el docente recoge en el tablero lo que saben sobre las enfermedades más comunes del entorno. En grupos resumen lo que ya saben y deciden los pasos a seguir.
+- Qué quiere saber: planean el proyecto por etapas (qué hacer y cómo en cada una), identifican el vocabulario y las estructuras que necesitan y se reparten roles. La campaña debe incluir escucha, lectura, habla y escritura.
+- Rutas sugeridas:
+  - Investigar las características, síntomas y formas de prevención de la enfermedad asignada.
+  - Graficar los síntomas y el plan de prevención.
+  - Hacer un reporte escrito siguiendo un modelo practicado en clase.
+  - Organizar la información en un plan de prevención.
+  - Hacer un póster y una presentación oral.
+  - Evaluar con la clase los planes presentados.
+- Qué aprendió: presentan sus proyectos a la clase. Luego cada uno escribe una reflexión en un formato establecido y recibe retroalimentación del profesor.
+- Mientras trabajan, el docente anota los vacíos frecuentes y los repasa en minilecciones: modelar el proceso de escritura (lluvia de ideas, borrador y revisión) y ayudar a definir las listas de características y conductas.
+
+#### Núcleo de lengua
+
+Funciones de lengua:
+- Dar recomendaciones sobre temas de interés general.
+- Expresar opiniones sobre temas de interés general.
+- Expresar acuerdos y desacuerdos relacionados con temas de interés general.
+- Describir experiencias pasadas y planes futuros.
+- Dar y solicitar información sobre temas de interés general.
+- Reportar información presentada por sus pares.
+- Expresar acciones siguiendo una secuencia lógica.
+
+Objetivos:
+- Elaborar textos orales y escritos sobre recomendaciones relacionadas con temas de interés.
+- Intercambiar información sobre temas de interés a través de foros.
+- Identificar información sobre temas de interés en textos descriptivos cortos orales y escritos.
+
+Estándares (Guía 22, nivel B1.1, pp. 24–25):
+
+| Habilidad | Estándares |
+|---|---|
+| Escucha | 1, 5, 7, 10 |
+| Lectura | 4, 7, 8, 11 |
+| Escritura | 6, 7, 8 |
+| Monólogo | 3, 5, 6 |
+| Conversación | 1, 4, 6 |
+
+Saber:
+- Identifica enfermedades prevenibles en el contexto.
+- Reconoce vocabulario y expresiones relacionadas con enfermedades prevenibles comunes.
+- Selecciona fuentes bibliográficas pertinentes para su trabajo.
+- Escoge información apropiada para apoyar puntos de vista.
+
+Saber hacer:
+- Identifica información relacionada con enfermedades prevenibles en textos expositivos orales y escritos de mediana extensión.
+- Formula preguntas sobre los métodos más comunes de prevención de una enfermedad propia del contexto.
+- Relata de manera oral los métodos de prevención de la enfermedad.
+- Presenta un plan de prevención de una enfermedad asignada a partir de hechos relevantes, detalles concretos y referencias.
+- Expresa, de manera oral, opiniones sobre los planes de prevención expuestos por los compañeros de la clase.
+
+Léxico:
+- Partes del cuerpo: abdomen, heart, back, kidney, liver, lung, backbone, skull
+- Enfermedades y síntomas: dengue, chikungunya, influenza (flu), malaria, mosquito bite, viral infection, muscle pain, fatigue, virus, parasite, anaemia, rash, nausea
+- Transiciones de efecto: therefore, consequently, accordingly, thus, hence, as a result
+
+Expresiones:
+- Para relacionar síntomas: Germs can spread diseases such as… · The flu is a contagious disease. · I am suffering from… · My doctor told me I have… · I am feeling sick.
+- Para citar: According to… (2000) · The author states… · The author suggests… · As… states…
+- Para introducir un tema: Today's topic is… · What I want to do today is… · What we are going to cover today is… · Today, I am going to talk about…
+- Para concluir: I tried to demonstrate… · In conclusion… · Now, to sum up… · I think this can be prevented by…
+
+Gramática:
+- Adverbios de frecuencia y secuencia
+- Imperativos: Take… · Drink… · Don't…
+- Modales: should, would, ought to, had better
+- Presente perfecto
+- Pasado simple
+
+Pronunciación:
+- Reconocer la terminación del pasado: /d/ vs /t/ vs /ɪd/ (played, walked, wanted)
+
+Discursivo:
+- Conectores de secuencia.
+
+Sociolingüístico / intercultural:
+- Habilidades para analizar, interpretar y relacionar.
+- Flexibilidad cognitiva.
+- Aprendizaje a través de la interacción.
+
+Evaluación para el aprendizaje:
+- Analizo la pertinencia de las fuentes y la información consultadas.
+- Tomo notas para preparar la campaña.
+- Evalúo la validez de las recomendaciones que voy a presentar.
+- Evalúo la metodología de trabajo en grupo y mi papel dentro de él.
+- Elaboro borradores de texto escrito como parte del proceso de escritura.
+
+Evaluación del aprendizaje:
+- Rúbrica para evaluar la campaña.
+- Rúbrica de evaluación de la presentación de la campaña.
+- Rúbrica de texto escrito.
+- Examen modular.
+
+### Módulo 4
+Eje: Democracia y paz
+Tema: Derechos ciudadanos
+Tiempo: 20–25 horas
+Nivel MCER: B1.1
+
+#### Contexto (adaptable)
+
+Meta: Generar conciencia sobre los derechos de los ciudadanos.
+Meta (inglés): Generate awareness about citizens' rights.
+
+Saber ser:
+- Reconoce sus derechos civiles como ciudadano.
+- Identifica su papel ciudadano en la comunidad.
+- Respeta los puntos de vista de los demás.
+- Expresa desacuerdos de manera respetuosa.
+
+Problema (ruta por problemas): ¿qué derechos tenemos y cuáles ejercemos de verdad en la comunidad?
+- En grupos de 3 o 4, los estudiantes identifican, comparan y evalúan los derechos ciudadanos que existen frente a los que ejercen los miembros de su comunidad.
+- Preparan una presentación oral que compara y evalúa cómo se ejercen esos derechos.
+- Producen textos orales y escritos con acciones para ejercerlos bien: *Do's & Don'ts*.
+- Papel del docente:
+  - Selecciona textos orales o escritos sobre el ejercicio de los derechos ciudadanos.
+  - Diseña actividades de análisis que lleven a los estudiantes a evaluar su papel como ciudadanos.
+  - Guía la comparación entre los derechos propuestos y los que se ejercen.
+  - Modela la presentación del análisis y la propuesta de acciones.
+  - Acompaña la escritura del texto argumentativo *Do's & Don'ts*.
+  - Evalúa con rúbricas compartidas desde el inicio.
+
+#### Núcleo de lengua
+
+Funciones de lengua:
+- Expresar opiniones sobre temas sociales.
+- Expresar acuerdos y desacuerdos relacionados con temas sociales.
+- Describir experiencias pasadas y planes futuros.
+- Dar y solicitar información sobre temas sociales.
+- Expresar acciones siguiendo una secuencia lógica.
+
+Objetivos:
+- Identificar puntos a favor y en contra en textos orales y escritos relacionados con temas sociales.
+- Producir textos argumentativos orales y escritos de mediana extensión sobre temas sociales.
+- Intercambiar información sobre temas sociales en un debate.
+
+Estándares (Guía 22, nivel B1.1, pp. 24–25):
+
+| Habilidad | Estándares |
+|---|---|
+| Escucha | 1, 5, 7, 10 |
+| Lectura | 4, 7, 8, 11 |
+| Escritura | 6, 7, 8 |
+| Monólogo | 3, 5, 6 |
+| Conversación | 1, 4, 6 |
+
+Saber:
+- Identifica información relacionada con derechos ciudadanos.
+- Reconoce vocabulario y expresiones relacionadas con derechos ciudadanos.
+- Selecciona fuentes bibliográficas pertinentes.
+- Escoge información apropiada para apoyar puntos de vista.
+
+Saber hacer:
+- Identifica información específica relacionada con derechos ciudadanos en textos orales y escritos.
+- Solicita información sobre los derechos ciudadanos ejercidos por sus familias.
+- Elabora un cuadro comparativo entre los derechos ciudadanos generales y los identificados por los compañeros de la clase.
+- Presenta acciones para generar conciencia sobre la importancia de conocer los derechos ciudadanos.
+- Expresa, de manera oral y con argumentos sólidos, opiniones sobre las acciones sugeridas por los compañeros de la clase.
+
+Léxico:
+- Derechos: right to vote freely, right to receive health and basic services, dignity and identity, civil disobedience
+
+Expresiones:
+- De ventajas y desventajas: One advantage could be… · The main disadvantage of this is… · The good point is… · The best part about… is…
+- Para presentar un proyecto: Today, we would like to present… · Good afternoon, our purpose today is… · My group members are… and I am…
+- Para explicar políticas: In the past, women could not vote… · The Government planned…
+
+Gramática:
+- Pasado simple
+- Pasado perfecto
+- Presente simple
+- Condicionales
+
+Pronunciación:
+- Reconocer palabras reducidas: going to → gonna · want to → wanna
+
+Discursivo:
+- Conectores secuenciales y lógicos.
+
+Sociolingüístico / intercultural:
+- Curiosidad y descubrimiento.
+- Aprendizaje a través de la interacción.
+- Conocimiento del impacto de la cultura y de los contextos situacionales, sociales e históricos.
+
+Evaluación para el aprendizaje:
+- Analizo la pertinencia y precisión de la información obtenida de fuentes bibliográficas y de mis compañeros.
+- Confirmo la pertinencia y validez de las fuentes bibliográficas usadas.
+- Analizo la calidad de mi justificación sobre las acciones sugeridas para el ejercicio adecuado de los derechos ciudadanos.
+- Realizo borradores de texto escrito como parte del proceso de escritura.
+- Tomo notas para dar mi opinión sobre las acciones presentadas por mis compañeros.
+
+Evaluación del aprendizaje:
+- Rúbrica de presentación oral.
+- Rúbrica de texto argumentativo.
+- Examen modular.
+
+---
+
+Notas de transcripción (9.°):
+- **Módulos 1 y 2, nivel de los estándares:** el PDF dice «Nivel MCER A2.1, Guía 22: pp. 20-21», pero los números citados solo existen en B1.1. Por ejemplo, Escritura 10: el A2.1 tiene 9 estándares de escritura y el B1.1 tiene 10. Además, el módulo es de nivel B1.1. Se corrigió a B1.1 (pp. 24-25), igual que los Módulos 3 y 4.
+- Módulos 3 y 4: el PDF les asigna exactamente los mismos estándares. Se respetó.
+- Módulo 1: «Modales of obligación» se corrigió a *modales de obligación*. Se quitaron unas comillas sueltas en las expresiones para sugerir. La meta en inglés «in daily life» se pasó a *on daily life*.
+- Módulo 2: el léxico «Opuestas» mezclaba plurales irregulares (woman / women) con opuestos (fair / unfair). Se separaron.
+- Módulo 3: «Chikunguya» se corrigió a *chikungunya*.
+- Módulo 4: «palabras reducidos» se corrigió a *palabras reducidas*, y «conectores secuenciales y lógicas» a *lógicos*.

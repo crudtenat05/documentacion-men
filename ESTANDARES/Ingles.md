@@ -202,3 +202,73 @@ Nota: el *Esquema Curricular Sugerido* (2016) usa este nivel para **8.°** («Ni
 7. Inicio, mantengo y cierro una conversación sencilla sobre un tema conocido. *(pág. 23 · ING-EBC-A2.2-CO-07 · 1, 2, 3)*
 
 Nota: en Lectura 5 el MEN no marcó competencia.
+
+## Grados 8.° a 9.° · Pre intermedio 1 (B1.1)
+
+Descripción del nivel: además de lo que logré en el nivel anterior, en este nivel leo y comprendo textos narrativos y descriptivos o narraciones y descripciones de diferentes fuentes sobre temas que me son familiares, y comprendo textos argumentativos cortos y sencillos. Cuando me hablan sobre lo que hago en la escuela o en mi tiempo libre, comprendo las ideas generales si el lenguaje es claro. Participo en conversaciones en las que expreso opiniones e intercambio información sobre temas personales o de mi vida diaria. Hago presentaciones breves para describir, narrar, justificar y explicar brevemente hechos y procesos, también mis sueños, esperanzas y ambiciones. Mi pronunciación es clara pero aún cometo errores y tengo acento extranjero. Escribo textos expositivos sobre temas de mi entorno y mis intereses, con una ortografía y puntuación aceptables. En mis redacciones uso el vocabulario y la gramática que conozco con cierta precisión, pero cuando trato temas que no conozco o expreso ideas complejas, cometo errores.
+
+Nota: el *Esquema Curricular Sugerido* (2016) usa este nivel para **9.°** («Nivel MCER B1.1, Guía 22: pp. 24-25»).
+
+### Escucha
+
+1. Sigo las instrucciones dadas en clase para realizar actividades académicas. *(pág. 24 · ING-EBC-B1.1-ES-01 · 2)*
+2. Entiendo lo que me dicen el profesor y mis compañeros en interacciones cotidianas dentro del aula, sin necesidad de repetición. *(pág. 24 · ING-EBC-B1.1-ES-02 · 2, 3)*
+3. Identifico ideas generales y específicas en textos orales, si tengo conocimiento del tema y del vocabulario utilizado. *(pág. 24 · ING-EBC-B1.1-ES-03 · 1, 2)*
+4. Reconozco los elementos de enlace de un texto oral para identificar su secuencia. *(pág. 24 · ING-EBC-B1.1-ES-04 · 2)*
+5. Muestro una actitud respetuosa y tolerante al escuchar a otros. *(pág. 24 · ING-EBC-B1.1-ES-05 · 3)*
+6. Identifico diferentes roles de los hablantes que participan en conversaciones de temas relacionados con mis intereses. *(pág. 24 · ING-EBC-B1.1-ES-06 · 2, 3)*
+7. Utilizo mi conocimiento general del mundo para comprender lo que escucho. *(pág. 24 · ING-EBC-B1.1-ES-07)*
+8. Infiero información específica a partir de un texto oral. *(pág. 24 · ING-EBC-B1.1-ES-08 · 3)*
+9. Identifico la información clave en conversaciones breves tomadas de la vida real, si están acompañadas por imágenes. *(pág. 24 · ING-EBC-B1.1-ES-09 · 2, 3)*
+10. Reconozco el propósito de diferentes tipos de textos que presentan mis compañeros en clase. *(pág. 24 · ING-EBC-B1.1-ES-10 · 2)*
+
+### Lectura
+
+1. Identifico iniciación, nudo y desenlace en una narración. *(pág. 24 · ING-EBC-B1.1-LE-01 · 2)*
+2. Reconozco el propósito de una descripción en textos narrativos de mediana extensión. *(pág. 24 · ING-EBC-B1.1-LE-02 · 2)*
+3. Identifico puntos a favor y en contra en un texto argumentativo sobre temas con los que estoy familiarizado. *(pág. 24 · ING-EBC-B1.1-LE-03 · 1, 2)*
+4. Comprendo relaciones de adición, contraste, orden temporal y espacial y causa-efecto entre enunciados sencillos. *(pág. 24 · ING-EBC-B1.1-LE-04 · 1, 2)*
+5. Identifico la recurrencia de ideas en un mismo texto. *(pág. 24 · ING-EBC-B1.1-LE-05 · 1, 2)*
+6. Identifico relaciones de significado expresadas en textos sobre temas que me son familiares. *(pág. 24 · ING-EBC-B1.1-LE-06 · 1, 2)*
+7. Represento, en forma gráfica, la información que encuentro en textos que comparan y contrastan objetos, animales y personas. *(pág. 24 · ING-EBC-B1.1-LE-07 · 1, 2)*
+8. Valoro la lectura como una actividad importante para todas las áreas de mi vida. *(pág. 24 · ING-EBC-B1.1-LE-08)*
+9. Comprendo la información implícita en textos relacionados con temas de mi interés. *(pág. 24 · ING-EBC-B1.1-LE-09 · 2)*
+10. Diferencio la estructura organizativa de textos descriptivos, narrativos y argumentativos. *(pág. 24 · ING-EBC-B1.1-LE-10 · 2)*
+11. Identifico elementos culturales presentes en textos sencillos. *(pág. 24 · ING-EBC-B1.1-LE-11 · 3)*
+
+### Escritura
+
+1. Escribo narraciones sobre experiencias personales y hechos a mi alrededor. *(pág. 25 · ING-EBC-B1.1-ESC-01 · 1, 2)*
+2. Escribo mensajes en diferentes formatos sobre temas de mi interés. *(pág. 25 · ING-EBC-B1.1-ESC-02 · 1, 2)*
+3. Diligencio efectivamente formatos con información personal. *(pág. 25 · ING-EBC-B1.1-ESC-03 · 2, 3)*
+4. Contesto, en forma escrita, preguntas relacionadas con textos que he leído. *(pág. 25 · ING-EBC-B1.1-ESC-04 · 1, 2)*
+5. Produzco textos sencillos con diferentes funciones (describir, narrar, argumentar) sobre temas personales y relacionados con otras asignaturas. *(pág. 25 · ING-EBC-B1.1-ESC-05 · 1, 2)*
+6. Parafraseo información que leo como parte de mis actividades académicas. *(pág. 25 · ING-EBC-B1.1-ESC-06 · 1, 2)*
+7. Organizo párrafos coherentes cortos, teniendo en cuenta elementos formales del lenguaje como ortografía y puntuación. *(pág. 25 · ING-EBC-B1.1-ESC-07 · 1, 2)*
+8. Uso planes representados en mapas o diagramas para desarrollar mis escritos. *(pág. 25 · ING-EBC-B1.1-ESC-08 · 2)*
+9. Ejemplifico mis puntos de vista sobre los temas que escribo. *(pág. 25 · ING-EBC-B1.1-ESC-09 · 1, 2)*
+10. Edito mis escritos en clase, teniendo en cuenta reglas de ortografía, adecuación del vocabulario y estructuras gramaticales. *(pág. 25 · ING-EBC-B1.1-ESC-10 · 1, 2, 3)*
+
+### Monólogo
+
+1. Hago presentaciones cortas y ensayadas sobre temas cotidianos y personales. *(pág. 25 · ING-EBC-B1.1-MO-01 · 1, 2)*
+2. Narro historias cortas enlazando mis ideas de manera apropiada. *(pág. 25 · ING-EBC-B1.1-MO-02 · 2)*
+3. Expreso mi opinión sobre asuntos de interés general para mí y mis compañeros. *(pág. 25 · ING-EBC-B1.1-MO-03 · 1, 2, 3)*
+4. Explico y justifico brevemente mis planes y acciones. *(pág. 25 · ING-EBC-B1.1-MO-04 · 1, 2)*
+5. Hago descripciones sencillas sobre diversos asuntos cotidianos de mi entorno. *(pág. 25 · ING-EBC-B1.1-MO-05 · 1, 2)*
+6. Hago exposiciones ensayadas y breves sobre algún tema académico de mi interés. *(pág. 25 · ING-EBC-B1.1-MO-06 · 2)*
+7. Expreso mis opiniones, gustos y preferencias sobre temas que he trabajado en clase, utilizando estrategias para monitorear mi pronunciación. *(pág. 25 · ING-EBC-B1.1-MO-07 · 1, 2, 3)*
+8. Uso un plan para exponer temas relacionados con el entorno académico de otras asignaturas. *(pág. 25 · ING-EBC-B1.1-MO-08 · 2)*
+
+### Conversación
+
+1. Participo en una conversación cuando mi interlocutor me da el tiempo para pensar mis respuestas. *(pág. 25 · ING-EBC-B1.1-CO-01 · 1, 2)*
+2. Converso con mis compañeros y mi profesor sobre experiencias pasadas y planes futuros. *(pág. 25 · ING-EBC-B1.1-CO-02 · 1, 2)*
+3. Me arriesgo a participar en una conversación con mis compañeros y mi profesor. *(pág. 25 · ING-EBC-B1.1-CO-03 · 2, 3)*
+4. Me apoyo en mis conocimientos generales del mundo para participar en una conversación. *(pág. 25 · ING-EBC-B1.1-CO-04)*
+5. Interactúo con mis compañeros y profesor para tomar decisiones sobre temas específicos que conozco. *(pág. 25 · ING-EBC-B1.1-CO-05)*
+6. Uso lenguaje formal o informal en juegos de rol improvisados, según el contexto. *(pág. 25 · ING-EBC-B1.1-CO-06 · 2, 3)*
+7. Monitoreo la toma de turnos entre los participantes en discusiones sobre temas preparados con anterioridad. *(pág. 25 · ING-EBC-B1.1-CO-07 · 1, 2, 3)*
+8. Demuestro que reconozco elementos de la cultura extranjera y los relaciono con mi cultura. *(pág. 25 · ING-EBC-B1.1-CO-08 · 3)*
+
+Nota: en Escucha 7, Lectura 8 y Conversación 4 y 5 el MEN no marcó competencia.
