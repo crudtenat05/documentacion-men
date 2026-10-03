@@ -50,10 +50,24 @@ python3 extraccion/lenguaje_estandares.py
 python3 extraccion/lenguaje_dba.py
 python3 extraccion/verificar.py lenguaje
 python3 extraccion/generar_salidas.py lenguaje
+
+python3 extraccion/naturales_dba.py
+python3 extraccion/verificar.py ciencias_naturales
+python3 extraccion/salidas_dba.py ciencias_naturales
+
+python3 extraccion/sociales_dba.py
+python3 extraccion/verificar.py ciencias_sociales
+python3 extraccion/salidas_dba.py ciencias_sociales
 ```
 
 `extraccion/dba_men.py` es el extractor común de los DBA del MEN (serie 2016, dos columnas por página);
-cada área lo invoca con su PDF y su rango de páginas.
+cada área lo invoca con su PDF y su rango de páginas, la letra con que el PDF codifica la viñeta de las
+evidencias y, si hace falta, el corte de columnas por página y el grado por numeración (cuando el
+encabezado «Grado N» no está en todas las páginas).
+
+Los defectos de tipografía del PDF que la extracción no puede resolver sola (espacios dentro de una palabra,
+una ligadura «fi» que no está en el texto interno, un subíndice desplazado) se corrigen en el programa del
+área con una lista explícita y quedan registrados en `datos/<area>/correcciones_tipograficas.json`.
 
 ## Códigos
 

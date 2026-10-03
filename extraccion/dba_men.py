@@ -20,23 +20,39 @@ Y_MIN, Y_MAX = 100, 780          # fuera de este rango: encabezado y pie de pág
 
 
 def grado_de_pagina(ws):
-    cab = sorted([w for w in ws if w[1] < 70], key=lambda w: w[0])
-    for i, w in enumerate(cab):
-        if w[4] == 'Grado':
-            resto = ''.join(x[4] for x in cab[i + 1:i + 3])
-            m = re.match(r'(\d{1,2})', resto)
-            if m:
-                return int(m.group(1))
-    return None
+    """Grado del encabezado («… • Grado 3º»). Algunos PDF parten la palabra («G» «rado»)."""
+    cab = sorted([w for w in ws if w[1] < 70 and w[3] - w[1] >= 10], key=lambda w: w[0])  # sin adornos pequeños
+    m = re.search(r'Grado\s*(\d{1,2})', ' '.join(w[4] for w in cab).replace('G rado', 'Grado'))
+    return int(m.group(1)) if m else None
 
 
-def flujo(PDF, PRIMERA, ULTIMA):
+def flujo(PDF, PRIMERA, ULTIMA, VINETA='m', corte=CORTE_COLUMNA):
     """Líneas del documento en orden de lectura: página por página, columna izquierda y luego derecha."""
     salida, grado = [], None
     for p in range(PRIMERA, ULTIMA + 1):
         ws = palabras(PDF, p)
-        grado = grado_de_pagina(ws) or grado
-        for col, (x0, x1) in enumerate([(0, CORTE_COLUMNA), (CORTE_COLUMNA, 10_000)]):
+        propio = grado_de_pagina(ws)
+        grado = propio or grado
+        c = corte
+        if corte == 'auto':
+            # fuera la rosa de los vientos decorativa de Sociales: rumbos (0–330) y letras cardinales sueltas, en tipografía
+            # de hasta 10 puntos; el texto del documento mide 12 o 13
+            ws = [w for w in ws if w[3] - w[1] >= 6 and not (re.fullmatch(r'[0-9NSOE]{1,3}', w[4]) and w[3] - w[1] <= 10.5)]
+            ws = [w for w in ws if not (w[4].isdigit() and w[1] > 755)]   # número de página al pie
+            # la columna derecha empieza donde está su número de DBA o su «Evidencias»; varía por página
+            # el corte es el centro del canal vacío entre columnas: la franja vertical que ninguna palabra cruza
+            cuerpo = [w for w in ws if Y_MIN < w[1] < Y_MAX]
+            libres = [x for x in range(260, 380) if not any(w[0] - 1 < x < w[2] + 1 for w in cuerpo)]
+            if libres:
+                tramos, ini = [], libres[0]
+                for a_, b_ in zip(libres, libres[1:] + [None]):
+                    if b_ != a_ + 1:
+                        tramos.append((ini, a_)); ini = b_
+                x0, x1 = max(tramos, key=lambda t: t[1] - t[0])
+                c = (x0 + x1) / 2
+            else:
+                c = 310
+        for col, (x0, x1) in enumerate([(0, c), (c, 10_000)]):
             cw = [w for w in ws if x0 <= w[0] < x1 and Y_MIN < w[1] < Y_MAX]
             numeros = [w for w in cw if re.fullmatch(r'\d{1,2}\.', w[4]) and w[3] - w[1] > 20]
             resto = [w for w in cw if w not in numeros]
@@ -66,7 +82,7 @@ def flujo(PDF, PRIMERA, ULTIMA):
                             limpia.append(w)
                 if not limpia:
                     continue
-                salida.append({'pagina': p, 'col': col, 'y': y, 'x': limpia[0][0], 'grado': grado,
+                salida.append({'pagina': p, 'col': col, 'y': y, 'x': limpia[0][0], 'grado': grado, 'encabezado': propio is not None,
                                'texto': tipografia(texto_linea(limpia)), 'numero': None, 'nota': es_nota})
             for n in numeros:  # el número se ancla a la línea más cercana verticalmente
                 cand = [l for l in salida if l['pagina'] == p and l['col'] == col]
@@ -76,8 +92,9 @@ def flujo(PDF, PRIMERA, ULTIMA):
     return salida
 
 
-def extraer(PDF, PRIMERA, ULTIMA, prefijo, area):
-    L = flujo(PDF, PRIMERA, ULTIMA)
+def extraer(PDF, PRIMERA, ULTIMA, prefijo, area, VINETA='m', por_reinicio=False, corte=CORTE_COLUMNA):
+    """VINETA: letra con que el PDF codifica la viñeta de las evidencias (m en Matemáticas y Lenguaje)."""
+    L = flujo(PDF, PRIMERA, ULTIMA, corte=corte)
     # 1) enunciado: líneas contiguas al número, hacia arriba y hacia abajo, hasta «Evidencias de aprendizaje»
     rol = [None] * len(L)
     for i, l in enumerate(L):
@@ -85,10 +102,10 @@ def extraer(PDF, PRIMERA, ULTIMA, prefijo, area):
             continue
         a = i
         while a - 1 >= 0 and L[a - 1]['pagina'] == l['pagina'] and L[a - 1]['col'] == l['col'] \
-                and L[a]['y'] - L[a - 1]['y'] < 16 and not re.match(r'(Evidencias|Ejemplo|m ?[A-ZÁÉÍÓÚÑ])', L[a - 1]['texto']):
+                and L[a]['y'] - L[a - 1]['y'] < 16 and not re.match(r'(Evidencias|Ejemplo|' + VINETA + r' ?[A-ZÁÉÍÓÚÑ])', L[a - 1]['texto']):
             a -= 1
         b = i
-        while b + 1 < len(L) and not L[b + 1]['texto'].startswith('Evidencias de aprendizaje'):
+        while b + 1 < len(L) and not L[b + 1]['texto'].startswith('Evidencias de aprendi'):
             b += 1
         for k in range(a, b + 1):
             rol[k] = ('enunciado', l['numero'])
@@ -97,7 +114,7 @@ def extraer(PDF, PRIMERA, ULTIMA, prefijo, area):
     for i, l in enumerate(L):
         if rol[i] and rol[i][0] == 'enunciado':
             if actual is None or actual['numero'] != rol[i][1] or actual['grado'] != l['grado'] or seccion != 'enunciado':
-                actual = {'grado': l['grado'], 'numero': rol[i][1], 'enunciado': [], 'evidencias': [], 'ejemplo': [], 'notas': [],
+                actual = {'grado': l['grado'], 'encabezado': l['encabezado'], 'numero': rol[i][1], 'enunciado': [], 'evidencias': [], 'ejemplo': [], 'notas': [],
                           'pagina_pdf': l['pagina']}
                 dbas.append(actual)
             actual['enunciado'].append(l['texto'])
@@ -112,14 +129,14 @@ def extraer(PDF, PRIMERA, ULTIMA, prefijo, area):
                 actual['notas'].append([(l['pagina'], l['col']), [l['texto']]])
             continue
         t = l['texto']
-        if t.startswith('Evidencias de aprendizaje'):
+        if t.startswith('Evidencias de aprendi'):   # a veces el PDF parte la palabra («aprendi zaje»)
             seccion = 'evidencias'
         elif t.startswith('Ejemplo'):
             seccion = 'ejemplo'
             if t.strip() != 'Ejemplo':
                 actual['ejemplo'].append(t[len('Ejemplo'):].strip())
         elif seccion == 'evidencias':
-            vineta = re.match(r'm ?(?=[A-ZÁÉÍÓÚÑ¿¡(])', t)  # la viñeta «m» puede venir pegada a la palabra
+            vineta = re.match(VINETA + r'\s*(?=[A-ZÁÉÍÓÚÑ¿¡(])', t)  # la viñeta «m» puede venir pegada a la palabra
             previa = L[i - 1] if i else None
             salto = previa and previa['pagina'] == l['pagina'] and previa['col'] == l['col'] and l['y'] - previa['y'] > 20
             if vineta:
@@ -130,6 +147,18 @@ def extraer(PDF, PRIMERA, ULTIMA, prefijo, area):
                 actual['evidencias'][-1].append(t)
         elif seccion == 'ejemplo':
             actual['ejemplo'].append(t)
+    if por_reinicio:
+        # El encabezado «Grado N» solo está en algunas páginas: el grado avanza cuando la numeración vuelve
+        # a empezar (aparece un DBA cuyo número ya existe en el grado actual). Los encabezados que sí están
+        # sirven de control: si no coinciden, se detiene la extracción.
+        grado, vistos = dbas[0]['grado'], set()
+        for d in dbas:
+            if d['numero'] in vistos:
+                grado, vistos = grado + 1, set()
+            vistos.add(d['numero'])
+            if d['grado'] is not None and d['grado'] != grado and d.get('encabezado'):
+                raise SystemExit(f"Grado inconsistente en la página {d['pagina_pdf']}: encabezado {d['grado']}, numeración {grado}")
+            d['grado'] = grado
     salida, cortes = [], []
     for d in dbas:
         cod = f"{prefijo}-DBA-{d['grado']}-{d['numero']:02d}"

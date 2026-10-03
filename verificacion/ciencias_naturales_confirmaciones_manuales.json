@@ -1,0 +1,28 @@
+[
+ {
+  "codigo": "CN-DBA-4-05-E3",
+  "pagina_pdf": 16,
+  "razon": "La evidencia empieza al pie de la columna derecha de la página 16 y continúa en la 17; entre ambas el flujo del PDF intercala el encabezado. Además se conserva el guion de «arena-gravilla», que el PDF parte al final de línea.",
+  "acepta_no_literal": true
+ },
+ {
+  "codigo": "CN-DBA-6-03-E2",
+  "pagina_pdf": 22,
+  "razon": "Símbolo «H2O»: el subíndice 2 es un carácter pequeño en otra línea; se ubicó en su lugar, como se ve en la página."
+ },
+ {
+  "codigo": "CN-DBA-6-03-E4",
+  "pagina_pdf": 22,
+  "razon": "La evidencia termina al pie de la columna izquierda; en el flujo del PDF sigue el texto del ejemplo de la página siguiente."
+ },
+ {
+  "codigo": "CN-DBA-8-04-E4",
+  "pagina_pdf": 28,
+  "razon": "La evidencia termina al pie de la columna derecha; en el flujo del PDF sigue el ejemplo del DBA vecino."
+ },
+ {
+  "codigo": "CN-DBA-9-04-E4",
+  "pagina_pdf": 31,
+  "razon": "La evidencia termina al pie de la columna derecha; en el flujo del PDF sigue la continuación de un texto de la columna vecina."
+ }
+]

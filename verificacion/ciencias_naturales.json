@@ -1,0 +1,1885 @@
+{
+ "resumen": {
+  "area": "ciencias_naturales",
+  "fecha": "2026-10-03",
+  "total": 233,
+  "literales": 233,
+  "completos_automatico": 229,
+  "completos_manual": 4,
+  "pendientes": [],
+  "fuentes": {
+   "dba-naturales.pdf": "3156475f8a0cc988080dc71c49b722f9f125726591adafd66f45a78d5e8a3f4d"
+  }
+ },
+ "textos": [
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-1-01",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-1-01-E1",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-1-01-E2",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-1-01-E3",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-1-01-E4",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-1-02",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-1-02-E1",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-1-02-E2",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-1-02-E3",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-1-02-E4",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-1-03",
+   "pagina_pdf": 9,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-1-03-E1",
+   "pagina_pdf": 9,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-1-03-E2",
+   "pagina_pdf": 9,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-1-03-E3",
+   "pagina_pdf": 9,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-1-03-E4",
+   "pagina_pdf": 9,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-1-04",
+   "pagina_pdf": 9,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-1-04-E1",
+   "pagina_pdf": 9,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-1-04-E2",
+   "pagina_pdf": 9,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-1-04-E3",
+   "pagina_pdf": 9,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-1-04-E4",
+   "pagina_pdf": 9,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-2-01",
+   "pagina_pdf": 10,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-2-01-E1",
+   "pagina_pdf": 10,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-2-01-E2",
+   "pagina_pdf": 10,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-2-01-E3",
+   "pagina_pdf": 10,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-2-02",
+   "pagina_pdf": 10,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-2-02-E1",
+   "pagina_pdf": 10,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-2-02-E2",
+   "pagina_pdf": 10,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-2-02-E3",
+   "pagina_pdf": 10,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-2-03",
+   "pagina_pdf": 11,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-2-03-E1",
+   "pagina_pdf": 11,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-2-03-E2",
+   "pagina_pdf": 11,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-2-03-E3",
+   "pagina_pdf": 11,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-2-03-E4",
+   "pagina_pdf": 11,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-2-04",
+   "pagina_pdf": 11,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-2-04-E1",
+   "pagina_pdf": 11,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-2-04-E2",
+   "pagina_pdf": 11,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-3-01",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-3-01-E1",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-3-01-E2",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-3-01-E3",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-3-02",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-3-02-E1",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-3-02-E2",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-3-02-E3",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-3-03",
+   "pagina_pdf": 13,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-3-03-E1",
+   "pagina_pdf": 13,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-3-03-E2",
+   "pagina_pdf": 13,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-3-03-E3",
+   "pagina_pdf": 13,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-3-03-E4",
+   "pagina_pdf": 13,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-3-04",
+   "pagina_pdf": 13,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-3-04-E1",
+   "pagina_pdf": 13,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-3-04-E2",
+   "pagina_pdf": 13,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-3-04-E3",
+   "pagina_pdf": 13,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-3-05",
+   "pagina_pdf": 14,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-3-05-E1",
+   "pagina_pdf": 14,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-3-05-E2",
+   "pagina_pdf": 14,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-3-05-E3",
+   "pagina_pdf": 14,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-3-06",
+   "pagina_pdf": 14,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-3-06-E1",
+   "pagina_pdf": 14,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-3-06-E2",
+   "pagina_pdf": 14,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-3-06-E3",
+   "pagina_pdf": 14,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-3-06-E4",
+   "pagina_pdf": 14,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-4-01",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-4-01-E1",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-4-01-E2",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-4-01-E3",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-4-01-E4",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-4-02",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-4-02-E1",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-4-02-E2",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-4-02-E3",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-4-02-E4",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-4-03",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-4-03-E1",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-4-03-E2",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-4-03-E3",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-4-04",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-4-04-E1",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-4-04-E2",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-4-05",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-4-05-E1",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-4-05-E2",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-4-05-E3",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": false,
+   "completo": false,
+   "completo_por": "revisión manual",
+   "literal_por": "revisión manual"
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-4-05-E4",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-4-06",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-4-06-E1",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-4-06-E2",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-4-06-E3",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-4-07",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-4-07-E1",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-4-07-E2",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-4-07-E3",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-5-01",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-5-01-E1",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-5-01-E2",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-5-01-E3",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-5-02",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-5-02-E1",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-5-02-E2",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-5-02-E3",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-5-02-E4",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-5-03",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-5-03-E1",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-5-03-E2",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-5-03-E3",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-5-04",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-5-04-E1",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-5-04-E2",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-5-04-E3",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-5-04-E4",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-6-01",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-6-01-E1",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-6-01-E2",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-6-02",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-6-02-E1",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-6-02-E2",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-6-02-E3",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-6-03",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-6-03-E1",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-6-03-E2",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-6-03-E3",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-6-03-E4",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": false,
+   "completo_por": "revisión manual"
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-6-04",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-6-04-E1",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-6-04-E2",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-6-04-E3",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-6-04-E4",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-6-05",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-6-05-E1",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-6-05-E2",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-6-05-E3",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-7-01",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-7-01-E1",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-7-01-E2",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-7-01-E3",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-7-02",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-7-02-E1",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-7-02-E2",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-7-02-E3",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-7-03",
+   "pagina_pdf": 25,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-7-03-E1",
+   "pagina_pdf": 25,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-7-03-E2",
+   "pagina_pdf": 25,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-7-03-E3",
+   "pagina_pdf": 25,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-7-04",
+   "pagina_pdf": 25,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-7-04-E1",
+   "pagina_pdf": 25,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-7-04-E2",
+   "pagina_pdf": 25,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-7-04-E3",
+   "pagina_pdf": 25,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-7-04-E4",
+   "pagina_pdf": 25,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-8-01",
+   "pagina_pdf": 27,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-8-01-E1",
+   "pagina_pdf": 27,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-8-01-E2",
+   "pagina_pdf": 27,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-8-01-E3",
+   "pagina_pdf": 27,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-8-01-E4",
+   "pagina_pdf": 27,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-8-02",
+   "pagina_pdf": 27,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-8-02-E1",
+   "pagina_pdf": 27,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-8-02-E2",
+   "pagina_pdf": 27,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-8-02-E3",
+   "pagina_pdf": 27,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-8-02-E4",
+   "pagina_pdf": 27,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-8-03",
+   "pagina_pdf": 28,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-8-03-E1",
+   "pagina_pdf": 28,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-8-03-E2",
+   "pagina_pdf": 28,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-8-03-E3",
+   "pagina_pdf": 28,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-8-04",
+   "pagina_pdf": 28,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-8-04-E1",
+   "pagina_pdf": 28,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-8-04-E2",
+   "pagina_pdf": 28,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-8-04-E3",
+   "pagina_pdf": 28,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-8-04-E4",
+   "pagina_pdf": 28,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": false,
+   "completo_por": "revisión manual"
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-8-05",
+   "pagina_pdf": 29,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-8-05-E1",
+   "pagina_pdf": 29,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-8-05-E2",
+   "pagina_pdf": 29,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-8-05-E3",
+   "pagina_pdf": 29,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-8-05-E4",
+   "pagina_pdf": 29,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-9-01",
+   "pagina_pdf": 30,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-9-01-E1",
+   "pagina_pdf": 30,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-9-01-E2",
+   "pagina_pdf": 30,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-9-01-E3",
+   "pagina_pdf": 30,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-9-02",
+   "pagina_pdf": 30,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-9-02-E1",
+   "pagina_pdf": 30,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-9-02-E2",
+   "pagina_pdf": 30,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-9-02-E3",
+   "pagina_pdf": 30,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-9-03",
+   "pagina_pdf": 31,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-9-03-E1",
+   "pagina_pdf": 31,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-9-03-E2",
+   "pagina_pdf": 31,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-9-03-E3",
+   "pagina_pdf": 31,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-9-03-E4",
+   "pagina_pdf": 31,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-9-04",
+   "pagina_pdf": 31,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-9-04-E1",
+   "pagina_pdf": 31,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-9-04-E2",
+   "pagina_pdf": 31,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-9-04-E3",
+   "pagina_pdf": 31,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-9-04-E4",
+   "pagina_pdf": 31,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": false,
+   "completo_por": "revisión manual"
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-9-05",
+   "pagina_pdf": 32,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-9-05-E1",
+   "pagina_pdf": 32,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-9-05-E2",
+   "pagina_pdf": 32,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-9-05-E3",
+   "pagina_pdf": 32,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-9-06",
+   "pagina_pdf": 33,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-9-06-E1",
+   "pagina_pdf": 33,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-9-06-E2",
+   "pagina_pdf": 33,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-9-06-E3",
+   "pagina_pdf": 33,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-9-06-E4",
+   "pagina_pdf": 33,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-10-01",
+   "pagina_pdf": 34,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-10-01-E1",
+   "pagina_pdf": 34,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-10-01-E2",
+   "pagina_pdf": 34,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-10-01-E3",
+   "pagina_pdf": 34,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-10-02",
+   "pagina_pdf": 34,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-10-02-E1",
+   "pagina_pdf": 34,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-10-02-E2",
+   "pagina_pdf": 34,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-10-03",
+   "pagina_pdf": 35,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-10-03-E1",
+   "pagina_pdf": 35,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-10-03-E2",
+   "pagina_pdf": 35,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-10-03-E3",
+   "pagina_pdf": 35,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-10-03-E4",
+   "pagina_pdf": 35,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-10-04",
+   "pagina_pdf": 35,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-10-04-E1",
+   "pagina_pdf": 35,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-10-04-E2",
+   "pagina_pdf": 35,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-10-04-E3",
+   "pagina_pdf": 35,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-11-01",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-11-01-E1",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-11-01-E2",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-11-01-E3",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-11-01-E4",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-11-02",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-11-02-E1",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-11-02-E2",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-11-02-E3",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-11-03",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-11-03-E1",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-11-03-E2",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-11-03-E3",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-11-03-E4",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CN-DBA-11-04",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-11-04-E1",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-11-04-E2",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CN-DBA-11-04-E3",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/dba-naturales.pdf",
+   "literal": true,
+   "completo": true
+  }
+ ]
+}

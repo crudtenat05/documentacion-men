@@ -25,7 +25,10 @@ import unicodedata
 from datetime import date
 
 SIGUIENTES = ('•', 'm', 'Evidenciasdeaprendizaje', 'Ejemplo', 'PENSAMIENTO', 'Matemáticas', 'MatematicasDBA',
-              'Derechos', 'Nota', 'Estándares', 'Paralocual', 'Lenguaje', 'LENGUAJE')
+              'Derechos', 'Nota', 'Estándares', 'Paralocual', 'Lenguaje', 'LENGUAJE', 'Ciencias')
+# Viñeta de evidencias propia de cada PDF (en Matemáticas y Lenguaje es «m», ya incluida arriba)
+VINETAS = {'ciencias_naturales': 'q', 'ciencias_sociales': 'l'}
+AREA = None
 
 
 def compacto(s):
@@ -64,7 +67,8 @@ def completo(texto, fuente, inicios=()):
         while i >= 0:
             despues = f[i + len(t):i + len(t) + 40]
             if (despues.startswith(SIGUIENTES) or re.match(r'\d', despues) or despues == ''
-                    or re.match(r'[A-ZÁÉÍÓÚÑ]{4,}', despues) or any(despues.startswith(x) for x in inicios)):
+                    or re.match(r'[A-ZÁÉÍÓÚÑ]{4,}', despues) or any(despues.startswith(x) for x in inicios)
+                    or (AREA in VINETAS and re.match(VINETAS[AREA] + r'[A-ZÁÉÍÓÚÑ¿¡(]', despues))):
                 return True
             i = f.find(t, i + 1)
     return False
@@ -80,6 +84,8 @@ def sha256(ruta):
 
 def textos(area):
     for archivo, tipo in [('estandares.json', 'Estándar'), ('dba.json', 'DBA')]:
+        if not os.path.exists(f'datos/{area}/{archivo}'):   # áreas con DBA extraídos y estándares pendientes
+            continue
         for d in json.load(open(f'datos/{area}/{archivo}', encoding='utf-8')):
             pdf = f"fuentes/men/{d['fuente']}"
             yield tipo, d['codigo'], d.get('texto') or d.get('enunciado'), pdf, d['pagina_pdf']
@@ -90,6 +96,8 @@ def textos(area):
 
 
 def main(area):
+    global AREA
+    AREA = area
     fuentes, filas = {}, []
     todos = list(textos(area))
     inicios = {pdf: {compacto(t)[:15] for _, _, t, p, _ in todos if p == pdf} for _, _, _, pdf, _ in todos}
@@ -103,7 +111,10 @@ def main(area):
     for f in filas:
         if not f['completo'] and f['codigo'] in manuales:
             f['completo_por'] = 'revisión manual'
-    no_literales = [f for f in filas if not f['literal']]
+    for f in filas:   # una corrección tipográfica registrada (p. ej. un guion que el PDF parte al final de línea)
+        if not f['literal'] and manuales.get(f['codigo'], {}).get('acepta_no_literal'):
+            f['literal_por'] = 'revisión manual'
+    no_literales = [f for f in filas if not f['literal'] and 'literal_por' not in f]
     sin_frontera = [f for f in filas if not f['completo'] and 'completo_por' not in f]
     resumen = {'area': area, 'fecha': date.today().isoformat(), 'total': len(filas),
                'literales': len(filas) - len(no_literales),

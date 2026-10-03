@@ -10,8 +10,8 @@ Todos traen texto incrustado (no son escaneados), por lo que la extracción no r
 | `dba-ingles.pdf` | MEN | _pendiente de ficha_ |  | 36 | `623646ed1bb7bfa8…` | Sin procesar |
 | `dba-lenguaje.pdf` | MEN | Derechos Básicos de Aprendizaje · Lenguaje · V.2 (ISBN 978-958-691-924-1; Universidad de Antioquia, contrato 0803 de 2016) | 2016 | 56 | `9918e0e7f44121d3…` | Procesado: `datos/lenguaje/` |
 | `dba-matematicas.pdf` | MEN | Derechos Básicos de Aprendizaje · Matemáticas · V.2 (ISBN 978-958-691-925-8; Universidad de Antioquia, contrato 0803 de 2016) | 2016 | 88 | `72f23359840f31d5…` | Procesado: `datos/matematicas/` |
-| `dba-naturales.pdf` | MEN | _pendiente de ficha_ |  | 44 | `3156475f8a0cc988…` | Sin procesar |
-| `dba-sociales.pdf` | MEN | _pendiente de ficha_ |  | 52 | `f816ba011a0c6041…` | Sin procesar |
+| `dba-naturales.pdf` | MEN | Derechos Básicos de Aprendizaje · Ciencias Naturales · V.1 | 2016 | 44 | `3156475f8a0cc988…` | Procesado: `datos/ciencias_naturales/` (DBA) |
+| `dba-sociales.pdf` | MEN | Derechos Básicos de Aprendizaje · Ciencias Sociales · V.1 | 2016 | 52 | `f816ba011a0c6041…` | Procesado: `datos/ciencias_sociales/` (DBA) |
 | `dba-transicion-y-primaria_ingles.pdf` | MEN | _pendiente de ficha_ |  | 15 | `9f5dba10ef169fd8…` | Sin procesar |
 | `estandares-ciencias-sociales-naturales.pdf` | MEN | _pendiente de ficha_ |  | 52 | `29ebf9e8bf099afa…` | Sin procesar |
 | `estandares-competencias-ciudadanas.pdf` | MEN | _pendiente de ficha_ |  | 37 | `6b87688895106515…` | Sin procesar |
