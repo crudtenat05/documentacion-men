@@ -58,6 +58,10 @@ python3 extraccion/salidas_dba.py ciencias_naturales
 python3 extraccion/sociales_dba.py
 python3 extraccion/verificar.py ciencias_sociales
 python3 extraccion/salidas_dba.py ciencias_sociales
+
+python3 extraccion/ingles_dba.py          # 6.° a 11.° y, con ingles_primaria_dba.py, Transición a 5.°
+python3 extraccion/verificar.py ingles
+python3 extraccion/salidas_dba.py ingles
 ```
 
 `extraccion/dba_men.py` es el extractor común de los DBA del MEN (serie 2016, dos columnas por página);

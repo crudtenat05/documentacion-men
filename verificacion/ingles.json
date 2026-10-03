@@ -1,0 +1,585 @@
+{
+ "resumen": {
+  "area": "ingles",
+  "fecha": "2026-10-03",
+  "total": 71,
+  "literales": 71,
+  "completos_automatico": 71,
+  "completos_manual": 0,
+  "pendientes": [],
+  "fuentes": {
+   "dba-transicion-y-primaria_ingles.pdf": "9f5dba10ef169fd88afae060826bdc6a596948bf0cea8267dcde9cfa0d28254a",
+   "dba-ingles.pdf": "623646ed1bb7bfa82d4e99e44c52a35065456b23bebb7c12bcf2596c5fca6cf0"
+  }
+ },
+ "textos": [
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-0-01",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-transicion-y-primaria_ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-0-02",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-transicion-y-primaria_ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-0-03",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-transicion-y-primaria_ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-0-04",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-transicion-y-primaria_ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-1-01",
+   "pagina_pdf": 9,
+   "fuente": "fuentes/men/dba-transicion-y-primaria_ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-1-02",
+   "pagina_pdf": 9,
+   "fuente": "fuentes/men/dba-transicion-y-primaria_ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-1-03",
+   "pagina_pdf": 9,
+   "fuente": "fuentes/men/dba-transicion-y-primaria_ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-1-04",
+   "pagina_pdf": 9,
+   "fuente": "fuentes/men/dba-transicion-y-primaria_ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-1-05",
+   "pagina_pdf": 9,
+   "fuente": "fuentes/men/dba-transicion-y-primaria_ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-2-01",
+   "pagina_pdf": 10,
+   "fuente": "fuentes/men/dba-transicion-y-primaria_ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-2-02",
+   "pagina_pdf": 10,
+   "fuente": "fuentes/men/dba-transicion-y-primaria_ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-2-03",
+   "pagina_pdf": 10,
+   "fuente": "fuentes/men/dba-transicion-y-primaria_ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-2-04",
+   "pagina_pdf": 10,
+   "fuente": "fuentes/men/dba-transicion-y-primaria_ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-3-01",
+   "pagina_pdf": 11,
+   "fuente": "fuentes/men/dba-transicion-y-primaria_ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-3-02",
+   "pagina_pdf": 11,
+   "fuente": "fuentes/men/dba-transicion-y-primaria_ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-3-03",
+   "pagina_pdf": 11,
+   "fuente": "fuentes/men/dba-transicion-y-primaria_ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-3-04",
+   "pagina_pdf": 11,
+   "fuente": "fuentes/men/dba-transicion-y-primaria_ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-4-01",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-transicion-y-primaria_ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-4-02",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-transicion-y-primaria_ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-4-03",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-transicion-y-primaria_ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-4-04",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-transicion-y-primaria_ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-5-01",
+   "pagina_pdf": 13,
+   "fuente": "fuentes/men/dba-transicion-y-primaria_ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-5-02",
+   "pagina_pdf": 13,
+   "fuente": "fuentes/men/dba-transicion-y-primaria_ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-5-03",
+   "pagina_pdf": 13,
+   "fuente": "fuentes/men/dba-transicion-y-primaria_ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-5-04",
+   "pagina_pdf": 13,
+   "fuente": "fuentes/men/dba-transicion-y-primaria_ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-6-01",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-6-02",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-6-03",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-6-04",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-6-05",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-6-06",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-6-07",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-6-08",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-7-01",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-7-02",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-7-03",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-7-04",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-7-05",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-7-06",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-7-07",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-8-01",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-8-02",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-8-03",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-8-04",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-8-05",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-8-06",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-8-07",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-8-08",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-9-01",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-9-02",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-9-03",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-9-04",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-9-05",
+   "pagina_pdf": 25,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-9-06",
+   "pagina_pdf": 25,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-9-07",
+   "pagina_pdf": 25,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-9-08",
+   "pagina_pdf": 25,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-10-01",
+   "pagina_pdf": 27,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-10-02",
+   "pagina_pdf": 27,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-10-03",
+   "pagina_pdf": 27,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-10-04",
+   "pagina_pdf": 28,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-10-05",
+   "pagina_pdf": 28,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-10-06",
+   "pagina_pdf": 28,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-10-07",
+   "pagina_pdf": 28,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-11-01",
+   "pagina_pdf": 30,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-11-02",
+   "pagina_pdf": 30,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-11-03",
+   "pagina_pdf": 30,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-11-04",
+   "pagina_pdf": 31,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-11-05",
+   "pagina_pdf": 31,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-11-06",
+   "pagina_pdf": 32,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-11-07",
+   "pagina_pdf": 32,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "ING-DBA-11-08",
+   "pagina_pdf": 32,
+   "fuente": "fuentes/men/dba-ingles.pdf",
+   "literal": true,
+   "completo": true
+  }
+ ]
+}

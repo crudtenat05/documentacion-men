@@ -1,6 +1,6 @@
 # Ciencias Sociales · Derechos Básicos de Aprendizaje
 
-Fuente: `fuentes/men/dba-sociales.pdf` (MEN, V.1, 2016). Texto extraído del PDF y verificado (`verificacion/ciencias_sociales.md`). 82 DBA y 328 evidencias.
+Fuente: `fuentes/men/dba-sociales.pdf` (MEN, 2016). Texto extraído del PDF y verificado (`verificacion/ciencias_sociales.md`). 82 DBA y 328 evidencias.
 
 ## Grado 1
 

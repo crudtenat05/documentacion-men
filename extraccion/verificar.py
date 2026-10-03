@@ -28,6 +28,8 @@ SIGUIENTES = ('•', 'm', 'Evidenciasdeaprendizaje', 'Ejemplo', 'PENSAMIENTO', '
               'Derechos', 'Nota', 'Estándares', 'Paralocual', 'Lenguaje', 'LENGUAJE', 'Ciencias')
 # Viñeta de evidencias propia de cada PDF (en Matemáticas y Lenguaje es «m», ya incluida arriba)
 VINETAS = {'ciencias_naturales': 'q', 'ciencias_sociales': 'l'}
+# En los DBA de Inglés el enunciado termina donde empieza su ejemplo («Por ejemplo…»)
+FRONTERAS_AREA = {'ingles': ('Por', 'Puede,porejemplo', ';como', ';tal', ';así', ',como', 'como', 'Alfinalizar')}
 AREA = None
 
 
@@ -68,7 +70,8 @@ def completo(texto, fuente, inicios=()):
             despues = f[i + len(t):i + len(t) + 40]
             if (despues.startswith(SIGUIENTES) or re.match(r'\d', despues) or despues == ''
                     or re.match(r'[A-ZÁÉÍÓÚÑ]{4,}', despues) or any(despues.startswith(x) for x in inicios)
-                    or (AREA in VINETAS and re.match(VINETAS[AREA] + r'[A-ZÁÉÍÓÚÑ¿¡(]', despues))):
+                    or (AREA in VINETAS and re.match(VINETAS[AREA] + r'[A-ZÁÉÍÓÚÑ¿¡(]', despues))
+                    or despues.startswith(FRONTERAS_AREA.get(AREA, ('\0',)))):
                 return True
             i = f.find(t, i + 1)
     return False

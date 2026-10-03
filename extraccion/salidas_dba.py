@@ -8,7 +8,7 @@ import csv
 import json
 import sys
 
-NOMBRES = {'ciencias_naturales': 'Ciencias Naturales', 'ciencias_sociales': 'Ciencias Sociales'}
+NOMBRES = {'ciencias_naturales': 'Ciencias Naturales', 'ciencias_sociales': 'Ciencias Sociales', 'ingles': 'Inglés'}
 
 
 def main(area):
@@ -27,17 +27,18 @@ def main(area):
                 w.writerow([e['codigo'], d['codigo'], d['grado'], e['numero'], e['texto'], d['fuente'], d['pagina_pdf']])
     nombre = NOMBRES.get(area, area)
     L = [f'# {nombre} · Derechos Básicos de Aprendizaje', '',
-         f"Fuente: `fuentes/men/{dba[0]['fuente']}` (MEN, V.1, 2016). Texto extraído del PDF y verificado "
+         f"Fuente: {', '.join(f'`fuentes/men/{x}`' for x in dict.fromkeys(d['fuente'] for d in dba))} (MEN, 2016). Texto extraído del PDF y verificado "
          f"(`verificacion/{area}.md`). {len(dba)} DBA y {sum(len(d['evidencias']) for d in dba)} evidencias.", '']
     grado = None
     for d in dba:
         if d['grado'] != grado:
             grado = d['grado']
-            L += [f'## Grado {grado}', '']
-        L += [f"### {d['codigo']} · DBA {d['numero']} (pág. {d['pagina_pdf']})", '', d['enunciado'], '',
-              '**Evidencias de aprendizaje**', '']
-        L += [f"- `{e['codigo']}` {e['texto']}" for e in d['evidencias']]
-        L += ['']
+            L += [f"## {'Transición' if grado == 0 else f'Grado {grado}'}", '']
+        L += [f"### {d['codigo']} · DBA {d['numero']} (pág. {d['pagina_pdf']})", '', d['enunciado'], '']
+        if d['evidencias']:
+            L += ['**Evidencias de aprendizaje**', '']
+            L += [f"- `{e['codigo']}` {e['texto']}" for e in d['evidencias']]
+            L += ['']
     with open(f'{base}/{area}.md', 'w', encoding='utf-8') as f:
         f.write('\n'.join(L))
     print(nombre, len(dba), 'DBA →', f'{base}/dba.csv, evidencias.csv, {area}.md')

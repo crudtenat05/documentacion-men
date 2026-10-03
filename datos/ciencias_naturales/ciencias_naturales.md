@@ -1,6 +1,6 @@
 # Ciencias Naturales · Derechos Básicos de Aprendizaje
 
-Fuente: `fuentes/men/dba-naturales.pdf` (MEN, V.1, 2016). Texto extraído del PDF y verificado (`verificacion/ciencias_naturales.md`). 53 DBA y 180 evidencias.
+Fuente: `fuentes/men/dba-naturales.pdf` (MEN, 2016). Texto extraído del PDF y verificado (`verificacion/ciencias_naturales.md`). 53 DBA y 180 evidencias.
 
 ## Grado 1
 
