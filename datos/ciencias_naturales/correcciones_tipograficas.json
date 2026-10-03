@@ -1,0 +1,17 @@
+[
+ {
+  "codigo": "CN-DBA-1-01-E4",
+  "antes": "obser vaciones",
+  "despues": "observaciones"
+ },
+ {
+  "codigo": "CN-DBA-4-05-E3",
+  "antes": "arenagravilla",
+  "despues": "arena-gravilla"
+ },
+ {
+  "codigo": "CN-DBA-6-03-E2",
+  "antes": "(NaCl, H O, Cu). 2",
+  "despues": "(NaCl, H2O, Cu)."
+ }
+]

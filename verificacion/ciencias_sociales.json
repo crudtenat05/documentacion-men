@@ -1,0 +1,3316 @@
+{
+ "resumen": {
+  "area": "ciencias_sociales",
+  "fecha": "2026-10-03",
+  "total": 410,
+  "literales": 410,
+  "completos_automatico": 394,
+  "completos_manual": 16,
+  "pendientes": [],
+  "fuentes": {
+   "dba-sociales.pdf": "f816ba011a0c6041fbe9e72644832fbaa217340748dcdcd29aad3e7a3188870e"
+  }
+ },
+ "textos": [
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-1-01",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-1-01-E1",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-1-01-E2",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-1-01-E3",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-1-01-E4",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-1-02",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-1-02-E1",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": false,
+   "completo": false,
+   "completo_por": "revisión manual",
+   "literal_por": "revisión manual"
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-1-02-E2",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-1-02-E3",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-1-02-E4",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-1-03",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-1-03-E1",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-1-03-E2",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-1-03-E3",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": false,
+   "completo_por": "revisión manual"
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-1-03-E4",
+   "pagina_pdf": 8,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-1-04",
+   "pagina_pdf": 9,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-1-04-E1",
+   "pagina_pdf": 9,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-1-04-E2",
+   "pagina_pdf": 9,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-1-04-E3",
+   "pagina_pdf": 9,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-1-04-E4",
+   "pagina_pdf": 9,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-1-05",
+   "pagina_pdf": 9,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-1-05-E1",
+   "pagina_pdf": 9,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-1-05-E2",
+   "pagina_pdf": 9,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-1-05-E3",
+   "pagina_pdf": 9,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-1-05-E4",
+   "pagina_pdf": 9,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-1-06",
+   "pagina_pdf": 10,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-1-06-E1",
+   "pagina_pdf": 10,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-1-06-E2",
+   "pagina_pdf": 10,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-1-06-E3",
+   "pagina_pdf": 10,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-1-06-E4",
+   "pagina_pdf": 10,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-1-07",
+   "pagina_pdf": 10,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-1-07-E1",
+   "pagina_pdf": 10,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-1-07-E2",
+   "pagina_pdf": 10,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-1-07-E3",
+   "pagina_pdf": 10,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-1-07-E4",
+   "pagina_pdf": 10,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": false,
+   "completo_por": "revisión manual"
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-1-08",
+   "pagina_pdf": 11,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-1-08-E1",
+   "pagina_pdf": 11,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-1-08-E2",
+   "pagina_pdf": 11,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-1-08-E3",
+   "pagina_pdf": 11,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-1-08-E4",
+   "pagina_pdf": 11,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-2-01",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-2-01-E1",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-2-01-E2",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-2-01-E3",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-2-01-E4",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-2-02",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-2-02-E1",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": false,
+   "completo": false,
+   "completo_por": "revisión manual",
+   "literal_por": "revisión manual"
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-2-02-E2",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-2-02-E3",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-2-02-E4",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-2-03",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-2-03-E1",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-2-03-E2",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-2-03-E3",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": false,
+   "completo_por": "revisión manual"
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-2-03-E4",
+   "pagina_pdf": 12,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": false,
+   "completo_por": "revisión manual"
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-2-04",
+   "pagina_pdf": 13,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-2-04-E1",
+   "pagina_pdf": 13,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-2-04-E2",
+   "pagina_pdf": 13,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-2-04-E3",
+   "pagina_pdf": 13,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-2-04-E4",
+   "pagina_pdf": 13,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-2-05",
+   "pagina_pdf": 13,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-2-05-E1",
+   "pagina_pdf": 13,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-2-05-E2",
+   "pagina_pdf": 13,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-2-05-E3",
+   "pagina_pdf": 13,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-2-05-E4",
+   "pagina_pdf": 13,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-2-06",
+   "pagina_pdf": 14,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-2-06-E1",
+   "pagina_pdf": 14,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-2-06-E2",
+   "pagina_pdf": 14,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-2-06-E3",
+   "pagina_pdf": 14,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-2-06-E4",
+   "pagina_pdf": 14,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-2-07",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-2-07-E1",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-2-07-E2",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-2-07-E3",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-2-07-E4",
+   "pagina_pdf": 15,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-2-08",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-2-08-E1",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-2-08-E2",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-2-08-E3",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-2-08-E4",
+   "pagina_pdf": 16,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-3-01",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-3-01-E1",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-3-01-E2",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-3-01-E3",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-3-01-E4",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-3-02",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-3-02-E1",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-3-02-E2",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-3-02-E3",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-3-02-E4",
+   "pagina_pdf": 17,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-3-03",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-3-03-E1",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-3-03-E2",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-3-03-E3",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-3-03-E4",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-3-04",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-3-04-E1",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-3-04-E2",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-3-04-E3",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-3-04-E4",
+   "pagina_pdf": 18,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-3-05",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-3-05-E1",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-3-05-E2",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-3-05-E3",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-3-05-E4",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-3-06",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-3-06-E1",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-3-06-E2",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-3-06-E3",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-3-06-E4",
+   "pagina_pdf": 19,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-3-07",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-3-07-E1",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-3-07-E2",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-3-07-E3",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-3-07-E4",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-3-08",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-3-08-E1",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-3-08-E2",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-3-08-E3",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-3-08-E4",
+   "pagina_pdf": 20,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": false,
+   "completo_por": "revisión manual"
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-4-01",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-4-01-E1",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-4-01-E2",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-4-01-E3",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-4-01-E4",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-4-02",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-4-02-E1",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-4-02-E2",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-4-02-E3",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-4-02-E4",
+   "pagina_pdf": 21,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-4-03",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-4-03-E1",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-4-03-E2",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-4-03-E3",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-4-03-E4",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-4-04",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-4-04-E1",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-4-04-E2",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-4-04-E3",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-4-04-E4",
+   "pagina_pdf": 22,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-4-05",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-4-05-E1",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-4-05-E2",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-4-05-E3",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-4-05-E4",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-4-06",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-4-06-E1",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-4-06-E2",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-4-06-E3",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-4-06-E4",
+   "pagina_pdf": 23,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-4-07",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-4-07-E1",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-4-07-E2",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-4-07-E3",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-4-07-E4",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-4-08",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-4-08-E1",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-4-08-E2",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-4-08-E3",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-4-08-E4",
+   "pagina_pdf": 24,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-5-01",
+   "pagina_pdf": 25,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-5-01-E1",
+   "pagina_pdf": 25,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-5-01-E2",
+   "pagina_pdf": 25,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-5-01-E3",
+   "pagina_pdf": 25,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-5-01-E4",
+   "pagina_pdf": 25,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-5-02",
+   "pagina_pdf": 25,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-5-02-E1",
+   "pagina_pdf": 25,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-5-02-E2",
+   "pagina_pdf": 25,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-5-02-E3",
+   "pagina_pdf": 25,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-5-02-E4",
+   "pagina_pdf": 25,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-5-03",
+   "pagina_pdf": 26,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-5-03-E1",
+   "pagina_pdf": 26,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-5-03-E2",
+   "pagina_pdf": 26,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-5-03-E3",
+   "pagina_pdf": 26,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-5-03-E4",
+   "pagina_pdf": 26,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": false,
+   "completo_por": "revisión manual"
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-5-04",
+   "pagina_pdf": 26,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-5-04-E1",
+   "pagina_pdf": 26,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-5-04-E2",
+   "pagina_pdf": 26,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-5-04-E3",
+   "pagina_pdf": 26,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-5-04-E4",
+   "pagina_pdf": 26,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-5-05",
+   "pagina_pdf": 27,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-5-05-E1",
+   "pagina_pdf": 27,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-5-05-E2",
+   "pagina_pdf": 27,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-5-05-E3",
+   "pagina_pdf": 27,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-5-05-E4",
+   "pagina_pdf": 27,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-5-06",
+   "pagina_pdf": 27,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-5-06-E1",
+   "pagina_pdf": 27,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-5-06-E2",
+   "pagina_pdf": 27,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-5-06-E3",
+   "pagina_pdf": 27,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-5-06-E4",
+   "pagina_pdf": 27,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-5-07",
+   "pagina_pdf": 28,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-5-07-E1",
+   "pagina_pdf": 28,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-5-07-E2",
+   "pagina_pdf": 28,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-5-07-E3",
+   "pagina_pdf": 28,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-5-07-E4",
+   "pagina_pdf": 28,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-5-08",
+   "pagina_pdf": 28,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-5-08-E1",
+   "pagina_pdf": 28,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-5-08-E2",
+   "pagina_pdf": 28,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-5-08-E3",
+   "pagina_pdf": 28,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-5-08-E4",
+   "pagina_pdf": 28,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-6-01",
+   "pagina_pdf": 29,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-6-01-E1",
+   "pagina_pdf": 29,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-6-01-E2",
+   "pagina_pdf": 29,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-6-01-E3",
+   "pagina_pdf": 29,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-6-01-E4",
+   "pagina_pdf": 29,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-6-02",
+   "pagina_pdf": 29,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-6-02-E1",
+   "pagina_pdf": 29,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-6-02-E2",
+   "pagina_pdf": 29,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-6-02-E3",
+   "pagina_pdf": 29,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-6-02-E4",
+   "pagina_pdf": 29,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": false,
+   "completo_por": "revisión manual"
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-6-03",
+   "pagina_pdf": 30,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-6-03-E1",
+   "pagina_pdf": 30,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-6-03-E2",
+   "pagina_pdf": 30,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-6-03-E3",
+   "pagina_pdf": 30,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-6-03-E4",
+   "pagina_pdf": 30,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-6-04",
+   "pagina_pdf": 30,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-6-04-E1",
+   "pagina_pdf": 30,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-6-04-E2",
+   "pagina_pdf": 30,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-6-04-E3",
+   "pagina_pdf": 30,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-6-04-E4",
+   "pagina_pdf": 30,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-6-05",
+   "pagina_pdf": 31,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-6-05-E1",
+   "pagina_pdf": 31,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": false,
+   "completo": false,
+   "completo_por": "revisión manual",
+   "literal_por": "revisión manual"
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-6-05-E2",
+   "pagina_pdf": 31,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": false,
+   "completo_por": "revisión manual"
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-6-05-E3",
+   "pagina_pdf": 31,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": false,
+   "completo": false,
+   "completo_por": "revisión manual",
+   "literal_por": "revisión manual"
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-6-05-E4",
+   "pagina_pdf": 31,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-6-06",
+   "pagina_pdf": 31,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-6-06-E1",
+   "pagina_pdf": 31,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-6-06-E2",
+   "pagina_pdf": 31,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-6-06-E3",
+   "pagina_pdf": 31,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-6-06-E4",
+   "pagina_pdf": 31,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": false,
+   "completo_por": "revisión manual"
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-6-07",
+   "pagina_pdf": 32,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-6-07-E1",
+   "pagina_pdf": 32,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-6-07-E2",
+   "pagina_pdf": 32,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-6-07-E3",
+   "pagina_pdf": 32,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-6-07-E4",
+   "pagina_pdf": 32,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-6-08",
+   "pagina_pdf": 32,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-6-08-E1",
+   "pagina_pdf": 32,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-6-08-E2",
+   "pagina_pdf": 32,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-6-08-E3",
+   "pagina_pdf": 32,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-6-08-E4",
+   "pagina_pdf": 32,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-7-01",
+   "pagina_pdf": 33,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-7-01-E1",
+   "pagina_pdf": 33,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-7-01-E2",
+   "pagina_pdf": 33,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-7-01-E3",
+   "pagina_pdf": 33,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-7-01-E4",
+   "pagina_pdf": 33,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-7-02",
+   "pagina_pdf": 34,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-7-02-E1",
+   "pagina_pdf": 34,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-7-02-E2",
+   "pagina_pdf": 34,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-7-02-E3",
+   "pagina_pdf": 34,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-7-02-E4",
+   "pagina_pdf": 34,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-7-03",
+   "pagina_pdf": 34,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-7-03-E1",
+   "pagina_pdf": 34,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-7-03-E2",
+   "pagina_pdf": 34,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-7-03-E3",
+   "pagina_pdf": 34,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-7-03-E4",
+   "pagina_pdf": 34,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-7-04",
+   "pagina_pdf": 35,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-7-04-E1",
+   "pagina_pdf": 35,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-7-04-E2",
+   "pagina_pdf": 35,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-7-04-E3",
+   "pagina_pdf": 35,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-7-04-E4",
+   "pagina_pdf": 35,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": false,
+   "completo_por": "revisión manual"
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-7-05",
+   "pagina_pdf": 35,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-7-05-E1",
+   "pagina_pdf": 35,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-7-05-E2",
+   "pagina_pdf": 35,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-7-05-E3",
+   "pagina_pdf": 35,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-7-05-E4",
+   "pagina_pdf": 35,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": false,
+   "completo_por": "revisión manual"
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-7-06",
+   "pagina_pdf": 36,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-7-06-E1",
+   "pagina_pdf": 36,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-7-06-E2",
+   "pagina_pdf": 36,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-7-06-E3",
+   "pagina_pdf": 36,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-7-06-E4",
+   "pagina_pdf": 36,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-7-07",
+   "pagina_pdf": 36,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-7-07-E1",
+   "pagina_pdf": 36,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-7-07-E2",
+   "pagina_pdf": 36,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-7-07-E3",
+   "pagina_pdf": 36,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-7-07-E4",
+   "pagina_pdf": 36,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-7-08",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-7-08-E1",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-7-08-E2",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-7-08-E3",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-7-08-E4",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-8-01",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-8-01-E1",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-8-01-E2",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-8-01-E3",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-8-01-E4",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-8-02",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-8-02-E1",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-8-02-E2",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-8-02-E3",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-8-02-E4",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-8-03",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-8-03-E1",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-8-03-E2",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-8-03-E3",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-8-03-E4",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-8-04",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-8-04-E1",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-8-04-E2",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-8-04-E3",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-8-04-E4",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-8-05",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-8-05-E1",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-8-05-E2",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-8-05-E3",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-8-05-E4",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-8-06",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-8-06-E1",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-8-06-E2",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-8-06-E3",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-8-06-E4",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-8-07",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-8-07-E1",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-8-07-E2",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-8-07-E3",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-8-07-E4",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-8-08",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-8-08-E1",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-8-08-E2",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-8-08-E3",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-8-08-E4",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-9-01",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-9-01-E1",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-9-01-E2",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-9-01-E3",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-9-01-E4",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-9-02",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-9-02-E1",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-9-02-E2",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-9-02-E3",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-9-02-E4",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-9-03",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-9-03-E1",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-9-03-E2",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-9-03-E3",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-9-03-E4",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-9-04",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-9-04-E1",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-9-04-E2",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-9-04-E3",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-9-04-E4",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-9-05",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-9-05-E1",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-9-05-E2",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-9-05-E3",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-9-05-E4",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-9-06",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-9-06-E1",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-9-06-E2",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-9-06-E3",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-9-06-E4",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": false,
+   "completo_por": "revisión manual"
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-9-07",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-9-07-E1",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-9-07-E2",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-9-07-E3",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-9-07-E4",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-9-08",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-9-08-E1",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-9-08-E2",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-9-08-E3",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-9-08-E4",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-10-01",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-10-01-E1",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-10-01-E2",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-10-01-E3",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-10-01-E4",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-10-02",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-10-02-E1",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-10-02-E2",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-10-02-E3",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-10-02-E4",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-10-03",
+   "pagina_pdf": 47,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-10-03-E1",
+   "pagina_pdf": 47,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-10-03-E2",
+   "pagina_pdf": 47,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-10-03-E3",
+   "pagina_pdf": 47,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-10-03-E4",
+   "pagina_pdf": 47,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-10-04",
+   "pagina_pdf": 47,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-10-04-E1",
+   "pagina_pdf": 47,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-10-04-E2",
+   "pagina_pdf": 47,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-10-04-E3",
+   "pagina_pdf": 47,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-10-04-E4",
+   "pagina_pdf": 47,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-10-05",
+   "pagina_pdf": 48,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-10-05-E1",
+   "pagina_pdf": 48,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-10-05-E2",
+   "pagina_pdf": 48,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-10-05-E3",
+   "pagina_pdf": 48,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-10-05-E4",
+   "pagina_pdf": 48,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-11-01",
+   "pagina_pdf": 49,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-11-01-E1",
+   "pagina_pdf": 49,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-11-01-E2",
+   "pagina_pdf": 49,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-11-01-E3",
+   "pagina_pdf": 49,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-11-01-E4",
+   "pagina_pdf": 49,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-11-02",
+   "pagina_pdf": 49,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-11-02-E1",
+   "pagina_pdf": 49,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-11-02-E2",
+   "pagina_pdf": 49,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-11-02-E3",
+   "pagina_pdf": 49,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-11-02-E4",
+   "pagina_pdf": 49,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-11-03",
+   "pagina_pdf": 50,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-11-03-E1",
+   "pagina_pdf": 50,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-11-03-E2",
+   "pagina_pdf": 50,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-11-03-E3",
+   "pagina_pdf": 50,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-11-03-E4",
+   "pagina_pdf": 50,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-11-04",
+   "pagina_pdf": 50,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-11-04-E1",
+   "pagina_pdf": 50,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-11-04-E2",
+   "pagina_pdf": 50,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-11-04-E3",
+   "pagina_pdf": 50,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-11-04-E4",
+   "pagina_pdf": 50,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "DBA",
+   "codigo": "CS-DBA-11-05",
+   "pagina_pdf": 51,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-11-05-E1",
+   "pagina_pdf": 51,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-11-05-E2",
+   "pagina_pdf": 51,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-11-05-E3",
+   "pagina_pdf": 51,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Evidencia",
+   "codigo": "CS-DBA-11-05-E4",
+   "pagina_pdf": 51,
+   "fuente": "fuentes/men/dba-sociales.pdf",
+   "literal": true,
+   "completo": true
+  }
+ ]
+}

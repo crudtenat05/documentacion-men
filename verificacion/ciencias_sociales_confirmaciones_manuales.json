@@ -1,0 +1,86 @@
+[
+ {
+  "codigo": "CS-DBA-1-02-E1",
+  "razon": "La evidencia continúa en la parte superior de la columna derecha; en el flujo del PDF ambas mitades están separadas por el DBA siguiente. Confirmada contra la página.",
+  "acepta_no_literal": true,
+  "pagina_pdf": 8
+ },
+ {
+  "codigo": "CS-DBA-2-02-E1",
+  "razon": "La evidencia continúa en la parte superior de la columna derecha; en el flujo del PDF ambas mitades están separadas por el DBA siguiente. Confirmada contra la página.",
+  "acepta_no_literal": true,
+  "pagina_pdf": 12
+ },
+ {
+  "codigo": "CS-DBA-6-05-E3",
+  "razon": "La página 31 está impresa en diagonal y el flujo interno del PDF guarda esta evidencia con los caracteres al revés; se leyó por la posición de cada palabra y se confirmó contra la página.",
+  "acepta_no_literal": true,
+  "pagina_pdf": 31
+ },
+ {
+  "codigo": "CS-DBA-1-03-E3",
+  "razon": "La evidencia termina antes de una imagen, un pie de foto o un espacio en blanco; en el flujo del PDF sigue ese otro texto. Confirmada contra la página.",
+  "pagina_pdf": 8
+ },
+ {
+  "codigo": "CS-DBA-1-07-E4",
+  "razon": "La evidencia termina antes de una imagen, un pie de foto o un espacio en blanco; en el flujo del PDF sigue ese otro texto. Confirmada contra la página.",
+  "pagina_pdf": 10
+ },
+ {
+  "codigo": "CS-DBA-2-03-E3",
+  "razon": "La evidencia termina antes de una imagen, un pie de foto o un espacio en blanco; en el flujo del PDF sigue ese otro texto. Confirmada contra la página.",
+  "pagina_pdf": 12
+ },
+ {
+  "codigo": "CS-DBA-2-03-E4",
+  "razon": "La evidencia termina antes de una imagen, un pie de foto o un espacio en blanco; en el flujo del PDF sigue ese otro texto. Confirmada contra la página.",
+  "pagina_pdf": 12
+ },
+ {
+  "codigo": "CS-DBA-3-08-E4",
+  "razon": "La evidencia termina antes de una imagen, un pie de foto o un espacio en blanco; en el flujo del PDF sigue ese otro texto. Confirmada contra la página.",
+  "pagina_pdf": 20
+ },
+ {
+  "codigo": "CS-DBA-5-03-E4",
+  "razon": "La evidencia termina antes de una imagen, un pie de foto o un espacio en blanco; en el flujo del PDF sigue ese otro texto. Confirmada contra la página.",
+  "pagina_pdf": 26
+ },
+ {
+  "codigo": "CS-DBA-6-02-E4",
+  "razon": "La evidencia termina antes de una imagen, un pie de foto o un espacio en blanco; en el flujo del PDF sigue ese otro texto. Confirmada contra la página.",
+  "pagina_pdf": 29
+ },
+ {
+  "codigo": "CS-DBA-6-05-E2",
+  "razon": "La evidencia termina antes de una imagen, un pie de foto o un espacio en blanco; en el flujo del PDF sigue ese otro texto. Confirmada contra la página.",
+  "pagina_pdf": 31
+ },
+ {
+  "codigo": "CS-DBA-6-06-E4",
+  "razon": "La evidencia termina antes de una imagen, un pie de foto o un espacio en blanco; en el flujo del PDF sigue ese otro texto. Confirmada contra la página.",
+  "pagina_pdf": 31
+ },
+ {
+  "codigo": "CS-DBA-7-04-E4",
+  "razon": "La evidencia termina antes de una imagen, un pie de foto o un espacio en blanco; en el flujo del PDF sigue ese otro texto. Confirmada contra la página.",
+  "pagina_pdf": 35
+ },
+ {
+  "codigo": "CS-DBA-7-05-E4",
+  "razon": "La evidencia termina antes de una imagen, un pie de foto o un espacio en blanco; en el flujo del PDF sigue ese otro texto. Confirmada contra la página.",
+  "pagina_pdf": 35
+ },
+ {
+  "codigo": "CS-DBA-9-06-E4",
+  "razon": "La evidencia termina antes de una imagen, un pie de foto o un espacio en blanco; en el flujo del PDF sigue ese otro texto. Confirmada contra la página.",
+  "pagina_pdf": 44
+ },
+ {
+  "codigo": "CS-DBA-6-05-E1",
+  "razon": "La ligadura «fi» de «geográficos» no existe en el texto interno del PDF; se restituyó como se lee en la página.",
+  "acepta_no_literal": true,
+  "pagina_pdf": 31
+ }
+]
