@@ -143,3 +143,62 @@ Nota: el *Esquema Curricular Sugerido* (2016) usa este nivel para **7.°** y, en
 10. Puedo cortésmente llamar la atención de mi profesor con una frase corta. *(pág. 21 · ING-EBC-A2.1-CO-10 · 1, 2, 3)*
 
 Nota: en Lectura 6 el MEN no marcó competencia.
+
+## Grados 6.° a 7.° · Básico 2 (A2.2)
+
+Descripción del nivel: además de lo que logré en el nivel anterior, en este nivel comprendo textos cortos de cierta dificultad sobre actividades cotidianas, de mi interés, sobre otras asignaturas y mi entorno social. Escucho un texto oral y, si me resulta familiar, comprendo la información más importante. Sostengo conversaciones rutinarias para saludar, despedirme, hablar del clima o de cómo me siento. También sostengo monólogos donde hago presentaciones breves y explico de manera sencilla mis preferencias, actividades y otros temas relacionados con mi entorno e intereses. Expreso mis ideas, sensaciones y sentimientos con oraciones cortas y claras y una pronunciación comprensible. Escribo textos cortos que narran historias y describen personas y lugares que imagino o conozco. Mi ortografía es aceptable aunque cometo errores en palabras que no uso con frecuencia. El lenguaje que domino me permite tratar temas cotidianos o sobre los que tengo conocimiento, pero es normal que cometa algunos errores básicos.
+
+Nota: el *Esquema Curricular Sugerido* (2016) usa este nivel para **8.°** («Nivel MCER A2.2, Guía 22: pp. 22-23»).
+
+### Escucha
+
+1. Comprendo información básica sobre temas relacionados con mis actividades cotidianas y con mi entorno. *(pág. 22 · ING-EBC-A2.2-ES-01 · 2, 3)*
+2. Comprendo preguntas y expresiones orales que se refieren a mí, a mi familia, mis amigos y mi entorno. *(pág. 22 · ING-EBC-A2.2-ES-02 · 1, 2, 3)*
+3. Comprendo mensajes cortos y simples relacionados con mi entorno y mis intereses personales y académicos. *(pág. 22 · ING-EBC-A2.2-ES-03 · 1, 2, 3)*
+4. Comprendo y sigo instrucciones puntuales cuando éstas se presentan en forma clara y con vocabulario conocido. *(pág. 22 · ING-EBC-A2.2-ES-04 · 1, 2, 3)*
+5. Comprendo una descripción oral sobre una situación, persona, lugar u objeto. *(pág. 22 · ING-EBC-A2.2-ES-05 · 1, 2)*
+6. Identifico el tema general y los detalles relevantes en conversaciones, informaciones radiales o exposiciones orales. *(pág. 22 · ING-EBC-A2.2-ES-06 · 1, 2, 3)*
+7. Comprendo la idea general en una descripción y en una narración. *(pág. 22 · ING-EBC-A2.2-ES-07 · 2)*
+
+### Lectura
+
+1. Comprendo instrucciones escritas para llevar a cabo actividades cotidianas, personales y académicas. *(pág. 22 · ING-EBC-A2.2-LE-01 · 1, 2)*
+2. Comprendo textos literarios, académicos y de interés general, escritos con un lenguaje sencillo. *(pág. 22 · ING-EBC-A2.2-LE-02 · 1, 2, 3)*
+3. Puedo extraer información general y específica de un texto corto y escrito en un lenguaje sencillo. *(pág. 22 · ING-EBC-A2.2-LE-03 · 1, 2)*
+4. Comprendo relaciones establecidas por palabras como *and* (adición), *but* (contraste), *first, second…* (orden temporal), en enunciados sencillos. *(pág. 22 · ING-EBC-A2.2-LE-04 · 1, 2)*
+5. Valoro la lectura como un hábito importante de enriquecimiento personal y académico. *(pág. 22 · ING-EBC-A2.2-LE-05)*
+6. Identifico el significado adecuado de las palabras en el diccionario según el contexto. *(pág. 22 · ING-EBC-A2.2-LE-06 · 1, 2)*
+7. Aplico estrategias de lectura relacionadas con el propósito de la misma. *(pág. 22 · ING-EBC-A2.2-LE-07 · 2)*
+8. Identifico en textos sencillos, elementos culturales como costumbres y celebraciones. *(pág. 22 · ING-EBC-A2.2-LE-08 · 2, 3)*
+9. Identifico la acción, los personajes y el entorno en textos narrativos. *(pág. 22 · ING-EBC-A2.2-LE-09 · 2)*
+
+### Escritura
+
+1. Describo con frases cortas personas, lugares, objetos o hechos relacionados con temas y situaciones que me son familiares. *(pág. 23 · ING-EBC-A2.2-ESC-01 · 1, 2)*
+2. Escribo mensajes cortos y con diferentes propósitos relacionados con situaciones, objetos o personas de mi entorno inmediato. *(pág. 23 · ING-EBC-A2.2-ESC-02 · 1, 2)*
+3. Completo información personal básica en formatos y documentos sencillos. *(pág. 23 · ING-EBC-A2.2-ESC-03 · 1, 2)*
+4. Escribo un texto corto relativo a mí, a mi familia, mis amigos, mi entorno o sobre hechos que me son familiares. *(pág. 23 · ING-EBC-A2.2-ESC-04 · 1, 2)*
+5. Escribo textos cortos en los que expreso contraste, adición, causa y efecto entre ideas. *(pág. 23 · ING-EBC-A2.2-ESC-05 · 1, 2)*
+6. Utilizo vocabulario adecuado para darle coherencia a mis escritos. *(pág. 23 · ING-EBC-A2.2-ESC-06 · 1, 2)*
+
+### Monólogo
+
+1. Describo con oraciones simples a una persona, lugar u objeto que me son familiares aunque, si lo requiero, me apoyo en apuntes o en mi profesor. *(pág. 23 · ING-EBC-A2.2-MO-01 · 1, 2)*
+2. Doy instrucciones orales sencillas en situaciones escolares, familiares y de mi entorno cercano. *(pág. 23 · ING-EBC-A2.2-MO-02 · 2)*
+3. Establezco comparaciones entre personajes, lugares y objetos. *(pág. 23 · ING-EBC-A2.2-MO-03 · 1, 2)*
+4. Expreso de manera sencilla lo que me gusta y me disgusta respecto a algo. *(pág. 23 · ING-EBC-A2.2-MO-04 · 1, 2)*
+5. Narro o describo de forma sencilla hechos y actividades que me son familiares. *(pág. 23 · ING-EBC-A2.2-MO-05 · 1, 2)*
+6. Hago exposiciones muy breves, de contenido predecible y aprendido. *(pág. 23 · ING-EBC-A2.2-MO-06 · 2)*
+7. Describo con oraciones simples mi rutina diaria y la de otras personas. *(pág. 23 · ING-EBC-A2.2-MO-07 · 1, 2)*
+
+### Conversación
+
+1. Respondo con frases cortas a preguntas sencillas sobre temas que me son familiares. *(pág. 23 · ING-EBC-A2.2-CO-01 · 1, 2, 3)*
+2. Solicito explicaciones sobre situaciones puntuales en mi escuela, mi familia y mi entorno cercano. *(pág. 23 · ING-EBC-A2.2-CO-02 · 1, 2, 3)*
+3. Participo en situaciones comunicativas cotidianas tales como pedir favores, disculparme y agradecer. *(pág. 23 · ING-EBC-A2.2-CO-03 · 2, 3)*
+4. Utilizo códigos no verbales como gestos y entonación, entre otros. *(pág. 23 · ING-EBC-A2.2-CO-04 · 3)*
+5. Formulo preguntas sencillas sobre temas que me son familiares apoyándome en gestos y repetición. *(pág. 23 · ING-EBC-A2.2-CO-05 · 1, 3)*
+6. Hago propuestas a mis compañeros sobre qué hacer, dónde, cuándo o cómo. *(pág. 23 · ING-EBC-A2.2-CO-06 · 1, 2)*
+7. Inicio, mantengo y cierro una conversación sencilla sobre un tema conocido. *(pág. 23 · ING-EBC-A2.2-CO-07 · 1, 2, 3)*
+
+Nota: en Lectura 5 el MEN no marcó competencia.

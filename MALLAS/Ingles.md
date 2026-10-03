@@ -834,3 +834,432 @@ Notas de transcripción (7.°):
 - Módulo 2: el PDF dice «He is just exciting» y «depressions». Se corrigió a *excited* y *depression*.
 - Pronunciación: «/θ/ v /δ/» se escribió /θ/ vs /ð/, y «/d/ v (t) v (Id)» se escribió /d/ vs /t/ vs /ɪd/.
 - Módulo 4, evaluación: «Momo notas» en el PDF; se corrigió a «Tomo notas».
+
+## Grado 8°
+
+Nivel MCER: A2.2 · 4 módulos · Fuente: MEN, *Esquema Curricular Sugerido de Inglés 6° a 11°* (2016), pp. 58–65 (mallas) y 99–102 (rutas).
+
+### Módulo 1
+Eje: Sostenibilidad
+Tema: Acciones humanas
+Tiempo: 24–27 horas
+Nivel MCER: A2.2
+
+#### Contexto (adaptable)
+
+Meta: Evaluar el impacto de las acciones humanas en el medio ambiente en el país.
+Meta (inglés): Evaluate the impact of human actions on the environment in the country.
+
+Saber ser:
+- Muestra respeto por el medio ambiente a través de la promoción de prácticas responsables.
+- Reconoce prácticas medioambientales propias y las de otros.
+
+Tareas:
+1. Diligenciar una hoja de trabajo a partir de un video que describe una comunidad, sus habitantes, sus actividades y el impacto de estas en el medio ambiente.
+2. Diseñar un esquema con la información que necesita sobre una comunidad y sus acciones, y cómo la va a obtener y organizar.
+3. Investigar las actividades de las personas, negocios e industrias de la comunidad asignada y su huella en el medio ambiente.
+4. Representar en forma gráfica la información obtenida.
+5. Presentar su comunidad a la clase con ayuda de un póster.
+6. Interactuar con los pares para diligenciar un formato con la información de las otras comunidades presentadas.
+7. Sintetizar las acciones humanas positivas y negativas para el medio ambiente en un atlas de la huella humana en la comunidad.
+8. Crear una lista de acciones para reducir la huella humana.
+
+#### Núcleo de lengua
+
+Funciones de lengua:
+- Presentarse ante un grupo.
+- Describir acciones humanas.
+- Solicitar información sobre acciones humanas.
+- Dar sugerencias para mejorar prácticas.
+- Expresar opiniones sobre acciones.
+- Discutir buenas y malas prácticas.
+
+Objetivos:
+- Describir situaciones relacionadas con temas cotidianos de interés general de manera oral y escrita.
+- Elaborar un texto expositivo escrito sencillo sobre temas cotidianos de interés general.
+- Intercambiar información sobre temas cotidianos de interés general a través de diálogos.
+- Identificar información sobre temas cotidianos de interés general en textos expositivos cortos orales y escritos.
+
+Estándares (Guía 22, nivel A2.2, pp. 22–23):
+
+| Habilidad | Estándares |
+|---|---|
+| Escucha | 3, 6, 7 |
+| Lectura | 1, 2, 3, 7 |
+| Escritura | 1, 3, 6 |
+| Monólogo | 1, 5, 6 |
+| Conversación | 1, 5, 7 |
+
+Saber:
+- Reconoce vocabulario relacionado con el medio ambiente.
+- Identifica estructuras básicas de descripción.
+- Identifica la estructura de preguntas de información.
+- Reconoce expresiones de opinión.
+- Identifica las etapas del proceso de escritura.
+- Identifica las secciones de un texto expositivo.
+
+Saber hacer:
+- Presenta, de manera oral y ensayada, el impacto de diversas acciones humanas en el medio ambiente con un vocabulario pertinente.
+- Solicita información a los compañeros sobre acciones humanas en el medio ambiente a través de preguntas de información previamente ensayadas.
+- Identifica la tesis y los argumentos en un texto de opinión.
+- Expresa opiniones o da información de manera oral, espontánea y con un vocabulario sencillo.
+- Elabora, con base en el proceso de escritura, un texto expositivo escrito sobre las acciones humanas en el medio ambiente, con hechos, detalles y referencias.
+
+Léxico:
+- Acciones humanas: plant trees, throw garbage, mining, agriculture
+- Prácticas medioambientales: reducing carbon footprint, recycle, waste
+
+Expresiones:
+- Para describir acciones humanas en el medio ambiente: Save the whales. · Recycling paper saves the trees in the forest. · Using plastic bottles as planters is a good idea.
+- Para opinar: I (really) think that… · I believe (that)… · I'm sure that… · In my opinion / My opinion is… · I agree with… · I guess / imagine… · I have no doubt that / I'm certain that… · I strongly believe that…
+- Para citar en un escrito: According to…
+
+Gramática:
+- Adverbios de frecuencia y secuencia
+- Adjetivos posesivos: her, his, my, their, your
+- Preguntas Wh-
+- Presente simple
+- Infinitivo / gerundio
+
+Pronunciación:
+- Reconocer la terminación del pasado: /d/ vs /t/ vs /ɪd/ (played, walked, wanted)
+
+Discursivo:
+- Conectores de secuencia.
+
+Sociolingüístico / intercultural:
+- Habilidades para analizar, interpretar y relacionar.
+- Flexibilidad cognitiva.
+- Aprendizaje a través de la interacción.
+
+Evaluación para el aprendizaje:
+- Retroalimento el póster de mis pares de manera respetuosa y objetiva.
+- Recibo retroalimentación de mis pares de manera reflexiva.
+- Confirmo que el póster tenga el esquema y la información necesaria.
+- Evalúo que las fuentes usadas sean pertinentes y veraces.
+- Realizo ejercicios de práctica de gramática y vocabulario de manera oral y escrita.
+- Integro el vocabulario y las estructuras a mis productos orales y escritos.
+
+Evaluación del aprendizaje:
+- Rúbrica de evaluación para la presentación del póster.
+- Escritura de un texto de síntesis.
+- Examen modular.
+
+### Módulo 2
+Eje: Salud
+Tema: Desórdenes alimenticios
+Tiempo: 20–24 horas
+Nivel MCER: A2.2
+
+#### Contexto (adaptable)
+
+Meta: Formular iniciativas para la prevención de desórdenes alimenticios.
+Meta (inglés): Formulate initiatives for the prevention of eating disorders.
+
+Saber ser:
+- Reconoce su papel en la prevención de enfermedades.
+- Reconoce prácticas negativas para la salud.
+
+Tareas:
+1. Leer un texto breve, provisto por el profesor, sobre desórdenes alimenticios.
+2. Diligenciar un formato que sintetice la información obtenida.
+3. Indagar con sus pares sobre los desórdenes alimenticios más frecuentes: definición, origen, síntomas y tratamiento.
+4. Con una encuesta preparada en clase, indagar qué opina la comunidad escolar, familiar y social sobre por qué son tan frecuentes los desórdenes alimenticios hoy.
+5. Producir un texto escrito o visual que resuma esas causas.
+6. Producir un plan de prevención de desórdenes alimenticios.
+
+#### Núcleo de lengua
+
+Funciones de lengua:
+- Dar sugerencias y recomendaciones.
+- Dar y solicitar información.
+- Expresar condiciones.
+- Describir experiencias pasadas.
+- Describir enfermedades, síntomas, partes del cuerpo y tratamientos.
+- Describir rutinas de alimentación.
+
+Objetivos:
+- Elaborar textos orales y escritos sobre recomendaciones relacionadas con temas de interés general.
+- Intercambiar información sobre temas de interés general a través de conversaciones.
+- Identificar información sobre temas de interés general en textos descriptivos cortos orales y escritos.
+
+Estándares (Guía 22, nivel A2.2, pp. 22–23):
+
+| Habilidad | Estándares |
+|---|---|
+| Escucha | 1, 2, 5, 6 |
+| Lectura | 2, 3, 6, 8 |
+| Escritura | 1, 3, 5, 6 |
+| Monólogo | 2, 6 |
+| Conversación | 1, 3, 4, 5 |
+
+Saber:
+- Identifica síntomas, partes del cuerpo y tratamientos sencillos y breves.
+- Identifica hechos relevantes, detalles concretos y referencias.
+- Reconoce la estructura de preguntas de información.
+- Identifica estructuras básicas de descripción.
+- Reconoce expresiones de opinión y de recomendación.
+- Identifica las etapas del proceso de escritura.
+- Identifica las secciones de un reporte.
+
+Saber hacer:
+- Hace preguntas previamente preparadas sobre desórdenes alimenticios a partir de un formato definido.
+- Explica o expresa opiniones sobre desórdenes alimenticios de manera breve y sencilla, a partir de un modelo dado y con una pronunciación clara.
+- Presenta un plan de prevención de un desorden alimenticio asignado con un lenguaje claro y sencillo.
+- Elabora un reporte escrito con un lenguaje claro y sencillo a partir de notas tomadas y un modelo establecido.
+
+Léxico:
+- Partes del cuerpo: head, stomach, arm, back
+- Síntomas y medicinas: flu, headache, stomachache, broken bone
+- Enfermedades y desórdenes alimenticios: bulimia, overweight, obese / obesity, anorexia
+- Transiciones: next, in addition to, then
+
+Expresiones:
+- Para relacionar síntomas: My arm itches. · I have a headache. · I sometimes take pills. · My doctor gave me a shot. · I have a prescription for medicine. · My throat is sore. · I've got a fever.
+- Para introducir un tema: Today I will talk about… · Good morning. My purpose today is…
+- Para desarrollar el contenido: Moving on to my next point… · Now, let me move to my second point.
+- Para concluir y citar oralmente: In sum… · I tried to… · To conclude… · In conclusion… · Now, to sum up… · I think this can be prevented by… · According to… (1994)
+
+Gramática:
+- Adverbios de frecuencia y secuencia
+- Adjetivos posesivos: her, his, my, their, your
+- Preguntas Wh-
+- Imperativos: Take… · Drink… · Don't…
+- Presente perfecto
+- Pasado simple
+
+Pronunciación:
+- Reconocer enlaces entre palabras (blendings): is a → «iza» · at the doctor → «atthedoctor»
+
+Discursivo:
+- Comparar y contrastar.
+
+Sociolingüístico / intercultural:
+- Valoración de la diversidad cultural.
+- Aprendizaje a través de la interacción.
+
+Evaluación para el aprendizaje:
+- Elaboro borradores de la encuesta.
+- Evalúo la claridad de las preguntas.
+- Evalúo la metodología de trabajo en grupo y mi papel dentro de él.
+- Elaboro borradores de texto escrito como parte del proceso de escritura.
+- Ensayo mi presentación teniendo en cuenta las rúbricas dadas.
+
+Evaluación del aprendizaje:
+- Rúbrica para evaluar la campaña (el plan de prevención).
+- Rúbrica de evaluación de la presentación oral de la campaña.
+- Rúbrica de texto escrito.
+- Examen modular.
+
+### Módulo 3
+Eje: Democracia y paz
+Tema: Lenguaje en la construcción de paz
+Tiempo: 20–24 horas
+Nivel MCER: A2.2
+
+#### Contexto (adaptable)
+
+Meta: Reconocer el papel del lenguaje (positivo y negativo) en la construcción de paz en la comunidad.
+Meta (inglés): Recognize the role of language (positive and negative) in the construction of peace in the community.
+
+Saber ser:
+- Muestra respeto por las opiniones expresadas por sus pares.
+- Reconoce su responsabilidad en la construcción de paz en su comunidad.
+- Reconoce usos positivos y negativos del lenguaje.
+
+Proyecto: el lenguaje que cura y el que hiere.
+- Qué sabe: el docente recoge en el tablero lo que saben sobre el papel del lenguaje en la paz. En pares o grupos llenan la tabla de lo que ya saben y pueden crear una encuesta, preparar una presentación de resultados, hacer una campaña de concientización y presentarla ante la clase o el colegio.
+- Qué quiere saber: planean el proyecto por etapas, con un objetivo y una estrategia para cada una. Identifican el vocabulario y las estructuras que necesitan y se reparten roles. El proyecto debe incluir escucha, lectura, habla y escritura.
+- Qué aprendió: presentan el proyecto al grupo. Luego cada uno escribe una reflexión en un formato establecido y recibe retroalimentación del profesor.
+- Proyectos sugeridos: palabras que curan o hieren en el aula, el colegio o la comunidad; el lenguaje positivo o negativo en los medios de comunicación de la comunidad; el lenguaje positivo o negativo en la familia.
+- Mientras trabajan, el docente anota los vacíos frecuentes y los repasa en minilecciones: modelar el proceso de escritura (lluvia de ideas, borrador y revisión) y ayudar a definir qué investigar y qué productos hacer.
+
+#### Núcleo de lengua
+
+Funciones de lengua:
+- Justificar puntos de vista.
+- Expresar hechos y opiniones.
+- Expresar condiciones.
+- Describir experiencias pasadas.
+- Expresar sueños y planes futuros.
+
+Objetivos:
+- Describir de manera oral y escrita situaciones relacionadas con temas de interés general.
+- Identificar hechos y opiniones en textos orales y escritos sencillos de mediana extensión relacionados con temas de interés general.
+- Intercambiar información sobre temas de interés general a través de juegos de roles.
+
+Estándares (Guía 22, nivel A2.2, pp. 22–23):
+
+| Habilidad | Estándares |
+|---|---|
+| Escucha | 2, 4, 5, 7 |
+| Lectura | 2, 3, 7 |
+| Escritura | 1, 3, 5, 6 |
+| Monólogo | 1, 3, 5, 6 |
+| Conversación | 2, 3, 5, 6 |
+
+Saber:
+- Reconoce lenguaje positivo y negativo.
+- Identifica estructuras básicas de narración.
+- Identifica la estructura de preguntas de información.
+- Reconoce expresiones de opinión y puntos de vista.
+- Identifica las etapas del proceso de escritura.
+
+Saber hacer:
+- Muestra comprensión de las ideas generales y específicas en textos orales y escritos a través del diligenciamiento de formatos preestablecidos.
+- Narra un caso de uso de lenguaje positivo o negativo a partir de un modelo provisto.
+- Organiza en tablas y gráficos la información recogida de diferentes fuentes bibliográficas.
+- Presenta opiniones sobre el uso de lenguaje positivo o negativo siguiendo un plan de exposición preparado anteriormente.
+- Produce, de manera escrita y siguiendo el proceso de escritura, un plan personal para el uso constructivo del lenguaje.
+
+Léxico:
+- Vocabulario positivo y negativo: like, dislike, bad taste, fat, ugly, super skinny
+
+Expresiones:
+- Para narrar: One day I went for a walk. · Marcos has been sick for a while. · My mother used to say mean things.
+- Para argumentar y apoyar puntos de vista: I agree · I disagree · I believe · I think · In my opinion · I'm sorry, I can't agree with… · Exactly! I couldn't agree more. · Perhaps, but… · That's true. · I'm sorry, but I disagree. · I'm afraid that isn't right. · You're absolutely correct! · That may be the case, however… · You should / shouldn't…
+
+Gramática:
+- Presente perfecto / pasado simple
+- Primer condicional
+- Modales: should, can, ought to, must
+
+Pronunciación:
+- Reconocer enlaces entre palabras (blendings): be the case → «bethecase» · have you ever → «aveyouever»
+
+Discursivo:
+- Conectores de contraste: however, but, on the other hand.
+
+Sociolingüístico / intercultural:
+- Habilidad de escuchar y observar.
+- Valoración de la diversidad cultural.
+- Conocimiento del impacto de la cultura y de los contextos situacionales, sociales e históricos.
+- Aprendizaje a través de la interacción.
+
+Evaluación para el aprendizaje:
+- Analizo la pertinencia de las fuentes y la información consultadas.
+- Elaboro borradores de la encuesta.
+- Evalúo la claridad de las preguntas.
+- Evalúo la metodología de trabajo en grupo y mi papel dentro de él.
+- Elaboro borradores de texto escrito como parte del proceso de escritura.
+- Ensayo mi presentación teniendo en cuenta las rúbricas dadas.
+
+Evaluación del aprendizaje:
+- Rúbrica para evaluar la campaña.
+- Rúbrica de evaluación de la presentación oral de la campaña.
+- Rúbrica de texto escrito.
+- Examen modular.
+
+### Módulo 4
+Eje: Globalización
+Tema: Consumismo
+Tiempo: 20–24 horas
+Nivel MCER: A2.2
+
+#### Contexto (adaptable)
+
+Meta: Determinar el impacto del consumismo en los jóvenes.
+Meta (inglés): Determine the impact of consumerism on adolescents.
+
+Saber ser:
+- Muestra respeto por las opiniones expresadas por los pares.
+- Reconoce características del consumo responsable.
+- Participa activamente en las actividades planteadas.
+
+Problema (ruta por problemas): ¿qué necesitamos de verdad y qué nos hace creer la publicidad?
+- En grupos de 4, los estudiantes identifican, comparan y evalúan sus necesidades de consumo reales frente a las creadas.
+- Preparan una presentación oral que compara esas necesidades e identifica de dónde salen las necesidades creadas.
+- Producen un texto argumentativo con estrategias para evitar que la publicidad cree necesidades: *Do's & Don'ts*.
+- Papel del docente:
+  - Selecciona videos y anuncios sobre el consumismo juvenil y el papel de la publicidad.
+  - Diseña actividades de análisis que lleven a cada estudiante a hacer su lista de necesidades.
+  - Guía la comparación entre necesidades reales y creadas.
+  - Modela una presentación del análisis.
+  - Apoya en la definición de publicidad y de sus estrategias.
+  - Acompaña la escritura del texto *Do's & Don'ts*.
+  - Evalúa con rúbricas compartidas desde el inicio.
+
+#### Núcleo de lengua
+
+Funciones de lengua:
+- Expresar opiniones.
+- Justificar puntos de vista.
+- Formular y responder preguntas sobre un tema.
+- Expresar condiciones.
+- Describir experiencias pasadas.
+- Expresar planes futuros.
+
+Objetivos:
+- Identificar información relevante sobre temas académicos en textos expositivos orales y escritos de mediana extensión.
+- Elaborar textos expositivos escritos y orales sobre temas académicos.
+- Intercambiar información a través de preguntas y expresiones.
+
+Estándares (Guía 22, nivel A2.2, pp. 22–23):
+
+| Habilidad | Estándares |
+|---|---|
+| Escucha | 2, 4, 6, 7 |
+| Lectura | 3, 5, 6, 7 |
+| Escritura | 3, 4, 5, 6 |
+| Monólogo | 3, 5 |
+| Conversación | 2, 3, 4, 5 |
+
+Saber:
+- Reconoce vocabulario sobre consumo y consumismo, moda, tecnología y necesidades.
+- Identifica la estructura de una encuesta.
+- Reconoce expresiones de opinión y puntos de vista.
+
+Saber hacer:
+- Elabora un cuadro comparativo con las necesidades de consumo de los jóvenes por medio de un formato previamente establecido.
+- Elabora, con apoyo, una encuesta sobre necesidades de consumo con preguntas de información (Wh- questions).
+- Elabora y presenta un cuadro que clasifica las necesidades de consumo por categorías.
+- Produce un texto argumentativo sencillo y estructurado sobre consumismo a partir de referencias bibliográficas previamente consultadas.
+
+Léxico:
+- Consumismo: buy and sell, over-packaging, disposable income, fashion, technology
+- Conectores de semejanza: like, similar to, in the same way, the same as, similarly, as well as
+- Conectores de contraste: although, yet, while, instead, unless, unlike, on the contrary, contrary to
+
+Expresiones:
+- Para proponer una solución: If… then… · Whether or not… · I have a proposal (to make). · I would like to put forward a proposal (formal). · You should… · You must / mustn't… · This is the result… · I'd like to…
+
+Gramática:
+- Presente perfecto y presente perfecto continuo
+- Modales de posibilidad
+- Futuro perfecto
+- Adjetivos
+- Adverbios de modo, secuencia y lugar
+- Imperativos
+- Tercer condicional
+
+Pronunciación:
+- Reconocer enlaces entre palabras (blendings): whether or not → «whetherornot» · put forward a → «put forwarda»
+
+Discursivo:
+- Conectores de adición, contraste, causa y efecto.
+
+Sociolingüístico / intercultural:
+- Aprendizaje a través de la interacción.
+- Valoración de la diversidad cultural.
+- Autoconciencia.
+
+Evaluación para el aprendizaje:
+- Analizo la pertinencia y precisión de la información obtenida de fuentes bibliográficas y de mis compañeros.
+- Analizo la calidad de mi justificación sobre las acciones sugeridas para ejercer adecuadamente el derecho a escoger.
+- Realizo borradores de texto escrito como parte del proceso de escritura.
+- Tomo notas para dar mi opinión sobre las acciones presentadas por mis compañeros.
+
+Evaluación del aprendizaje:
+- Rúbrica de presentación oral.
+- Rúbrica de texto argumentativo.
+- Examen modular.
+
+---
+
+Notas de transcripción (8.°):
+- Módulo 1, expresiones: en el PDF los títulos están corridos. Bajo «Expresiones para opinar» aparecen frases de hábitos copiadas del Módulo 1 de 7.° («I exercise once a week…»), y las expresiones de opinión quedaron bajo «intereses y gustos». Se dejaron las de opinión con su título correcto y se retiraron las de hábitos.
+- Módulo 1: «Reducing carbon print» se corrigió a *carbon footprint*.
+- Módulo 2: la meta en inglés dice «initiative»; se pasó a *initiatives*. La gramática repetía «Adverbios de frecuencia y secuencia»; se dejó una vez.
+- Módulo 2, evaluación: el PDF habla de una «campaña» aunque las tareas terminan en un plan de prevención. Parece copiado del Módulo 3. Se aclaró entre paréntesis.
+- Módulo 4: «Adverbios de moda» se corrigió a *de modo*, y «Tercero condicional» a *tercer condicional*. Los conectores («Palabras a favor o en contra») se ordenaron en semejanza y contraste, y «similar as» se corrigió a *similar to*.
+- Módulo 4, meta en inglés: «in adolescents» se corrigió a *on adolescents*.
