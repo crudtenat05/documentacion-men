@@ -1,0 +1,2750 @@
+[
+ {
+  "codigo": "ING-EBC-A1-ES-01",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Escucha",
+  "numero": 1,
+  "texto": "Reconozco cuando me hablan en inglés y reacciono de manera verbal y no verbal.",
+  "pagina": 18,
+  "competencias": [
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-ES-02",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Escucha",
+  "numero": 2,
+  "texto": "Entiendo cuando me saludan y se despiden de mí.",
+  "pagina": 18,
+  "competencias": [
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-ES-03",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Escucha",
+  "numero": 3,
+  "texto": "Sigo instrucciones relacionadas con actividades de clase y recreativas propuestas por mi profesor.",
+  "pagina": 18,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-ES-04",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Escucha",
+  "numero": 4,
+  "texto": "Comprendo canciones, rimas y rondas infantiles, y lo demuestro con gestos y movimientos.",
+  "pagina": 18,
+  "competencias": [
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-ES-05",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Escucha",
+  "numero": 5,
+  "texto": "Demuestro comprensión de preguntas sencillas sobre mí, mi familia y mi entorno.",
+  "pagina": 18,
+  "competencias": [
+   1
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-ES-06",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Escucha",
+  "numero": 6,
+  "texto": "Comprendo descripciones cortas y sencillas de objetos y lugares conocidos.",
+  "pagina": 18,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-ES-07",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Escucha",
+  "numero": 7,
+  "texto": "Identifico a las personas que participan en una conversación.",
+  "pagina": 18,
+  "competencias": [
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-ES-08",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Escucha",
+  "numero": 8,
+  "texto": "Sigo la secuencia de un cuento corto apoyado en imágenes.",
+  "pagina": 18,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-ES-09",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Escucha",
+  "numero": 9,
+  "texto": "Entiendo la idea general de una historia contada por mi profesor cuando se apoya en movimientos, gestos y cambios de voz.",
+  "pagina": 18,
+  "competencias": [
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-ES-10",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Escucha",
+  "numero": 10,
+  "texto": "Reconozco que hay otras personas como yo que se comunican en inglés.",
+  "pagina": 18,
+  "competencias": [
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-ES-11",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Escucha",
+  "numero": 11,
+  "texto": "Comprendo secuencias relacionadas con hábitos y rutinas.",
+  "pagina": 18,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-LE-01",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Lectura",
+  "numero": 1,
+  "texto": "Identifico palabras relacionadas entre sí sobre temas que me son familiares.",
+  "pagina": 18,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-LE-02",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Lectura",
+  "numero": 2,
+  "texto": "Reconozco palabras y frases cortas en inglés en libros, objetos, juguetes, propagandas y lugares de mi escuela.",
+  "pagina": 18,
+  "competencias": [
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-LE-03",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Lectura",
+  "numero": 3,
+  "texto": "Relaciono ilustraciones con oraciones simples.",
+  "pagina": 18,
+  "competencias": [
+   1
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-LE-04",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Lectura",
+  "numero": 4,
+  "texto": "Reconozco y sigo instrucciones sencillas, si están ilustradas.",
+  "pagina": 18,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-LE-05",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Lectura",
+  "numero": 5,
+  "texto": "Puedo predecir una historia a partir del título, las ilustraciones y las palabras clave.",
+  "pagina": 18,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-LE-06",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Lectura",
+  "numero": 6,
+  "texto": "Sigo la secuencia de una historia sencilla.",
+  "pagina": 18,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-LE-07",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Lectura",
+  "numero": 7,
+  "texto": "Utilizo diagramas para organizar la información de cuentos cortos leídos en clase.",
+  "pagina": 18,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-LE-08",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Lectura",
+  "numero": 8,
+  "texto": "Disfruto la lectura como una actividad de esparcimiento que me ayuda a descubrir el mundo.",
+  "pagina": 18,
+  "competencias": []
+ },
+ {
+  "codigo": "ING-EBC-A1-ESC-01",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Escritura",
+  "numero": 1,
+  "texto": "Copio y transcribo palabras que comprendo y que uso con frecuencia en el salón de clase.",
+  "pagina": 19,
+  "competencias": [
+   1
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-ESC-02",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Escritura",
+  "numero": 2,
+  "texto": "Escribo el nombre de lugares y elementos que reconozco en una ilustración.",
+  "pagina": 19,
+  "competencias": [
+   1
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-ESC-03",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Escritura",
+  "numero": 3,
+  "texto": "Respondo brevemente a las preguntas «qué, quién, cuándo y dónde», si se refieren a mi familia, mis amigos o mi colegio.",
+  "pagina": 19,
+  "competencias": [
+   1
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-ESC-04",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Escritura",
+  "numero": 4,
+  "texto": "Escribo información personal en formatos sencillos.",
+  "pagina": 19,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-ESC-05",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Escritura",
+  "numero": 5,
+  "texto": "Escribo mensajes de invitación y felicitación usando formatos sencillos.",
+  "pagina": 19,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-ESC-06",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Escritura",
+  "numero": 6,
+  "texto": "Demuestro conocimiento de las estructuras básicas del inglés.",
+  "pagina": 19,
+  "competencias": [
+   1
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-MO-01",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Monólogo",
+  "numero": 1,
+  "texto": "Recito y canto rimas, poemas y trabalenguas que comprendo, con ritmo y entonación adecuados.",
+  "pagina": 19,
+  "competencias": [
+   1,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-MO-02",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Monólogo",
+  "numero": 2,
+  "texto": "Expreso mis sentimientos y estados de ánimo.",
+  "pagina": 19,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-MO-03",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Monólogo",
+  "numero": 3,
+  "texto": "Menciono lo que me gusta y lo que no me gusta.",
+  "pagina": 19,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-MO-04",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Monólogo",
+  "numero": 4,
+  "texto": "Describo lo que estoy haciendo.",
+  "pagina": 19,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-MO-05",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Monólogo",
+  "numero": 5,
+  "texto": "Nombro algunas cosas que puedo hacer y que no puedo hacer.",
+  "pagina": 19,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-MO-06",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Monólogo",
+  "numero": 6,
+  "texto": "Describo lo que hacen algunos miembros de mi comunidad.",
+  "pagina": 19,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-MO-07",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Monólogo",
+  "numero": 7,
+  "texto": "Uso gestos y movimientos corporales para hacerme entender mejor.",
+  "pagina": 19,
+  "competencias": [
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-MO-08",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Monólogo",
+  "numero": 8,
+  "texto": "Describo algunas características de mí mismo, de otras personas, de animales, de lugares y del clima.",
+  "pagina": 19,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-MO-09",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Monólogo",
+  "numero": 9,
+  "texto": "Participo en representaciones cortas; memorizo y comprendo los parlamentos.",
+  "pagina": 19,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-CO-01",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Conversación",
+  "numero": 1,
+  "texto": "Respondo a saludos y a despedidas.",
+  "pagina": 19,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-CO-02",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Conversación",
+  "numero": 2,
+  "texto": "Respondo a preguntas sobre cómo me siento.",
+  "pagina": 19,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-CO-03",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Conversación",
+  "numero": 3,
+  "texto": "Uso expresiones cotidianas para expresar mis necesidades inmediatas en el aula.",
+  "pagina": 19,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-CO-04",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Conversación",
+  "numero": 4,
+  "texto": "Utilizo el lenguaje no verbal cuando no puedo responder verbalmente a preguntas sobre mis preferencias. Por ejemplo, asintiendo o negando con la cabeza.",
+  "pagina": 19,
+  "competencias": [
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-CO-05",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Conversación",
+  "numero": 5,
+  "texto": "Expreso e indico necesidades personales básicas relacionadas con el aula.",
+  "pagina": 19,
+  "competencias": [
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-CO-06",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Conversación",
+  "numero": 6,
+  "texto": "Respondo a preguntas sobre personas, objetos y lugares de mi entorno.",
+  "pagina": 19,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-CO-07",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Conversación",
+  "numero": 7,
+  "texto": "Pido que me repitan el mensaje cuando no lo comprendo.",
+  "pagina": 19,
+  "competencias": []
+ },
+ {
+  "codigo": "ING-EBC-A1-CO-08",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Conversación",
+  "numero": 8,
+  "texto": "Participo activamente en juegos de palabras y rondas.",
+  "pagina": 19,
+  "competencias": [
+   1,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A1-CO-09",
+  "nivel": "A1",
+  "grados": "1.° a 3.°",
+  "habilidad": "Conversación",
+  "numero": 9,
+  "texto": "Refuerzo con gestos lo que digo para hacerme entender.",
+  "pagina": 19,
+  "competencias": [
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-ES-01",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Escucha",
+  "numero": 1,
+  "texto": "Sigo atentamente lo que dicen mi profesor y mis compañeros durante un juego o una actividad.",
+  "pagina": 20,
+  "competencias": [
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-ES-02",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Escucha",
+  "numero": 2,
+  "texto": "Participo en juegos y actividades siguiendo instrucciones simples.",
+  "pagina": 20,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-ES-03",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Escucha",
+  "numero": 3,
+  "texto": "Identifico los nombres de los personajes y los eventos principales de un cuento leído por el profesor y apoyado en imágenes, videos o cualquier tipo de material visual.",
+  "pagina": 20,
+  "competencias": [
+   1
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-ES-04",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Escucha",
+  "numero": 4,
+  "texto": "Reconozco algunos estados de ánimo a través del tono o volumen de voz en una historia leída por el profesor o en una grabación.",
+  "pagina": 20,
+  "competencias": [
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-ES-05",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Escucha",
+  "numero": 5,
+  "texto": "Identifico de quién me hablan a partir de su descripción física.",
+  "pagina": 20,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-ES-06",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Escucha",
+  "numero": 6,
+  "texto": "Comprendo información personal proporcionada por mis compañeros y mi profesor.",
+  "pagina": 20,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-ES-07",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Escucha",
+  "numero": 7,
+  "texto": "Identifico objetos, personas y acciones que me son conocidas en un texto descriptivo corto leído por el profesor.",
+  "pagina": 20,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-ES-08",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Escucha",
+  "numero": 8,
+  "texto": "Identifico la secuencia de las acciones y las asocio con los momentos del día, cuando alguien describe su rutina diaria.",
+  "pagina": 20,
+  "competencias": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-ES-09",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Escucha",
+  "numero": 9,
+  "texto": "Memorizo y sigo el ritmo de canciones populares de países angloparlantes.",
+  "pagina": 20,
+  "competencias": [
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-LE-01",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Lectura",
+  "numero": 1,
+  "texto": "Asocio un dibujo con su descripción escrita.",
+  "pagina": 20,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-LE-02",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Lectura",
+  "numero": 2,
+  "texto": "Comprendo descripciones cortas sobre personas, lugares y acciones conocidas.",
+  "pagina": 20,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-LE-03",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Lectura",
+  "numero": 3,
+  "texto": "Ubico en un texto corto los lugares y momentos en que suceden las acciones.",
+  "pagina": 20,
+  "competencias": [
+   1
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-LE-04",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Lectura",
+  "numero": 4,
+  "texto": "Identifico las acciones en una secuencia corta de eventos.",
+  "pagina": 20,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-LE-05",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Lectura",
+  "numero": 5,
+  "texto": "Utilizo gráficas para representar la información más relevante de un texto.",
+  "pagina": 20,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-LE-06",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Lectura",
+  "numero": 6,
+  "texto": "Utilizo el diccionario como apoyo a la comprensión de textos.",
+  "pagina": 20,
+  "competencias": []
+ },
+ {
+  "codigo": "ING-EBC-A2.1-LE-07",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Lectura",
+  "numero": 7,
+  "texto": "Identifico elementos culturales como nombres propios y lugares, en textos sencillos.",
+  "pagina": 20,
+  "competencias": [
+   1,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-LE-08",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Lectura",
+  "numero": 8,
+  "texto": "Leo y entiendo textos auténticos y sencillos sobre acontecimientos concretos asociados a tradiciones culturales que conozco (cumpleaños, navidad, etc.).",
+  "pagina": 20,
+  "competencias": [
+   1,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-LE-09",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Lectura",
+  "numero": 9,
+  "texto": "Reconozco, en un texto narrativo corto, aspectos como qué, quién, cuándo y dónde.",
+  "pagina": 20,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-LE-10",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Lectura",
+  "numero": 10,
+  "texto": "Participo en juegos de búsqueda de palabras desconocidas.",
+  "pagina": 20,
+  "competencias": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-ESC-01",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Escritura",
+  "numero": 1,
+  "texto": "Escribo sobre temas de mi interés.",
+  "pagina": 21,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-ESC-02",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Escritura",
+  "numero": 2,
+  "texto": "Escribo descripciones y narraciones cortas basadas en una secuencia de ilustraciones.",
+  "pagina": 21,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-ESC-03",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Escritura",
+  "numero": 3,
+  "texto": "Escribo tarjetas con mensajes cortos de felicitación o invitación.",
+  "pagina": 21,
+  "competencias": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-ESC-04",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Escritura",
+  "numero": 4,
+  "texto": "Describo los rasgos personales de gente de mi entorno.",
+  "pagina": 21,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-ESC-05",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Escritura",
+  "numero": 5,
+  "texto": "Enlazo frases y oraciones usando conectores que expresan secuencia y adición.",
+  "pagina": 21,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-ESC-06",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Escritura",
+  "numero": 6,
+  "texto": "Escribo textos cortos que describen mi estado de ánimo y mis preferencias.",
+  "pagina": 21,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-ESC-07",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Escritura",
+  "numero": 7,
+  "texto": "Uso adecuadamente estructuras y patrones gramaticales de uso frecuente.",
+  "pagina": 21,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-ESC-08",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Escritura",
+  "numero": 8,
+  "texto": "Verifico la ortografía de las palabras que escribo con frecuencia.",
+  "pagina": 21,
+  "competencias": [
+   1
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-ESC-09",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Escritura",
+  "numero": 9,
+  "texto": "Escribo pequeñas historias que me imagino.",
+  "pagina": 21,
+  "competencias": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-MO-01",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Monólogo",
+  "numero": 1,
+  "texto": "Me describo a mí o a otra persona conocida, con frases simples y cortas, teniendo en cuenta su edad y sus características físicas.",
+  "pagina": 21,
+  "competencias": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-MO-02",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Monólogo",
+  "numero": 2,
+  "texto": "Uso oraciones cortas para decir lo que puedo o no puedo hacer.",
+  "pagina": 21,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-MO-03",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Monólogo",
+  "numero": 3,
+  "texto": "Deletreo palabras que me son conocidas.",
+  "pagina": 21,
+  "competencias": [
+   1
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-MO-04",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Monólogo",
+  "numero": 4,
+  "texto": "Expreso en una palabra o frase corta, cómo me siento.",
+  "pagina": 21,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-MO-05",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Monólogo",
+  "numero": 5,
+  "texto": "Digo un texto corto memorizado en una dramatización, ayudándome con gestos.",
+  "pagina": 21,
+  "competencias": [
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-MO-06",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Monólogo",
+  "numero": 6,
+  "texto": "Describo con oraciones simples el clima y determino la ropa necesaria, según corresponda.",
+  "pagina": 21,
+  "competencias": [
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-MO-07",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Monólogo",
+  "numero": 7,
+  "texto": "Recito un trabalenguas sencillo o una rima, o canto el coro de una canción.",
+  "pagina": 21,
+  "competencias": [
+   1,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-MO-08",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Monólogo",
+  "numero": 8,
+  "texto": "Hablo de las actividades que realizo habitualmente.",
+  "pagina": 21,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-MO-09",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Monólogo",
+  "numero": 9,
+  "texto": "Busco oportunidades para usar lo que sé en inglés.",
+  "pagina": 21,
+  "competencias": [
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-MO-10",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Monólogo",
+  "numero": 10,
+  "texto": "Puedo hablar de cantidades y contar objetos hasta mil.",
+  "pagina": 21,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-CO-01",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Conversación",
+  "numero": 1,
+  "texto": "Respondo a preguntas personales como nombre, edad, nacionalidad y dirección, con apoyo de repeticiones cuando sea necesario.",
+  "pagina": 21,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-CO-02",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Conversación",
+  "numero": 2,
+  "texto": "Puedo saludar de acuerdo con la hora del día, de forma natural y apropiada.",
+  "pagina": 21,
+  "competencias": [
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-CO-03",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Conversación",
+  "numero": 3,
+  "texto": "Saludo cortésmente de acuerdo con la edad y rango del interlocutor.",
+  "pagina": 21,
+  "competencias": [
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-CO-04",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Conversación",
+  "numero": 4,
+  "texto": "Solicito a mi profesor y a mis compañeros que me aclaren una duda o me expliquen algo sobre lo que hablamos.",
+  "pagina": 21,
+  "competencias": [
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-CO-05",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Conversación",
+  "numero": 5,
+  "texto": "Pido y acepto disculpas de forma simple y cortés.",
+  "pagina": 21,
+  "competencias": [
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-CO-06",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Conversación",
+  "numero": 6,
+  "texto": "Sigo y doy instrucciones básicas cuando participo en juegos conocidos.",
+  "pagina": 21,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-CO-07",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Conversación",
+  "numero": 7,
+  "texto": "Mantengo una conversación simple en inglés con un compañero cuando desarrollo una actividad de aula.",
+  "pagina": 21,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-CO-08",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Conversación",
+  "numero": 8,
+  "texto": "Pregunto y respondo sobre las características físicas de objetos familiares.",
+  "pagina": 21,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-CO-09",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Conversación",
+  "numero": 9,
+  "texto": "Respondo preguntas sobre mis gustos y preferencias.",
+  "pagina": 21,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.1-CO-10",
+  "nivel": "A2.1",
+  "grados": "4.° a 5.°",
+  "habilidad": "Conversación",
+  "numero": 10,
+  "texto": "Puedo cortésmente llamar la atención de mi profesor con una frase corta.",
+  "pagina": 21,
+  "competencias": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.2-ES-01",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Escucha",
+  "numero": 1,
+  "texto": "Comprendo información básica sobre temas relacionados con mis actividades cotidianas y con mi entorno.",
+  "pagina": 22,
+  "competencias": [
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.2-ES-02",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Escucha",
+  "numero": 2,
+  "texto": "Comprendo preguntas y expresiones orales que se refieren a mí, a mi familia, mis amigos y mi entorno.",
+  "pagina": 22,
+  "competencias": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.2-ES-03",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Escucha",
+  "numero": 3,
+  "texto": "Comprendo mensajes cortos y simples relacionados con mi entorno y mis intereses personales y académicos.",
+  "pagina": 22,
+  "competencias": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.2-ES-04",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Escucha",
+  "numero": 4,
+  "texto": "Comprendo y sigo instrucciones puntuales cuando éstas se presentan en forma clara y con vocabulario conocido.",
+  "pagina": 22,
+  "competencias": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.2-ES-05",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Escucha",
+  "numero": 5,
+  "texto": "Comprendo una descripción oral sobre una situación, persona, lugar u objeto.",
+  "pagina": 22,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.2-ES-06",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Escucha",
+  "numero": 6,
+  "texto": "Identifico el tema general y los detalles relevantes en conversaciones, informaciones radiales o exposiciones orales.",
+  "pagina": 22,
+  "competencias": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.2-ES-07",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Escucha",
+  "numero": 7,
+  "texto": "Comprendo la idea general en una descripción y en una narración.",
+  "pagina": 22,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.2-LE-01",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Lectura",
+  "numero": 1,
+  "texto": "Comprendo instrucciones escritas para llevar a cabo actividades cotidianas, personales y académicas.",
+  "pagina": 22,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.2-LE-02",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Lectura",
+  "numero": 2,
+  "texto": "Comprendo textos literarios, académicos y de interés general, escritos con un lenguaje sencillo.",
+  "pagina": 22,
+  "competencias": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.2-LE-03",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Lectura",
+  "numero": 3,
+  "texto": "Puedo extraer información general y específica de un texto corto y escrito en un lenguaje sencillo.",
+  "pagina": 22,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.2-LE-04",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Lectura",
+  "numero": 4,
+  "texto": "Comprendo relaciones establecidas por palabras como and (adición), but (contraste), first, second… (orden temporal), en enunciados sencillos.",
+  "pagina": 22,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.2-LE-05",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Lectura",
+  "numero": 5,
+  "texto": "Valoro la lectura como un hábito importante de enriquecimiento personal y académico.",
+  "pagina": 22,
+  "competencias": []
+ },
+ {
+  "codigo": "ING-EBC-A2.2-LE-06",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Lectura",
+  "numero": 6,
+  "texto": "Identifico el significado adecuado de las palabras en el diccionario según el contexto.",
+  "pagina": 22,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.2-LE-07",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Lectura",
+  "numero": 7,
+  "texto": "Aplico estrategias de lectura relacionadas con el propósito de la misma.",
+  "pagina": 22,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.2-LE-08",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Lectura",
+  "numero": 8,
+  "texto": "Identifico en textos sencillos, elementos culturales como costumbres y celebraciones.",
+  "pagina": 22,
+  "competencias": [
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.2-LE-09",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Lectura",
+  "numero": 9,
+  "texto": "Identifico la acción, los personajes y el entorno en textos narrativos.",
+  "pagina": 22,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.2-ESC-01",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Escritura",
+  "numero": 1,
+  "texto": "Describo con frases cortas personas, lugares, objetos o hechos relacionados con temas y situaciones que me son familiares.",
+  "pagina": 23,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.2-ESC-02",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Escritura",
+  "numero": 2,
+  "texto": "Escribo mensajes cortos y con diferentes propósitos relacionados con situaciones, objetos o personas de mi entorno inmediato.",
+  "pagina": 23,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.2-ESC-03",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Escritura",
+  "numero": 3,
+  "texto": "Completo información personal básica en formatos y documentos sencillos.",
+  "pagina": 23,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.2-ESC-04",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Escritura",
+  "numero": 4,
+  "texto": "Escribo un texto corto relativo a mí, a mi familia, mis amigos, mi entorno o sobre hechos que me son familiares.",
+  "pagina": 23,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.2-ESC-05",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Escritura",
+  "numero": 5,
+  "texto": "Escribo textos cortos en los que expreso contraste, adición, causa y efecto entre ideas.",
+  "pagina": 23,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.2-ESC-06",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Escritura",
+  "numero": 6,
+  "texto": "Utilizo vocabulario adecuado para darle coherencia a mis escritos.",
+  "pagina": 23,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.2-MO-01",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Monólogo",
+  "numero": 1,
+  "texto": "Describo con oraciones simples a una persona, lugar u objeto que me son familiares aunque, si lo requiero, me apoyo en apuntes o en mi profesor.",
+  "pagina": 23,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.2-MO-02",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Monólogo",
+  "numero": 2,
+  "texto": "Doy instrucciones orales sencillas en situaciones escolares, familiares y de mi entorno cercano.",
+  "pagina": 23,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.2-MO-03",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Monólogo",
+  "numero": 3,
+  "texto": "Establezco comparaciones entre personajes, lugares y objetos.",
+  "pagina": 23,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.2-MO-04",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Monólogo",
+  "numero": 4,
+  "texto": "Expreso de manera sencilla lo que me gusta y me disgusta respecto a algo.",
+  "pagina": 23,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.2-MO-05",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Monólogo",
+  "numero": 5,
+  "texto": "Narro o describo de forma sencilla hechos y actividades que me son familiares.",
+  "pagina": 23,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.2-MO-06",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Monólogo",
+  "numero": 6,
+  "texto": "Hago exposiciones muy breves, de contenido predecible y aprendido.",
+  "pagina": 23,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.2-MO-07",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Monólogo",
+  "numero": 7,
+  "texto": "Describo con oraciones simples mi rutina diaria y la de otras personas.",
+  "pagina": 23,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.2-CO-01",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Conversación",
+  "numero": 1,
+  "texto": "Respondo con frases cortas a preguntas sencillas sobre temas que me son familiares.",
+  "pagina": 23,
+  "competencias": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.2-CO-02",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Conversación",
+  "numero": 2,
+  "texto": "Solicito explicaciones sobre situaciones puntuales en mi escuela, mi familia y mi entorno cercano.",
+  "pagina": 23,
+  "competencias": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.2-CO-03",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Conversación",
+  "numero": 3,
+  "texto": "Participo en situaciones comunicativas cotidianas tales como pedir favores, disculparme y agradecer.",
+  "pagina": 23,
+  "competencias": [
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.2-CO-04",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Conversación",
+  "numero": 4,
+  "texto": "Utilizo códigos no verbales como gestos y entonación, entre otros.",
+  "pagina": 23,
+  "competencias": [
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.2-CO-05",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Conversación",
+  "numero": 5,
+  "texto": "Formulo preguntas sencillas sobre temas que me son familiares apoyándome en gestos y repetición.",
+  "pagina": 23,
+  "competencias": [
+   1,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.2-CO-06",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Conversación",
+  "numero": 6,
+  "texto": "Hago propuestas a mis compañeros sobre qué hacer, dónde, cuándo o cómo.",
+  "pagina": 23,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-A2.2-CO-07",
+  "nivel": "A2.2",
+  "grados": "6.° a 7.°",
+  "habilidad": "Conversación",
+  "numero": 7,
+  "texto": "Inicio, mantengo y cierro una conversación sencilla sobre un tema conocido.",
+  "pagina": 23,
+  "competencias": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-ES-01",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Escucha",
+  "numero": 1,
+  "texto": "Sigo las instrucciones dadas en clase para realizar actividades académicas.",
+  "pagina": 24,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-ES-02",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Escucha",
+  "numero": 2,
+  "texto": "Entiendo lo que me dicen el profesor y mis compañeros en interacciones cotidianas dentro del aula, sin necesidad de repetición.",
+  "pagina": 24,
+  "competencias": [
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-ES-03",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Escucha",
+  "numero": 3,
+  "texto": "Identifico ideas generales y específicas en textos orales, si tengo conocimiento del tema y del vocabulario utilizado.",
+  "pagina": 24,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-ES-04",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Escucha",
+  "numero": 4,
+  "texto": "Reconozco los elementos de enlace de un texto oral para identificar su secuencia.",
+  "pagina": 24,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-ES-05",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Escucha",
+  "numero": 5,
+  "texto": "Muestro una actitud respetuosa y tolerante al escuchar a otros.",
+  "pagina": 24,
+  "competencias": [
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-ES-06",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Escucha",
+  "numero": 6,
+  "texto": "Identifico diferentes roles de los hablantes que participan en conversaciones de temas relacionados con mis intereses.",
+  "pagina": 24,
+  "competencias": [
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-ES-07",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Escucha",
+  "numero": 7,
+  "texto": "Utilizo mi conocimiento general del mundo para comprender lo que escucho.",
+  "pagina": 24,
+  "competencias": []
+ },
+ {
+  "codigo": "ING-EBC-B1.1-ES-08",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Escucha",
+  "numero": 8,
+  "texto": "Infiero información específica a partir de un texto oral.",
+  "pagina": 24,
+  "competencias": [
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-ES-09",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Escucha",
+  "numero": 9,
+  "texto": "Identifico la información clave en conversaciones breves tomadas de la vida real, si están acompañadas por imágenes.",
+  "pagina": 24,
+  "competencias": [
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-ES-10",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Escucha",
+  "numero": 10,
+  "texto": "Reconozco el propósito de diferentes tipos de textos que presentan mis compañeros en clase.",
+  "pagina": 24,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-LE-01",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Lectura",
+  "numero": 1,
+  "texto": "Identifico iniciación, nudo y desenlace en una narración.",
+  "pagina": 24,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-LE-02",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Lectura",
+  "numero": 2,
+  "texto": "Reconozco el propósito de una descripción en textos narrativos de mediana extensión.",
+  "pagina": 24,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-LE-03",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Lectura",
+  "numero": 3,
+  "texto": "Identifico puntos a favor y en contra en un texto argumentativo sobre temas con los que estoy familiarizado.",
+  "pagina": 24,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-LE-04",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Lectura",
+  "numero": 4,
+  "texto": "Comprendo relaciones de adición, contraste, orden temporal y espacial y causa-efecto entre enunciados sencillos.",
+  "pagina": 24,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-LE-05",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Lectura",
+  "numero": 5,
+  "texto": "Identifico la recurrencia de ideas en un mismo texto.",
+  "pagina": 24,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-LE-06",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Lectura",
+  "numero": 6,
+  "texto": "Identifico relaciones de significado expresadas en textos sobre temas que me son familiares.",
+  "pagina": 24,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-LE-07",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Lectura",
+  "numero": 7,
+  "texto": "Represento, en forma gráfica, la información que encuentro en textos que comparan y contrastan objetos, animales y personas.",
+  "pagina": 24,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-LE-08",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Lectura",
+  "numero": 8,
+  "texto": "Valoro la lectura como una actividad importante para todas las áreas de mi vida.",
+  "pagina": 24,
+  "competencias": []
+ },
+ {
+  "codigo": "ING-EBC-B1.1-LE-09",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Lectura",
+  "numero": 9,
+  "texto": "Comprendo la información implícita en textos relacionados con temas de mi interés.",
+  "pagina": 24,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-LE-10",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Lectura",
+  "numero": 10,
+  "texto": "Diferencio la estructura organizativa de textos descriptivos, narrativos y argumentativos.",
+  "pagina": 24,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-LE-11",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Lectura",
+  "numero": 11,
+  "texto": "Identifico elementos culturales presentes en textos sencillos.",
+  "pagina": 24,
+  "competencias": [
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-ESC-01",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Escritura",
+  "numero": 1,
+  "texto": "Escribo narraciones sobre experiencias personales y hechos a mi alrededor.",
+  "pagina": 25,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-ESC-02",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Escritura",
+  "numero": 2,
+  "texto": "Escribo mensajes en diferentes formatos sobre temas de mi interés.",
+  "pagina": 25,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-ESC-03",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Escritura",
+  "numero": 3,
+  "texto": "Diligencio efectivamente formatos con información personal.",
+  "pagina": 25,
+  "competencias": [
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-ESC-04",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Escritura",
+  "numero": 4,
+  "texto": "Contesto, en forma escrita, preguntas relacionadas con textos que he leído.",
+  "pagina": 25,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-ESC-05",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Escritura",
+  "numero": 5,
+  "texto": "Produzco textos sencillos con diferentes funciones (describir, narrar, argumentar) sobre temas personales y relacionados con otras asignaturas.",
+  "pagina": 25,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-ESC-06",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Escritura",
+  "numero": 6,
+  "texto": "Parafraseo información que leo como parte de mis actividades académicas.",
+  "pagina": 25,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-ESC-07",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Escritura",
+  "numero": 7,
+  "texto": "Organizo párrafos coherentes cortos, teniendo en cuenta elementos formales del lenguaje como ortografía y puntuación.",
+  "pagina": 25,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-ESC-08",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Escritura",
+  "numero": 8,
+  "texto": "Uso planes representados en mapas o diagramas para desarrollar mis escritos.",
+  "pagina": 25,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-ESC-09",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Escritura",
+  "numero": 9,
+  "texto": "Ejemplifico mis puntos de vista sobre los temas que escribo.",
+  "pagina": 25,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-ESC-10",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Escritura",
+  "numero": 10,
+  "texto": "Edito mis escritos en clase, teniendo en cuenta reglas de ortografía, adecuación del vocabulario y estructuras gramaticales.",
+  "pagina": 25,
+  "competencias": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-MO-01",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Monólogo",
+  "numero": 1,
+  "texto": "Hago presentaciones cortas y ensayadas sobre temas cotidianos y personales.",
+  "pagina": 25,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-MO-02",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Monólogo",
+  "numero": 2,
+  "texto": "Narro historias cortas enlazando mis ideas de manera apropiada.",
+  "pagina": 25,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-MO-03",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Monólogo",
+  "numero": 3,
+  "texto": "Expreso mi opinión sobre asuntos de interés general para mí y mis compañeros.",
+  "pagina": 25,
+  "competencias": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-MO-04",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Monólogo",
+  "numero": 4,
+  "texto": "Explico y justifico brevemente mis planes y acciones.",
+  "pagina": 25,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-MO-05",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Monólogo",
+  "numero": 5,
+  "texto": "Hago descripciones sencillas sobre diversos asuntos cotidianos de mi entorno.",
+  "pagina": 25,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-MO-06",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Monólogo",
+  "numero": 6,
+  "texto": "Hago exposiciones ensayadas y breves sobre algún tema académico de mi interés.",
+  "pagina": 25,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-MO-07",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Monólogo",
+  "numero": 7,
+  "texto": "Expreso mis opiniones, gustos y preferencias sobre temas que he trabajado en clase, utilizando estrategias para monitorear mi pronunciación.",
+  "pagina": 25,
+  "competencias": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-MO-08",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Monólogo",
+  "numero": 8,
+  "texto": "Uso un plan para exponer temas relacionados con el entorno académico de otras asignaturas.",
+  "pagina": 25,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-CO-01",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Conversación",
+  "numero": 1,
+  "texto": "Participo en una conversación cuando mi interlocutor me da el tiempo para pensar mis respuestas.",
+  "pagina": 25,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-CO-02",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Conversación",
+  "numero": 2,
+  "texto": "Converso con mis compañeros y mi profesor sobre experiencias pasadas y planes futuros.",
+  "pagina": 25,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-CO-03",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Conversación",
+  "numero": 3,
+  "texto": "Me arriesgo a participar en una conversación con mis compañeros y mi profesor.",
+  "pagina": 25,
+  "competencias": [
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-CO-04",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Conversación",
+  "numero": 4,
+  "texto": "Me apoyo en mis conocimientos generales del mundo para participar en una conversación.",
+  "pagina": 25,
+  "competencias": []
+ },
+ {
+  "codigo": "ING-EBC-B1.1-CO-05",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Conversación",
+  "numero": 5,
+  "texto": "Interactúo con mis compañeros y profesor para tomar decisiones sobre temas específicos que conozco.",
+  "pagina": 25,
+  "competencias": []
+ },
+ {
+  "codigo": "ING-EBC-B1.1-CO-06",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Conversación",
+  "numero": 6,
+  "texto": "Uso lenguaje formal o informal en juegos de rol improvisados, según el contexto.",
+  "pagina": 25,
+  "competencias": [
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-CO-07",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Conversación",
+  "numero": 7,
+  "texto": "Monitoreo la toma de turnos entre los participantes en discusiones sobre temas preparados con anterioridad.",
+  "pagina": 25,
+  "competencias": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.1-CO-08",
+  "nivel": "B1.1",
+  "grados": "8.° a 9.°",
+  "habilidad": "Conversación",
+  "numero": 8,
+  "texto": "Demuestro que reconozco elementos de la cultura extranjera y los relaciono con mi cultura.",
+  "pagina": 25,
+  "competencias": [
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-ES-01",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Escucha",
+  "numero": 1,
+  "texto": "Entiendo instrucciones para ejecutar acciones cotidianas.",
+  "pagina": 26,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-ES-02",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Escucha",
+  "numero": 2,
+  "texto": "Identifico la idea principal de un texto oral cuando tengo conocimiento previo del tema.",
+  "pagina": 26,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-ES-03",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Escucha",
+  "numero": 3,
+  "texto": "Identifico conectores en una situación de habla para comprender su sentido.",
+  "pagina": 26,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-ES-04",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Escucha",
+  "numero": 4,
+  "texto": "Identifico personas, situaciones, lugares y el tema en conversaciones sencillas.",
+  "pagina": 26,
+  "competencias": [
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-ES-05",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Escucha",
+  "numero": 5,
+  "texto": "Identifico el propósito de un texto oral.",
+  "pagina": 26,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-ES-06",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Escucha",
+  "numero": 6,
+  "texto": "Muestro una actitud respetuosa y tolerante cuando escucho a otros.",
+  "pagina": 26,
+  "competencias": []
+ },
+ {
+  "codigo": "ING-EBC-B1.2-ES-07",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Escucha",
+  "numero": 7,
+  "texto": "Utilizo estrategias adecuadas al propósito y al tipo de texto (activación de conocimientos previos, apoyo en el lenguaje corporal y gestual, uso de imágenes) para comprender lo que escucho.",
+  "pagina": 26,
+  "competencias": [
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-ES-08",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Escucha",
+  "numero": 8,
+  "texto": "Comprendo el sentido general del texto oral aunque no entienda todas sus palabras.",
+  "pagina": 26,
+  "competencias": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-ES-09",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Escucha",
+  "numero": 9,
+  "texto": "Me apoyo en el lenguaje corporal y gestual del hablante para comprender mejor lo que dice.",
+  "pagina": 26,
+  "competencias": [
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-ES-10",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Escucha",
+  "numero": 10,
+  "texto": "Utilizo las imágenes e información del contexto de habla para comprender mejor lo que escucho.",
+  "pagina": 26,
+  "competencias": [
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-LE-01",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Lectura",
+  "numero": 1,
+  "texto": "Identifico palabras clave dentro del texto que me permiten comprender su sentido general.",
+  "pagina": 26,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-LE-02",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Lectura",
+  "numero": 2,
+  "texto": "Identifico el punto de vista del autor.",
+  "pagina": 26,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-LE-03",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Lectura",
+  "numero": 3,
+  "texto": "Asumo una posición crítica frente al punto de vista del autor.",
+  "pagina": 26,
+  "competencias": []
+ },
+ {
+  "codigo": "ING-EBC-B1.2-LE-04",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Lectura",
+  "numero": 4,
+  "texto": "Identifico los valores de otras culturas y eso me permite construir mi interpretación de su identidad.",
+  "pagina": 26,
+  "competencias": []
+ },
+ {
+  "codigo": "ING-EBC-B1.2-LE-05",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Lectura",
+  "numero": 5,
+  "texto": "Valoro la lectura como un medio para adquirir información de diferentes disciplinas que amplían mi conocimiento.",
+  "pagina": 26,
+  "competencias": []
+ },
+ {
+  "codigo": "ING-EBC-B1.2-LE-06",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Lectura",
+  "numero": 6,
+  "texto": "Utilizo variedad de estrategias de comprensión de lectura adecuadas al propósito y al tipo de texto.",
+  "pagina": 26,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-LE-07",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Lectura",
+  "numero": 7,
+  "texto": "Analizo textos descriptivos, narrativos y argumentativos con el fin de comprender las ideas principales y específicas.",
+  "pagina": 26,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-LE-08",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Lectura",
+  "numero": 8,
+  "texto": "Hago inferencias a partir de la información en un texto.",
+  "pagina": 26,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-LE-09",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Lectura",
+  "numero": 9,
+  "texto": "En un texto identifico los elementos que me permiten apreciar los valores de la cultura angloparlante.",
+  "pagina": 26,
+  "competencias": [
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-LE-10",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Lectura",
+  "numero": 10,
+  "texto": "Comprendo variedad de textos informativos provenientes de diferentes fuentes.",
+  "pagina": 26,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-ESC-01",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Escritura",
+  "numero": 1,
+  "texto": "Estructuro mis textos teniendo en cuenta elementos formales del lenguaje como la puntuación, la ortografía, la sintaxis, la coherencia y la cohesión.",
+  "pagina": 27,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-ESC-02",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Escritura",
+  "numero": 2,
+  "texto": "Planeo, reviso y edito mis escritos con la ayuda de mis compañeros y del profesor.",
+  "pagina": 27,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-ESC-03",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Escritura",
+  "numero": 3,
+  "texto": "Expreso valores de mi cultura a través de los textos que escribo.",
+  "pagina": 27,
+  "competencias": [
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-ESC-04",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Escritura",
+  "numero": 4,
+  "texto": "Escribo diferentes tipos de textos de mediana longitud y con una estructura sencilla (cartas, notas, mensajes, correos electrónicos, etc.).",
+  "pagina": 27,
+  "competencias": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-ESC-05",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Escritura",
+  "numero": 5,
+  "texto": "Escribo resúmenes e informes que demuestran mi conocimiento sobre temas de otras disciplinas.",
+  "pagina": 27,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-ESC-06",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Escritura",
+  "numero": 6,
+  "texto": "Escribo textos de diferentes tipos teniendo en cuenta a mi posible lector.",
+  "pagina": 27,
+  "competencias": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-ESC-07",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Escritura",
+  "numero": 7,
+  "texto": "Valoro la escritura como un medio de expresión de mis ideas y pensamientos, quién soy y qué sé del mundo.",
+  "pagina": 27,
+  "competencias": []
+ },
+ {
+  "codigo": "ING-EBC-B1.2-ESC-08",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Escritura",
+  "numero": 8,
+  "texto": "Escribo textos a través de los cuales explico mis preferencias, decisiones o actuaciones.",
+  "pagina": 27,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-ESC-09",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Escritura",
+  "numero": 9,
+  "texto": "Escribo textos expositivos sobre temas de mi interés.",
+  "pagina": 27,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-MO-01",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Monólogo",
+  "numero": 1,
+  "texto": "Narro en forma detallada experiencias, hechos o historias de mi interés y del interés de mi audiencia.",
+  "pagina": 27,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-MO-02",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Monólogo",
+  "numero": 2,
+  "texto": "Hago presentaciones orales sobre temas de mi interés y relacionados con el currículo escolar.",
+  "pagina": 27,
+  "competencias": [
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-MO-03",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Monólogo",
+  "numero": 3,
+  "texto": "Utilizo un vocabulario apropiado para expresar mis ideas con claridad sobre temas del currículo y de mi interés.",
+  "pagina": 27,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-MO-04",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Monólogo",
+  "numero": 4,
+  "texto": "Puedo expresarme con la seguridad y confianza propios de mi personalidad.",
+  "pagina": 27,
+  "competencias": []
+ },
+ {
+  "codigo": "ING-EBC-B1.2-MO-05",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Monólogo",
+  "numero": 5,
+  "texto": "Utilizo elementos metalingüísticos como gestos y entonación para hacer más comprensible lo que digo.",
+  "pagina": 27,
+  "competencias": [
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-MO-06",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Monólogo",
+  "numero": 6,
+  "texto": "Sustento mis opiniones, planes y proyectos.",
+  "pagina": 27,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-MO-07",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Monólogo",
+  "numero": 7,
+  "texto": "Uso estrategias como el parafraseo para compensar dificultades en la comunicación.",
+  "pagina": 27,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-MO-08",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Monólogo",
+  "numero": 8,
+  "texto": "Opino sobre los estilos de vida de la gente de otras culturas, apoyándome en textos escritos y orales previamente estudiados.",
+  "pagina": 27,
+  "competencias": [
+   2,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-CO-01",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Conversación",
+  "numero": 1,
+  "texto": "Participo espontáneamente en conversaciones sobre temas de mi interés utilizando un lenguaje claro y sencillo.",
+  "pagina": 27,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-CO-02",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Conversación",
+  "numero": 2,
+  "texto": "Respondo preguntas teniendo en cuenta a mi interlocutor y el contexto.",
+  "pagina": 27,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-CO-03",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Conversación",
+  "numero": 3,
+  "texto": "Utilizo una pronunciación inteligible para lograr una comunicación efectiva.",
+  "pagina": 27,
+  "competencias": [
+   1,
+   3
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-CO-04",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Conversación",
+  "numero": 4,
+  "texto": "Uso mis conocimientos previos para participar en una conversación.",
+  "pagina": 27,
+  "competencias": []
+ },
+ {
+  "codigo": "ING-EBC-B1.2-CO-05",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Conversación",
+  "numero": 5,
+  "texto": "Describo en forma oral mis ambiciones, sueños y esperanzas utilizando un lenguaje claro y sencillo.",
+  "pagina": 27,
+  "competencias": [
+   1,
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-CO-06",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Conversación",
+  "numero": 6,
+  "texto": "Uso lenguaje funcional para discutir alternativas, hacer recomendaciones y negociar acuerdos en debates preparados con anterioridad.",
+  "pagina": 27,
+  "competencias": [
+   2
+  ]
+ },
+ {
+  "codigo": "ING-EBC-B1.2-CO-07",
+  "nivel": "B1.2",
+  "grados": "10.° a 11.°",
+  "habilidad": "Conversación",
+  "numero": 7,
+  "texto": "Utilizo estrategias que me permiten iniciar, mantener y cerrar una conversación sencilla sobre temas de mi interés, de una forma natural.",
+  "pagina": 27,
+  "competencias": [
+   1,
+   2
+  ]
+ }
+]

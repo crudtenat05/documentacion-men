@@ -1,0 +1,2565 @@
+[
+ {
+  "codigo": "ING-MALLA-6-M1",
+  "area": "ingles",
+  "grado": 6,
+  "modulo": 1,
+  "eje": "Democracia y paz",
+  "tema": "Convivencia en el aula",
+  "horas": "24–27",
+  "nivel_mcer": "A1",
+  "meta": "Reconocerse como individuo y como miembro de la clase.",
+  "meta_en": "Recognize self as an individual and a member of the class.",
+  "ruta": "Tareas:\n1. Dibujar un árbol genealógico.\n2. Redactar textos cortos descriptivos sobre la familia.\n3. Jugar bingo.\n4. Jugar lotería.\n5. Escribir un texto descriptivo sobre su rutina diaria.\n6. Realizar una encuesta entre sus compañeros sobre la rutina diaria.\n7. Realizar diálogos cortos para obtener información.",
+  "estandares": [
+   "ING-EBC-A1-ES-01",
+   "ING-EBC-A1-ES-03",
+   "ING-EBC-A1-ES-05",
+   "ING-EBC-A1-ES-06",
+   "ING-EBC-A1-ES-08",
+   "ING-EBC-A1-ES-09",
+   "ING-EBC-A1-LE-01",
+   "ING-EBC-A1-LE-02",
+   "ING-EBC-A1-LE-04",
+   "ING-EBC-A1-ESC-03",
+   "ING-EBC-A1-ESC-04",
+   "ING-EBC-A1-MO-02",
+   "ING-EBC-A1-MO-03",
+   "ING-EBC-A1-MO-06",
+   "ING-EBC-A1-MO-07",
+   "ING-EBC-A1-MO-08",
+   "ING-EBC-A1-MO-09",
+   "ING-EBC-A1-CO-01",
+   "ING-EBC-A1-CO-02",
+   "ING-EBC-A1-CO-03",
+   "ING-EBC-A1-CO-04",
+   "ING-EBC-A1-CO-05",
+   "ING-EBC-A1-CO-06"
+  ],
+  "funciones": [
+   "Dar y pedir información personal.",
+   "Describir personas y actividades cotidianas.",
+   "Presentarse a sí mismo y a otras personas.",
+   "Dar instrucciones.",
+   "Deletrear nombres.",
+   "Entender y usar el lenguaje del salón de clases.",
+   "Dar y pedir información sobre números telefónicos y la hora."
+  ],
+  "objetivos": [
+   "Identificar palabras y frases relacionadas con información personal y actividades cotidianas en textos orales y escritos sencillos.",
+   "Intercambiar información personal y de actividades cotidianas en juegos de roles sencillos.",
+   "Hacer oraciones simples sobre información personal y actividades cotidianas de manera oral y escrita."
+  ],
+  "saber_hacer": [
+   "Utiliza los saludos apropiadamente en pequeñas conversaciones.",
+   "Diligencia un formato con información personal.",
+   "Escribe un perfil personal propio y el de otra persona.",
+   "Expresa estados de ánimo y sentimientos personales a través de conversaciones sencillas.",
+   "Intercambia información relacionada con situaciones cotidianas en el aula de clase.",
+   "Hace un listado de oraciones cortas y sencillas sobre actividades cotidianas."
+  ],
+  "saber_ser": [
+   "Valora sus características personales y las de sus pares.",
+   "Respeta las diferencias físicas, culturales, ideológicas, entre otras, de sus compañeros de clase.",
+   "Participa activamente en las actividades.",
+   "Interioriza la importancia del cuidado personal integral."
+  ],
+  "saber": [
+   "Identifica palabras y expresiones de información personal, estados de ánimo y sentimientos personales.",
+   "Identifica información personal a través de preguntas de tipo Yes/No questions.",
+   "Reconoce el vocabulario relacionado con saludos, instrucciones y lenguaje del salón de clase."
+  ],
+  "lexico": [
+   "Miembros de la familia: mother / mom / ma, father / dad / pop, grandmother / gramma, cousins",
+   "Rutinas: brush teeth, comb hair, exercise, eat healthy, drink water, sleep well",
+   "Números 1 a 100",
+   "Objetos del salón de clases",
+   "La hora"
+  ],
+  "expresiones": [
+   "Para saludar: How are you? … I am… · How are you doing? … I am… · What do you do? I… · Nice to meet you. · Glad to meet you. · Nice meeting you! · What's up? · Hey!",
+   "Para describir intereses: I like… · He doesn't like… · She can… · She can't…",
+   "Para preguntar: So, are you…? · Do you like…? · Can you…? · Do you have any brothers or sisters?",
+   "Para el salón de clases: Open your notebook. · Be quiet! · Raise your hand.",
+   "De rutinas: I eat dinner at 6. · Before going to bed, I…"
+  ],
+  "gramatica": [
+   "Presente simple",
+   "Preguntas Yes/No",
+   "Adjetivos",
+   "Sustantivos singulares y plurales",
+   "Adverbios de frecuencia"
+  ],
+  "pronunciacion": [
+   "Reconocer sonidos en pares: /iː/ vs /ɪ/ (bean / bin, beat / bit)",
+   "Reconocer sonidos y entonación adecuados: /iː/ vs /ɛ/ vs /æ/ (beat / bet / bat, meet / met / mat)"
+  ],
+  "discursivo": [
+   "Iniciar y mantener una conversación sencilla."
+  ],
+  "sociolinguistico": [
+   "Uso formal e informal de saludos.",
+   "Aprendizaje a través de la interacción.",
+   "Respeto por la diferencia."
+  ],
+  "evaluacion_para": [
+   "Evalúo la creatividad y el ingenio para dibujar.",
+   "Realizo borradores de texto escrito como parte del proceso de escritura.",
+   "Analizo el uso de vocabulario y estructuras estudiadas en la redacción de textos sencillos.",
+   "Reflexiono sobre la cooperación del trabajo en grupo."
+  ],
+  "evaluacion_del": [
+   "Examen modular.",
+   "Rúbrica de redacción."
+  ]
+ },
+ {
+  "codigo": "ING-MALLA-6-M2",
+  "area": "ingles",
+  "grado": 6,
+  "modulo": 2,
+  "eje": "Salud",
+  "tema": "Rutina física",
+  "horas": "20–25",
+  "nivel_mcer": "A1",
+  "meta": "Establecer una rutina de cuidado físico personal.",
+  "meta_en": "Establish a physical care routine.",
+  "ruta": "Tareas:\n1. Jugar con sopas de letras.\n2. Hacer un folleto o un afiche sobre las rutas para el cuidado personal.\n3. Realizar una encuesta con los compañeros sobre la frecuencia con que realizan ciertas actividades.\n4. Hacer un listado de acciones que contribuyan al cuidado personal.",
+  "estandares": [
+   "ING-EBC-A1-ES-01",
+   "ING-EBC-A1-ES-03",
+   "ING-EBC-A1-ES-05",
+   "ING-EBC-A1-ES-06",
+   "ING-EBC-A1-ES-07",
+   "ING-EBC-A1-ES-09",
+   "ING-EBC-A1-ES-11",
+   "ING-EBC-A1-LE-01",
+   "ING-EBC-A1-LE-02",
+   "ING-EBC-A1-LE-03",
+   "ING-EBC-A1-ESC-02",
+   "ING-EBC-A1-ESC-03",
+   "ING-EBC-A1-ESC-04",
+   "ING-EBC-A1-MO-02",
+   "ING-EBC-A1-MO-03",
+   "ING-EBC-A1-MO-04",
+   "ING-EBC-A1-MO-05",
+   "ING-EBC-A1-MO-06",
+   "ING-EBC-A1-MO-07",
+   "ING-EBC-A1-MO-08",
+   "ING-EBC-A1-MO-09",
+   "ING-EBC-A1-CO-02",
+   "ING-EBC-A1-CO-03",
+   "ING-EBC-A1-CO-04",
+   "ING-EBC-A1-CO-05",
+   "ING-EBC-A1-CO-06"
+  ],
+  "funciones": [
+   "Describir hábitos y rutinas de cuidado personal.",
+   "Dar y solicitar información personal y de actividades cotidianas.",
+   "Expresar gustos e intereses.",
+   "Describir partes del cuerpo."
+  ],
+  "objetivos": [
+   "Hacer oraciones simples sobre rutinas, gustos e intereses de manera oral y escrita.",
+   "Identificar palabras y frases sobre rutinas, gustos e intereses en textos orales y escritos sencillos.",
+   "Intercambiar información sobre rutinas, gustos e intereses en una conversación sencilla."
+  ],
+  "saber_hacer": [
+   "Formula preguntas relacionadas con rutinas de cuidado personal.",
+   "Responde con frases cortas las preguntas sobre una rutina de cuidado personal con base en el vocabulario y las expresiones estudiadas.",
+   "Anota en un formato preestablecido expresiones cortas y palabras relacionadas con rutinas de cuidado personal a partir de una presentación oral corta y sencilla.",
+   "Hace un listado de las actividades de cuidado personal diarias más saludables con base en las notas tomadas."
+  ],
+  "saber_ser": [
+   "Asume una posición responsable ante el cuidado personal.",
+   "Respeta la toma de turnos.",
+   "Valora los aportes de los compañeros en el desarrollo de la clase."
+  ],
+  "saber": [
+   "Identifica información esencial relacionada con rutinas de cuidado personal diarias a partir de textos cortos escritos en lenguaje sencillo.",
+   "Reconoce el vocabulario relacionado con rutinas diarias y cuidado personal.",
+   "Identifica la estructura de Yes/No questions."
+  ],
+  "lexico": [
+   "Partes del cuerpo: arm, legs, chest, brain",
+   "Cuidado personal: take a shower, brush teeth, comb hair, exercise, eat healthy, drink water, sleep well"
+  ],
+  "expresiones": [
+   "Para el cuidado personal: In the morning… I brush my teeth. · I visit the doctor…",
+   "De tiempo relacionadas con rutinas: I eat dinner at 6. · Before going to bed, I… · I wake up at… · Every day · First, second, then… · In the morning… · In the afternoon… · In the evening… · At night…"
+  ],
+  "gramatica": [
+   "Presente simple",
+   "Preguntas Yes/No (Do you…? Yes, I do. / No, I don't.)",
+   "Adverbios de frecuencia"
+  ],
+  "pronunciacion": [
+   "Reconocer sonidos y entonación adecuados: /iː/ vs /ɛ/ vs /æ/ (beat / bet / bat, meet / met / mat)"
+  ],
+  "discursivo": [
+   "Secuencia de eventos."
+  ],
+  "sociolinguistico": [
+   "Toma de turnos.",
+   "Aprendizaje a través de la interacción."
+  ],
+  "evaluacion_para": [
+   "Contrasto mi listado de acciones con el de mis compañeros.",
+   "Realizo ejercicios guiados de reconocimiento específico de palabras relacionadas con el tema.",
+   "Integro a mis borradores la retroalimentación recibida de pares y del docente sobre el texto de recomendaciones de cuidado personal.",
+   "Realizo ejercicios de práctica de uso del vocabulario y la gramática en contexto.",
+   "Realizo borradores de texto escrito como parte del proceso de escritura.",
+   "Analizo el uso de vocabulario y estructuras estudiadas en la elaboración del folleto.",
+   "Reflexiono sobre el trabajo en grupo."
+  ],
+  "evaluacion_del": [
+   "Rúbrica de redacción.",
+   "Rúbrica de expresión oral.",
+   "Examen modular."
+  ]
+ },
+ {
+  "codigo": "ING-MALLA-6-M3",
+  "area": "ingles",
+  "grado": 6,
+  "modulo": 3,
+  "eje": "Sostenibilidad",
+  "tema": "Medio ambiente (ahorro de energía)",
+  "horas": "20–25",
+  "nivel_mcer": "A1",
+  "meta": "Especificar acciones de ahorro de energía en la comunidad.",
+  "meta_en": "Specify actions to save energy in the community.",
+  "ruta": "Tareas:\n1. Identificar estrategias de ahorro de energía en un texto relacionado con el tema.\n2. Entrevistar a los compañeros sobre las acciones de ahorro de energía.\n3. Realizar una entrevista filmada a partir del cuestionario diseñado.\n4. Identificar las estrategias de ahorro de energía más usadas en la comunidad.\n5. Reportar en un texto expositivo escrito los resultados del cuestionario, usando fuentes bibliográficas adecuadas.\n6. Elaborar un gráfico para reportar los resultados de la entrevista.",
+  "estandares": [
+   "ING-EBC-A1-ES-03",
+   "ING-EBC-A1-ES-05",
+   "ING-EBC-A1-ES-06",
+   "ING-EBC-A1-ES-09",
+   "ING-EBC-A2.1-ES-01",
+   "ING-EBC-A2.1-ES-07",
+   "ING-EBC-A1-LE-01",
+   "ING-EBC-A1-LE-02",
+   "ING-EBC-A1-LE-06",
+   "ING-EBC-A2.1-LE-09",
+   "ING-EBC-A1-ESC-02",
+   "ING-EBC-A1-ESC-03",
+   "ING-EBC-A2.1-ESC-01",
+   "ING-EBC-A2.1-ESC-02",
+   "ING-EBC-A2.1-ESC-05",
+   "ING-EBC-A2.1-ESC-07",
+   "ING-EBC-A1-MO-03",
+   "ING-EBC-A1-MO-06",
+   "ING-EBC-A1-MO-07",
+   "ING-EBC-A1-MO-09",
+   "ING-EBC-A2.1-MO-02",
+   "ING-EBC-A2.1-MO-04",
+   "ING-EBC-A2.1-MO-05",
+   "ING-EBC-A2.1-MO-09",
+   "ING-EBC-A1-CO-03",
+   "ING-EBC-A1-CO-04",
+   "ING-EBC-A1-CO-05",
+   "ING-EBC-A1-CO-06"
+  ],
+  "funciones": [
+   "Describir acciones en una secuencia sencilla y lógica.",
+   "Dar y pedir información sobre un tema.",
+   "Verificar información."
+  ],
+  "objetivos": [
+   "Intercambiar información sobre actividades cotidianas a través de preguntas y oraciones.",
+   "Identificar frases y expresiones sobre actividades cotidianas en textos orales y escritos cortos.",
+   "Hacer oraciones simples sobre actividades cotidianas de manera oral y escrita."
+  ],
+  "saber_hacer": [
+   "Formula preguntas previamente preparadas sobre actividades diarias relacionadas con temas de interés.",
+   "Toma nota de palabras y expresiones relacionadas con actividades de ahorro de energía reportadas por pares.",
+   "Propone acciones sencillas para el ahorro de energía."
+  ],
+  "saber_ser": [
+   "Valora la importancia del ahorro de energía.",
+   "Respeta el medio ambiente."
+  ],
+  "saber": [
+   "Reconoce vocabulario referente al ahorro de energía.",
+   "Identifica la estructura de Wh- questions.",
+   "Distingue las secuencias en un texto oral o escrito."
+  ],
+  "lexico": [
+   "Conectores: and, first, second, later",
+   "Aparatos eléctricos: light bulb, appliances, fridge / refrigerator, stove, air conditioning, heater"
+  ],
+  "expresiones": [
+   "Para describir acciones de ahorro de energía: Turn off the lights. · Cook with gas. · Close the refrigerator door. · Turn off the fan / air.",
+   "Para reportar resultados y tendencias: Most people say that televisions consume a lot of energy. One way to save energy is… · There are many ways to save energy. · Marcos tells me that he unplugs the appliances when he is not home. · When do you shut down your computer?"
+  ],
+  "gramatica": [
+   "Preguntas Wh-",
+   "Presente simple"
+  ],
+  "pronunciacion": [
+   "Reconocer sonidos en conversaciones cortas: terminación /s/ vs /z/ vs /ɪz/ (wants, gives, pushes · She pushes him. · He wants to be happy.)"
+  ],
+  "discursivo": [
+   "Conectores de secuencia (and, first, second, third, etc.).",
+   "Iniciar y mantener una conversación sencilla."
+  ],
+  "sociolinguistico": [
+   "Toma de turnos.",
+   "Valoración de la diversidad cultural.",
+   "Reflexión autocrítica."
+  ],
+  "evaluacion_para": [
+   "Realizo ejercicios de familiarización, práctica y consolidación guiados por el profesor a partir de textos escritos y orales.",
+   "Monitoreo que las preguntas del cuestionario tengan la estructura y el vocabulario estudiados.",
+   "Realizo borradores de texto escrito como parte del proceso de escritura.",
+   "Demuestro respeto hacia las respuestas de mis compañeros.",
+   "Reconozco mi responsabilidad en el ahorro de energía.",
+   "Reflexiono sobre el trabajo en grupo."
+  ],
+  "evaluacion_del": [
+   "Rúbrica de presentación oral.",
+   "Rúbrica de trabajo en grupo.",
+   "Examen modular."
+  ]
+ },
+ {
+  "codigo": "ING-MALLA-6-M4",
+  "area": "ingles",
+  "grado": 6,
+  "modulo": 4,
+  "eje": "Globalización",
+  "tema": "Valor de las culturas locales",
+  "horas": "20–25",
+  "nivel_mcer": "A1",
+  "meta": "Definir rasgos propios de la colombianidad (identidad nacional colombiana).",
+  "meta_en": "Define own traits of national Colombian identity.",
+  "ruta": "Tareas (ruta 1, por tareas):\n1. Identificar en un texto escrito las características más sobresalientes de la población de cada continente.\n2. Clasificar la información según los cinco continentes.\n3. Elaborar y aplicar una trivia al final de la lectura.\n4. Presentar en exposiciones las diferentes etnias, culturas y costumbres de cada continente.\n5. Organizar stands con una muestra de las diversas culturas, a partir de las lecturas, investigaciones y exposiciones de clase.\n6. Socializar en una reunión de comunidad (Día de la diversidad) con representaciones artísticas, gastronómicas y culturales.\nProyecto (ruta 2): World Cultures Day.\n- Qué sabe: el docente activa lo que saben sobre países, nacionalidades, lenguas, celebraciones y costumbres. Anota las ideas en el tablero.\n- Qué quiere saber: en grupos de cuatro, cada grupo lee sobre un país, resume las ideas principales, decide qué vocabulario y estructuras necesita y reparte roles.\n- Qué aprendió: cada grupo monta un stand de su país (objetos, comida, vestuario, póster y presentación oral) y lo socializa en el Día de la diversidad. Al final, cada estudiante llena un formato sobre lo que más le gustó.\n- Durante el trabajo, el docente toma notas sobre cooperación, colaboración y diseño del póster.",
+  "estandares": [
+   "ING-EBC-A1-ES-03",
+   "ING-EBC-A1-ES-05",
+   "ING-EBC-A1-ES-06",
+   "ING-EBC-A1-LE-01",
+   "ING-EBC-A1-LE-06",
+   "ING-EBC-A1-LE-08",
+   "ING-EBC-A1-ESC-03",
+   "ING-EBC-A1-ESC-04",
+   "ING-EBC-A1-ESC-06",
+   "ING-EBC-A1-MO-03",
+   "ING-EBC-A1-MO-04",
+   "ING-EBC-A1-MO-06",
+   "ING-EBC-A1-MO-07",
+   "ING-EBC-A1-MO-08",
+   "ING-EBC-A1-MO-09",
+   "ING-EBC-A1-CO-01",
+   "ING-EBC-A1-CO-04",
+   "ING-EBC-A1-CO-05",
+   "ING-EBC-A1-CO-06"
+  ],
+  "funciones": [
+   "Describir características de una cultura.",
+   "Establecer comparaciones entre países.",
+   "Pedir y dar información.",
+   "Describir personas, lugares y costumbres."
+  ],
+  "objetivos": [
+   "Identificar frases y expresiones relacionadas con características de personas, celebraciones y lugares en textos orales y escritos cortos.",
+   "Producir oraciones simples sobre características de personas, celebraciones y lugares de manera oral y escrita.",
+   "Intercambiar información sobre características de personas y lugares a través de preguntas y oraciones."
+  ],
+  "saber_hacer": [
+   "Da a conocer, de manera oral y escrita, información sobre países, celebraciones y costumbres.",
+   "Emplea oraciones simples para expresar información sobre países, comidas, vestuario y celebraciones.",
+   "Formula preguntas para obtener información específica sobre los países presentados."
+  ],
+  "saber_ser": [
+   "Valora su identidad cultural.",
+   "Respeta las costumbres y tradiciones de las demás personas."
+  ],
+  "saber": [
+   "Identifica información relacionada con características particulares de algunos países, como su comida, vestuario y celebraciones.",
+   "Reconoce vocabulario relacionado con comida, vestuario, celebraciones, países y nacionalidades.",
+   "Diferencia las características propias de personas, animales y cosas.",
+   "Identifica la estructura de Wh- questions."
+  ],
+  "lexico": [
+   "Países y nacionalidades: Colombia / Colombian, United States of America / American, Japan / Japanese, China / Chinese",
+   "Comida, celebraciones, vestuario",
+   "Adjetivos de sabor: sweet, sour, delicious, bitter, juicy, ripe",
+   "Adjetivos de opinión: exciting, boring, interesting",
+   "Adjetivos de apariencia: beautiful, old-fashioned, modern, ugly",
+   "Adjetivos para personas y tamaño: tall, small, short, big, intelligent"
+  ],
+  "expresiones": [
+   "Para gustos y disgustos: I prefer to walk. · I love to eat pizza. · I do not like vegetables.",
+   "Para describir personas: She is tall. · He is really funny. · They do not look happy. · Colombians are… · They use…"
+  ],
+  "gramatica": [
+   "Presente simple",
+   "Preguntas Wh-"
+  ],
+  "pronunciacion": [
+   "Reconocer sonidos en conversaciones cortas: terminación /s/ vs /z/ vs /ɪz/ (wants, gives, pushes)"
+  ],
+  "discursivo": [
+   "Conectores de secuencia (and, first, second, third, etc.)."
+  ],
+  "sociolinguistico": [
+   "Toma de turnos.",
+   "Valoración de la diversidad cultural."
+  ],
+  "evaluacion_para": [
+   "Analizo la comprensión de las lecturas.",
+   "Tomo notas y asigno responsabilidades para planear y realizar el stand del país asignado.",
+   "Evalúo la creatividad e ingenio de los compañeros."
+  ],
+  "evaluacion_del": [
+   "Rúbrica para evaluar la socialización (stand).",
+   "Examen modular."
+  ]
+ },
+ {
+  "codigo": "ING-MALLA-7-M1",
+  "area": "ingles",
+  "grado": 7,
+  "modulo": 1,
+  "eje": "Salud",
+  "tema": "Cuidado personal integral",
+  "horas": "24–27",
+  "nivel_mcer": "A2.1",
+  "meta": "Definir actividades para el cuidado personal integral, a nivel físico (cuerpo), intelectual (mente), emocional (psicológico), social (relaciones) y espiritual (creencias).",
+  "meta_en": "Define activities for integral personal care at the physical (body), intellectual (mind), emotional (psychological), social (relationships) and spiritual (beliefs) level.",
+  "ruta": "Tareas:\n1. Identificar los dominios de cuidado personal: físico (cuerpo), intelectual (mente), emocional (psicológico), social (relaciones) y espiritual (creencias).\n2. Relacionar actividades de cuidado personal con el dominio al que pertenecen, a partir de un texto, diligenciando una tabla de clasificación.\n3. Llevar un registro de los hábitos de cuidado personal durante una semana en cada dominio.\n4. Presentar su plan de acción para mejorar los hábitos de cuidado personal.\n5. Pedir oralmente a sus compañeros argumentos sobre el plan de acción propuesto.\n6. Describir las actividades realizadas en cada dominio y las ventajas y desventajas del plan.\n7. Hacer un reporte de evaluación de las actividades presentadas en la clase.",
+  "estandares": [
+   "ING-EBC-A2.1-ES-01",
+   "ING-EBC-A2.1-ES-02",
+   "ING-EBC-A2.1-ES-04",
+   "ING-EBC-A2.1-ES-06",
+   "ING-EBC-A2.1-ES-08",
+   "ING-EBC-A2.1-LE-02",
+   "ING-EBC-A2.1-LE-03",
+   "ING-EBC-A2.1-LE-04",
+   "ING-EBC-A2.1-LE-09",
+   "ING-EBC-A2.1-ESC-04",
+   "ING-EBC-A2.1-ESC-05",
+   "ING-EBC-A2.1-ESC-06",
+   "ING-EBC-A2.1-ESC-07",
+   "ING-EBC-A2.1-ESC-08",
+   "ING-EBC-A2.1-MO-01",
+   "ING-EBC-A2.1-MO-02",
+   "ING-EBC-A2.1-MO-03",
+   "ING-EBC-A2.1-MO-04",
+   "ING-EBC-A2.1-MO-05",
+   "ING-EBC-A2.1-MO-08",
+   "ING-EBC-A2.1-CO-04",
+   "ING-EBC-A2.1-CO-06",
+   "ING-EBC-A2.1-CO-07",
+   "ING-EBC-A2.1-CO-08",
+   "ING-EBC-A2.1-CO-09"
+  ],
+  "funciones": [
+   "Dar y solicitar información personal y de actividades cotidianas.",
+   "Expresar gustos, pasatiempos e intereses.",
+   "Expresar planes futuros.",
+   "Describir hábitos y rutinas de cuidado personal, de alimentación y de actividad física.",
+   "Expresar habilidad física y mental.",
+   "Describir creencias y emociones.",
+   "Describir estados de salud."
+  ],
+  "objetivos": [
+   "Identificar expresiones sobre temas cotidianos a partir de textos descriptivos cortos orales y escritos.",
+   "Hacer una descripción oral sencilla y previamente ensayada sobre temas cotidianos.",
+   "Intercambiar información sobre temas cotidianos a través de preguntas y respuestas.",
+   "Elaborar una serie de oraciones descriptivas sobre temas cotidianos."
+  ],
+  "saber_hacer": [
+   "Diligencia un formato con información sobre actividades de cuidado personal y sus dominios (físico, intelectual, emocional, social y espiritual), a partir de un texto escrito sencillo y con base en el vocabulario y las expresiones estudiadas.",
+   "Formula preguntas Yes/No previamente preparadas sobre hábitos de cuidado personal, con pronunciación y entonación adecuadas.",
+   "Elabora una lista de oraciones simples sobre actividades de cuidado personal y su dominio, con el apoyo del profesor y los compañeros.",
+   "Expresa actividades recreativas con oraciones sencillas a partir de un modelo y con el apoyo de fotos e imágenes."
+  ],
+  "saber_ser": [
+   "Interioriza la importancia del cuidado personal integral.",
+   "Valora y respeta las opiniones de sus compañeros."
+  ],
+  "saber": [
+   "Identifica expresiones y palabras relacionadas con actividades recreativas y su frecuencia de realización.",
+   "Distingue los dominios de cuidado personal (físico, intelectual, emocional, social y espiritual).",
+   "Reconoce las expresiones propias de las rutinas diarias, hobbies y planes futuros.",
+   "Identifica estructuras básicas de los tiempos presente y futuro simple."
+  ],
+  "lexico": [
+   "Pasatiempos: play sports, dance, listen to music, go to the movies, watch TV, ride a bike, collect things, play videogames",
+   "Comida, celebraciones, vestuario",
+   "Relaciones de tiempo: every day, once / twice a week / month / year, every two weeks, always, never, recently, regularly",
+   "Dominios de cuidado personal (actividades físicas, intelectuales, emocionales, sociales y espirituales): meditation, pray, workout, camping, ride horses"
+  ],
+  "expresiones": [
+   "Para describir hábitos: I exercise once a week. · I always go to church on Sunday. · Juan reads every day.",
+   "Para mostrar intereses y gustos: My favorite activity is… · I like to dance. · I really like swimming. · When do you…? · I like to… · I am going to… · I have always… · Do you like to bike ride? · Do you enjoy swimming?",
+   "Para explicar: Exercising is physical because it is good for my body and my health. · I like to run since it is good for my physical condition.",
+   "Para mostrar reflexión: I think I have good social self-care habits."
+  ],
+  "gramatica": [
+   "Presente simple y futuro",
+   "Presente de like",
+   "Preguntas Wh-",
+   "Modal can",
+   "Adverbios de frecuencia",
+   "Preguntas Yes/No"
+  ],
+  "pronunciacion": [
+   "Reconocer sonidos en conversaciones: terminación /s/ vs /z/ vs /ɪz/ (wants, gives, pushes)",
+   "Reconocer contracciones y reducciones del habla: I've, have ya, gonna, wanna · I will go to → I'll gotta · It is a good → Itsa good"
+  ],
+  "discursivo": [
+   "Iniciar y mantener una conversación sencilla.",
+   "Justificar decisiones."
+  ],
+  "sociolinguistico": [
+   "Habilidad de escuchar y observar.",
+   "Valoración de la diversidad cultural.",
+   "Aprendizaje a través de la interacción.",
+   "Adaptabilidad a las diferentes formas de comunicar y aprender."
+  ],
+  "evaluacion_para": [
+   "Verifico la pertinencia del registro de los hábitos.",
+   "Practico la descripción junto con un par.",
+   "Evalúo el plan de acción con el apoyo de los compañeros.",
+   "Comparo con un compañero la información obtenida.",
+   "Integro la retroalimentación de pares sobre el plan de acción de hábitos de cuidado personal.",
+   "Realizo borradores y correcciones del plan de acción que demuestran progreso.",
+   "Realizo ejercicios con textos orales sobre el tema para mejorar el reconocimiento de las expresiones y mi pronunciación (enlaces entre palabras, acento y énfasis)."
+  ],
+  "evaluacion_del": [
+   "Rúbrica para evaluación del plan de acción.",
+   "Rúbrica de presentación oral.",
+   "Examen modular."
+  ]
+ },
+ {
+  "codigo": "ING-MALLA-7-M2",
+  "area": "ingles",
+  "grado": 7,
+  "modulo": 2,
+  "eje": "Democracia y paz",
+  "tema": "Matoneo y conflictos",
+  "horas": "20–25",
+  "nivel_mcer": "A2.1",
+  "meta": "Proponer acciones de convivencia e inclusión en el aula.",
+  "meta_en": "Propose actions for getting along and inclusion in the classroom.",
+  "ruta": "Tareas:\n1. Hacer un listado de acciones que contribuyan a una sana convivencia en el aula.\n2. Identificar cómo diversas personas manejan sus emociones en programas de televisión, novelas o películas.\n3. Observar videos cortos con recomendaciones para mantener una sana convivencia en el aula.\n4. Analizar varios casos e identificar las acciones positivas y negativas y sus consecuencias.\n5. Dar recomendaciones y sugerencias, de forma oral y escrita, sobre cómo manejar situaciones de convivencia específicas.",
+  "estandares": [
+   "ING-EBC-A2.1-ES-01",
+   "ING-EBC-A2.1-ES-03",
+   "ING-EBC-A2.1-ES-04",
+   "ING-EBC-A2.1-ES-06",
+   "ING-EBC-A2.1-ES-07",
+   "ING-EBC-A2.1-LE-01",
+   "ING-EBC-A2.1-LE-02",
+   "ING-EBC-A2.1-LE-03",
+   "ING-EBC-A2.1-LE-04",
+   "ING-EBC-A2.1-LE-06",
+   "ING-EBC-A2.1-LE-07",
+   "ING-EBC-A2.1-LE-09",
+   "ING-EBC-A2.1-ESC-02",
+   "ING-EBC-A2.1-ESC-04",
+   "ING-EBC-A2.1-ESC-05",
+   "ING-EBC-A2.1-ESC-06",
+   "ING-EBC-A2.1-ESC-07",
+   "ING-EBC-A2.1-ESC-08",
+   "ING-EBC-A2.1-MO-02",
+   "ING-EBC-A2.1-MO-04",
+   "ING-EBC-A2.1-MO-05",
+   "ING-EBC-A2.1-CO-05",
+   "ING-EBC-A2.1-CO-06",
+   "ING-EBC-A2.1-CO-07",
+   "ING-EBC-A2.1-CO-09",
+   "ING-EBC-A2.1-CO-10"
+  ],
+  "funciones": [
+   "Describir experiencias pasadas.",
+   "Expresar estados de ánimo.",
+   "Dar y solicitar información.",
+   "Pedir y dar disculpas.",
+   "Dar sugerencias y recomendaciones."
+  ],
+  "objetivos": [
+   "Hacer una narración corta sobre actividades cotidianas en el aula y el entorno inmediato de manera oral y escrita.",
+   "Identificar frases y expresiones relacionadas con actividades cotidianas en el entorno inmediato en textos orales y escritos sencillos.",
+   "Intercambiar información sobre actividades cotidianas en el aula y en el entorno inmediato a partir de preguntas y respuestas."
+  ],
+  "saber_hacer": [
+   "Relata de manera breve y sencilla una situación personal de convivencia a partir de un modelo dado.",
+   "Construye colectivamente las normas básicas para mantener una sana convivencia en el aula de clases.",
+   "Produce textos descriptivos cortos en los cuales describe valores y cualidades de pares y/o familiares.",
+   "Intercambia sugerencias y recomendaciones sobre situaciones específicas del aula de clases."
+  ],
+  "saber_ser": [
+   "Acepta las sugerencias y recomendaciones de otros.",
+   "Colabora con la consecución de una atmósfera agradable en el aula de clases.",
+   "Respeta las diferencias."
+  ],
+  "saber": [
+   "Identifica palabras y expresiones relacionadas con el manejo de emociones en textos descriptivos cortos escritos en lenguaje sencillo.",
+   "Reconoce expresiones relacionadas con sentimientos, emociones, valores, cualidades, etc.",
+   "Distingue expresiones empleadas para dar sugerencias y recomendaciones.",
+   "Identifica estructuras básicas de los tiempos presente y pasado simple."
+  ],
+  "lexico": [
+   "Sentimientos y emociones: anger / angry, happiness / happy, sadness / sad, depression / depressed, motivation / motivated",
+   "Valores éticos: respect, honesty, humility, responsibility",
+   "Cualidades de las personas: quiet, talkative, tolerant, humble, polite",
+   "Conectores: because, since, as, as a result of, therefore, for this reason"
+  ],
+  "expresiones": [
+   "Sobre emociones: I am really angry. · He is just excited. · Some of Sara's frustration is from depression. · Tomas is happy. · He should not have so much rage. · All of us get tired sometimes.",
+   "Para recomendar: My recommendation is… · We should… · As a consequence, you have to / need to… · Why don't you…? · Let's think about…"
+  ],
+  "gramatica": [
+   "Imperativos para dar recomendaciones o sugerencias",
+   "Modales: must, have to, should, could",
+   "Presente y pasado simple"
+  ],
+  "pronunciacion": [
+   "Reconocer sonidos en conversaciones: /d/ vs /t/ (had / hat, bad / bat) y /θ/ vs /ð/ (thanks / that, think / this)"
+  ],
+  "discursivo": [
+   "Llegar a acuerdos.",
+   "Hacer sugerencias y recomendaciones."
+  ],
+  "sociolinguistico": [
+   "Reflexión autocrítica.",
+   "Aceptación de las diferencias.",
+   "Manejo de normas de cortesía."
+  ],
+  "evaluacion_para": [
+   "Contrasto mi listado de acciones con el de mis compañeros.",
+   "Realizo ejercicios guiados de reconocimiento específico de palabras relacionadas con el tema.",
+   "Integro a mis borradores la retroalimentación de pares y del docente sobre el texto de recomendaciones de sana convivencia.",
+   "Realizo ejercicios de práctica de uso del vocabulario y la gramática en contexto.",
+   "Realizo ejercicios con textos orales para mejorar el reconocimiento de las expresiones del tema y mi pronunciación (enlaces entre palabras, acento y énfasis)."
+  ],
+  "evaluacion_del": [
+   "Rúbrica para el texto escrito y oral de recomendaciones para una sana convivencia.",
+   "Examen modular."
+  ]
+ },
+ {
+  "codigo": "ING-MALLA-7-M3",
+  "area": "ingles",
+  "grado": 7,
+  "modulo": 3,
+  "eje": "Sostenibilidad",
+  "tema": "Conservación",
+  "horas": "20–25",
+  "nivel_mcer": "A2.1",
+  "meta": "Especificar actividades para la conservación del medio ambiente en la comunidad.",
+  "meta_en": "Specify activities for environmental conservation in the community.",
+  "ruta": "Tareas (ruta 1, por tareas):\n1. Identificar estrategias de conservación del medio ambiente en un texto sobre el tema.\n2. Diseñar un cuestionario para indagar qué estrategias de conservación usa la comunidad educativa.\n3. Realizar una entrevista filmada a partir del cuestionario.\n4. Identificar las estrategias de conservación más usadas en la comunidad.\n5. Reportar en un texto expositivo escrito los resultados del cuestionario, usando fuentes bibliográficas adecuadas.\n6. Realizar una dramatización con las buenas y malas prácticas identificadas.\nProyecto (ruta 2): conservación del medio ambiente en la institución.\n- Qué sabe: el docente recoge en el tablero lo que saben del tema. En pares o grupos llenan la tabla de lo que ya saben y pueden hacer una tabla de acciones de conservación, diseñar una encuesta sobre las barreras para conservar, graficar sus resultados, registrar lo que observan en la comunidad o diseñar un póster con un plan de conservación para la clase.\n- Qué quiere saber: planean el proyecto por etapas (qué hacer y cómo en cada una), identifican el vocabulario y las estructuras que necesitan y se reparten roles. El proyecto debe incluir escucha, lectura, habla y escritura.\n- Qué aprendió: presentan el proyecto, ya sea un reporte oral de su investigación o una dramatización que invite a cuidar el medio ambiente. Luego cada uno escribe una reflexión en un formato establecido y recibe retroalimentación del profesor.\n- Mientras trabajan, el docente anota los errores frecuentes y los repasa en talleres: modelar un reporte oral, un reporte escrito de investigación, una dramatización y una reflexión breve.",
+  "estandares": [
+   "ING-EBC-A2.1-ES-01",
+   "ING-EBC-A2.1-ES-06",
+   "ING-EBC-A2.1-ES-07",
+   "ING-EBC-A2.1-LE-01",
+   "ING-EBC-A2.1-LE-04",
+   "ING-EBC-A2.1-LE-09",
+   "ING-EBC-A2.1-ESC-01",
+   "ING-EBC-A2.1-ESC-02",
+   "ING-EBC-A2.1-ESC-07",
+   "ING-EBC-A2.1-MO-02",
+   "ING-EBC-A2.1-MO-04",
+   "ING-EBC-A2.1-MO-05",
+   "ING-EBC-A2.1-MO-08",
+   "ING-EBC-A2.1-MO-09",
+   "ING-EBC-A2.1-CO-06",
+   "ING-EBC-A2.1-CO-07",
+   "ING-EBC-A2.1-CO-08",
+   "ING-EBC-A2.1-CO-09"
+  ],
+  "funciones": [
+   "Dar y recibir información.",
+   "Dar y recibir recomendaciones y sugerencias.",
+   "Describir situaciones y eventos.",
+   "Proponer acciones de mejoramiento."
+  ],
+  "objetivos": [
+   "Intercambiar información sobre actividades cotidianas a partir de preguntas y respuestas.",
+   "Identificar palabras y expresiones sobre actividades cotidianas en textos orales y escritos cortos.",
+   "Hacer una descripción simple sobre actividades cotidianas de manera oral y escrita."
+  ],
+  "saber_hacer": [
+   "Intercambia información relacionada con temas académicos.",
+   "Produce textos orales o escritos en los que da a conocer información sobre un tema de interés.",
+   "Propone acciones sencillas para la conservación del medio ambiente."
+  ],
+  "saber_ser": [
+   "Respeta el medio ambiente.",
+   "Valora las opiniones de sus pares."
+  ],
+  "saber": [
+   "Comprende la idea general de un texto oral o escrito corto sobre un tema académico.",
+   "Identifica Wh- questions en preguntas para obtener información específica.",
+   "Identifica estructuras básicas de los tiempos presente y pasado simple, y presente perfecto.",
+   "Reconoce expresiones relacionadas con el medio ambiente."
+  ],
+  "lexico": [
+   "Conservación: protect, preserve, avoid, save · animals, oceans / land, plants · natural resources · global warming"
+  ],
+  "expresiones": [
+   "Sobre la conservación del medio ambiente: He recycles paper and plastic. · Please turn off the light. · The water is shut off. · What do you do to protect / save / preserve the environment? · The weather is heating up. · Antarctica ice is melting. · In order to protect the environment, I…"
+  ],
+  "gramatica": [
+   "Preguntas Wh-",
+   "Presente y pasado simple",
+   "Presente perfecto",
+   "Imperativos",
+   "Modales"
+  ],
+  "pronunciacion": [
+   "Reconocer la terminación del pasado: /d/ vs /t/ vs /ɪd/ (buzzed, booked, wanted)"
+  ],
+  "discursivo": [
+   "Iniciar y mantener una conversación sencilla."
+  ],
+  "sociolinguistico": [
+   "Aprendizaje a través de la interacción.",
+   "Reflexión autocrítica."
+  ],
+  "evaluacion_para": [
+   "Ruta 1: Realizo ejercicios de familiarización, práctica y consolidación guiados por el profesor a partir de textos escritos y orales.",
+   "Ruta 1: Monitoreo que las preguntas del cuestionario tengan la estructura y el vocabulario estudiados.",
+   "Ruta 1: Sigo etapas de escritura guiada: planeación, borrador y revisión.",
+   "Ruta 1: Demuestro respeto hacia las respuestas de mis compañeros.",
+   "Ruta 1: Reconozco mi responsabilidad en la conservación del medio ambiente.",
+   "Ruta 2: Verifico la veracidad de la información encontrada.",
+   "Ruta 2: Analizo la pertinencia y precisión de la información obtenida de fuentes bibliográficas y de mis compañeros.",
+   "Ruta 2: Evalúo los borradores de mi reporte escrito junto con mis compañeros.",
+   "Ruta 2: Evalúo la metodología de trabajo en grupo y mi papel dentro de él.",
+   "Ruta 2: Analizo la tabla con las acciones que contribuyen a conservar el medio ambiente.",
+   "Ruta 2: Cotejo con mis compañeros las preguntas para la encuesta."
+  ],
+  "evaluacion_del": [
+   "Ruta 1: rúbrica para la dramatización y examen modular.",
+   "Ruta 2: rúbrica para el reporte escrito, rúbrica para las dramatizaciones y examen modular."
+  ]
+ },
+ {
+  "codigo": "ING-MALLA-7-M4",
+  "area": "ingles",
+  "grado": 7,
+  "modulo": 4,
+  "eje": "Globalización",
+  "tema": "Culturas internacionales",
+  "horas": "20–25",
+  "nivel_mcer": "A2.1",
+  "meta": "Reconocer las características culturales de algunos países.",
+  "meta_en": "Recognize cultural characteristics in some countries.",
+  "ruta": "Proyecto: características culturales de algunos países.\n- Qué sabe: el docente recoge en el tablero lo que saben del tema. En pares o grupos llenan la tabla de lo que ya saben y buscan textos orales o escritos sobre diversidad cultural en diferentes países.\n- Qué quiere saber: planean el proyecto por etapas, identifican el vocabulario y las estructuras que necesitan y se reparten roles. Completan un cuadro comparativo de los rasgos de cada cultura o país: lengua, religiosidad, ideología, educación, política, economía, geografía, etc. El proyecto debe incluir escucha, lectura, habla y escritura.\n- Qué aprendió: presentan el análisis comparativo con una propuesta de acciones. Luego cada uno escribe una reflexión en un formato establecido y recibe retroalimentación del profesor.\n- Proyectos sugeridos: identificar, comparar y evaluar los rasgos propios de una cultura; preparar una presentación oral que compare esos rasgos; producir textos orales y escritos que argumenten por qué es importante la diversidad cultural.\n- Mientras trabajan, el docente anota los errores frecuentes y los repasa en talleres: modelar un reporte oral y una reflexión breve.",
+  "estandares": [
+   "ING-EBC-A2.1-ES-01",
+   "ING-EBC-A2.1-ES-06",
+   "ING-EBC-A2.1-ES-07",
+   "ING-EBC-A2.1-LE-01",
+   "ING-EBC-A2.1-LE-04",
+   "ING-EBC-A2.1-LE-09",
+   "ING-EBC-A2.1-ESC-01",
+   "ING-EBC-A2.1-ESC-05",
+   "ING-EBC-A2.1-ESC-07",
+   "ING-EBC-A2.1-MO-02",
+   "ING-EBC-A2.1-MO-04",
+   "ING-EBC-A2.1-MO-05",
+   "ING-EBC-A2.1-MO-06",
+   "ING-EBC-A2.1-MO-08",
+   "ING-EBC-A2.1-CO-07",
+   "ING-EBC-A2.1-CO-09"
+  ],
+  "funciones": [
+   "Dar y solicitar información.",
+   "Describir hábitos, personas y lugares.",
+   "Establecer comparaciones y contrastes.",
+   "Expresar puntos de vista."
+  ],
+  "objetivos": [
+   "Producir un texto descriptivo corto sobre las características de personas y lugares de manera oral y escrita.",
+   "Intercambiar información sobre características de personas y lugares a partir de preguntas y respuestas.",
+   "Identificar frases y expresiones relacionadas con características particulares de personas y lugares en textos descriptivos cortos."
+  ],
+  "saber_hacer": [
+   "Elabora un cuadro comparativo sobre diferentes características culturales, previamente establecidas, de algunos países.",
+   "Intercambia información relacionada con características culturales de algunos países.",
+   "Produce textos orales o escritos en los que da a conocer información sobre características culturales de algunos países."
+  ],
+  "saber_ser": [
+   "Respeta las diferencias culturales.",
+   "Valora los aportes de sus compañeros."
+  ],
+  "saber": [
+   "Identifica información relacionada con temas de interés general.",
+   "Identifica similitudes y diferencias entre personas, lugares, animales y cosas.",
+   "Identifica estructuras básicas de los tiempos presente y pasado simple, y presente perfecto.",
+   "Reconoce expresiones relacionadas con biodiversidad, deportes, climas, estaciones, etc."
+  ],
+  "lexico": [
+   "Países y nacionalidades: Colombia / Colombian, United States of America / American, Japan / Japanese, China / Chinese",
+   "Biodiversidad: animals and plants · oceans, rivers, mountains, valleys",
+   "Deporte: soccer, football, baseball, basketball · jumping, skating, canoeing, body boarding · chess, pool, billiards",
+   "Clima: sunny, cloudy, snowy, windy · hot, warm, cold",
+   "Estaciones: winter, summer, spring, fall",
+   "Puntos cardinales: north, south, east, west",
+   "Cualidades: fast, slow, big, small, old, new, modern, far, near"
+  ],
+  "expresiones": [
+   "Para comparar y contrastar: This country has a larger population than… · It is bigger than… · It is difficult when… · It has the most… · It is the best / worst…",
+   "Para dar razones: This country has better education because… · This country has more economic resources because…"
+  ],
+  "gramatica": [
+   "Comparativos y superlativos",
+   "Conectores de secuencia",
+   "Presente y pasado simple y continuo",
+   "Presente perfecto"
+  ],
+  "pronunciacion": [
+   "Reconocer sonidos en expresiones y reducciones: terminación /s/ vs /z/ vs /ɪz/ (wants, bees, buzzes)"
+  ],
+  "discursivo": [
+   "Comparar y contrastar.",
+   "Iniciar y mantener conversaciones sencillas."
+  ],
+  "sociolinguistico": [
+   "Habilidad de escuchar y observar.",
+   "Habilidades para analizar, interpretar y relacionar.",
+   "Valoración de la diversidad cultural."
+  ],
+  "evaluacion_para": [
+   "Analizo la pertinencia y precisión de la información obtenida de fuentes bibliográficas y de mis compañeros.",
+   "Confirmo la pertinencia y validez de las fuentes bibliográficas usadas.",
+   "Realizo borradores de texto escrito como parte del proceso de escritura.",
+   "Tomo notas para dar mi opinión sobre las comparaciones presentadas por mis compañeros."
+  ],
+  "evaluacion_del": [
+   "Rúbrica para el reporte escrito.",
+   "Rúbrica para la presentación oral.",
+   "Examen modular."
+  ]
+ },
+ {
+  "codigo": "ING-MALLA-8-M1",
+  "area": "ingles",
+  "grado": 8,
+  "modulo": 1,
+  "eje": "Sostenibilidad",
+  "tema": "Acciones humanas",
+  "horas": "24–27",
+  "nivel_mcer": "A2.2",
+  "meta": "Evaluar el impacto de las acciones humanas en el medio ambiente en el país.",
+  "meta_en": "Evaluate the impact of human actions on the environment in the country.",
+  "ruta": "Tareas:\n1. Diligenciar una hoja de trabajo a partir de un video que describe una comunidad, sus habitantes, sus actividades y el impacto de estas en el medio ambiente.\n2. Diseñar un esquema con la información que necesita sobre una comunidad y sus acciones, y cómo la va a obtener y organizar.\n3. Investigar las actividades de las personas, negocios e industrias de la comunidad asignada y su huella en el medio ambiente.\n4. Representar en forma gráfica la información obtenida.\n5. Presentar su comunidad a la clase con ayuda de un póster.\n6. Interactuar con los pares para diligenciar un formato con la información de las otras comunidades presentadas.\n7. Sintetizar las acciones humanas positivas y negativas para el medio ambiente en un atlas de la huella humana en la comunidad.\n8. Crear una lista de acciones para reducir la huella humana.",
+  "estandares": [
+   "ING-EBC-A2.2-ES-03",
+   "ING-EBC-A2.2-ES-06",
+   "ING-EBC-A2.2-ES-07",
+   "ING-EBC-A2.2-LE-01",
+   "ING-EBC-A2.2-LE-02",
+   "ING-EBC-A2.2-LE-03",
+   "ING-EBC-A2.2-LE-07",
+   "ING-EBC-A2.2-ESC-01",
+   "ING-EBC-A2.2-ESC-03",
+   "ING-EBC-A2.2-ESC-06",
+   "ING-EBC-A2.2-MO-01",
+   "ING-EBC-A2.2-MO-05",
+   "ING-EBC-A2.2-MO-06",
+   "ING-EBC-A2.2-CO-01",
+   "ING-EBC-A2.2-CO-05",
+   "ING-EBC-A2.2-CO-07"
+  ],
+  "funciones": [
+   "Presentarse ante un grupo.",
+   "Describir acciones humanas.",
+   "Solicitar información sobre acciones humanas.",
+   "Dar sugerencias para mejorar prácticas.",
+   "Expresar opiniones sobre acciones.",
+   "Discutir buenas y malas prácticas."
+  ],
+  "objetivos": [
+   "Describir situaciones relacionadas con temas cotidianos de interés general de manera oral y escrita.",
+   "Elaborar un texto expositivo escrito sencillo sobre temas cotidianos de interés general.",
+   "Intercambiar información sobre temas cotidianos de interés general a través de diálogos.",
+   "Identificar información sobre temas cotidianos de interés general en textos expositivos cortos orales y escritos."
+  ],
+  "saber_hacer": [
+   "Presenta, de manera oral y ensayada, el impacto de diversas acciones humanas en el medio ambiente con un vocabulario pertinente.",
+   "Solicita información a los compañeros sobre acciones humanas en el medio ambiente a través de preguntas de información previamente ensayadas.",
+   "Identifica la tesis y los argumentos en un texto de opinión.",
+   "Expresa opiniones o da información de manera oral, espontánea y con un vocabulario sencillo.",
+   "Elabora, con base en el proceso de escritura, un texto expositivo escrito sobre las acciones humanas en el medio ambiente, con hechos, detalles y referencias."
+  ],
+  "saber_ser": [
+   "Muestra respeto por el medio ambiente a través de la promoción de prácticas responsables.",
+   "Reconoce prácticas medioambientales propias y las de otros."
+  ],
+  "saber": [
+   "Reconoce vocabulario relacionado con el medio ambiente.",
+   "Identifica estructuras básicas de descripción.",
+   "Identifica la estructura de preguntas de información.",
+   "Reconoce expresiones de opinión.",
+   "Identifica las etapas del proceso de escritura.",
+   "Identifica las secciones de un texto expositivo."
+  ],
+  "lexico": [
+   "Acciones humanas: plant trees, throw garbage, mining, agriculture",
+   "Prácticas medioambientales: reducing carbon footprint, recycle, waste"
+  ],
+  "expresiones": [
+   "Para describir acciones humanas en el medio ambiente: Save the whales. · Recycling paper saves the trees in the forest. · Using plastic bottles as planters is a good idea.",
+   "Para opinar: I (really) think that… · I believe (that)… · I'm sure that… · In my opinion / My opinion is… · I agree with… · I guess / imagine… · I have no doubt that / I'm certain that… · I strongly believe that…",
+   "Para citar en un escrito: According to…"
+  ],
+  "gramatica": [
+   "Adverbios de frecuencia y secuencia",
+   "Adjetivos posesivos: her, his, my, their, your",
+   "Preguntas Wh-",
+   "Presente simple",
+   "Infinitivo / gerundio"
+  ],
+  "pronunciacion": [
+   "Reconocer la terminación del pasado: /d/ vs /t/ vs /ɪd/ (played, walked, wanted)"
+  ],
+  "discursivo": [
+   "Conectores de secuencia."
+  ],
+  "sociolinguistico": [
+   "Habilidades para analizar, interpretar y relacionar.",
+   "Flexibilidad cognitiva.",
+   "Aprendizaje a través de la interacción."
+  ],
+  "evaluacion_para": [
+   "Retroalimento el póster de mis pares de manera respetuosa y objetiva.",
+   "Recibo retroalimentación de mis pares de manera reflexiva.",
+   "Confirmo que el póster tenga el esquema y la información necesaria.",
+   "Evalúo que las fuentes usadas sean pertinentes y veraces.",
+   "Realizo ejercicios de práctica de gramática y vocabulario de manera oral y escrita.",
+   "Integro el vocabulario y las estructuras a mis productos orales y escritos."
+  ],
+  "evaluacion_del": [
+   "Rúbrica de evaluación para la presentación del póster.",
+   "Escritura de un texto de síntesis.",
+   "Examen modular."
+  ]
+ },
+ {
+  "codigo": "ING-MALLA-8-M2",
+  "area": "ingles",
+  "grado": 8,
+  "modulo": 2,
+  "eje": "Salud",
+  "tema": "Desórdenes alimenticios",
+  "horas": "20–24",
+  "nivel_mcer": "A2.2",
+  "meta": "Formular iniciativas para la prevención de desórdenes alimenticios.",
+  "meta_en": "Formulate initiatives for the prevention of eating disorders.",
+  "ruta": "Tareas:\n1. Leer un texto breve, provisto por el profesor, sobre desórdenes alimenticios.\n2. Diligenciar un formato que sintetice la información obtenida.\n3. Indagar con sus pares sobre los desórdenes alimenticios más frecuentes: definición, origen, síntomas y tratamiento.\n4. Con una encuesta preparada en clase, indagar qué opina la comunidad escolar, familiar y social sobre por qué son tan frecuentes los desórdenes alimenticios hoy.\n5. Producir un texto escrito o visual que resuma esas causas.\n6. Producir un plan de prevención de desórdenes alimenticios.",
+  "estandares": [
+   "ING-EBC-A2.2-ES-01",
+   "ING-EBC-A2.2-ES-02",
+   "ING-EBC-A2.2-ES-05",
+   "ING-EBC-A2.2-ES-06",
+   "ING-EBC-A2.2-LE-02",
+   "ING-EBC-A2.2-LE-03",
+   "ING-EBC-A2.2-LE-06",
+   "ING-EBC-A2.2-LE-08",
+   "ING-EBC-A2.2-ESC-01",
+   "ING-EBC-A2.2-ESC-03",
+   "ING-EBC-A2.2-ESC-05",
+   "ING-EBC-A2.2-ESC-06",
+   "ING-EBC-A2.2-MO-02",
+   "ING-EBC-A2.2-MO-06",
+   "ING-EBC-A2.2-CO-01",
+   "ING-EBC-A2.2-CO-03",
+   "ING-EBC-A2.2-CO-04",
+   "ING-EBC-A2.2-CO-05"
+  ],
+  "funciones": [
+   "Dar sugerencias y recomendaciones.",
+   "Dar y solicitar información.",
+   "Expresar condiciones.",
+   "Describir experiencias pasadas.",
+   "Describir enfermedades, síntomas, partes del cuerpo y tratamientos.",
+   "Describir rutinas de alimentación."
+  ],
+  "objetivos": [
+   "Elaborar textos orales y escritos sobre recomendaciones relacionadas con temas de interés general.",
+   "Intercambiar información sobre temas de interés general a través de conversaciones.",
+   "Identificar información sobre temas de interés general en textos descriptivos cortos orales y escritos."
+  ],
+  "saber_hacer": [
+   "Hace preguntas previamente preparadas sobre desórdenes alimenticios a partir de un formato definido.",
+   "Explica o expresa opiniones sobre desórdenes alimenticios de manera breve y sencilla, a partir de un modelo dado y con una pronunciación clara.",
+   "Presenta un plan de prevención de un desorden alimenticio asignado con un lenguaje claro y sencillo.",
+   "Elabora un reporte escrito con un lenguaje claro y sencillo a partir de notas tomadas y un modelo establecido."
+  ],
+  "saber_ser": [
+   "Reconoce su papel en la prevención de enfermedades.",
+   "Reconoce prácticas negativas para la salud."
+  ],
+  "saber": [
+   "Identifica síntomas, partes del cuerpo y tratamientos sencillos y breves.",
+   "Identifica hechos relevantes, detalles concretos y referencias.",
+   "Reconoce la estructura de preguntas de información.",
+   "Identifica estructuras básicas de descripción.",
+   "Reconoce expresiones de opinión y de recomendación.",
+   "Identifica las etapas del proceso de escritura.",
+   "Identifica las secciones de un reporte."
+  ],
+  "lexico": [
+   "Partes del cuerpo: head, stomach, arm, back",
+   "Síntomas y medicinas: flu, headache, stomachache, broken bone",
+   "Enfermedades y desórdenes alimenticios: bulimia, overweight, obese / obesity, anorexia",
+   "Transiciones: next, in addition to, then"
+  ],
+  "expresiones": [
+   "Para relacionar síntomas: My arm itches. · I have a headache. · I sometimes take pills. · My doctor gave me a shot. · I have a prescription for medicine. · My throat is sore. · I've got a fever.",
+   "Para introducir un tema: Today I will talk about… · Good morning. My purpose today is…",
+   "Para desarrollar el contenido: Moving on to my next point… · Now, let me move to my second point.",
+   "Para concluir y citar oralmente: In sum… · I tried to… · To conclude… · In conclusion… · Now, to sum up… · I think this can be prevented by… · According to… (1994)"
+  ],
+  "gramatica": [
+   "Adverbios de frecuencia y secuencia",
+   "Adjetivos posesivos: her, his, my, their, your",
+   "Preguntas Wh-",
+   "Imperativos: Take… · Drink… · Don't…",
+   "Presente perfecto",
+   "Pasado simple"
+  ],
+  "pronunciacion": [
+   "Reconocer enlaces entre palabras (blendings): is a → «iza» · at the doctor → «atthedoctor»"
+  ],
+  "discursivo": [
+   "Comparar y contrastar."
+  ],
+  "sociolinguistico": [
+   "Valoración de la diversidad cultural.",
+   "Aprendizaje a través de la interacción."
+  ],
+  "evaluacion_para": [
+   "Elaboro borradores de la encuesta.",
+   "Evalúo la claridad de las preguntas.",
+   "Evalúo la metodología de trabajo en grupo y mi papel dentro de él.",
+   "Elaboro borradores de texto escrito como parte del proceso de escritura.",
+   "Ensayo mi presentación teniendo en cuenta las rúbricas dadas."
+  ],
+  "evaluacion_del": [
+   "Rúbrica para evaluar la campaña (el plan de prevención).",
+   "Rúbrica de evaluación de la presentación oral de la campaña.",
+   "Rúbrica de texto escrito.",
+   "Examen modular."
+  ]
+ },
+ {
+  "codigo": "ING-MALLA-8-M3",
+  "area": "ingles",
+  "grado": 8,
+  "modulo": 3,
+  "eje": "Democracia y paz",
+  "tema": "Lenguaje en la construcción de paz",
+  "horas": "20–24",
+  "nivel_mcer": "A2.2",
+  "meta": "Reconocer el papel del lenguaje (positivo y negativo) en la construcción de paz en la comunidad.",
+  "meta_en": "Recognize the role of language (positive and negative) in the construction of peace in the community.",
+  "ruta": "Proyecto: el lenguaje que cura y el que hiere.\n- Qué sabe: el docente recoge en el tablero lo que saben sobre el papel del lenguaje en la paz. En pares o grupos llenan la tabla de lo que ya saben y pueden crear una encuesta, preparar una presentación de resultados, hacer una campaña de concientización y presentarla ante la clase o el colegio.\n- Qué quiere saber: planean el proyecto por etapas, con un objetivo y una estrategia para cada una. Identifican el vocabulario y las estructuras que necesitan y se reparten roles. El proyecto debe incluir escucha, lectura, habla y escritura.\n- Qué aprendió: presentan el proyecto al grupo. Luego cada uno escribe una reflexión en un formato establecido y recibe retroalimentación del profesor.\n- Proyectos sugeridos: palabras que curan o hieren en el aula, el colegio o la comunidad; el lenguaje positivo o negativo en los medios de comunicación de la comunidad; el lenguaje positivo o negativo en la familia.\n- Mientras trabajan, el docente anota los vacíos frecuentes y los repasa en minilecciones: modelar el proceso de escritura (lluvia de ideas, borrador y revisión) y ayudar a definir qué investigar y qué productos hacer.",
+  "estandares": [
+   "ING-EBC-A2.2-ES-02",
+   "ING-EBC-A2.2-ES-04",
+   "ING-EBC-A2.2-ES-05",
+   "ING-EBC-A2.2-ES-07",
+   "ING-EBC-A2.2-LE-02",
+   "ING-EBC-A2.2-LE-03",
+   "ING-EBC-A2.2-LE-07",
+   "ING-EBC-A2.2-ESC-01",
+   "ING-EBC-A2.2-ESC-03",
+   "ING-EBC-A2.2-ESC-05",
+   "ING-EBC-A2.2-ESC-06",
+   "ING-EBC-A2.2-MO-01",
+   "ING-EBC-A2.2-MO-03",
+   "ING-EBC-A2.2-MO-05",
+   "ING-EBC-A2.2-MO-06",
+   "ING-EBC-A2.2-CO-02",
+   "ING-EBC-A2.2-CO-03",
+   "ING-EBC-A2.2-CO-05",
+   "ING-EBC-A2.2-CO-06"
+  ],
+  "funciones": [
+   "Justificar puntos de vista.",
+   "Expresar hechos y opiniones.",
+   "Expresar condiciones.",
+   "Describir experiencias pasadas.",
+   "Expresar sueños y planes futuros."
+  ],
+  "objetivos": [
+   "Describir de manera oral y escrita situaciones relacionadas con temas de interés general.",
+   "Identificar hechos y opiniones en textos orales y escritos sencillos de mediana extensión relacionados con temas de interés general.",
+   "Intercambiar información sobre temas de interés general a través de juegos de roles."
+  ],
+  "saber_hacer": [
+   "Muestra comprensión de las ideas generales y específicas en textos orales y escritos a través del diligenciamiento de formatos preestablecidos.",
+   "Narra un caso de uso de lenguaje positivo o negativo a partir de un modelo provisto.",
+   "Organiza en tablas y gráficos la información recogida de diferentes fuentes bibliográficas.",
+   "Presenta opiniones sobre el uso de lenguaje positivo o negativo siguiendo un plan de exposición preparado anteriormente.",
+   "Produce, de manera escrita y siguiendo el proceso de escritura, un plan personal para el uso constructivo del lenguaje."
+  ],
+  "saber_ser": [
+   "Muestra respeto por las opiniones expresadas por sus pares.",
+   "Reconoce su responsabilidad en la construcción de paz en su comunidad.",
+   "Reconoce usos positivos y negativos del lenguaje."
+  ],
+  "saber": [
+   "Reconoce lenguaje positivo y negativo.",
+   "Identifica estructuras básicas de narración.",
+   "Identifica la estructura de preguntas de información.",
+   "Reconoce expresiones de opinión y puntos de vista.",
+   "Identifica las etapas del proceso de escritura."
+  ],
+  "lexico": [
+   "Vocabulario positivo y negativo: like, dislike, bad taste, fat, ugly, super skinny"
+  ],
+  "expresiones": [
+   "Para narrar: One day I went for a walk. · Marcos has been sick for a while. · My mother used to say mean things.",
+   "Para argumentar y apoyar puntos de vista: I agree · I disagree · I believe · I think · In my opinion · I'm sorry, I can't agree with… · Exactly! I couldn't agree more. · Perhaps, but… · That's true. · I'm sorry, but I disagree. · I'm afraid that isn't right. · You're absolutely correct! · That may be the case, however… · You should / shouldn't…"
+  ],
+  "gramatica": [
+   "Presente perfecto / pasado simple",
+   "Primer condicional",
+   "Modales: should, can, ought to, must"
+  ],
+  "pronunciacion": [
+   "Reconocer enlaces entre palabras (blendings): be the case → «bethecase» · have you ever → «aveyouever»"
+  ],
+  "discursivo": [
+   "Conectores de contraste: however, but, on the other hand."
+  ],
+  "sociolinguistico": [
+   "Habilidad de escuchar y observar.",
+   "Valoración de la diversidad cultural.",
+   "Conocimiento del impacto de la cultura y de los contextos situacionales, sociales e históricos.",
+   "Aprendizaje a través de la interacción."
+  ],
+  "evaluacion_para": [
+   "Analizo la pertinencia de las fuentes y la información consultadas.",
+   "Elaboro borradores de la encuesta.",
+   "Evalúo la claridad de las preguntas.",
+   "Evalúo la metodología de trabajo en grupo y mi papel dentro de él.",
+   "Elaboro borradores de texto escrito como parte del proceso de escritura.",
+   "Ensayo mi presentación teniendo en cuenta las rúbricas dadas."
+  ],
+  "evaluacion_del": [
+   "Rúbrica para evaluar la campaña.",
+   "Rúbrica de evaluación de la presentación oral de la campaña.",
+   "Rúbrica de texto escrito.",
+   "Examen modular."
+  ]
+ },
+ {
+  "codigo": "ING-MALLA-8-M4",
+  "area": "ingles",
+  "grado": 8,
+  "modulo": 4,
+  "eje": "Globalización",
+  "tema": "Consumismo",
+  "horas": "20–24",
+  "nivel_mcer": "A2.2",
+  "meta": "Determinar el impacto del consumismo en los jóvenes.",
+  "meta_en": "Determine the impact of consumerism on adolescents.",
+  "ruta": "Problema (ruta por problemas): ¿qué necesitamos de verdad y qué nos hace creer la publicidad?\n- En grupos de 4, los estudiantes identifican, comparan y evalúan sus necesidades de consumo reales frente a las creadas.\n- Preparan una presentación oral que compara esas necesidades e identifica de dónde salen las necesidades creadas.\n- Producen un texto argumentativo con estrategias para evitar que la publicidad cree necesidades: *Do's & Don'ts*.\n- Papel del docente:\n  - Selecciona videos y anuncios sobre el consumismo juvenil y el papel de la publicidad.\n  - Diseña actividades de análisis que lleven a cada estudiante a hacer su lista de necesidades.\n  - Guía la comparación entre necesidades reales y creadas.\n  - Modela una presentación del análisis.\n  - Apoya en la definición de publicidad y de sus estrategias.\n  - Acompaña la escritura del texto *Do's & Don'ts*.\n  - Evalúa con rúbricas compartidas desde el inicio.",
+  "estandares": [
+   "ING-EBC-A2.2-ES-02",
+   "ING-EBC-A2.2-ES-04",
+   "ING-EBC-A2.2-ES-06",
+   "ING-EBC-A2.2-ES-07",
+   "ING-EBC-A2.2-LE-03",
+   "ING-EBC-A2.2-LE-05",
+   "ING-EBC-A2.2-LE-06",
+   "ING-EBC-A2.2-LE-07",
+   "ING-EBC-A2.2-ESC-03",
+   "ING-EBC-A2.2-ESC-04",
+   "ING-EBC-A2.2-ESC-05",
+   "ING-EBC-A2.2-ESC-06",
+   "ING-EBC-A2.2-MO-03",
+   "ING-EBC-A2.2-MO-05",
+   "ING-EBC-A2.2-CO-02",
+   "ING-EBC-A2.2-CO-03",
+   "ING-EBC-A2.2-CO-04",
+   "ING-EBC-A2.2-CO-05"
+  ],
+  "funciones": [
+   "Expresar opiniones.",
+   "Justificar puntos de vista.",
+   "Formular y responder preguntas sobre un tema.",
+   "Expresar condiciones.",
+   "Describir experiencias pasadas.",
+   "Expresar planes futuros."
+  ],
+  "objetivos": [
+   "Identificar información relevante sobre temas académicos en textos expositivos orales y escritos de mediana extensión.",
+   "Elaborar textos expositivos escritos y orales sobre temas académicos.",
+   "Intercambiar información a través de preguntas y expresiones."
+  ],
+  "saber_hacer": [
+   "Elabora un cuadro comparativo con las necesidades de consumo de los jóvenes por medio de un formato previamente establecido.",
+   "Elabora, con apoyo, una encuesta sobre necesidades de consumo con preguntas de información (Wh- questions).",
+   "Elabora y presenta un cuadro que clasifica las necesidades de consumo por categorías.",
+   "Produce un texto argumentativo sencillo y estructurado sobre consumismo a partir de referencias bibliográficas previamente consultadas."
+  ],
+  "saber_ser": [
+   "Muestra respeto por las opiniones expresadas por los pares.",
+   "Reconoce características del consumo responsable.",
+   "Participa activamente en las actividades planteadas."
+  ],
+  "saber": [
+   "Reconoce vocabulario sobre consumo y consumismo, moda, tecnología y necesidades.",
+   "Identifica la estructura de una encuesta.",
+   "Reconoce expresiones de opinión y puntos de vista."
+  ],
+  "lexico": [
+   "Consumismo: buy and sell, over-packaging, disposable income, fashion, technology",
+   "Conectores de semejanza: like, similar to, in the same way, the same as, similarly, as well as",
+   "Conectores de contraste: although, yet, while, instead, unless, unlike, on the contrary, contrary to"
+  ],
+  "expresiones": [
+   "Para proponer una solución: If… then… · Whether or not… · I have a proposal (to make). · I would like to put forward a proposal (formal). · You should… · You must / mustn't… · This is the result… · I'd like to…"
+  ],
+  "gramatica": [
+   "Presente perfecto y presente perfecto continuo",
+   "Modales de posibilidad",
+   "Futuro perfecto",
+   "Adjetivos",
+   "Adverbios de modo, secuencia y lugar",
+   "Imperativos",
+   "Tercer condicional"
+  ],
+  "pronunciacion": [
+   "Reconocer enlaces entre palabras (blendings): whether or not → «whetherornot» · put forward a → «put forwarda»"
+  ],
+  "discursivo": [
+   "Conectores de adición, contraste, causa y efecto."
+  ],
+  "sociolinguistico": [
+   "Aprendizaje a través de la interacción.",
+   "Valoración de la diversidad cultural.",
+   "Autoconciencia."
+  ],
+  "evaluacion_para": [
+   "Analizo la pertinencia y precisión de la información obtenida de fuentes bibliográficas y de mis compañeros.",
+   "Analizo la calidad de mi justificación sobre las acciones sugeridas para ejercer adecuadamente el derecho a escoger.",
+   "Realizo borradores de texto escrito como parte del proceso de escritura.",
+   "Tomo notas para dar mi opinión sobre las acciones presentadas por mis compañeros."
+  ],
+  "evaluacion_del": [
+   "Rúbrica de presentación oral.",
+   "Rúbrica de texto argumentativo.",
+   "Examen modular."
+  ]
+ },
+ {
+  "codigo": "ING-MALLA-9-M1",
+  "area": "ingles",
+  "grado": 9,
+  "modulo": 1,
+  "eje": "Globalización",
+  "tema": "Fenómenos sociales (las TIC)",
+  "horas": "24–27",
+  "nivel_mcer": "B1.1",
+  "meta": "Valorar el impacto de las TIC en la vida diaria.",
+  "meta_en": "Value the impact of ICT on daily life.",
+  "ruta": "Tareas:\n1. Identificar, con una encuesta, las actividades diarias de los compañeros relacionadas con el uso de TIC.\n2. Investigar los efectos de las TIC en la vida diaria a partir de textos expositivos escritos.\n3. Elaborar un cuadro de análisis con las semejanzas y diferencias entre lo que mostró la encuesta y lo que dice la investigación.\n4. Realizar un debate sobre el impacto de las TIC en la vida diaria.\n5. Escribir un texto expositivo sobre el impacto de las TIC en la vida diaria.",
+  "estandares": [
+   "ING-EBC-B1.1-ES-02",
+   "ING-EBC-B1.1-ES-03",
+   "ING-EBC-B1.1-ES-07",
+   "ING-EBC-B1.1-ES-08",
+   "ING-EBC-B1.1-LE-04",
+   "ING-EBC-B1.1-LE-06",
+   "ING-EBC-B1.1-LE-08",
+   "ING-EBC-B1.1-LE-09",
+   "ING-EBC-B1.1-LE-10",
+   "ING-EBC-B1.1-ESC-04",
+   "ING-EBC-B1.1-ESC-05",
+   "ING-EBC-B1.1-ESC-06",
+   "ING-EBC-B1.1-ESC-07",
+   "ING-EBC-B1.1-ESC-10",
+   "ING-EBC-B1.1-MO-03",
+   "ING-EBC-B1.1-MO-04",
+   "ING-EBC-B1.1-MO-06",
+   "ING-EBC-B1.1-MO-07",
+   "ING-EBC-B1.1-CO-01",
+   "ING-EBC-B1.1-CO-02",
+   "ING-EBC-B1.1-CO-04"
+  ],
+  "funciones": [
+   "Dar opiniones sobre fenómenos sociales actuales.",
+   "Justificar puntos de vista sobre fenómenos sociales actuales.",
+   "Dar y solicitar información relacionada con fenómenos sociales actuales.",
+   "Describir experiencias pasadas y planes futuros relacionados con fenómenos sociales actuales.",
+   "Expresar condiciones relacionadas con fenómenos sociales actuales."
+  ],
+  "objetivos": [
+   "Intercambiar información sobre temas académicos a través de juegos de roles.",
+   "Producir textos expositivos orales y escritos de mediana extensión relacionados con temas académicos.",
+   "Identificar relaciones de causa y efecto en textos expositivos orales y escritos de mediana extensión relacionados con temas académicos."
+  ],
+  "saber_hacer": [
+   "Identifica ideas relacionadas con el efecto de las TIC en la vida diaria en textos expositivos orales y escritos usados en clase.",
+   "Solicita información sobre actividades diarias relacionadas con el uso de TIC a través de preguntas de información (Wh- questions) previamente elaboradas.",
+   "Da información sobre actividades diarias relacionadas con el uso de TIC con un vocabulario y estructuras adecuados.",
+   "Presenta el efecto de las TIC en la vida diaria de manera oral y ensayada.",
+   "Solicita oralmente justificación sobre la información presentada por los pares.",
+   "Elabora un texto expositivo escrito sobre el efecto de las TIC en la vida diaria con base en información obtenida de diferentes fuentes."
+  ],
+  "saber_ser": [
+   "Respeta los puntos de vista de los demás.",
+   "Participa activamente en las actividades propuestas en clase.",
+   "Reconoce las ventajas y desventajas de las TIC en su vida diaria."
+  ],
+  "saber": [
+   "Reconoce opiniones y puntos de vista.",
+   "Reconoce vocabulario relacionado con fenómenos sociales actuales.",
+   "Identifica el orden temporal de acciones pasadas y futuras.",
+   "Infiere consecuencias derivadas de una acción."
+  ],
+  "lexico": [
+   "Tecnologías de la información: social network, application (apps), blogs, download / upload, website, save as, password, access",
+   "Conectores de causa y efecto: consequently, as a result, therefore, for this reason, because, as, since"
+  ],
+  "expresiones": [
+   "Para sugerir: If I were you, I would… · Have you thought about…? · Why don't you…? · In your position, I would… · You should perhaps… · You could always…",
+   "Para opinar: I (really) think that… · I believe (that)… · I'm sure that… · In my opinion / My opinion is… · I agree with… · I guess / imagine… · I have no doubt that / I'm certain that… · I strongly believe that… · I've never really thought about this before, but… · My personal opinion is that / Personally, my opinion is that… · To be honest / In my honest opinion… · I could be wrong, but… · I'm positive that… · I'm pretty sure that… · It seems to me that… · Some people may disagree with me, but… · This is just my opinion, but…"
+  ],
+  "gramatica": [
+   "Condicionales",
+   "Modales de obligación: should, ought to, had better",
+   "Comparativos y superlativos",
+   "Presente perfecto",
+   "Futuro perfecto"
+  ],
+  "pronunciacion": [
+   "Reconocer enlaces entre palabras (blendings): is a → «iza» · at the doctor → «atthedoctor»"
+  ],
+  "discursivo": [
+   "Comparar y contrastar."
+  ],
+  "sociolinguistico": [
+   "Valoración de la diversidad de opiniones.",
+   "Aprendizaje a través de la interacción.",
+   "Curiosidad y descubrimiento.",
+   "Conocimiento de la cultura propia y la de otros."
+  ],
+  "evaluacion_para": [
+   "Evalúo la calidad de la información obtenida en la encuesta.",
+   "Analizo la información obtenida sobre el tema.",
+   "Confirmo la pertinencia y validez de las fuentes bibliográficas usadas.",
+   "Realizo borradores de texto escrito como parte del proceso de escritura."
+  ],
+  "evaluacion_del": [
+   "Rúbrica de participación en debate.",
+   "Rúbrica de texto expositivo.",
+   "Examen modular."
+  ]
+ },
+ {
+  "codigo": "ING-MALLA-9-M2",
+  "area": "ingles",
+  "grado": 9,
+  "modulo": 2,
+  "eje": "Sostenibilidad",
+  "tema": "Reducción de inequidades",
+  "horas": "20–25",
+  "nivel_mcer": "B1.1",
+  "meta": "Proponer acciones de reducción de inequidades (género, acceso a educación) en la comunidad.",
+  "meta_en": "Propose actions to reduce inequities (gender, access to education) in the community.",
+  "ruta": "Tareas:\n1. Investigar y resumir textos dirigidos a adolescentes sobre inequidad social (género, acceso a la educación, salud).\n2. Compartir situaciones de inequidad social de su entorno.\n3. En grupos, identificar semejanzas y diferencias entre las situaciones descritas.\n4. En los mismos grupos, decidir qué acciones proponer para disminuir esas inequidades.\n5. Escribir un texto expositivo de mediana extensión sobre acciones posibles para disminuir la inequidad en distintos ámbitos de la sociedad.",
+  "estandares": [
+   "ING-EBC-B1.1-ES-02",
+   "ING-EBC-B1.1-ES-07",
+   "ING-EBC-B1.1-ES-08",
+   "ING-EBC-B1.1-LE-06",
+   "ING-EBC-B1.1-LE-08",
+   "ING-EBC-B1.1-LE-09",
+   "ING-EBC-B1.1-ESC-05",
+   "ING-EBC-B1.1-ESC-07",
+   "ING-EBC-B1.1-ESC-10",
+   "ING-EBC-B1.1-MO-03",
+   "ING-EBC-B1.1-MO-06",
+   "ING-EBC-B1.1-MO-07",
+   "ING-EBC-B1.1-CO-01",
+   "ING-EBC-B1.1-CO-02",
+   "ING-EBC-B1.1-CO-04"
+  ],
+  "funciones": [
+   "Expresar acuerdos y desacuerdos sobre temas relacionados con el entorno social.",
+   "Justificar puntos de vista sobre temas relacionados con el entorno social.",
+   "Dar opiniones sobre temas relacionados con el entorno social.",
+   "Expresar planes futuros y condiciones sobre temas relacionados con el entorno social.",
+   "Describir experiencias pasadas."
+  ],
+  "objetivos": [
+   "Producir textos expositivos orales y escritos de mediana extensión relacionados con temas del entorno social.",
+   "Intercambiar información sobre temas relacionados con el entorno social a través de conversaciones.",
+   "Identificar relaciones de contraste y adición en textos orales y escritos de mediana extensión sobre temas relacionados con el entorno social."
+  ],
+  "saber_hacer": [
+   "Identifica ideas relacionadas con situaciones de falta de equidad en la sociedad en textos expositivos orales y escritos usados en clase.",
+   "Describe, de manera oral, situaciones de falta de equidad relacionadas con el entorno personal.",
+   "Formula preguntas de aclaración sobre las situaciones de inequidad que describen los compañeros.",
+   "Identifica, con apoyo, similitudes y diferencias en las historias narradas sobre situaciones de inequidad en el entorno social.",
+   "Expresa su opinión sobre posibles acciones para manejar problemas de inequidad."
+  ],
+  "saber_ser": [
+   "Valora y respeta las diferencias.",
+   "Reconoce la importancia de la equidad en la sociedad.",
+   "Asume una posición crítica ante temas sociales de su interés."
+  ],
+  "saber": [
+   "Reconoce situaciones de inequidad en temas como el acceso a la educación y el género.",
+   "Reconoce la estructura de textos escritos expositivos.",
+   "Distingue relaciones de contraste y adición.",
+   "Identifica estructuras básicas de los tiempos pasado, futuro y condicional."
+  ],
+  "lexico": [
+   "Singular y plural irregular: woman / women, man / men, child / children, person / people",
+   "Opuestos: just / unjust, wrong / right, fair / unfair · lack of…",
+   "Contraste y adición: compared to…, in addition to…, nevertheless…, whereas…, on the other hand…, however…, despite…, moreover…, besides…"
+  ],
+  "expresiones": [
+   "Para solicitar aclaración: Could you expand a little bit on what you said about…? · Could you be more specific about…? · Something else I'd like to know is… · If I have understood you correctly, your point is that… · I didn't understand what you said about… · I'm sorry, could you repeat what you said about…? · Sorry, but I'm not quite clear about…",
+   "Para realizar una presentación oral: Today, we would like to present… · Good afternoon, our purpose today is… · My group members are… and I am…",
+   "Para resumir ideas: On the whole… · Basically he / she is saying that… · In this text, the author argues that… · To support the main claim, the author provides evidence that suggests that…"
+  ],
+  "gramatica": [
+   "Presente, pasado y futuro simple",
+   "Presente, pasado y futuro perfecto",
+   "Condicionales",
+   "Modales",
+   "Estilo indirecto"
+  ],
+  "pronunciacion": [
+   "Entonación.",
+   "Acento y énfasis en palabras: I am shocked to see… · It is unbelievable… · Absolutely amazing!",
+   "Reconocer el énfasis en frases cortas: What I hear you say… · My group members are…"
+  ],
+  "discursivo": [
+   "Relaciones de contraste y adición.",
+   "Marcadores orales."
+  ],
+  "sociolinguistico": [
+   "Respeto por las diferencias culturales y por los contextos situacionales, sociales e históricos.",
+   "Aprendizaje a través de la interacción."
+  ],
+  "evaluacion_para": [
+   "Reflexiono sobre la calidad del trabajo en grupo.",
+   "Evalúo el texto escrito con un par.",
+   "Realizo borradores de texto escrito como parte del proceso de escritura."
+  ],
+  "evaluacion_del": [
+   "Rúbrica de trabajo en grupo.",
+   "Rúbrica de texto expositivo.",
+   "Examen modular."
+  ]
+ },
+ {
+  "codigo": "ING-MALLA-9-M3",
+  "area": "ingles",
+  "grado": 9,
+  "modulo": 3,
+  "eje": "Salud",
+  "tema": "Prevención de enfermedades",
+  "horas": "20–25",
+  "nivel_mcer": "B1.1",
+  "meta": "Establecer prácticas de prevención de enfermedades en la región.",
+  "meta_en": "Establish illness prevention practices in the region.",
+  "ruta": "Proyecto: campaña de prevención de una enfermedad común en la comunidad.\n- Qué sabe: el docente recoge en el tablero lo que saben sobre las enfermedades más comunes del entorno. En grupos resumen lo que ya saben y deciden los pasos a seguir.\n- Qué quiere saber: planean el proyecto por etapas (qué hacer y cómo en cada una), identifican el vocabulario y las estructuras que necesitan y se reparten roles. La campaña debe incluir escucha, lectura, habla y escritura.\n- Rutas sugeridas:\n  - Investigar las características, síntomas y formas de prevención de la enfermedad asignada.\n  - Graficar los síntomas y el plan de prevención.\n  - Hacer un reporte escrito siguiendo un modelo practicado en clase.\n  - Organizar la información en un plan de prevención.\n  - Hacer un póster y una presentación oral.\n  - Evaluar con la clase los planes presentados.\n- Qué aprendió: presentan sus proyectos a la clase. Luego cada uno escribe una reflexión en un formato establecido y recibe retroalimentación del profesor.\n- Mientras trabajan, el docente anota los vacíos frecuentes y los repasa en minilecciones: modelar el proceso de escritura (lluvia de ideas, borrador y revisión) y ayudar a definir las listas de características y conductas.",
+  "estandares": [
+   "ING-EBC-B1.1-ES-01",
+   "ING-EBC-B1.1-ES-05",
+   "ING-EBC-B1.1-ES-07",
+   "ING-EBC-B1.1-ES-10",
+   "ING-EBC-B1.1-LE-04",
+   "ING-EBC-B1.1-LE-07",
+   "ING-EBC-B1.1-LE-08",
+   "ING-EBC-B1.1-LE-11",
+   "ING-EBC-B1.1-ESC-06",
+   "ING-EBC-B1.1-ESC-07",
+   "ING-EBC-B1.1-ESC-08",
+   "ING-EBC-B1.1-MO-03",
+   "ING-EBC-B1.1-MO-05",
+   "ING-EBC-B1.1-MO-06",
+   "ING-EBC-B1.1-CO-01",
+   "ING-EBC-B1.1-CO-04",
+   "ING-EBC-B1.1-CO-06"
+  ],
+  "funciones": [
+   "Dar recomendaciones sobre temas de interés general.",
+   "Expresar opiniones sobre temas de interés general.",
+   "Expresar acuerdos y desacuerdos relacionados con temas de interés general.",
+   "Describir experiencias pasadas y planes futuros.",
+   "Dar y solicitar información sobre temas de interés general.",
+   "Reportar información presentada por sus pares.",
+   "Expresar acciones siguiendo una secuencia lógica."
+  ],
+  "objetivos": [
+   "Elaborar textos orales y escritos sobre recomendaciones relacionadas con temas de interés.",
+   "Intercambiar información sobre temas de interés a través de foros.",
+   "Identificar información sobre temas de interés en textos descriptivos cortos orales y escritos."
+  ],
+  "saber_hacer": [
+   "Identifica información relacionada con enfermedades prevenibles en textos expositivos orales y escritos de mediana extensión.",
+   "Formula preguntas sobre los métodos más comunes de prevención de una enfermedad propia del contexto.",
+   "Relata de manera oral los métodos de prevención de la enfermedad.",
+   "Presenta un plan de prevención de una enfermedad asignada a partir de hechos relevantes, detalles concretos y referencias.",
+   "Expresa, de manera oral, opiniones sobre los planes de prevención expuestos por los compañeros de la clase."
+  ],
+  "saber_ser": [
+   "Reconoce su papel activo en la prevención de enfermedades.",
+   "Respeta los puntos de vista de los demás.",
+   "Expresa desacuerdos de manera respetuosa."
+  ],
+  "saber": [
+   "Identifica enfermedades prevenibles en el contexto.",
+   "Reconoce vocabulario y expresiones relacionadas con enfermedades prevenibles comunes.",
+   "Selecciona fuentes bibliográficas pertinentes para su trabajo.",
+   "Escoge información apropiada para apoyar puntos de vista."
+  ],
+  "lexico": [
+   "Partes del cuerpo: abdomen, heart, back, kidney, liver, lung, backbone, skull",
+   "Enfermedades y síntomas: dengue, chikungunya, influenza (flu), malaria, mosquito bite, viral infection, muscle pain, fatigue, virus, parasite, anaemia, rash, nausea",
+   "Transiciones de efecto: therefore, consequently, accordingly, thus, hence, as a result"
+  ],
+  "expresiones": [
+   "Para relacionar síntomas: Germs can spread diseases such as… · The flu is a contagious disease. · I am suffering from… · My doctor told me I have… · I am feeling sick.",
+   "Para citar: According to… (2000) · The author states… · The author suggests… · As… states…",
+   "Para introducir un tema: Today's topic is… · What I want to do today is… · What we are going to cover today is… · Today, I am going to talk about…",
+   "Para concluir: I tried to demonstrate… · In conclusion… · Now, to sum up… · I think this can be prevented by…"
+  ],
+  "gramatica": [
+   "Adverbios de frecuencia y secuencia",
+   "Imperativos: Take… · Drink… · Don't…",
+   "Modales: should, would, ought to, had better",
+   "Presente perfecto",
+   "Pasado simple"
+  ],
+  "pronunciacion": [
+   "Reconocer la terminación del pasado: /d/ vs /t/ vs /ɪd/ (played, walked, wanted)"
+  ],
+  "discursivo": [
+   "Conectores de secuencia."
+  ],
+  "sociolinguistico": [
+   "Habilidades para analizar, interpretar y relacionar.",
+   "Flexibilidad cognitiva.",
+   "Aprendizaje a través de la interacción."
+  ],
+  "evaluacion_para": [
+   "Analizo la pertinencia de las fuentes y la información consultadas.",
+   "Tomo notas para preparar la campaña.",
+   "Evalúo la validez de las recomendaciones que voy a presentar.",
+   "Evalúo la metodología de trabajo en grupo y mi papel dentro de él.",
+   "Elaboro borradores de texto escrito como parte del proceso de escritura."
+  ],
+  "evaluacion_del": [
+   "Rúbrica para evaluar la campaña.",
+   "Rúbrica de evaluación de la presentación de la campaña.",
+   "Rúbrica de texto escrito.",
+   "Examen modular."
+  ]
+ },
+ {
+  "codigo": "ING-MALLA-9-M4",
+  "area": "ingles",
+  "grado": 9,
+  "modulo": 4,
+  "eje": "Democracia y paz",
+  "tema": "Derechos ciudadanos",
+  "horas": "20–25",
+  "nivel_mcer": "B1.1",
+  "meta": "Generar conciencia sobre los derechos de los ciudadanos.",
+  "meta_en": "Generate awareness about citizens' rights.",
+  "ruta": "Problema (ruta por problemas): ¿qué derechos tenemos y cuáles ejercemos de verdad en la comunidad?\n- En grupos de 3 o 4, los estudiantes identifican, comparan y evalúan los derechos ciudadanos que existen frente a los que ejercen los miembros de su comunidad.\n- Preparan una presentación oral que compara y evalúa cómo se ejercen esos derechos.\n- Producen textos orales y escritos con acciones para ejercerlos bien: *Do's & Don'ts*.\n- Papel del docente:\n  - Selecciona textos orales o escritos sobre el ejercicio de los derechos ciudadanos.\n  - Diseña actividades de análisis que lleven a los estudiantes a evaluar su papel como ciudadanos.\n  - Guía la comparación entre los derechos propuestos y los que se ejercen.\n  - Modela la presentación del análisis y la propuesta de acciones.\n  - Acompaña la escritura del texto argumentativo *Do's & Don'ts*.\n  - Evalúa con rúbricas compartidas desde el inicio.",
+  "estandares": [
+   "ING-EBC-B1.1-ES-01",
+   "ING-EBC-B1.1-ES-05",
+   "ING-EBC-B1.1-ES-07",
+   "ING-EBC-B1.1-ES-10",
+   "ING-EBC-B1.1-LE-04",
+   "ING-EBC-B1.1-LE-07",
+   "ING-EBC-B1.1-LE-08",
+   "ING-EBC-B1.1-LE-11",
+   "ING-EBC-B1.1-ESC-06",
+   "ING-EBC-B1.1-ESC-07",
+   "ING-EBC-B1.1-ESC-08",
+   "ING-EBC-B1.1-MO-03",
+   "ING-EBC-B1.1-MO-05",
+   "ING-EBC-B1.1-MO-06",
+   "ING-EBC-B1.1-CO-01",
+   "ING-EBC-B1.1-CO-04",
+   "ING-EBC-B1.1-CO-06"
+  ],
+  "funciones": [
+   "Expresar opiniones sobre temas sociales.",
+   "Expresar acuerdos y desacuerdos relacionados con temas sociales.",
+   "Describir experiencias pasadas y planes futuros.",
+   "Dar y solicitar información sobre temas sociales.",
+   "Expresar acciones siguiendo una secuencia lógica."
+  ],
+  "objetivos": [
+   "Identificar puntos a favor y en contra en textos orales y escritos relacionados con temas sociales.",
+   "Producir textos argumentativos orales y escritos de mediana extensión sobre temas sociales.",
+   "Intercambiar información sobre temas sociales en un debate."
+  ],
+  "saber_hacer": [
+   "Identifica información específica relacionada con derechos ciudadanos en textos orales y escritos.",
+   "Solicita información sobre los derechos ciudadanos ejercidos por sus familias.",
+   "Elabora un cuadro comparativo entre los derechos ciudadanos generales y los identificados por los compañeros de la clase.",
+   "Presenta acciones para generar conciencia sobre la importancia de conocer los derechos ciudadanos.",
+   "Expresa, de manera oral y con argumentos sólidos, opiniones sobre las acciones sugeridas por los compañeros de la clase."
+  ],
+  "saber_ser": [
+   "Reconoce sus derechos civiles como ciudadano.",
+   "Identifica su papel ciudadano en la comunidad.",
+   "Respeta los puntos de vista de los demás.",
+   "Expresa desacuerdos de manera respetuosa."
+  ],
+  "saber": [
+   "Identifica información relacionada con derechos ciudadanos.",
+   "Reconoce vocabulario y expresiones relacionadas con derechos ciudadanos.",
+   "Selecciona fuentes bibliográficas pertinentes.",
+   "Escoge información apropiada para apoyar puntos de vista."
+  ],
+  "lexico": [
+   "Derechos: right to vote freely, right to receive health and basic services, dignity and identity, civil disobedience"
+  ],
+  "expresiones": [
+   "De ventajas y desventajas: One advantage could be… · The main disadvantage of this is… · The good point is… · The best part about… is…",
+   "Para presentar un proyecto: Today, we would like to present… · Good afternoon, our purpose today is… · My group members are… and I am…",
+   "Para explicar políticas: In the past, women could not vote… · The Government planned…"
+  ],
+  "gramatica": [
+   "Pasado simple",
+   "Pasado perfecto",
+   "Presente simple",
+   "Condicionales"
+  ],
+  "pronunciacion": [
+   "Reconocer palabras reducidas: going to → gonna · want to → wanna"
+  ],
+  "discursivo": [
+   "Conectores secuenciales y lógicos."
+  ],
+  "sociolinguistico": [
+   "Curiosidad y descubrimiento.",
+   "Aprendizaje a través de la interacción.",
+   "Conocimiento del impacto de la cultura y de los contextos situacionales, sociales e históricos."
+  ],
+  "evaluacion_para": [
+   "Analizo la pertinencia y precisión de la información obtenida de fuentes bibliográficas y de mis compañeros.",
+   "Confirmo la pertinencia y validez de las fuentes bibliográficas usadas.",
+   "Analizo la calidad de mi justificación sobre las acciones sugeridas para el ejercicio adecuado de los derechos ciudadanos.",
+   "Realizo borradores de texto escrito como parte del proceso de escritura.",
+   "Tomo notas para dar mi opinión sobre las acciones presentadas por mis compañeros."
+  ],
+  "evaluacion_del": [
+   "Rúbrica de presentación oral.",
+   "Rúbrica de texto argumentativo.",
+   "Examen modular."
+  ]
+ },
+ {
+  "codigo": "ING-MALLA-10-M1",
+  "area": "ingles",
+  "grado": 10,
+  "modulo": 1,
+  "eje": "Democracia y paz",
+  "tema": "Deberes",
+  "horas": "24–27",
+  "nivel_mcer": "B1.2",
+  "meta": "Impulsar el uso de prácticas éticas y de convivencia ciudadana en el entorno escolar (por ejemplo, respetar la fila y citar las fuentes, en lugar de colarse o plagiar).",
+  "meta_en": "Promote ethical behaviors regarding citizenship and living together in school (e.g. respecting the line, sourcing references).",
+  "ruta": "Proyecto: campaña publicitaria sobre prácticas éticas y de convivencia en el colegio.\n- Qué sabe: el docente recoge en el tablero lo que saben sobre las prácticas éticas y de convivencia más comunes en su entorno. En grupos se ponen de acuerdo sobre el tema y deciden los pasos.\n- Qué quiere saber: planean el proyecto por etapas, identifican el vocabulario y las estructuras que necesitan y se reparten roles. La campaña debe incluir escucha, lectura, habla y escritura.\n- Rutas sugeridas:\n  - Grabar un video de compañeros haciendo estas prácticas de forma equivocada.\n  - Diseñar un póster con las normas básicas de convivencia en el aula.\n  - Hacer pósteres para los espacios del colegio (baños, cafetería, corredores, biblioteca, etc.).\n  - Dramatizar el impacto de estas prácticas.\n- Qué aprendió: presentan la campaña a la clase y a la comunidad educativa. Luego cada uno escribe una reflexión sobre la importancia de estas prácticas y recibe retroalimentación del profesor.\n- Mientras trabajan, el docente toma notas sobre el trabajo en equipo.",
+  "estandares": [
+   "ING-EBC-B1.2-ES-02",
+   "ING-EBC-B1.2-ES-05",
+   "ING-EBC-B1.2-ES-06",
+   "ING-EBC-B1.2-ES-07",
+   "ING-EBC-B1.2-ES-09",
+   "ING-EBC-B1.2-LE-03",
+   "ING-EBC-B1.2-LE-06",
+   "ING-EBC-B1.2-LE-07",
+   "ING-EBC-B1.2-LE-10",
+   "ING-EBC-B1.2-ESC-01",
+   "ING-EBC-B1.2-ESC-02",
+   "ING-EBC-B1.2-ESC-06",
+   "ING-EBC-B1.2-MO-02",
+   "ING-EBC-B1.2-MO-03",
+   "ING-EBC-B1.2-MO-05",
+   "ING-EBC-B1.2-MO-06",
+   "ING-EBC-B1.2-CO-02",
+   "ING-EBC-B1.2-CO-03",
+   "ING-EBC-B1.2-CO-04",
+   "ING-EBC-B1.2-CO-06"
+  ],
+  "funciones": [
+   "Describir actividades sociales locales.",
+   "Solicitar información sobre prácticas sociales y actividades.",
+   "Expresar acuerdos y desacuerdos.",
+   "Justificar puntos de vista.",
+   "Expresar condiciones.",
+   "Reportar las ideas presentadas sobre el punto de vista discutido.",
+   "Solicitar aclaración sobre información presentada por pares.",
+   "Sustentar opiniones con argumentos válidos."
+  ],
+  "objetivos": [
+   "Distinguir información central de textos orales relacionados con temas académicos de interés.",
+   "Identificar información general y específica en textos narrativos y descriptivos orales y escritos relacionados con temas académicos de interés.",
+   "Elaborar un texto escrito de recomendaciones sobre temas académicos de interés.",
+   "Hacer una exposición oral sobre temas académicos de interés.",
+   "Intercambiar opiniones en una mesa redonda sobre temas académicos de interés."
+  ],
+  "saber_hacer": [
+   "Elabora un texto escrito de recomendaciones sobre temas académicos de interés.",
+   "Hace una exposición oral sobre temas académicos de interés.",
+   "Intercambia opiniones en una mesa redonda sobre temas académicos de interés.",
+   "Resume, con apoyo de los compañeros y usando estrategias de parafraseo, las causas y soluciones de un conflicto entre docentes y estudiantes.",
+   "Hace preguntas y pide aclaraciones, con pronunciación clara y entonación apropiada, en una encuesta a estudiantes y docentes sobre posibles conflictos escolares."
+  ],
+  "saber_ser": [
+   "Valora y respeta la opinión de los demás.",
+   "Reconoce la importancia del lenguaje en la resolución de conflictos.",
+   "Aprecia los aportes culturales de su propia comunidad y de otras.",
+   "Asume una posición crítica ante temas académicos o sociales de su interés."
+  ],
+  "saber": [
+   "Reconoce información general y específica en textos narrativos y descriptivos orales y escritos relacionados con temas académicos de interés.",
+   "Distingue expresiones relacionadas con causa y efecto, síntesis, aclaración, etc.",
+   "Identifica estructuras básicas de los tiempos presente, pasado y futuro, simple y perfecto.",
+   "Diferencia las estructuras de los condicionales reales e irreales."
+  ],
+  "lexico": [
+   "Problemas escolares y su manejo: cheating, using electronic devices in class, plagiarism"
+  ],
+  "expresiones": [
+   "Para solicitar aclaración: Could you expand a little bit on what you said about…? · Could you be more specific about…? · Something else I'd like to know is… · If I have understood you correctly, your point is that… · I didn't understand what you said about… · I'm sorry, could you repeat what you said about…? · Sorry, but I'm not quite clear about…",
+   "Para realizar una presentación oral: Today, we would like to present… · Good afternoon, our purpose today is… · My group members are… and I am…",
+   "De causa y efecto: Because of…, then… · In spite of…, it was… · Therefore, because of A, B happened.",
+   "Para resumir ideas: On the whole… · Basically he / she is saying that… · In this text, the author argues that… · To support the main claim, the author provides evidence that suggests that…"
+  ],
+  "gramatica": [
+   "Presente, pasado y futuro simple y perfecto",
+   "Condicionales",
+   "Modales",
+   "Estilo indirecto"
+  ],
+  "pronunciacion": [
+   "Entonación.",
+   "Acento y énfasis en palabras: I am shocked to see… · It is unbelievable… · Absolutely amazing!",
+   "Reconocer el énfasis en frases cortas: What I hear you say… · My group members are…"
+  ],
+  "discursivo": [
+   "Relaciones de causa, consecuencia y contraste.",
+   "Marcadores orales."
+  ],
+  "sociolinguistico": [
+   "Respeto por las diferencias culturales y por los contextos situacionales, sociales e históricos.",
+   "Aprendizaje a través de la interacción."
+  ],
+  "evaluacion_para": [
+   "Analizo la pertinencia de las fuentes y la información consultadas.",
+   "Tomo notas para preparar la campaña.",
+   "Evalúo la validez de las recomendaciones que voy a presentar.",
+   "Evalúo la metodología de trabajo en grupo y mi papel dentro de él.",
+   "Elaboro borradores de texto escrito como parte del proceso de escritura."
+  ],
+  "evaluacion_del": [
+   "Rúbrica para evaluar la campaña publicitaria.",
+   "Rúbrica de evaluación de la presentación de la campaña.",
+   "Rúbrica de texto escrito.",
+   "Examen modular."
+  ]
+ },
+ {
+  "codigo": "ING-MALLA-10-M2",
+  "area": "ingles",
+  "grado": 10,
+  "modulo": 2,
+  "eje": "Salud",
+  "tema": "Prácticas culturales y sociales",
+  "horas": "20–25",
+  "nivel_mcer": "B1.2",
+  "meta": "Evaluar el impacto en la salud de prácticas culturales y sociales (piercings, tatuajes, deportes extremos y sedentarismo).",
+  "meta_en": "Evaluate the impact of cultural and social practices (piercings, tattoos, extreme sports and sedentarism) on health.",
+  "ruta": "Proyecto: encuesta a jóvenes del entorno sobre el impacto de estas prácticas en su salud.\n- Qué sabe: el docente recoge en el tablero lo que saben sobre piercings, tatuajes, deportes extremos y sedentarismo en la juventud. En grupos se ponen de acuerdo sobre el tema y deciden los pasos.\n- Qué quiere saber: planean el proyecto por etapas, identifican el vocabulario y las estructuras que necesitan y se reparten roles. El proyecto debe incluir escucha, lectura, habla y escritura.\n- Rutas sugeridas:\n  - Enfocar la encuesta en un tema (deportes extremos, piercings, tatuajes, etc.).\n  - Grabar en video a los compañeros respondiendo.\n  - Graficar los resultados y presentarlos.\n  - Redactar un texto argumentativo que justifique su posición.\n- Qué aprendió: presentan sus proyectos a la clase. Luego cada uno escribe un texto argumentativo que defiende su punto de vista y recibe retroalimentación del profesor.\n- Mientras trabajan, el docente toma notas sobre el trabajo en equipo.",
+  "estandares": [
+   "ING-EBC-B1.2-ES-02",
+   "ING-EBC-B1.2-ES-03",
+   "ING-EBC-B1.2-ES-07",
+   "ING-EBC-B1.2-ES-09",
+   "ING-EBC-B1.2-ES-10",
+   "ING-EBC-B1.2-LE-01",
+   "ING-EBC-B1.2-LE-02",
+   "ING-EBC-B1.2-LE-03",
+   "ING-EBC-B1.2-LE-04",
+   "ING-EBC-B1.2-LE-06",
+   "ING-EBC-B1.2-LE-07",
+   "ING-EBC-B1.2-LE-08",
+   "ING-EBC-B1.2-ESC-01",
+   "ING-EBC-B1.2-ESC-02",
+   "ING-EBC-B1.2-ESC-04",
+   "ING-EBC-B1.2-ESC-05",
+   "ING-EBC-B1.2-ESC-07",
+   "ING-EBC-B1.2-MO-02",
+   "ING-EBC-B1.2-MO-03",
+   "ING-EBC-B1.2-MO-04",
+   "ING-EBC-B1.2-MO-05",
+   "ING-EBC-B1.2-MO-06",
+   "ING-EBC-B1.2-MO-08",
+   "ING-EBC-B1.2-CO-01",
+   "ING-EBC-B1.2-CO-02",
+   "ING-EBC-B1.2-CO-03",
+   "ING-EBC-B1.2-CO-04",
+   "ING-EBC-B1.2-CO-06"
+  ],
+  "funciones": [
+   "Expresar acuerdos y desacuerdos con base en razones válidas.",
+   "Reconocer diferentes puntos de vista.",
+   "Solicitar aclaración sobre información presentada por pares.",
+   "Expresar acuerdos y desacuerdos a través de diferentes puntos de vista.",
+   "Justificar el punto de vista.",
+   "Defender el punto de vista con argumentos válidos."
+  ],
+  "objetivos": [
+   "Reconocer información implícita en textos argumentativos orales y escritos relacionados con temas de interés.",
+   "Producir textos orales y escritos argumentativos sencillos sobre temas de interés.",
+   "Intercambiar opiniones oralmente en conversaciones espontáneas."
+  ],
+  "saber_hacer": [
+   "Produce textos publicitarios sencillos sobre prácticas culturales y sociales que causan problemas de salud.",
+   "Justifica verbalmente y de manera respetuosa su punto de vista sobre la campaña más efectiva, usando el vocabulario, las expresiones y las estructuras vistas.",
+   "Sustenta oralmente una campaña publicitaria con claridad y confianza."
+  ],
+  "saber_ser": [
+   "Respeta las diferencias personales y culturales.",
+   "Reconoce las consecuencias de ciertas prácticas culturales y sociales en la salud de las personas."
+  ],
+  "saber": [
+   "Reconoce palabras y expresiones sobre ciertas prácticas culturales y sociales.",
+   "Identifica información sobre las prácticas culturales y sociales más comunes.",
+   "Reconoce información general y específica en textos narrativos y descriptivos orales y escritos relacionados con temas académicos de interés.",
+   "Distingue expresiones relacionadas con causa y efecto, síntesis, etc.",
+   "Identifica estructuras básicas de los tiempos presente, pasado y futuro, simple y perfecto.",
+   "Diferencia las estructuras de los condicionales reales e irreales."
+  ],
+  "lexico": [
+   "Deportes extremos: skateboarding, windsurfing, parachuting, jet skis, rock climbing, motocross",
+   "Desórdenes alimenticios: anorexia, bulimia",
+   "Salud en general: body image, nutrition, symptom, binge, purge"
+  ],
+  "expresiones": [
+   "Para aclarar: What I hear you say is… · If I… · You should have… · In sum…",
+   "Para presentar un proyecto: Today, we would like to present… · Good afternoon, our purpose today is… · My group members are… and I am…",
+   "Para dar opinión: I think that… · It is my opinion that… · I really believe that…",
+   "Para describir condiciones: If A…, then B… · Given these conditions, we will… · Whether or not…",
+   "Para hablar de costumbres: They normally use / dress… · They pierce their ears with spacers. · Some have tattoos everywhere.",
+   "Para describir tablas o diagramas: This diagram demonstrates a rise in illness. · This table shows a slight decrease in hospitalization.",
+   "Para hablar de consecuencias: If that happened to me, I could live with it. · I would be scared if I got an infection. · He got sick because he pierced his ear himself."
+  ],
+  "gramatica": [
+   "Presente, pasado y futuro simple y perfecto",
+   "Condicionales",
+   "Modales"
+  ],
+  "pronunciacion": [
+   "Entonación.",
+   "Acento y énfasis en palabras: I am shocked to see… · It is unbelievable… · Absolutely amazing!",
+   "Reconocer el énfasis en frases cortas: What I hear you say… · My group members are…"
+  ],
+  "discursivo": [
+   "Relaciones de causa, consecuencia y contraste.",
+   "Marcadores orales."
+  ],
+  "sociolinguistico": [
+   "Valoración de la diversidad cultural.",
+   "Aprendizaje a través de la interacción.",
+   "Conocimiento del impacto de la cultura y la sociedad en la salud.",
+   "Reflexión autocrítica.",
+   "Habilidades para analizar, interpretar y relacionar."
+  ],
+  "evaluacion_para": [
+   "Analizo la pertinencia de las fuentes y la información consultadas.",
+   "Tomo notas para analizar los resultados de la encuesta.",
+   "Evalúo la validez de los argumentos que voy a presentar.",
+   "Evalúo la metodología de trabajo en grupo y mi papel dentro de él.",
+   "Elaboro borradores de texto escrito como parte del proceso de escritura."
+  ],
+  "evaluacion_del": [
+   "Rúbrica de texto escrito.",
+   "Examen modular."
+  ]
+ },
+ {
+  "codigo": "ING-MALLA-10-M3",
+  "area": "ingles",
+  "grado": 10,
+  "modulo": 3,
+  "eje": "Sostenibilidad",
+  "tema": "Fast fashion (moda desechable)",
+  "horas": "20–25",
+  "nivel_mcer": "B1.2",
+  "meta": "Analizar el fenómeno de la moda desechable.",
+  "meta_en": "Analyze the fast fashion phenomenon.",
+  "ruta": "Proyecto: debate sobre la moda desechable.\n- Qué sabe: el docente recoge en el tablero lo que saben sobre el fenómeno. En grupos se ponen de acuerdo sobre el tema y deciden los pasos.\n- Qué quiere saber: planean el proyecto por etapas, identifican el vocabulario y las estructuras que necesitan y preparan buenos argumentos para defender o atacar. El debate debe incluir escucha, lectura, habla y escritura.\n- Rutas sugeridas:\n  - Buscar información en fuentes confiables.\n  - Prepararse para defender o atacar puntos de vista.\n  - Apoyarse en notas.\n  - Dramatizar el fenómeno de la moda desechable.\n- Qué aprendió: la clase se divide en dos grupos, uno defiende y otro ataca, y en ambos casos deben presentar argumentos válidos. Después del debate, cada uno escribe un texto argumentativo con su opinión.\n- Mientras trabajan, el docente toma notas sobre el trabajo en equipo.",
+  "estandares": [
+   "ING-EBC-B1.2-ES-02",
+   "ING-EBC-B1.2-ES-05",
+   "ING-EBC-B1.2-ES-06",
+   "ING-EBC-B1.2-ES-08",
+   "ING-EBC-B1.2-LE-01",
+   "ING-EBC-B1.2-LE-03",
+   "ING-EBC-B1.2-LE-04",
+   "ING-EBC-B1.2-LE-06",
+   "ING-EBC-B1.2-LE-07",
+   "ING-EBC-B1.2-LE-08",
+   "ING-EBC-B1.2-LE-10",
+   "ING-EBC-B1.2-ESC-01",
+   "ING-EBC-B1.2-ESC-02",
+   "ING-EBC-B1.2-ESC-03",
+   "ING-EBC-B1.2-MO-01",
+   "ING-EBC-B1.2-MO-02",
+   "ING-EBC-B1.2-MO-03",
+   "ING-EBC-B1.2-MO-06",
+   "ING-EBC-B1.2-MO-08",
+   "ING-EBC-B1.2-CO-02",
+   "ING-EBC-B1.2-CO-03",
+   "ING-EBC-B1.2-CO-04",
+   "ING-EBC-B1.2-CO-06"
+  ],
+  "funciones": [
+   "Preguntar y dar opiniones y puntos de vista.",
+   "Justificar puntos de vista.",
+   "Identificar y describir objetos.",
+   "Hablar sobre preferencias."
+  ],
+  "objetivos": [
+   "Identificar el punto de vista del autor en textos orales y escritos argumentativos relacionados con temas académicos.",
+   "Participar en conversaciones sobre temas académicos.",
+   "Expresar puntos de vista propios en textos argumentativos sencillos escritos y orales sobre temas académicos."
+  ],
+  "saber_hacer": [
+   "Formula preguntas sobre la moda desechable y sus efectos en la comunidad a partir de expresiones definidas.",
+   "Comparte oralmente una postura sobre el tema.",
+   "Sustenta por escrito una postura sobre temas de interés con razones estructuradas, siguiendo un modelo definido.",
+   "Hace una exposición oral sobre temas académicos de interés."
+  ],
+  "saber_ser": [
+   "Valora y respeta la opinión de los demás.",
+   "Asume una posición crítica ante temas académicos o sociales de su interés."
+  ],
+  "saber": [
+   "Resume información relevante de textos sobre el fenómeno de la moda, usando estrategias de elaboración de resúmenes.",
+   "Reconoce información general y específica en textos narrativos y descriptivos orales y escritos relacionados con temas académicos de interés.",
+   "Distingue expresiones relacionadas con la moda.",
+   "Identifica estructuras básicas de los tiempos presente, pasado y futuro simple.",
+   "Diferencia las estructuras de los condicionales reales e irreales."
+  ],
+  "lexico": [
+   "Prendas y accesorios: jeans, T-shirt, shoes, blouse, bag, popular trends",
+   "Detalles de las prendas: long / short sleeves, sleeveless, side pocket / inside pockets, V-neck / round neck, low neckline, hooded, tight / loose, baggy, colorful / extravagant",
+   "Estampados: striped, checked, plaid / tartan, patterned, flowery / floral",
+   "Materiales: cotton, leather, silk, fur, denim, wool, suede, linen, rubber, nylon",
+   "Personas de la moda: model / supermodel / male model, designer, hairdresser, tailor, fashion victim · street market clothes"
+  ],
+  "expresiones": [
+   "Sobre moda: to be trendy / cool / fashionable / unfashionable · to be in fashion · to come into fashion · to go out of fashion · to wear designer labels · to be stylish · to follow the latest fashion · to be interested in fashion · to shop in trendy stores · to spend money on clothes / buying clothes",
+   "De opinión: In my opinion, that one would be better. · If you ask me, that one's better. · In my way of thinking, this one's fine. · What I think is that one's better. · For me, that one's better. · I believe that… · I'm not so sure about that…"
+  ],
+  "gramatica": [
+   "Presente y pasado simple",
+   "Presente perfecto",
+   "Futuro simple",
+   "Preguntas con which",
+   "Condicionales",
+   "This / these, that / those, one / ones",
+   "Too + adjetivo"
+  ],
+  "pronunciacion": [
+   "Reconocer el énfasis en frases cortas: What I hear you say… · My group members are…",
+   "Entonación en preguntas."
+  ],
+  "discursivo": [
+   "Marcadores orales para resumir ideas.",
+   "Estrategias de elaboración de resúmenes."
+  ],
+  "sociolinguistico": [
+   "Valoración de la diversidad cultural.",
+   "Conocimiento del impacto de la cultura y de los contextos situacionales, sociales e históricos.",
+   "Habilidades para analizar, interpretar y relacionar."
+  ],
+  "evaluacion_para": [
+   "Analizo la pertinencia de las fuentes y la información consultadas.",
+   "Tomo notas para preparar el debate.",
+   "Evalúo la validez de los argumentos que voy a presentar.",
+   "Elaboro borradores de texto escrito como parte del proceso de escritura."
+  ],
+  "evaluacion_del": [
+   "Rúbrica para evaluar la participación en el debate.",
+   "Rúbrica de texto escrito.",
+   "Examen modular."
+  ]
+ },
+ {
+  "codigo": "ING-MALLA-10-M4",
+  "area": "ingles",
+  "grado": 10,
+  "modulo": 4,
+  "eje": "Globalización",
+  "tema": "La globalización cotidiana",
+  "horas": "20–25",
+  "nivel_mcer": "B1.2",
+  "meta": "Valorar el papel de la globalización en los productos de uso cotidiano.",
+  "meta_en": "Value the role of globalization in everyday products.",
+  "ruta": "Problema (ruta por problemas): ¿qué ganamos y qué perdemos con la globalización en lo que usamos todos los días?\n- En grupos de 3 o 4, los estudiantes identifican, comparan y evalúan la globalización en los productos de uso cotidiano.\n- Preparan una presentación oral que la compara y la evalúa.\n- Producen textos orales y escritos que argumentan las ventajas y desventajas.\n- Papel del docente:\n  - Selecciona textos sobre la globalización en los productos cotidianos.\n  - Diseña actividades de análisis.\n  - Guía la comparación de ventajas y desventajas.\n  - Modela la presentación del análisis.\n  - Acompaña la escritura del texto argumentativo «Ventajas y desventajas de la globalización en los productos de uso cotidiano».\n  - Evalúa con rúbricas compartidas desde el inicio.",
+  "estandares": [
+   "ING-EBC-B1.2-ES-02",
+   "ING-EBC-B1.2-ES-04",
+   "ING-EBC-B1.2-ES-05",
+   "ING-EBC-B1.2-ES-07",
+   "ING-EBC-B1.2-ES-09",
+   "ING-EBC-B1.2-ES-10",
+   "ING-EBC-B1.2-LE-01",
+   "ING-EBC-B1.2-LE-03",
+   "ING-EBC-B1.2-LE-05",
+   "ING-EBC-B1.2-LE-06",
+   "ING-EBC-B1.2-LE-07",
+   "ING-EBC-B1.2-LE-10",
+   "ING-EBC-B1.2-ESC-01",
+   "ING-EBC-B1.2-ESC-02",
+   "ING-EBC-B1.2-ESC-04",
+   "ING-EBC-B1.2-ESC-06",
+   "ING-EBC-B1.2-MO-01",
+   "ING-EBC-B1.2-MO-02",
+   "ING-EBC-B1.2-MO-03",
+   "ING-EBC-B1.2-MO-04",
+   "ING-EBC-B1.2-MO-05",
+   "ING-EBC-B1.2-MO-06",
+   "ING-EBC-B1.2-CO-01",
+   "ING-EBC-B1.2-CO-02",
+   "ING-EBC-B1.2-CO-03",
+   "ING-EBC-B1.2-CO-04"
+  ],
+  "funciones": [
+   "Expresar acuerdos y desacuerdos.",
+   "Solicitar aclaración.",
+   "Justificar puntos de vista.",
+   "Expresar condiciones y opiniones.",
+   "Predecir acciones futuras como resultado de ciertas condiciones.",
+   "Hacer hipótesis sobre las ventajas y desventajas de un tema presentado."
+  ],
+  "objetivos": [
+   "Reconocer ideas generales y específicas en textos escritos argumentativos cortos sobre temas académicos y científicos.",
+   "Estructurar textos argumentativos orales y escritos de mediana longitud sobre temas académicos y científicos.",
+   "Expresar opiniones sobre temas académicos y científicos en interacciones espontáneas."
+  ],
+  "saber_hacer": [
+   "Formula preguntas sobre la globalización y sus efectos en la comunidad a partir de expresiones definidas.",
+   "Comparte oralmente una postura sobre temas de interés.",
+   "Sustenta por escrito una postura sobre temas de interés con razones estructuradas, siguiendo un modelo definido.",
+   "Hace una exposición oral sobre temas académicos de interés."
+  ],
+  "saber_ser": [
+   "Valora y respeta la opinión de los demás.",
+   "Asume una posición crítica ante temas académicos o sociales de interés."
+  ],
+  "saber": [
+   "Resume información relevante de textos relacionados con el fenómeno de la globalización.",
+   "Reconoce información general y específica en textos narrativos y descriptivos orales y escritos relacionados con temas académicos de interés.",
+   "Distingue vocabulario y expresiones relacionadas con la globalización.",
+   "Identifica estructuras básicas de los tiempos presente, pasado y futuro simple.",
+   "Diferencia la estructura y el uso del infinitivo y el gerundio."
+  ],
+  "lexico": [
+   "Globalización: affluence, manufacturing, technology, outsource, dominate, emerge, capitalise, communication, appliances and devices"
+  ],
+  "expresiones": [
+   "Para predecir y plantear hipótesis: I predict / imagine that… · Given…, I hypothesize that… · If I use…, then I predict… will happen. · Based on past results, I predict… · I deduced… after analyzing… further. · I discerned that because… · I foresee… because…",
+   "Para inferir: Based on…, I infer that… · I infer that… based on… · My conjecture on… is… · I anticipate that…",
+   "Para justificar: I believe this because… · My primary reason for thinking so is… · Perhaps the most convincing reason for this is…",
+   "Para persuadir: Based on the evidence presented so far, I believe that… · Although some people claim that…, opponents argue that… · It is vital to consider… · The advantages of… outweigh the disadvantages of… insofar as… · The statistics are misleading because they do / do not show… · These facts / reasons / data strongly suggest that… Yet some argue…"
+  ],
+  "gramatica": [
+   "Presente simple y continuo",
+   "Pasado simple y continuo",
+   "Infinitivo de propósito: It's + adjetivo + infinitivo",
+   "Gerundios",
+   "Modales",
+   "Estilo indirecto"
+  ],
+  "pronunciacion": [
+   "Reconocer el énfasis en frases cortas: What I hear you say… · My group members are…"
+  ],
+  "discursivo": [
+   "Conectores para mostrar ventajas y desventajas."
+  ],
+  "sociolinguistico": [
+   "Habilidades para analizar, interpretar y relacionar.",
+   "Adaptabilidad a las diferentes formas de comunicar y aprender.",
+   "Aprendizaje a través de la interacción."
+  ],
+  "evaluacion_para": [
+   "Analizo la pertinencia y precisión de la información obtenida de fuentes bibliográficas y de mis compañeros.",
+   "Realizo ejercicios de familiarización, práctica y consolidación a partir de textos escritos y orales.",
+   "Confirmo la pertinencia y validez de las fuentes bibliográficas usadas.",
+   "Analizo la calidad de mi justificación sobre las ventajas y desventajas de la globalización en los productos de uso cotidiano.",
+   "Realizo borradores de texto escrito como parte del proceso de escritura.",
+   "Tomo notas para dar mi opinión sobre las acciones presentadas por mis compañeros.",
+   "Respeto las opiniones de los compañeros y la toma de turnos."
+  ],
+  "evaluacion_del": [
+   "Rúbrica de presentación oral.",
+   "Rúbrica de texto argumentativo.",
+   "Examen modular."
+  ]
+ },
+ {
+  "codigo": "ING-MALLA-11-M1",
+  "area": "ingles",
+  "grado": 11,
+  "modulo": 1,
+  "eje": "Sostenibilidad",
+  "tema": "Acciones de sostenibilidad (los 17 Objetivos de Desarrollo Sostenible de la ONU)",
+  "horas": "24",
+  "nivel_mcer": "B1.3",
+  "meta": "Proponer acciones de sostenibilidad a partir de los 17 objetivos propuestos por la ONU.",
+  "meta_en": "Propose sustainable actions based on the 17 UN Sustainable Development Goals.",
+  "ruta": "Proyecto: acciones de sostenibilidad para Colombia a partir de los 17 objetivos de la ONU.\n- Qué sabe: el docente recoge en el tablero lo que saben sobre los 17 objetivos y los temas que tocan. En pares o grupos llenan la tabla de lo que ya saben. Pueden hacer una lista de acciones de sostenibilidad, diseñar una encuesta para saber qué conocen y qué proponen amigos y profesores, o diseñar pósteres para divulgar las acciones más relevantes.\n- Qué quiere saber: planean el proyecto por etapas, identifican el vocabulario y las estructuras que necesitan y se reparten roles. El proyecto debe incluir escucha, lectura, habla y escritura.\n- Qué aprendió: presentan sus proyectos y eligen las mejores propuestas de acción. Luego cada uno escribe un texto argumentativo con su postura y recibe retroalimentación del profesor.\n- Proyectos sugeridos: un reporte oral de la investigación con las acciones posibles a partir de los 17 objetivos; presentaciones orales con gráficas, tablas y fotos.\n- Mientras trabajan, el docente anota los errores frecuentes y los repasa en talleres: modelar un reporte oral y el proceso de escritura de un texto argumentativo (lluvia de ideas, borrador y revisión).",
+  "estandares": [
+   "ING-EBC-B1.2-ES-01",
+   "ING-EBC-B1.2-ES-02",
+   "ING-EBC-B1.2-ES-05",
+   "ING-EBC-B1.2-ES-06",
+   "ING-EBC-B1.2-ES-07",
+   "ING-EBC-B1.2-LE-02",
+   "ING-EBC-B1.2-LE-03",
+   "ING-EBC-B1.2-LE-04",
+   "ING-EBC-B1.2-LE-05",
+   "ING-EBC-B1.2-LE-06",
+   "ING-EBC-B1.2-LE-10",
+   "ING-EBC-B1.2-ESC-01",
+   "ING-EBC-B1.2-ESC-02",
+   "ING-EBC-B1.2-ESC-03",
+   "ING-EBC-B1.2-ESC-05",
+   "ING-EBC-B1.2-ESC-09",
+   "ING-EBC-B1.2-MO-02",
+   "ING-EBC-B1.2-MO-03",
+   "ING-EBC-B1.2-MO-04",
+   "ING-EBC-B1.2-MO-05",
+   "ING-EBC-B1.2-MO-06",
+   "ING-EBC-B1.2-MO-07",
+   "ING-EBC-B1.2-CO-01",
+   "ING-EBC-B1.2-CO-02",
+   "ING-EBC-B1.2-CO-03",
+   "ING-EBC-B1.2-CO-07"
+  ],
+  "funciones": [
+   "Describir características de temas definidos.",
+   "Hacer exposiciones sobre temas asignados.",
+   "Justificar opiniones con base en citas y referencias.",
+   "Expresar opiniones y puntos de vista.",
+   "Solicitar aclaración."
+  ],
+  "objetivos": [
+   "Expresar puntos de vista propios en textos argumentativos sencillos escritos y orales sobre temas académicos.",
+   "Identificar información explícita e implícita en textos de diferente tipo sobre temas de interés general.",
+   "Estructurar textos de diferentes tipos relacionados con temas de interés general y personal.",
+   "Intercambiar información oral sobre temas de interés general y personal en debates."
+  ],
+  "saber_hacer": [
+   "Expresa en forma oral puntos de vista sobre temas de interés.",
+   "Sustenta puntos de vista en forma oral y escrita sobre temas de interés general, usando las expresiones y estructuras estudiadas.",
+   "Identifica las características y aspectos clave de un tema de interés general."
+  ],
+  "saber_ser": [
+   "Valora y respeta la opinión de los demás.",
+   "Asume una posición crítica ante temas académicos o sociales de interés.",
+   "Se interesa por el bien común."
+  ],
+  "saber": [
+   "Identifica información específica sobre un tema de interés en textos orales y escritos.",
+   "Define las causas y efectos de un tema de interés general.",
+   "Identifica estructuras básicas de los tiempos presente, pasado y futuro, simple y perfecto.",
+   "Diferencia las estructuras de los condicionales reales e irreales."
+  ],
+  "lexico": [
+   "Palabras de los 17 objetivos de la ONU:",
+   "Necesidades básicas: poverty, hunger, health, education",
+   "Equidad: equality, gender, inequality",
+   "Medio ambiente: environment, climate, oceans, seas, marine resources, ecosystems, water, energy, sanitation",
+   "Paz y justicia: justice, peaceful, inclusion, safety",
+   "Economía: employment, economy, industrialization"
+  ],
+  "expresiones": [
+   "Para pedir aclaración o ampliación: Would you please repeat? · Can I ask a question? · Sorry, I am not sure what you mean. · What I hear you saying is… Am I right?",
+   "De causa y efecto: Because of…, then… · In spite of…, it was… · Therefore, because of A, B happened.",
+   "Para proponer acciones: I suggest we… · If we did…, we could make the world a better place. · I propose… · Taking poverty into consideration, we could… · The point is to help change by improving health conditions."
+  ],
+  "gramatica": [
+   "Futuro simple y perfecto",
+   "Condicionales",
+   "Presente y pasado simple",
+   "Estilo indirecto",
+   "Conectores de causa y efecto"
+  ],
+  "pronunciacion": [
+   "Reconocer enlaces entre palabras (blendings): an opportunity → «anopportunity»",
+   "Reconocer el énfasis en frases cortas: Sorry, I'm not sure what you mean."
+  ],
+  "discursivo": [
+   "Relaciones lógicas de causa, efecto y contraste."
+  ],
+  "sociolinguistico": [
+   "Aprendizaje a través de la interacción.",
+   "Habilidades para analizar, interpretar y relacionar.",
+   "Respeto por otros.",
+   "Adaptabilidad a las diferentes formas de comunicar y aprender.",
+   "Curiosidad y descubrimiento."
+  ],
+  "evaluacion_para": [
+   "Realizo ejercicios de familiarización, práctica y consolidación a partir de textos escritos y orales.",
+   "Sigo etapas de escritura guiada y de preparación de textos orales: planeación, borrador y revisión.",
+   "Reflexiono sobre mi aprendizaje del tema y de la lengua.",
+   "Establezco relaciones armoniosas en las actividades de trabajo colaborativo."
+  ],
+  "evaluacion_del": [
+   "Rúbrica para evaluar las etapas y productos del proyecto y el trabajo en equipo.",
+   "Examen modular."
+  ]
+ },
+ {
+  "codigo": "ING-MALLA-11-M2",
+  "area": "ingles",
+  "grado": 11,
+  "modulo": 2,
+  "eje": "Salud",
+  "tema": "Servicios de salud",
+  "horas": "20–25",
+  "nivel_mcer": "B1.3",
+  "meta": "Plantear rutas para la obtención de servicios de salud en mi comunidad.",
+  "meta_en": "Propose routes for obtaining health services in my community.",
+  "ruta": "Problema (ruta por problemas, con trabajo autónomo): ¿cómo se consigue atención en salud en mi comunidad y cómo podría mejorar?\n- El docente explica que en este módulo los estudiantes trabajan de forma bastante autónoma: ellos toman las decisiones, incluido su plan de aprendizaje. El docente modela cómo presentar una ruta para obtener servicios de salud.\n- Cada grupo planea qué textos, fuentes, actividades y productos usará.\n- En grupos de 3 o 4:\n  - Indagan los problemas más comunes del servicio de salud en su comunidad y hacen una lista.\n  - Proponen alternativas de solución.\n  - Proponen rutas para obtener servicios de salud.\n  - Sustentan sus opiniones en una mesa redonda.\n  - Escriben un texto con sus conclusiones.",
+  "estandares": [
+   "ING-EBC-B1.2-ES-01",
+   "ING-EBC-B1.2-ES-02",
+   "ING-EBC-B1.2-ES-03",
+   "ING-EBC-B1.2-ES-05",
+   "ING-EBC-B1.2-ES-07",
+   "ING-EBC-B1.2-ES-10",
+   "ING-EBC-B1.2-LE-01",
+   "ING-EBC-B1.2-LE-02",
+   "ING-EBC-B1.2-LE-03",
+   "ING-EBC-B1.2-LE-06",
+   "ING-EBC-B1.2-LE-07",
+   "ING-EBC-B1.2-LE-08",
+   "ING-EBC-B1.2-LE-10",
+   "ING-EBC-B1.2-ESC-01",
+   "ING-EBC-B1.2-ESC-02",
+   "ING-EBC-B1.2-ESC-03",
+   "ING-EBC-B1.2-ESC-04",
+   "ING-EBC-B1.2-ESC-07",
+   "ING-EBC-B1.2-ESC-08",
+   "ING-EBC-B1.2-MO-01",
+   "ING-EBC-B1.2-MO-03",
+   "ING-EBC-B1.2-MO-04",
+   "ING-EBC-B1.2-MO-06",
+   "ING-EBC-B1.2-MO-07",
+   "ING-EBC-B1.2-CO-01",
+   "ING-EBC-B1.2-CO-02",
+   "ING-EBC-B1.2-CO-03",
+   "ING-EBC-B1.2-CO-04",
+   "ING-EBC-B1.2-CO-05",
+   "ING-EBC-B1.2-CO-07"
+  ],
+  "funciones": [
+   "Expresar opiniones sobre temas definidos.",
+   "Justificar puntos de vista.",
+   "Expresar acuerdos y desacuerdos.",
+   "Describir experiencias, eventos y sentimientos.",
+   "Establecer comparaciones entre temas definidos.",
+   "Dar información precisa."
+  ],
+  "objetivos": [
+   "Producir textos argumentativos orales y escritos sencillos sobre temas de otras disciplinas.",
+   "Identificar información específica en textos argumentativos escritos largos relacionados con temas de otras disciplinas.",
+   "Intercambiar, de manera oral, opiniones e ideas en interacciones espontáneas sobre temas de otras disciplinas."
+  ],
+  "saber_hacer": [
+   "Clasifica información de diferentes tipos de textos sobre servicios de salud a partir de categorías definidas y un formato provisto.",
+   "Elabora un texto escrito sencillo sobre los servicios de salud de la comunidad.",
+   "Expresa en forma oral puntos de vista sobre temas de interés."
+  ],
+  "saber_ser": [
+   "Respeta las opiniones de los demás.",
+   "Muestra interés por el bien común."
+  ],
+  "saber": [
+   "Identifica información específica sobre un tema de interés en textos orales y escritos.",
+   "Distingue puntos de vista y expresiones que indican ventaja y desventaja sobre un tema de interés.",
+   "Reconoce el vocabulario relacionado con servicios de salud, fuentes bibliográficas, comparaciones, etc."
+  ],
+  "lexico": [
+   "Servicios de salud: X-rays, doctor appointments, laboratory, dentist, women's health, pediatrics"
+  ],
+  "expresiones": [
+   "Para comparar: They both show / have… · The top one looks more… than the bottom one. · This system shows / has…, but the other system is… · It is quite difficult to compare them. · This one is not as… as the other one. · They're both quite similar… · Both of them have got… in them.",
+   "Para resumir información: In conclusion… · To sum up… · In short…",
+   "Para presentar ventajas y desventajas: On the other hand… · The good / bad thing is / are… · One advantage / disadvantage is…",
+   "Para citar fuentes: According to… · John Doe reported… · In a report posted in…",
+   "Para quejarse: I have a complaint to make. · Sorry to bother you, but… · I'm sorry to say this, but… · I'm afraid I've got a complaint about… · I'm afraid there is a problem with… · Excuse me, but there is a problem with… · I want to complain about… · I'm angry about…",
+   "Para responder a quejas de forma positiva: I'm so sorry, this will never happen again. · I'm sorry, we promise never to make that mistake again. · I'm really sorry; we'll do our utmost / best not to make the same mistake again.",
+   "Para responder a quejas de forma negativa: Sorry, there is nothing we can do about that. · I'm afraid there isn't much we can do about that."
+  ],
+  "gramatica": [
+   "Estilo indirecto",
+   "Presente, pasado y futuro simple",
+   "Presente y pasado continuo",
+   "Pasado perfecto"
+  ],
+  "pronunciacion": [
+   "Reconocer el énfasis en frases cortas: On the other hand…"
+  ],
+  "discursivo": [
+   "Relaciones secuenciales lógicas."
+  ],
+  "sociolinguistico": [
+   "Habilidades para analizar, interpretar y relacionar.",
+   "Respeto por otros.",
+   "Conocimiento del impacto de la cultura y de los contextos situacionales, sociales e históricos."
+  ],
+  "evaluacion_para": [
+   "Realizo ejercicios de familiarización, práctica y consolidación a partir de textos escritos y orales.",
+   "Monitoreo que se siga el plan establecido para resolver el problema.",
+   "Sigo etapas de escritura guiada y de preparación de textos orales (planeación, borrador y revisión) según el producto.",
+   "Reflexiono sobre mi aprendizaje del contenido y de la lengua.",
+   "Establezco relaciones armoniosas en las actividades de trabajo colaborativo."
+  ],
+  "evaluacion_del": [
+   "Rúbrica para evaluar las etapas y productos de la propuesta y el trabajo en equipo.",
+   "Examen modular."
+  ]
+ },
+ {
+  "codigo": "ING-MALLA-11-M3",
+  "area": "ingles",
+  "grado": 11,
+  "modulo": 3,
+  "eje": "Democracia y paz",
+  "tema": "Reconciliación",
+  "horas": "20–25",
+  "nivel_mcer": "B1.3",
+  "meta": "Evaluar acciones cotidianas de reconciliación para la construcción de paz.",
+  "meta_en": "Evaluate daily reconciliation actions for the construction of peace.",
+  "ruta": "Problema (ruta por problemas, con trabajo autónomo): ¿qué podemos hacer cada día para reconciliarnos?\n- El docente explica que trabajarán de forma bastante autónoma y abre con una actividad exploratoria que despierte la curiosidad sobre la reconciliación en la vida diaria. Luego cada pareja planea qué textos, fuentes, actividades y productos usará.\n- En parejas mixtas, eligen uno de estos problemas:\n  - Acciones cotidianas para la reconciliación en la familia.\n  - Alternativas de solución a conflictos en el colegio.\n  - Acciones cotidianas para la reconciliación en la comunidad.\n- Forma de trabajo:\n  - Indagar qué situaciones generan conflicto en la familia, el colegio o la comunidad.\n  - Presentar alternativas de solución.\n  - Analizar la información obtenida.\n  - Sustentar sus opiniones en un debate.",
+  "estandares": [
+   "ING-EBC-B1.2-ES-01",
+   "ING-EBC-B1.2-ES-02",
+   "ING-EBC-B1.2-ES-03",
+   "ING-EBC-B1.2-ES-05",
+   "ING-EBC-B1.2-ES-07",
+   "ING-EBC-B1.2-ES-09",
+   "ING-EBC-B1.2-LE-01",
+   "ING-EBC-B1.2-LE-03",
+   "ING-EBC-B1.2-LE-05",
+   "ING-EBC-B1.2-LE-06",
+   "ING-EBC-B1.2-LE-07",
+   "ING-EBC-B1.2-LE-08",
+   "ING-EBC-B1.2-LE-10",
+   "ING-EBC-B1.2-ESC-01",
+   "ING-EBC-B1.2-ESC-03",
+   "ING-EBC-B1.2-ESC-04",
+   "ING-EBC-B1.2-ESC-05",
+   "ING-EBC-B1.2-ESC-06",
+   "ING-EBC-B1.2-ESC-08",
+   "ING-EBC-B1.2-ESC-09",
+   "ING-EBC-B1.2-MO-01",
+   "ING-EBC-B1.2-MO-03",
+   "ING-EBC-B1.2-MO-04",
+   "ING-EBC-B1.2-MO-05",
+   "ING-EBC-B1.2-MO-08",
+   "ING-EBC-B1.2-CO-01",
+   "ING-EBC-B1.2-CO-02",
+   "ING-EBC-B1.2-CO-03",
+   "ING-EBC-B1.2-CO-06",
+   "ING-EBC-B1.2-CO-07"
+  ],
+  "funciones": [
+   "Expresar opiniones sobre temas definidos.",
+   "Justificar puntos de vista.",
+   "Expresar acuerdos y desacuerdos.",
+   "Describir experiencias, eventos y sentimientos.",
+   "Defender una propuesta con argumentos válidos."
+  ],
+  "objetivos": [
+   "Identificar puntos centrales e información específica en diferentes textos escritos y orales sobre temas de interés personal y académico.",
+   "Expresar puntos de vista sobre temas de interés personal y académico.",
+   "Intercambiar opiniones de manera oral sobre temas de interés personal y académico."
+  ],
+  "saber_hacer": [
+   "Expresa oralmente y de manera clara sus derechos como ciudadano.",
+   "Participa en una discusión preparada sobre su papel como gestor de cambio en la comunidad.",
+   "Evalúa en forma oral y escrita los canales de participación ciudadana existentes."
+  ],
+  "saber_ser": [
+   "Respeta las diferencias.",
+   "Muestra interés por el bien común.",
+   "Valora los puntos de vista de los demás."
+  ],
+  "saber": [
+   "Identifica información relevante en un texto de interés general.",
+   "Reconoce los mecanismos de participación ciudadana.",
+   "Distingue expresiones relacionadas con valores sociales.",
+   "Diferencia las estructuras de los condicionales reales e irreales."
+  ],
+  "lexico": [
+   "Valores sociales:",
+   "peace, cooperation, collaboration, love, honesty",
+   "equality, dignity, sacrifice, acceptance",
+   "integration, unity, humanitarianism, inclusion",
+   "forgiveness, absolution, reconciliation, amnesty, clemency",
+   "Participación ciudadana: election, vote for, democracy, opinions, civil protection, human rights"
+  ],
+  "expresiones": [
+   "Para presentar un tema: Today, we would like to discuss… · On today's agenda, we want to express… · The major theme today is…",
+   "Para defender un punto de vista y opiniones: My opinion / view is that… · I hold the opinion that… · I have the feeling that… · I would say that…",
+   "Para sintetizar fuentes: Also, according to… and…, the idea is…",
+   "Para expresar semejanzas y diferencias entre fuentes: Holmes and Watson agree that… · Differing viewpoints demonstrate that…"
+  ],
+  "gramatica": [
+   "Tercer condicional",
+   "Adverbios e intensificadores"
+  ],
+  "pronunciacion": [
+   "Reconocer el énfasis en frases cortas: What I hear you say… · My group members are…"
+  ],
+  "discursivo": [
+   "Conectores lógicos y ordinales."
+  ],
+  "sociolinguistico": [
+   "Aprendizaje a través de la interacción.",
+   "Habilidades para analizar, interpretar y relacionar.",
+   "Habilidad de escuchar y observar.",
+   "Respeto por otros.",
+   "Conocimiento del impacto de la cultura y de los contextos situacionales, sociales e históricos."
+  ],
+  "evaluacion_para": [
+   "Realizo ejercicios de familiarización, práctica y consolidación a partir de textos escritos y orales.",
+   "Monitoreo que sigo el plan establecido para el proyecto.",
+   "Incorporo la retroalimentación recibida en cada etapa de preparación de los textos orales y escritos para el debate.",
+   "Autoevalúo los nuevos recursos lingüísticos y discursivos que tengo a partir de las actividades realizadas.",
+   "Autoevalúo las actividades de trabajo colaborativo."
+  ],
+  "evaluacion_del": [
+   "Rúbrica para evaluar las etapas y productos del proyecto y el trabajo en equipo.",
+   "Examen modular."
+  ]
+ },
+ {
+  "codigo": "ING-MALLA-11-M4",
+  "area": "ingles",
+  "grado": 11,
+  "modulo": 4,
+  "eje": "Globalización",
+  "tema": "La tecnología y la privacidad",
+  "horas": "20–25",
+  "nivel_mcer": "B1.3",
+  "meta": "Promover el uso responsable de la tecnología para la protección de la privacidad.",
+  "meta_en": "Promote the responsible use of technology to protect privacy.",
+  "ruta": "Problema (ruta por problemas, trabajo individual y autónomo): ¿cómo proteger la privacidad en las redes?\n- El docente explica que trabajarán de forma bastante autónoma y abre con una lección exploratoria: presenta situaciones cotidianas de uso responsable de la tecnología. Luego cada estudiante planea qué textos, fuentes, actividades y productos usará.\n- Individualmente, cada estudiante elige uno de estos problemas:\n  - ¿Cómo evitar el matoneo cibernético (*cyberbullying*)?\n  - ¿Qué acciones propondría para evitar la invasión de la privacidad en las redes sociales?\n  - ¿Qué alternativas son más viables para evitar que circulen tan fácilmente videos de riñas, discusiones o burlas que irrespetan la privacidad de quienes aparecen en ellos?\n- Forma de trabajo:\n  - Indagar el problema y listar sus causas.\n  - Analizar la información.\n  - Proponer acciones de uso responsable.\n  - Escribir alternativas de solución siguiendo las etapas de escritura.\n  - Entregar un ensayo final.",
+  "estandares": [
+   "ING-EBC-B1.2-ES-03",
+   "ING-EBC-B1.2-ES-05",
+   "ING-EBC-B1.2-ES-06",
+   "ING-EBC-B1.2-ES-07",
+   "ING-EBC-B1.2-ES-08",
+   "ING-EBC-B1.2-ES-09",
+   "ING-EBC-B1.2-LE-01",
+   "ING-EBC-B1.2-LE-02",
+   "ING-EBC-B1.2-LE-05",
+   "ING-EBC-B1.2-LE-10",
+   "ING-EBC-B1.2-ESC-01",
+   "ING-EBC-B1.2-ESC-02",
+   "ING-EBC-B1.2-ESC-06",
+   "ING-EBC-B1.2-ESC-08",
+   "ING-EBC-B1.2-ESC-09",
+   "ING-EBC-B1.2-MO-02",
+   "ING-EBC-B1.2-MO-03",
+   "ING-EBC-B1.2-MO-05",
+   "ING-EBC-B1.2-MO-06",
+   "ING-EBC-B1.2-CO-01",
+   "ING-EBC-B1.2-CO-02",
+   "ING-EBC-B1.2-CO-03",
+   "ING-EBC-B1.2-CO-06"
+  ],
+  "funciones": [
+   "Expresar opiniones.",
+   "Justificar puntos de vista.",
+   "Expresar acuerdos y desacuerdos.",
+   "Describir experiencias, eventos y sentimientos."
+  ],
+  "objetivos": [
+   "Identificar información explícita e implícita en textos argumentativos relacionados con temas académicos.",
+   "Estructurar textos escritos argumentativos de mediana longitud sobre temas académicos.",
+   "Intercambiar información de manera oral sobre un tema de interés general.",
+   "Sustentar oralmente puntos de vista personales sobre un tema académico establecido."
+  ],
+  "saber_hacer": [
+   "Clasifica información clave de diferentes fuentes sobre temas de interés general.",
+   "Propone en forma oral y escrita estrategias que contribuyan al respeto de la privacidad en el uso de la tecnología.",
+   "Elabora un texto expositivo escrito sobre temas de interés general."
+  ],
+  "saber_ser": [
+   "Se interesa por las normas de cortesía.",
+   "Tolera las diferencias.",
+   "Respeta los turnos establecidos."
+  ],
+  "saber": [
+   "Identifica información esencial en un texto oral o escrito.",
+   "Define las causas y efectos en un tema de interés general.",
+   "Reconoce expresiones relacionadas con redes sociales, medios de comunicación masiva, normas de netiqueta, etc.",
+   "Diferencia las estructuras de los condicionales reales e irreales."
+  ],
+  "lexico": [
+   "Redes sociales: Twitter, Facebook, YouTube, Google+, Badoo, LinkedIn, Reddit, Instagram"
+  ],
+  "expresiones": [
+   "Normas de netiqueta: Remember the human. · Adhere to the same standards of behavior online that you follow in real life. · Know where you are in cyberspace. · Respect other people's time and bandwidth. · Make yourself look good online. · Share expert knowledge. · Respect other people's privacy. · Do not abuse your power. · Be forgiving of other people's mistakes.",
+   "Para opinar: I think that… · I consider… · I agree… · I disagree… · Bearing in mind… · I believe… · In my opinion, that one would be better. · If you ask me, this one is better. · I think this one is fine. · I'm not so sure about that…"
+  ],
+  "gramatica": [
+   "Tercer condicional"
+  ],
+  "pronunciacion": [
+   "Reconocer el énfasis en frases cortas: Let us talk privacy."
+  ],
+  "discursivo": [
+   "Conectores lógicos y de secuencia."
+  ],
+  "sociolinguistico": [
+   "Reflexión autocrítica.",
+   "Adaptabilidad a las diferentes formas de comunicar y aprender.",
+   "Curiosidad y descubrimiento."
+  ],
+  "evaluacion_para": [
+   "Realizo ejercicios de familiarización, práctica y consolidación a partir de textos escritos y orales.",
+   "Incorporo la retroalimentación de mis compañeros y docentes sobre los borradores de mi ensayo.",
+   "Reflexiono sobre la importancia de ser responsable en el uso de la tecnología para proteger la privacidad.",
+   "Autoevalúo mi conocimiento del contenido y mi desarrollo de la lengua."
+  ],
+  "evaluacion_del": [
+   "Rúbrica para evaluar las etapas y productos del proyecto, con autoevaluación.",
+   "Rúbrica para el ensayo.",
+   "Examen modular."
+  ]
+ }
+]
