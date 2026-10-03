@@ -2137,3 +2137,420 @@ Notas de transcripción (10.°):
 - Módulo 2: «Desordenes alimenticias» se corrigió a *desórdenes alimenticios*, «Parachute / Jetskis» a *parachuting / jet skis*, y «his pierced his ear» a *he pierced his ear*. El PDF evalúa una «campaña publicitaria» aunque el proyecto es una encuesta; se respetó en *saber hacer*.
 - Módulo 3: «hairdesser» se corrigió a *hairdresser*, «lose» a *loose*, «I think is that one's better» a *What I think is that one's better*, y «adjetives» a *adjetivo*.
 - Módulo 4: «Outsoource» se corrigió a *outsource*. La meta en inglés «in the use of everyday products» se simplificó a *in everyday products*.
+
+## Grado 11°
+
+Nivel MCER: B1.3 (así lo llama el esquema; los estándares son los de B1.2) · 4 módulos · Fuente: MEN, *Esquema Curricular Sugerido de Inglés 6° a 11°* (2016), pp. 82–89 (mallas) y 111–114 (rutas).
+
+### Módulo 1
+Eje: Sostenibilidad
+Tema: Acciones de sostenibilidad (los 17 Objetivos de Desarrollo Sostenible de la ONU)
+Tiempo: 24 horas
+Nivel MCER: B1.3
+
+#### Contexto (adaptable)
+
+Meta: Proponer acciones de sostenibilidad a partir de los 17 objetivos propuestos por la ONU.
+Meta (inglés): Propose sustainable actions based on the 17 UN Sustainable Development Goals.
+
+Saber ser:
+- Valora y respeta la opinión de los demás.
+- Asume una posición crítica ante temas académicos o sociales de interés.
+- Se interesa por el bien común.
+
+Proyecto: acciones de sostenibilidad para Colombia a partir de los 17 objetivos de la ONU.
+- Qué sabe: el docente recoge en el tablero lo que saben sobre los 17 objetivos y los temas que tocan. En pares o grupos llenan la tabla de lo que ya saben. Pueden hacer una lista de acciones de sostenibilidad, diseñar una encuesta para saber qué conocen y qué proponen amigos y profesores, o diseñar pósteres para divulgar las acciones más relevantes.
+- Qué quiere saber: planean el proyecto por etapas, identifican el vocabulario y las estructuras que necesitan y se reparten roles. El proyecto debe incluir escucha, lectura, habla y escritura.
+- Qué aprendió: presentan sus proyectos y eligen las mejores propuestas de acción. Luego cada uno escribe un texto argumentativo con su postura y recibe retroalimentación del profesor.
+- Proyectos sugeridos: un reporte oral de la investigación con las acciones posibles a partir de los 17 objetivos; presentaciones orales con gráficas, tablas y fotos.
+- Mientras trabajan, el docente anota los errores frecuentes y los repasa en talleres: modelar un reporte oral y el proceso de escritura de un texto argumentativo (lluvia de ideas, borrador y revisión).
+
+#### Núcleo de lengua
+
+Funciones de lengua:
+- Describir características de temas definidos.
+- Hacer exposiciones sobre temas asignados.
+- Justificar opiniones con base en citas y referencias.
+- Expresar opiniones y puntos de vista.
+- Solicitar aclaración.
+
+Objetivos:
+- Expresar puntos de vista propios en textos argumentativos sencillos escritos y orales sobre temas académicos.
+- Identificar información explícita e implícita en textos de diferente tipo sobre temas de interés general.
+- Estructurar textos de diferentes tipos relacionados con temas de interés general y personal.
+- Intercambiar información oral sobre temas de interés general y personal en debates.
+
+Estándares (Guía 22, nivel B1.2, pp. 26–27):
+
+| Habilidad | Estándares |
+|---|---|
+| Escucha | 1, 2, 5, 6, 7 |
+| Lectura | 2, 3, 4, 5, 6, 10 |
+| Escritura | 1, 2, 3, 5, 9 |
+| Monólogo | 2, 3, 4, 5, 6, 7 |
+| Conversación | 1, 2, 3, 7 |
+
+Saber:
+- Identifica información específica sobre un tema de interés en textos orales y escritos.
+- Define las causas y efectos de un tema de interés general.
+- Identifica estructuras básicas de los tiempos presente, pasado y futuro, simple y perfecto.
+- Diferencia las estructuras de los condicionales reales e irreales.
+
+Saber hacer:
+- Expresa en forma oral puntos de vista sobre temas de interés.
+- Sustenta puntos de vista en forma oral y escrita sobre temas de interés general, usando las expresiones y estructuras estudiadas.
+- Identifica las características y aspectos clave de un tema de interés general.
+
+Léxico:
+- Palabras de los 17 objetivos de la ONU:
+  - Necesidades básicas: poverty, hunger, health, education
+  - Equidad: equality, gender, inequality
+  - Medio ambiente: environment, climate, oceans, seas, marine resources, ecosystems, water, energy, sanitation
+  - Paz y justicia: justice, peaceful, inclusion, safety
+  - Economía: employment, economy, industrialization
+
+Expresiones:
+- Para pedir aclaración o ampliación: Would you please repeat? · Can I ask a question? · Sorry, I am not sure what you mean. · What I hear you saying is… Am I right?
+- De causa y efecto: Because of…, then… · In spite of…, it was… · Therefore, because of A, B happened.
+- Para proponer acciones: I suggest we… · If we did…, we could make the world a better place. · I propose… · Taking poverty into consideration, we could… · The point is to help change by improving health conditions.
+
+Gramática:
+- Futuro simple y perfecto
+- Condicionales
+- Presente y pasado simple
+- Estilo indirecto
+- Conectores de causa y efecto
+
+Pronunciación:
+- Reconocer enlaces entre palabras (blendings): an opportunity → «anopportunity»
+- Reconocer el énfasis en frases cortas: Sorry, I'm not sure what you mean.
+
+Discursivo:
+- Relaciones lógicas de causa, efecto y contraste.
+
+Sociolingüístico / intercultural:
+- Aprendizaje a través de la interacción.
+- Habilidades para analizar, interpretar y relacionar.
+- Respeto por otros.
+- Adaptabilidad a las diferentes formas de comunicar y aprender.
+- Curiosidad y descubrimiento.
+
+Evaluación para el aprendizaje:
+- Realizo ejercicios de familiarización, práctica y consolidación a partir de textos escritos y orales.
+- Sigo etapas de escritura guiada y de preparación de textos orales: planeación, borrador y revisión.
+- Reflexiono sobre mi aprendizaje del tema y de la lengua.
+- Establezco relaciones armoniosas en las actividades de trabajo colaborativo.
+
+Evaluación del aprendizaje:
+- Rúbrica para evaluar las etapas y productos del proyecto y el trabajo en equipo.
+- Examen modular.
+
+### Módulo 2
+Eje: Salud
+Tema: Servicios de salud
+Tiempo: 20–25 horas
+Nivel MCER: B1.3
+
+#### Contexto (adaptable)
+
+Meta: Plantear rutas para la obtención de servicios de salud en mi comunidad.
+Meta (inglés): Propose routes for obtaining health services in my community.
+
+Saber ser:
+- Respeta las opiniones de los demás.
+- Muestra interés por el bien común.
+
+Problema (ruta por problemas, con trabajo autónomo): ¿cómo se consigue atención en salud en mi comunidad y cómo podría mejorar?
+- El docente explica que en este módulo los estudiantes trabajan de forma bastante autónoma: ellos toman las decisiones, incluido su plan de aprendizaje. El docente modela cómo presentar una ruta para obtener servicios de salud.
+- Cada grupo planea qué textos, fuentes, actividades y productos usará.
+- En grupos de 3 o 4:
+  - Indagan los problemas más comunes del servicio de salud en su comunidad y hacen una lista.
+  - Proponen alternativas de solución.
+  - Proponen rutas para obtener servicios de salud.
+  - Sustentan sus opiniones en una mesa redonda.
+  - Escriben un texto con sus conclusiones.
+
+#### Núcleo de lengua
+
+Funciones de lengua:
+- Expresar opiniones sobre temas definidos.
+- Justificar puntos de vista.
+- Expresar acuerdos y desacuerdos.
+- Describir experiencias, eventos y sentimientos.
+- Establecer comparaciones entre temas definidos.
+- Dar información precisa.
+
+Objetivos:
+- Producir textos argumentativos orales y escritos sencillos sobre temas de otras disciplinas.
+- Identificar información específica en textos argumentativos escritos largos relacionados con temas de otras disciplinas.
+- Intercambiar, de manera oral, opiniones e ideas en interacciones espontáneas sobre temas de otras disciplinas.
+
+Estándares (Guía 22, nivel B1.2, pp. 26–27):
+
+| Habilidad | Estándares |
+|---|---|
+| Escucha | 1, 2, 3, 5, 7, 10 |
+| Lectura | 1, 2, 3, 6, 7, 8, 10 |
+| Escritura | 1, 2, 3, 4, 7, 8 |
+| Monólogo | 1, 3, 4, 6, 7 |
+| Conversación | 1, 2, 3, 4, 5, 7 |
+
+Saber:
+- Identifica información específica sobre un tema de interés en textos orales y escritos.
+- Distingue puntos de vista y expresiones que indican ventaja y desventaja sobre un tema de interés.
+- Reconoce el vocabulario relacionado con servicios de salud, fuentes bibliográficas, comparaciones, etc.
+
+Saber hacer:
+- Clasifica información de diferentes tipos de textos sobre servicios de salud a partir de categorías definidas y un formato provisto.
+- Elabora un texto escrito sencillo sobre los servicios de salud de la comunidad.
+- Expresa en forma oral puntos de vista sobre temas de interés.
+
+Léxico:
+- Servicios de salud: X-rays, doctor appointments, laboratory, dentist, women's health, pediatrics
+
+Expresiones:
+- Para comparar: They both show / have… · The top one looks more… than the bottom one. · This system shows / has…, but the other system is… · It is quite difficult to compare them. · This one is not as… as the other one. · They're both quite similar… · Both of them have got… in them.
+- Para resumir información: In conclusion… · To sum up… · In short…
+- Para presentar ventajas y desventajas: On the other hand… · The good / bad thing is / are… · One advantage / disadvantage is…
+- Para citar fuentes: According to… · John Doe reported… · In a report posted in…
+- Para quejarse: I have a complaint to make. · Sorry to bother you, but… · I'm sorry to say this, but… · I'm afraid I've got a complaint about… · I'm afraid there is a problem with… · Excuse me, but there is a problem with… · I want to complain about… · I'm angry about…
+- Para responder a quejas de forma positiva: I'm so sorry, this will never happen again. · I'm sorry, we promise never to make that mistake again. · I'm really sorry; we'll do our utmost / best not to make the same mistake again.
+- Para responder a quejas de forma negativa: Sorry, there is nothing we can do about that. · I'm afraid there isn't much we can do about that.
+
+Gramática:
+- Estilo indirecto
+- Presente, pasado y futuro simple
+- Presente y pasado continuo
+- Pasado perfecto
+
+Pronunciación:
+- Reconocer el énfasis en frases cortas: On the other hand…
+
+Discursivo:
+- Relaciones secuenciales lógicas.
+
+Sociolingüístico / intercultural:
+- Habilidades para analizar, interpretar y relacionar.
+- Respeto por otros.
+- Conocimiento del impacto de la cultura y de los contextos situacionales, sociales e históricos.
+
+Evaluación para el aprendizaje:
+- Realizo ejercicios de familiarización, práctica y consolidación a partir de textos escritos y orales.
+- Monitoreo que se siga el plan establecido para resolver el problema.
+- Sigo etapas de escritura guiada y de preparación de textos orales (planeación, borrador y revisión) según el producto.
+- Reflexiono sobre mi aprendizaje del contenido y de la lengua.
+- Establezco relaciones armoniosas en las actividades de trabajo colaborativo.
+
+Evaluación del aprendizaje:
+- Rúbrica para evaluar las etapas y productos de la propuesta y el trabajo en equipo.
+- Examen modular.
+
+### Módulo 3
+Eje: Democracia y paz
+Tema: Reconciliación
+Tiempo: 20–25 horas
+Nivel MCER: B1.3
+
+#### Contexto (adaptable)
+
+Meta: Evaluar acciones cotidianas de reconciliación para la construcción de paz.
+Meta (inglés): Evaluate daily reconciliation actions for the construction of peace.
+
+Saber ser:
+- Respeta las diferencias.
+- Muestra interés por el bien común.
+- Valora los puntos de vista de los demás.
+
+Problema (ruta por problemas, con trabajo autónomo): ¿qué podemos hacer cada día para reconciliarnos?
+- El docente explica que trabajarán de forma bastante autónoma y abre con una actividad exploratoria que despierte la curiosidad sobre la reconciliación en la vida diaria. Luego cada pareja planea qué textos, fuentes, actividades y productos usará.
+- En parejas mixtas, eligen uno de estos problemas:
+  - Acciones cotidianas para la reconciliación en la familia.
+  - Alternativas de solución a conflictos en el colegio.
+  - Acciones cotidianas para la reconciliación en la comunidad.
+- Forma de trabajo:
+  - Indagar qué situaciones generan conflicto en la familia, el colegio o la comunidad.
+  - Presentar alternativas de solución.
+  - Analizar la información obtenida.
+  - Sustentar sus opiniones en un debate.
+
+#### Núcleo de lengua
+
+Funciones de lengua:
+- Expresar opiniones sobre temas definidos.
+- Justificar puntos de vista.
+- Expresar acuerdos y desacuerdos.
+- Describir experiencias, eventos y sentimientos.
+- Defender una propuesta con argumentos válidos.
+
+Objetivos:
+- Identificar puntos centrales e información específica en diferentes textos escritos y orales sobre temas de interés personal y académico.
+- Expresar puntos de vista sobre temas de interés personal y académico.
+- Intercambiar opiniones de manera oral sobre temas de interés personal y académico.
+
+Estándares (Guía 22, nivel B1.2, pp. 26–27):
+
+| Habilidad | Estándares |
+|---|---|
+| Escucha | 1, 2, 3, 5, 7, 9 |
+| Lectura | 1, 3, 5, 6, 7, 8, 10 |
+| Escritura | 1, 3, 4, 5, 6, 8, 9 |
+| Monólogo | 1, 3, 4, 5, 8 |
+| Conversación | 1, 2, 3, 6, 7 |
+
+Saber:
+- Identifica información relevante en un texto de interés general.
+- Reconoce los mecanismos de participación ciudadana.
+- Distingue expresiones relacionadas con valores sociales.
+- Diferencia las estructuras de los condicionales reales e irreales.
+
+Saber hacer:
+- Expresa oralmente y de manera clara sus derechos como ciudadano.
+- Participa en una discusión preparada sobre su papel como gestor de cambio en la comunidad.
+- Evalúa en forma oral y escrita los canales de participación ciudadana existentes.
+
+Léxico:
+- Valores sociales:
+  - peace, cooperation, collaboration, love, honesty
+  - equality, dignity, sacrifice, acceptance
+  - integration, unity, humanitarianism, inclusion
+  - forgiveness, absolution, reconciliation, amnesty, clemency
+- Participación ciudadana: election, vote for, democracy, opinions, civil protection, human rights
+
+Expresiones:
+- Para presentar un tema: Today, we would like to discuss… · On today's agenda, we want to express… · The major theme today is…
+- Para defender un punto de vista y opiniones: My opinion / view is that… · I hold the opinion that… · I have the feeling that… · I would say that…
+- Para sintetizar fuentes: Also, according to… and…, the idea is…
+- Para expresar semejanzas y diferencias entre fuentes: Holmes and Watson agree that… · Differing viewpoints demonstrate that…
+
+Gramática:
+- Tercer condicional
+- Adverbios e intensificadores
+
+Pronunciación:
+- Reconocer el énfasis en frases cortas: What I hear you say… · My group members are…
+
+Discursivo:
+- Conectores lógicos y ordinales.
+
+Sociolingüístico / intercultural:
+- Aprendizaje a través de la interacción.
+- Habilidades para analizar, interpretar y relacionar.
+- Habilidad de escuchar y observar.
+- Respeto por otros.
+- Conocimiento del impacto de la cultura y de los contextos situacionales, sociales e históricos.
+
+Evaluación para el aprendizaje:
+- Realizo ejercicios de familiarización, práctica y consolidación a partir de textos escritos y orales.
+- Monitoreo que sigo el plan establecido para el proyecto.
+- Incorporo la retroalimentación recibida en cada etapa de preparación de los textos orales y escritos para el debate.
+- Autoevalúo los nuevos recursos lingüísticos y discursivos que tengo a partir de las actividades realizadas.
+- Autoevalúo las actividades de trabajo colaborativo.
+
+Evaluación del aprendizaje:
+- Rúbrica para evaluar las etapas y productos del proyecto y el trabajo en equipo.
+- Examen modular.
+
+### Módulo 4
+Eje: Globalización
+Tema: La tecnología y la privacidad
+Tiempo: 20–25 horas
+Nivel MCER: B1.3
+
+#### Contexto (adaptable)
+
+Meta: Promover el uso responsable de la tecnología para la protección de la privacidad.
+Meta (inglés): Promote the responsible use of technology to protect privacy.
+
+Saber ser:
+- Se interesa por las normas de cortesía.
+- Tolera las diferencias.
+- Respeta los turnos establecidos.
+
+Problema (ruta por problemas, trabajo individual y autónomo): ¿cómo proteger la privacidad en las redes?
+- El docente explica que trabajarán de forma bastante autónoma y abre con una lección exploratoria: presenta situaciones cotidianas de uso responsable de la tecnología. Luego cada estudiante planea qué textos, fuentes, actividades y productos usará.
+- Individualmente, cada estudiante elige uno de estos problemas:
+  - ¿Cómo evitar el matoneo cibernético (*cyberbullying*)?
+  - ¿Qué acciones propondría para evitar la invasión de la privacidad en las redes sociales?
+  - ¿Qué alternativas son más viables para evitar que circulen tan fácilmente videos de riñas, discusiones o burlas que irrespetan la privacidad de quienes aparecen en ellos?
+- Forma de trabajo:
+  - Indagar el problema y listar sus causas.
+  - Analizar la información.
+  - Proponer acciones de uso responsable.
+  - Escribir alternativas de solución siguiendo las etapas de escritura.
+  - Entregar un ensayo final.
+
+#### Núcleo de lengua
+
+Funciones de lengua:
+- Expresar opiniones.
+- Justificar puntos de vista.
+- Expresar acuerdos y desacuerdos.
+- Describir experiencias, eventos y sentimientos.
+
+Objetivos:
+- Identificar información explícita e implícita en textos argumentativos relacionados con temas académicos.
+- Estructurar textos escritos argumentativos de mediana longitud sobre temas académicos.
+- Intercambiar información de manera oral sobre un tema de interés general.
+- Sustentar oralmente puntos de vista personales sobre un tema académico establecido.
+
+Estándares (Guía 22, nivel B1.2, pp. 26–27):
+
+| Habilidad | Estándares |
+|---|---|
+| Escucha | 3, 5, 6, 7, 8, 9 |
+| Lectura | 1, 2, 5, 10 |
+| Escritura | 1, 2, 6, 8, 9 |
+| Monólogo | 2, 3, 5, 6 |
+| Conversación | 1, 2, 3, 6 |
+
+Saber:
+- Identifica información esencial en un texto oral o escrito.
+- Define las causas y efectos en un tema de interés general.
+- Reconoce expresiones relacionadas con redes sociales, medios de comunicación masiva, normas de netiqueta, etc.
+- Diferencia las estructuras de los condicionales reales e irreales.
+
+Saber hacer:
+- Clasifica información clave de diferentes fuentes sobre temas de interés general.
+- Propone en forma oral y escrita estrategias que contribuyan al respeto de la privacidad en el uso de la tecnología.
+- Elabora un texto expositivo escrito sobre temas de interés general.
+
+Léxico:
+- Redes sociales: Twitter, Facebook, YouTube, Google+, Badoo, LinkedIn, Reddit, Instagram
+
+Expresiones:
+- Normas de netiqueta: Remember the human. · Adhere to the same standards of behavior online that you follow in real life. · Know where you are in cyberspace. · Respect other people's time and bandwidth. · Make yourself look good online. · Share expert knowledge. · Respect other people's privacy. · Do not abuse your power. · Be forgiving of other people's mistakes.
+- Para opinar: I think that… · I consider… · I agree… · I disagree… · Bearing in mind… · I believe… · In my opinion, that one would be better. · If you ask me, this one is better. · I think this one is fine. · I'm not so sure about that…
+
+Gramática:
+- Tercer condicional
+
+Pronunciación:
+- Reconocer el énfasis en frases cortas: Let us talk privacy.
+
+Discursivo:
+- Conectores lógicos y de secuencia.
+
+Sociolingüístico / intercultural:
+- Reflexión autocrítica.
+- Adaptabilidad a las diferentes formas de comunicar y aprender.
+- Curiosidad y descubrimiento.
+
+Evaluación para el aprendizaje:
+- Realizo ejercicios de familiarización, práctica y consolidación a partir de textos escritos y orales.
+- Incorporo la retroalimentación de mis compañeros y docentes sobre los borradores de mi ensayo.
+- Reflexiono sobre la importancia de ser responsable en el uso de la tecnología para proteger la privacidad.
+- Autoevalúo mi conocimiento del contenido y mi desarrollo de la lengua.
+
+Evaluación del aprendizaje:
+- Rúbrica para evaluar las etapas y productos del proyecto, con autoevaluación.
+- Rúbrica para el ensayo.
+- Examen modular.
+
+---
+
+Notas de transcripción (11.°):
+- **Nivel B1.3:** el esquema llama así a 11.°, pero la Guía 22 llega solo hasta B1.2, y todos los módulos de 11.° remiten a sus pp. 26-27. Se dejó «B1.3» como nombre del nivel del grado y los estándares se citan como B1.2.
+- **Módulo 1, nivel de los estándares:** el PDF dice «Nivel A2.1, pp. 20-21». Es el mismo encabezado copiado de 7.° que aparece en 9.° y 10.°. Se corrigió a B1.2, igual que el resto de 11.°.
+- Módulo 2: «Expresiones para quejar» se corrigió a *para quejarse*. En inglés, «a problem about» se corrigió a *a problem with* y «Pose routes» a *Propose routes*.
+- Módulo 3: «parar sintetizar» se corrigió a *para sintetizar*, y «conectores lógicos y ordénales» a *ordinales*. «En pares (ambos géneros)» se escribió *en parejas mixtas*.
+- Módulo 4, léxico: la lista de redes es de 2016 y Google+ cerró en 2019. Como el tema es adaptable, el docente puede actualizarla con las redes que usen hoy sus estudiantes (WhatsApp, TikTok, etc.).
