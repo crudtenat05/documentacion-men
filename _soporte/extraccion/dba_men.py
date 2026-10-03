@@ -179,9 +179,9 @@ def extraer(PDF, PRIMERA, ULTIMA, prefijo, area, VINETA='m', por_reinicio=False,
 
 
 def guardar(area, datos, cortes):
-    os.makedirs(f'datos/{area}', exist_ok=True)
-    with open(f'datos/{area}/dba.json', 'w', encoding='utf-8') as f:
+    os.makedirs(f'_soporte/datos/{area}', exist_ok=True)
+    with open(f'_soporte/datos/{area}/dba.json', 'w', encoding='utf-8') as f:
         json.dump(datos, f, ensure_ascii=False, indent=1)
-    with open(f'datos/{area}/dba_cortes_de_palabra.json', 'w', encoding='utf-8') as f:
+    with open(f'_soporte/datos/{area}/dba_cortes_de_palabra.json', 'w', encoding='utf-8') as f:
         json.dump(cortes, f, ensure_ascii=False, indent=1)
     print(len(datos), 'DBA;', sum(len(d['evidencias']) for d in datos), 'evidencias;', len(cortes), 'cortes')

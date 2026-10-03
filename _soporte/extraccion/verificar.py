@@ -87,9 +87,9 @@ def sha256(ruta):
 
 def textos(area):
     for archivo, tipo in [('estandares.json', 'Estándar'), ('dba.json', 'DBA')]:
-        if not os.path.exists(f'datos/{area}/{archivo}'):   # áreas con DBA extraídos y estándares pendientes
+        if not os.path.exists(f'_soporte/datos/{area}/{archivo}'):   # áreas con DBA extraídos y estándares pendientes
             continue
-        for d in json.load(open(f'datos/{area}/{archivo}', encoding='utf-8')):
+        for d in json.load(open(f'_soporte/datos/{area}/{archivo}', encoding='utf-8')):
             pdf = f"fuentes/men/{d['fuente']}"
             yield tipo, d['codigo'], d.get('texto') or d.get('enunciado'), pdf, d['pagina_pdf']
             for e in d.get('subprocesos', []):
@@ -109,7 +109,7 @@ def main(area):
             fuentes[pdf] = texto_pdf(pdf)
         filas.append({'tipo': tipo, 'codigo': cod, 'pagina_pdf': pag, 'fuente': pdf,
                       'literal': aparece(texto, fuentes[pdf]), 'completo': completo(texto, fuentes[pdf], inicios[pdf])})
-    ruta_manual = f'verificacion/{area}_confirmaciones_manuales.json'
+    ruta_manual = f'_soporte/verificacion/{area}_confirmaciones_manuales.json'
     manuales = {m['codigo']: m for m in json.load(open(ruta_manual, encoding='utf-8'))} if os.path.exists(ruta_manual) else {}
     for f in filas:
         if not f['completo'] and f['codigo'] in manuales:
@@ -125,8 +125,8 @@ def main(area):
                'completos_manual': sum(1 for f in filas if f.get('completo_por')),
                'pendientes': [f['codigo'] for f in no_literales + sin_frontera],
                'fuentes': {os.path.basename(p): sha256(p) for p in fuentes}}
-    os.makedirs('verificacion', exist_ok=True)
-    with open(f'verificacion/{area}.json', 'w', encoding='utf-8') as f:
+    os.makedirs('_soporte/verificacion', exist_ok=True)
+    with open(f'_soporte/verificacion/{area}.json', 'w', encoding='utf-8') as f:
         json.dump({'resumen': resumen, 'textos': filas}, f, ensure_ascii=False, indent=1)
 
     conteo = {}
@@ -149,7 +149,7 @@ def main(area):
     if resumen['pendientes']:
         L += ['## Pendientes', ''] + [f'- `{c}`' for c in resumen['pendientes']] + ['']
     L += ['## Método', '', (__doc__ or '').strip().split('\n\n    python3')[0]]
-    with open(f'verificacion/{area}.md', 'w', encoding='utf-8') as f:
+    with open(f'_soporte/verificacion/{area}.md', 'w', encoding='utf-8') as f:
         f.write('\n'.join(L) + '\n')
     print(f"{resumen['total']} textos; {resumen['literales']} literales; "
           f"{resumen['completos_automatico']} completos automático; {resumen['completos_manual']} manual; "

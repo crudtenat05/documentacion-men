@@ -106,7 +106,7 @@ for ct in datos['contenidos']:
     if not ct['texto'] or norm(ct['texto']) not in texto_columna(p, x0, x1): fallas.append((ct['pagina'], ct['categoria'], ct['texto'][:70]))
 if fallas:
     raise SystemExit(f'Textos que no aparecen literales en el PDF: {fallas}')
-json.dump(datos, open(os.environ.get('SALIDA','datos/icfes/matematicas/taxonomia.json'),'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+json.dump(datos, open(os.environ.get('SALIDA','_soporte/datos/icfes/matematicas/taxonomia.json'),'w', encoding='utf-8'), ensure_ascii=False, indent=1)
 print('competencias', len(datos['competencias']), 'evidencias', sum(len(a['evidencias']) for c in datos['competencias'] for a in c['afirmaciones']), 'contenidos', len(datos['contenidos']))
 print('FALLAS de verificación literal:', fallas)
 for c in datos['competencias']: print(c['codigo'], c['nombre'], c['porcentaje_preguntas'], '| desc:', c['descripcion'][:110])

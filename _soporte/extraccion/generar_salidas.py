@@ -18,11 +18,11 @@ NOMBRES = {'matematicas': 'Matemáticas', 'lenguaje': 'Lenguaje', 'naturales': '
 
 
 def main(area):
-    base = f'datos/{area}'
+    base = f'_soporte/datos/{area}'
     est = json.load(open(f'{base}/estandares.json', encoding='utf-8'))
     dba = json.load(open(f'{base}/dba.json', encoding='utf-8'))
 
-    os.makedirs('revision', exist_ok=True)
+    os.makedirs('_soporte/revision', exist_ok=True)
     wb = Workbook()
     ws = wb.active
     ws.title = 'Revisión'
@@ -61,7 +61,7 @@ def main(area):
     ]:
         ins.append([linea])
     ins.column_dimensions['A'].width = 130
-    wb.save(f'revision/{area}_planilla.xlsx')
+    wb.save(f'_soporte/revision/{area}_planilla.xlsx')
     print(len(est), 'estándares,', sum(len(e.get('subprocesos', [])) for e in est), 'subprocesos,', len(dba), 'DBA,', sum(len(d['evidencias']) for d in dba), 'evidencias → planilla')
 
 

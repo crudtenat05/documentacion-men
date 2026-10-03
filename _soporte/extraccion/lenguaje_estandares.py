@@ -114,9 +114,9 @@ def extraer():
 
 if __name__ == '__main__':
     datos, cortes = extraer()
-    os.makedirs('datos/lenguaje', exist_ok=True)
-    with open('datos/lenguaje/estandares.json', 'w', encoding='utf-8') as f:
+    os.makedirs('_soporte/datos/lenguaje', exist_ok=True)
+    with open('_soporte/datos/lenguaje/estandares.json', 'w', encoding='utf-8') as f:
         json.dump(datos, f, ensure_ascii=False, indent=1)
-    with open('datos/lenguaje/estandares_cortes_de_palabra.json', 'w', encoding='utf-8') as f:
+    with open('_soporte/datos/lenguaje/estandares_cortes_de_palabra.json', 'w', encoding='utf-8') as f:
         json.dump(cortes, f, ensure_ascii=False, indent=1)
     print(len(datos), 'estándares;', sum(len(d['subprocesos']) for d in datos), 'subprocesos;', len(cortes), 'cortes')

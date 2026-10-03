@@ -34,6 +34,6 @@ if __name__ == '__main__':
                 item[campo] = item[campo].replace(antes, despues)
                 aplicadas.append({'codigo': item['codigo'], 'antes': antes, 'despues': despues})
     guardar('ciencias_sociales', datos, cortes)
-    with open('datos/ciencias_sociales/correcciones_tipograficas.json', 'w', encoding='utf-8') as f:
+    with open('_soporte/datos/ciencias_sociales/correcciones_tipograficas.json', 'w', encoding='utf-8') as f:
         json.dump(aplicadas, f, ensure_ascii=False, indent=1)
     print(len(aplicadas), 'correcciones tipográficas')

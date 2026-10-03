@@ -37,6 +37,6 @@ if __name__ == '__main__':
     datos, cortes = extraer('fuentes/men/dba-naturales.pdf', 8, 38, 'CN', 'ciencias_naturales', VINETA='q', por_reinicio=True)
     aplicadas = corregir(datos, CORRECCIONES)
     guardar('ciencias_naturales', datos, cortes)
-    with open('datos/ciencias_naturales/correcciones_tipograficas.json', 'w', encoding='utf-8') as f:
+    with open('_soporte/datos/ciencias_naturales/correcciones_tipograficas.json', 'w', encoding='utf-8') as f:
         json.dump(aplicadas, f, ensure_ascii=False, indent=1)
     print(len(aplicadas), 'correcciones tipográficas')

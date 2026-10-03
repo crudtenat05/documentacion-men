@@ -78,10 +78,10 @@ def main():
     primaria, aplicadas = ingles_primaria_dba.main()
     dbas += primaria
     dbas.sort(key=lambda d: (d['grado'], d['numero']))
-    os.makedirs('datos/ingles', exist_ok=True)
-    json.dump(aplicadas, open('datos/ingles/correcciones_tipograficas.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
-    json.dump(dbas, open('datos/ingles/dba.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
-    json.dump(cortes, open('datos/ingles/dba_cortes_de_palabra.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+    os.makedirs('_soporte/datos/ingles', exist_ok=True)
+    json.dump(aplicadas, open('_soporte/datos/ingles/correcciones_tipograficas.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+    json.dump(dbas, open('_soporte/datos/ingles/dba.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+    json.dump(cortes, open('_soporte/datos/ingles/dba_cortes_de_palabra.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     print(len(dbas), 'DBA;', len(cortes), 'cortes')
 
 

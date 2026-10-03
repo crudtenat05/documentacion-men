@@ -15,7 +15,7 @@ NOMBRES = {'matematicas': 'Matemáticas'}
 
 
 def main(prueba):
-    base = f'datos/icfes/{prueba}'
+    base = f'_soporte/datos/icfes/{prueba}'
     d = json.load(open(f'{base}/taxonomia.json', encoding='utf-8'))
     doc = d['documento']
 
@@ -68,7 +68,7 @@ def main(prueba):
          '## Pendiente', '',
          '- **Niveles de desempeño de Matemáticas** (rangos de puntaje y descriptores). No están en esta guía: vienen en el documento «Niveles de desempeño · Prueba Matemáticas Saber 11°» del ICFES. '
          'Falta el PDF original para extraerlos y verificarlos. Hasta entonces, ValorativoWeb los carga desde una transcripción no verificada.']
-    open(f'verificacion/icfes_{prueba}.md', 'w', encoding='utf-8').write('\n'.join(R) + '\n')
+    open(f'_soporte/verificacion/icfes_{prueba}.md', 'w', encoding='utf-8').write('\n'.join(R) + '\n')
     print('ok', total, 'textos;', sha[:16])
 
 

@@ -11,7 +11,8 @@ import os
 
 AREAS = [('matematicas', 'Matematicas', 'Matemáticas'), ('lenguaje', 'Lenguaje', 'Lenguaje'),
          ('ciencias_naturales', 'Ciencias_Naturales', 'Ciencias Naturales'),
-         ('ciencias_sociales', 'Ciencias_Sociales', 'Ciencias Sociales'), ('ingles', 'Ingles', 'Inglés')]
+         ('ciencias_sociales', 'Ciencias_Sociales', 'Ciencias Sociales')]
+# Inglés no se publica desde aquí: DBA/Ingles.md es la transcripción curada (enunciado exacto, habilidades y ejemplo explicado)
 
 
 def grado(g):
@@ -19,7 +20,7 @@ def grado(g):
 
 
 def dba(area, archivo, nombre):
-    datos = json.load(open(f'datos/{area}/dba.json', encoding='utf-8'))
+    datos = json.load(open(f'_soporte/datos/{area}/dba.json', encoding='utf-8'))
     fuentes = ', '.join(dict.fromkeys(d['fuente'] for d in datos))
     L = [f'# Derechos Básicos de Aprendizaje · {nombre}', '',
          f'Fuente: MEN ({fuentes}). {len(datos)} DBA. Entre paréntesis, la página del PDF.', '']
@@ -38,7 +39,7 @@ def dba(area, archivo, nombre):
 
 
 def estandares(area, archivo, nombre):
-    ruta = f'datos/{area}/estandares.json'
+    ruta = f'_soporte/datos/{area}/estandares.json'
     if not os.path.exists(ruta):
         return 0
     datos = json.load(open(ruta, encoding='utf-8'))
@@ -63,7 +64,7 @@ def estandares(area, archivo, nombre):
 
 
 if __name__ == '__main__':
-    os.makedirs('DBA', exist_ok=True)
+    os.makedirs('DBA', exist_ok=True)  # se ejecuta desde la raíz del repositorio
     os.makedirs('ESTANDARES', exist_ok=True)
     for area, archivo, nombre in AREAS:
         print(f'{nombre}: {dba(area, archivo, nombre)} DBA, {estandares(area, archivo, nombre)} estándares')
