@@ -272,3 +272,70 @@ Nota: el *Esquema Curricular Sugerido* (2016) usa este nivel para **9.°** («Ni
 8. Demuestro que reconozco elementos de la cultura extranjera y los relaciono con mi cultura. *(pág. 25 · ING-EBC-B1.1-CO-08 · 3)*
 
 Nota: en Escucha 7, Lectura 8 y Conversación 4 y 5 el MEN no marcó competencia.
+
+## Grados 10.° a 11.° · Pre intermedio 2 (B1.2)
+
+Descripción del nivel: además de lo que logré en el nivel anterior, en este nivel participo en conversaciones en las que puedo explicar mis opiniones e ideas sobre temas generales, personales y abstractos. También puedo iniciar un tema de conversación y mantener la atención de mis interlocutores; cuando hablo, mi discurso es sencillo y coherente. Aunque mi acento es extranjero, mi pronunciación es clara y adecuada. Escribo textos que explican mis preferencias, decisiones y actuaciones. Con mi vocabulario trato temas generales, aunque recurro a estrategias para hablar de hechos y objetos cuyo nombre desconozco. Manejo aceptablemente normas lingüísticas, con algunas interferencias de mi lengua materna. Comprendo textos de diferentes tipos y fuentes sobre temas de interés general y académico. Selecciono y aplico estrategias de lectura apropiadas para el texto y la tarea. En interacciones con hablantes nativos de inglés reconozco elementos propios de su cultura y puedo explicarlos a mis compañeros.
+
+Nota: el *Esquema Curricular Sugerido* (2016) usa este nivel para **10.°** y **11.°** («Nivel MCER B1.2, Guía 22: pp. 26-27»).
+
+### Escucha
+
+1. Entiendo instrucciones para ejecutar acciones cotidianas. *(pág. 26 · ING-EBC-B1.2-ES-01 · 1, 2)*
+2. Identifico la idea principal de un texto oral cuando tengo conocimiento previo del tema. *(pág. 26 · ING-EBC-B1.2-ES-02 · 2)*
+3. Identifico conectores en una situación de habla para comprender su sentido. *(pág. 26 · ING-EBC-B1.2-ES-03 · 1, 2)*
+4. Identifico personas, situaciones, lugares y el tema en conversaciones sencillas. *(pág. 26 · ING-EBC-B1.2-ES-04 · 2, 3)*
+5. Identifico el propósito de un texto oral. *(pág. 26 · ING-EBC-B1.2-ES-05 · 2)*
+6. Muestro una actitud respetuosa y tolerante cuando escucho a otros. *(pág. 26 · ING-EBC-B1.2-ES-06)*
+7. Utilizo estrategias adecuadas al propósito y al tipo de texto (activación de conocimientos previos, apoyo en el lenguaje corporal y gestual, uso de imágenes) para comprender lo que escucho. *(pág. 26 · ING-EBC-B1.2-ES-07 · 2, 3)*
+8. Comprendo el sentido general del texto oral aunque no entienda todas sus palabras. *(pág. 26 · ING-EBC-B1.2-ES-08 · 1, 2, 3)*
+9. Me apoyo en el lenguaje corporal y gestual del hablante para comprender mejor lo que dice. *(pág. 26 · ING-EBC-B1.2-ES-09 · 3)*
+10. Utilizo las imágenes e información del contexto de habla para comprender mejor lo que escucho. *(pág. 26 · ING-EBC-B1.2-ES-10 · 3)*
+
+### Lectura
+
+1. Identifico palabras clave dentro del texto que me permiten comprender su sentido general. *(pág. 26 · ING-EBC-B1.2-LE-01 · 1, 2)*
+2. Identifico el punto de vista del autor. *(pág. 26 · ING-EBC-B1.2-LE-02 · 2)*
+3. Asumo una posición crítica frente al punto de vista del autor. *(pág. 26 · ING-EBC-B1.2-LE-03)*
+4. Identifico los valores de otras culturas y eso me permite construir mi interpretación de su identidad. *(pág. 26 · ING-EBC-B1.2-LE-04)*
+5. Valoro la lectura como un medio para adquirir información de diferentes disciplinas que amplían mi conocimiento. *(pág. 26 · ING-EBC-B1.2-LE-05)*
+6. Utilizo variedad de estrategias de comprensión de lectura adecuadas al propósito y al tipo de texto. *(pág. 26 · ING-EBC-B1.2-LE-06 · 2)*
+7. Analizo textos descriptivos, narrativos y argumentativos con el fin de comprender las ideas principales y específicas. *(pág. 26 · ING-EBC-B1.2-LE-07 · 2)*
+8. Hago inferencias a partir de la información en un texto. *(pág. 26 · ING-EBC-B1.2-LE-08 · 2)*
+9. En un texto identifico los elementos que me permiten apreciar los valores de la cultura angloparlante. *(pág. 26 · ING-EBC-B1.2-LE-09 · 2, 3)*
+10. Comprendo variedad de textos informativos provenientes de diferentes fuentes. *(pág. 26 · ING-EBC-B1.2-LE-10 · 2)*
+
+### Escritura
+
+1. Estructuro mis textos teniendo en cuenta elementos formales del lenguaje como la puntuación, la ortografía, la sintaxis, la coherencia y la cohesión. *(pág. 27 · ING-EBC-B1.2-ESC-01 · 1, 2)*
+2. Planeo, reviso y edito mis escritos con la ayuda de mis compañeros y del profesor. *(pág. 27 · ING-EBC-B1.2-ESC-02 · 1, 2)*
+3. Expreso valores de mi cultura a través de los textos que escribo. *(pág. 27 · ING-EBC-B1.2-ESC-03 · 2, 3)*
+4. Escribo diferentes tipos de textos de mediana longitud y con una estructura sencilla (cartas, notas, mensajes, correos electrónicos, etc.). *(pág. 27 · ING-EBC-B1.2-ESC-04 · 1, 2, 3)*
+5. Escribo resúmenes e informes que demuestran mi conocimiento sobre temas de otras disciplinas. *(pág. 27 · ING-EBC-B1.2-ESC-05 · 1, 2)*
+6. Escribo textos de diferentes tipos teniendo en cuenta a mi posible lector. *(pág. 27 · ING-EBC-B1.2-ESC-06 · 1, 2, 3)*
+7. Valoro la escritura como un medio de expresión de mis ideas y pensamientos, quién soy y qué sé del mundo. *(pág. 27 · ING-EBC-B1.2-ESC-07)*
+8. Escribo textos a través de los cuales explico mis preferencias, decisiones o actuaciones. *(pág. 27 · ING-EBC-B1.2-ESC-08 · 1, 2)*
+9. Escribo textos expositivos sobre temas de mi interés. *(pág. 27 · ING-EBC-B1.2-ESC-09 · 1, 2)*
+
+### Monólogo
+
+1. Narro en forma detallada experiencias, hechos o historias de mi interés y del interés de mi audiencia. *(pág. 27 · ING-EBC-B1.2-MO-01 · 1, 2)*
+2. Hago presentaciones orales sobre temas de mi interés y relacionados con el currículo escolar. *(pág. 27 · ING-EBC-B1.2-MO-02 · 2, 3)*
+3. Utilizo un vocabulario apropiado para expresar mis ideas con claridad sobre temas del currículo y de mi interés. *(pág. 27 · ING-EBC-B1.2-MO-03 · 1, 2)*
+4. Puedo expresarme con la seguridad y confianza propios de mi personalidad. *(pág. 27 · ING-EBC-B1.2-MO-04)*
+5. Utilizo elementos metalingüísticos como gestos y entonación para hacer más comprensible lo que digo. *(pág. 27 · ING-EBC-B1.2-MO-05 · 2, 3)*
+6. Sustento mis opiniones, planes y proyectos. *(pág. 27 · ING-EBC-B1.2-MO-06 · 2)*
+7. Uso estrategias como el parafraseo para compensar dificultades en la comunicación. *(pág. 27 · ING-EBC-B1.2-MO-07 · 2)*
+8. Opino sobre los estilos de vida de la gente de otras culturas, apoyándome en textos escritos y orales previamente estudiados. *(pág. 27 · ING-EBC-B1.2-MO-08 · 2, 3)*
+
+### Conversación
+
+1. Participo espontáneamente en conversaciones sobre temas de mi interés utilizando un lenguaje claro y sencillo. *(pág. 27 · ING-EBC-B1.2-CO-01 · 1, 2)*
+2. Respondo preguntas teniendo en cuenta a mi interlocutor y el contexto. *(pág. 27 · ING-EBC-B1.2-CO-02 · 1, 2)*
+3. Utilizo una pronunciación inteligible para lograr una comunicación efectiva. *(pág. 27 · ING-EBC-B1.2-CO-03 · 1, 3)*
+4. Uso mis conocimientos previos para participar en una conversación. *(pág. 27 · ING-EBC-B1.2-CO-04)*
+5. Describo en forma oral mis ambiciones, sueños y esperanzas utilizando un lenguaje claro y sencillo. *(pág. 27 · ING-EBC-B1.2-CO-05 · 1, 2)*
+6. Uso lenguaje funcional para discutir alternativas, hacer recomendaciones y negociar acuerdos en debates preparados con anterioridad. *(pág. 27 · ING-EBC-B1.2-CO-06 · 2)*
+7. Utilizo estrategias que me permiten iniciar, mantener y cerrar una conversación sencilla sobre temas de mi interés, de una forma natural. *(pág. 27 · ING-EBC-B1.2-CO-07 · 1, 2)*
+
+Nota: en Escucha 6, Lectura 3, 4 y 5, Escritura 7, Monólogo 4 y Conversación 4 el MEN no marcó competencia.

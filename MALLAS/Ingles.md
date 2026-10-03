@@ -1689,3 +1689,451 @@ Notas de transcripción (9.°):
 - Módulo 2: el léxico «Opuestas» mezclaba plurales irregulares (woman / women) con opuestos (fair / unfair). Se separaron.
 - Módulo 3: «Chikunguya» se corrigió a *chikungunya*.
 - Módulo 4: «palabras reducidos» se corrigió a *palabras reducidas*, y «conectores secuenciales y lógicas» a *lógicos*.
+
+## Grado 10°
+
+Nivel MCER: B1.2 · 4 módulos · Fuente: MEN, *Esquema Curricular Sugerido de Inglés 6° a 11°* (2016), pp. 74–81 (mallas) y 107–110 (rutas).
+
+### Módulo 1
+Eje: Democracia y paz
+Tema: Deberes
+Tiempo: 24–27 horas
+Nivel MCER: B1.2
+
+#### Contexto (adaptable)
+
+Meta: Impulsar el uso de prácticas éticas y de convivencia ciudadana en el entorno escolar (por ejemplo, respetar la fila y citar las fuentes, en lugar de colarse o plagiar).
+Meta (inglés): Promote ethical behaviors regarding citizenship and living together in school (e.g. respecting the line, sourcing references).
+
+Saber ser:
+- Valora y respeta la opinión de los demás.
+- Reconoce la importancia del lenguaje en la resolución de conflictos.
+- Aprecia los aportes culturales de su propia comunidad y de otras.
+- Asume una posición crítica ante temas académicos o sociales de su interés.
+
+Proyecto: campaña publicitaria sobre prácticas éticas y de convivencia en el colegio.
+- Qué sabe: el docente recoge en el tablero lo que saben sobre las prácticas éticas y de convivencia más comunes en su entorno. En grupos se ponen de acuerdo sobre el tema y deciden los pasos.
+- Qué quiere saber: planean el proyecto por etapas, identifican el vocabulario y las estructuras que necesitan y se reparten roles. La campaña debe incluir escucha, lectura, habla y escritura.
+- Rutas sugeridas:
+  - Grabar un video de compañeros haciendo estas prácticas de forma equivocada.
+  - Diseñar un póster con las normas básicas de convivencia en el aula.
+  - Hacer pósteres para los espacios del colegio (baños, cafetería, corredores, biblioteca, etc.).
+  - Dramatizar el impacto de estas prácticas.
+- Qué aprendió: presentan la campaña a la clase y a la comunidad educativa. Luego cada uno escribe una reflexión sobre la importancia de estas prácticas y recibe retroalimentación del profesor.
+- Mientras trabajan, el docente toma notas sobre el trabajo en equipo.
+
+#### Núcleo de lengua
+
+Funciones de lengua:
+- Describir actividades sociales locales.
+- Solicitar información sobre prácticas sociales y actividades.
+- Expresar acuerdos y desacuerdos.
+- Justificar puntos de vista.
+- Expresar condiciones.
+- Reportar las ideas presentadas sobre el punto de vista discutido.
+- Solicitar aclaración sobre información presentada por pares.
+- Sustentar opiniones con argumentos válidos.
+
+Objetivos:
+- Distinguir información central de textos orales relacionados con temas académicos de interés.
+- Identificar información general y específica en textos narrativos y descriptivos orales y escritos relacionados con temas académicos de interés.
+- Elaborar un texto escrito de recomendaciones sobre temas académicos de interés.
+- Hacer una exposición oral sobre temas académicos de interés.
+- Intercambiar opiniones en una mesa redonda sobre temas académicos de interés.
+
+Estándares (Guía 22, nivel B1.2, pp. 26–27):
+
+| Habilidad | Estándares |
+|---|---|
+| Escucha | 2, 5, 6, 7, 9 |
+| Lectura | 3, 6, 7, 10 |
+| Escritura | 1, 2, 6 |
+| Monólogo | 2, 3, 5, 6 |
+| Conversación | 2, 3, 4, 6 |
+
+Saber:
+- Reconoce información general y específica en textos narrativos y descriptivos orales y escritos relacionados con temas académicos de interés.
+- Distingue expresiones relacionadas con causa y efecto, síntesis, aclaración, etc.
+- Identifica estructuras básicas de los tiempos presente, pasado y futuro, simple y perfecto.
+- Diferencia las estructuras de los condicionales reales e irreales.
+
+Saber hacer:
+- Elabora un texto escrito de recomendaciones sobre temas académicos de interés.
+- Hace una exposición oral sobre temas académicos de interés.
+- Intercambia opiniones en una mesa redonda sobre temas académicos de interés.
+- Resume, con apoyo de los compañeros y usando estrategias de parafraseo, las causas y soluciones de un conflicto entre docentes y estudiantes.
+- Hace preguntas y pide aclaraciones, con pronunciación clara y entonación apropiada, en una encuesta a estudiantes y docentes sobre posibles conflictos escolares.
+
+Léxico:
+- Problemas escolares y su manejo: cheating, using electronic devices in class, plagiarism
+
+Expresiones:
+- Para solicitar aclaración: Could you expand a little bit on what you said about…? · Could you be more specific about…? · Something else I'd like to know is… · If I have understood you correctly, your point is that… · I didn't understand what you said about… · I'm sorry, could you repeat what you said about…? · Sorry, but I'm not quite clear about…
+- Para realizar una presentación oral: Today, we would like to present… · Good afternoon, our purpose today is… · My group members are… and I am…
+- De causa y efecto: Because of…, then… · In spite of…, it was… · Therefore, because of A, B happened.
+- Para resumir ideas: On the whole… · Basically he / she is saying that… · In this text, the author argues that… · To support the main claim, the author provides evidence that suggests that…
+
+Gramática:
+- Presente, pasado y futuro simple y perfecto
+- Condicionales
+- Modales
+- Estilo indirecto
+
+Pronunciación:
+- Entonación.
+- Acento y énfasis en palabras: I am shocked to see… · It is unbelievable… · Absolutely amazing!
+- Reconocer el énfasis en frases cortas: What I hear you say… · My group members are…
+
+Discursivo:
+- Relaciones de causa, consecuencia y contraste.
+- Marcadores orales.
+
+Sociolingüístico / intercultural:
+- Respeto por las diferencias culturales y por los contextos situacionales, sociales e históricos.
+- Aprendizaje a través de la interacción.
+
+Evaluación para el aprendizaje:
+- Analizo la pertinencia de las fuentes y la información consultadas.
+- Tomo notas para preparar la campaña.
+- Evalúo la validez de las recomendaciones que voy a presentar.
+- Evalúo la metodología de trabajo en grupo y mi papel dentro de él.
+- Elaboro borradores de texto escrito como parte del proceso de escritura.
+
+Evaluación del aprendizaje:
+- Rúbrica para evaluar la campaña publicitaria.
+- Rúbrica de evaluación de la presentación de la campaña.
+- Rúbrica de texto escrito.
+- Examen modular.
+
+### Módulo 2
+Eje: Salud
+Tema: Prácticas culturales y sociales
+Tiempo: 20–25 horas
+Nivel MCER: B1.2
+
+#### Contexto (adaptable)
+
+Meta: Evaluar el impacto en la salud de prácticas culturales y sociales (piercings, tatuajes, deportes extremos y sedentarismo).
+Meta (inglés): Evaluate the impact of cultural and social practices (piercings, tattoos, extreme sports and sedentarism) on health.
+
+Saber ser:
+- Respeta las diferencias personales y culturales.
+- Reconoce las consecuencias de ciertas prácticas culturales y sociales en la salud de las personas.
+
+Proyecto: encuesta a jóvenes del entorno sobre el impacto de estas prácticas en su salud.
+- Qué sabe: el docente recoge en el tablero lo que saben sobre piercings, tatuajes, deportes extremos y sedentarismo en la juventud. En grupos se ponen de acuerdo sobre el tema y deciden los pasos.
+- Qué quiere saber: planean el proyecto por etapas, identifican el vocabulario y las estructuras que necesitan y se reparten roles. El proyecto debe incluir escucha, lectura, habla y escritura.
+- Rutas sugeridas:
+  - Enfocar la encuesta en un tema (deportes extremos, piercings, tatuajes, etc.).
+  - Grabar en video a los compañeros respondiendo.
+  - Graficar los resultados y presentarlos.
+  - Redactar un texto argumentativo que justifique su posición.
+- Qué aprendió: presentan sus proyectos a la clase. Luego cada uno escribe un texto argumentativo que defiende su punto de vista y recibe retroalimentación del profesor.
+- Mientras trabajan, el docente toma notas sobre el trabajo en equipo.
+
+#### Núcleo de lengua
+
+Funciones de lengua:
+- Expresar acuerdos y desacuerdos con base en razones válidas.
+- Reconocer diferentes puntos de vista.
+- Solicitar aclaración sobre información presentada por pares.
+- Expresar acuerdos y desacuerdos a través de diferentes puntos de vista.
+- Justificar el punto de vista.
+- Defender el punto de vista con argumentos válidos.
+
+Objetivos:
+- Reconocer información implícita en textos argumentativos orales y escritos relacionados con temas de interés.
+- Producir textos orales y escritos argumentativos sencillos sobre temas de interés.
+- Intercambiar opiniones oralmente en conversaciones espontáneas.
+
+Estándares (Guía 22, nivel B1.2, pp. 26–27):
+
+| Habilidad | Estándares |
+|---|---|
+| Escucha | 2, 3, 7, 9, 10 |
+| Lectura | 1, 2, 3, 4, 6, 7, 8 |
+| Escritura | 1, 2, 4, 5, 7 |
+| Monólogo | 2, 3, 4, 5, 6, 8 |
+| Conversación | 1, 2, 3, 4, 6 |
+
+Saber:
+- Reconoce palabras y expresiones sobre ciertas prácticas culturales y sociales.
+- Identifica información sobre las prácticas culturales y sociales más comunes.
+- Reconoce información general y específica en textos narrativos y descriptivos orales y escritos relacionados con temas académicos de interés.
+- Distingue expresiones relacionadas con causa y efecto, síntesis, etc.
+- Identifica estructuras básicas de los tiempos presente, pasado y futuro, simple y perfecto.
+- Diferencia las estructuras de los condicionales reales e irreales.
+
+Saber hacer:
+- Produce textos publicitarios sencillos sobre prácticas culturales y sociales que causan problemas de salud.
+- Justifica verbalmente y de manera respetuosa su punto de vista sobre la campaña más efectiva, usando el vocabulario, las expresiones y las estructuras vistas.
+- Sustenta oralmente una campaña publicitaria con claridad y confianza.
+
+Léxico:
+- Deportes extremos: skateboarding, windsurfing, parachuting, jet skis, rock climbing, motocross
+- Desórdenes alimenticios: anorexia, bulimia
+- Salud en general: body image, nutrition, symptom, binge, purge
+
+Expresiones:
+- Para aclarar: What I hear you say is… · If I… · You should have… · In sum…
+- Para presentar un proyecto: Today, we would like to present… · Good afternoon, our purpose today is… · My group members are… and I am…
+- Para dar opinión: I think that… · It is my opinion that… · I really believe that…
+- Para describir condiciones: If A…, then B… · Given these conditions, we will… · Whether or not…
+- Para hablar de costumbres: They normally use / dress… · They pierce their ears with spacers. · Some have tattoos everywhere.
+- Para describir tablas o diagramas: This diagram demonstrates a rise in illness. · This table shows a slight decrease in hospitalization.
+- Para hablar de consecuencias: If that happened to me, I could live with it. · I would be scared if I got an infection. · He got sick because he pierced his ear himself.
+
+Gramática:
+- Presente, pasado y futuro simple y perfecto
+- Condicionales
+- Modales
+
+Pronunciación:
+- Entonación.
+- Acento y énfasis en palabras: I am shocked to see… · It is unbelievable… · Absolutely amazing!
+- Reconocer el énfasis en frases cortas: What I hear you say… · My group members are…
+
+Discursivo:
+- Relaciones de causa, consecuencia y contraste.
+- Marcadores orales.
+
+Sociolingüístico / intercultural:
+- Valoración de la diversidad cultural.
+- Aprendizaje a través de la interacción.
+- Conocimiento del impacto de la cultura y la sociedad en la salud.
+- Reflexión autocrítica.
+- Habilidades para analizar, interpretar y relacionar.
+
+Evaluación para el aprendizaje:
+- Analizo la pertinencia de las fuentes y la información consultadas.
+- Tomo notas para analizar los resultados de la encuesta.
+- Evalúo la validez de los argumentos que voy a presentar.
+- Evalúo la metodología de trabajo en grupo y mi papel dentro de él.
+- Elaboro borradores de texto escrito como parte del proceso de escritura.
+
+Evaluación del aprendizaje:
+- Rúbrica de texto escrito.
+- Examen modular.
+
+### Módulo 3
+Eje: Sostenibilidad
+Tema: Fast fashion (moda desechable)
+Tiempo: 20–25 horas
+Nivel MCER: B1.2
+
+#### Contexto (adaptable)
+
+Meta: Analizar el fenómeno de la moda desechable.
+Meta (inglés): Analyze the fast fashion phenomenon.
+
+Saber ser:
+- Valora y respeta la opinión de los demás.
+- Asume una posición crítica ante temas académicos o sociales de su interés.
+
+Proyecto: debate sobre la moda desechable.
+- Qué sabe: el docente recoge en el tablero lo que saben sobre el fenómeno. En grupos se ponen de acuerdo sobre el tema y deciden los pasos.
+- Qué quiere saber: planean el proyecto por etapas, identifican el vocabulario y las estructuras que necesitan y preparan buenos argumentos para defender o atacar. El debate debe incluir escucha, lectura, habla y escritura.
+- Rutas sugeridas:
+  - Buscar información en fuentes confiables.
+  - Prepararse para defender o atacar puntos de vista.
+  - Apoyarse en notas.
+  - Dramatizar el fenómeno de la moda desechable.
+- Qué aprendió: la clase se divide en dos grupos, uno defiende y otro ataca, y en ambos casos deben presentar argumentos válidos. Después del debate, cada uno escribe un texto argumentativo con su opinión.
+- Mientras trabajan, el docente toma notas sobre el trabajo en equipo.
+
+#### Núcleo de lengua
+
+Funciones de lengua:
+- Preguntar y dar opiniones y puntos de vista.
+- Justificar puntos de vista.
+- Identificar y describir objetos.
+- Hablar sobre preferencias.
+
+Objetivos:
+- Identificar el punto de vista del autor en textos orales y escritos argumentativos relacionados con temas académicos.
+- Participar en conversaciones sobre temas académicos.
+- Expresar puntos de vista propios en textos argumentativos sencillos escritos y orales sobre temas académicos.
+
+Estándares (Guía 22, nivel B1.2, pp. 26–27):
+
+| Habilidad | Estándares |
+|---|---|
+| Escucha | 2, 5, 6, 8 |
+| Lectura | 1, 3, 4, 6, 7, 8, 10 |
+| Escritura | 1, 2, 3 |
+| Monólogo | 1, 2, 3, 6, 8 |
+| Conversación | 2, 3, 4, 6 |
+
+Saber:
+- Resume información relevante de textos sobre el fenómeno de la moda, usando estrategias de elaboración de resúmenes.
+- Reconoce información general y específica en textos narrativos y descriptivos orales y escritos relacionados con temas académicos de interés.
+- Distingue expresiones relacionadas con la moda.
+- Identifica estructuras básicas de los tiempos presente, pasado y futuro simple.
+- Diferencia las estructuras de los condicionales reales e irreales.
+
+Saber hacer:
+- Formula preguntas sobre la moda desechable y sus efectos en la comunidad a partir de expresiones definidas.
+- Comparte oralmente una postura sobre el tema.
+- Sustenta por escrito una postura sobre temas de interés con razones estructuradas, siguiendo un modelo definido.
+- Hace una exposición oral sobre temas académicos de interés.
+
+Léxico:
+- Prendas y accesorios: jeans, T-shirt, shoes, blouse, bag, popular trends
+- Detalles de las prendas: long / short sleeves, sleeveless, side pocket / inside pockets, V-neck / round neck, low neckline, hooded, tight / loose, baggy, colorful / extravagant
+- Estampados: striped, checked, plaid / tartan, patterned, flowery / floral
+- Materiales: cotton, leather, silk, fur, denim, wool, suede, linen, rubber, nylon
+- Personas de la moda: model / supermodel / male model, designer, hairdresser, tailor, fashion victim · street market clothes
+
+Expresiones:
+- Sobre moda: to be trendy / cool / fashionable / unfashionable · to be in fashion · to come into fashion · to go out of fashion · to wear designer labels · to be stylish · to follow the latest fashion · to be interested in fashion · to shop in trendy stores · to spend money on clothes / buying clothes
+- De opinión: In my opinion, that one would be better. · If you ask me, that one's better. · In my way of thinking, this one's fine. · What I think is that one's better. · For me, that one's better. · I believe that… · I'm not so sure about that…
+
+Gramática:
+- Presente y pasado simple
+- Presente perfecto
+- Futuro simple
+- Preguntas con *which*
+- Condicionales
+- This / these, that / those, one / ones
+- Too + adjetivo
+
+Pronunciación:
+- Reconocer el énfasis en frases cortas: What I hear you say… · My group members are…
+- Entonación en preguntas.
+
+Discursivo:
+- Marcadores orales para resumir ideas.
+- Estrategias de elaboración de resúmenes.
+
+Sociolingüístico / intercultural:
+- Valoración de la diversidad cultural.
+- Conocimiento del impacto de la cultura y de los contextos situacionales, sociales e históricos.
+- Habilidades para analizar, interpretar y relacionar.
+
+Evaluación para el aprendizaje:
+- Analizo la pertinencia de las fuentes y la información consultadas.
+- Tomo notas para preparar el debate.
+- Evalúo la validez de los argumentos que voy a presentar.
+- Elaboro borradores de texto escrito como parte del proceso de escritura.
+
+Evaluación del aprendizaje:
+- Rúbrica para evaluar la participación en el debate.
+- Rúbrica de texto escrito.
+- Examen modular.
+
+### Módulo 4
+Eje: Globalización
+Tema: La globalización cotidiana
+Tiempo: 20–25 horas
+Nivel MCER: B1.2
+
+#### Contexto (adaptable)
+
+Meta: Valorar el papel de la globalización en los productos de uso cotidiano.
+Meta (inglés): Value the role of globalization in everyday products.
+
+Saber ser:
+- Valora y respeta la opinión de los demás.
+- Asume una posición crítica ante temas académicos o sociales de interés.
+
+Problema (ruta por problemas): ¿qué ganamos y qué perdemos con la globalización en lo que usamos todos los días?
+- En grupos de 3 o 4, los estudiantes identifican, comparan y evalúan la globalización en los productos de uso cotidiano.
+- Preparan una presentación oral que la compara y la evalúa.
+- Producen textos orales y escritos que argumentan las ventajas y desventajas.
+- Papel del docente:
+  - Selecciona textos sobre la globalización en los productos cotidianos.
+  - Diseña actividades de análisis.
+  - Guía la comparación de ventajas y desventajas.
+  - Modela la presentación del análisis.
+  - Acompaña la escritura del texto argumentativo «Ventajas y desventajas de la globalización en los productos de uso cotidiano».
+  - Evalúa con rúbricas compartidas desde el inicio.
+
+#### Núcleo de lengua
+
+Funciones de lengua:
+- Expresar acuerdos y desacuerdos.
+- Solicitar aclaración.
+- Justificar puntos de vista.
+- Expresar condiciones y opiniones.
+- Predecir acciones futuras como resultado de ciertas condiciones.
+- Hacer hipótesis sobre las ventajas y desventajas de un tema presentado.
+
+Objetivos:
+- Reconocer ideas generales y específicas en textos escritos argumentativos cortos sobre temas académicos y científicos.
+- Estructurar textos argumentativos orales y escritos de mediana longitud sobre temas académicos y científicos.
+- Expresar opiniones sobre temas académicos y científicos en interacciones espontáneas.
+
+Estándares (Guía 22, nivel B1.2, pp. 26–27):
+
+| Habilidad | Estándares |
+|---|---|
+| Escucha | 2, 4, 5, 7, 9, 10 |
+| Lectura | 1, 3, 5, 6, 7, 10 |
+| Escritura | 1, 2, 4, 6 |
+| Monólogo | 1, 2, 3, 4, 5, 6 |
+| Conversación | 1, 2, 3, 4 |
+
+Saber:
+- Resume información relevante de textos relacionados con el fenómeno de la globalización.
+- Reconoce información general y específica en textos narrativos y descriptivos orales y escritos relacionados con temas académicos de interés.
+- Distingue vocabulario y expresiones relacionadas con la globalización.
+- Identifica estructuras básicas de los tiempos presente, pasado y futuro simple.
+- Diferencia la estructura y el uso del infinitivo y el gerundio.
+
+Saber hacer:
+- Formula preguntas sobre la globalización y sus efectos en la comunidad a partir de expresiones definidas.
+- Comparte oralmente una postura sobre temas de interés.
+- Sustenta por escrito una postura sobre temas de interés con razones estructuradas, siguiendo un modelo definido.
+- Hace una exposición oral sobre temas académicos de interés.
+
+Léxico:
+- Globalización: affluence, manufacturing, technology, outsource, dominate, emerge, capitalise, communication, appliances and devices
+
+Expresiones:
+- Para predecir y plantear hipótesis: I predict / imagine that… · Given…, I hypothesize that… · If I use…, then I predict… will happen. · Based on past results, I predict… · I deduced… after analyzing… further. · I discerned that because… · I foresee… because…
+- Para inferir: Based on…, I infer that… · I infer that… based on… · My conjecture on… is… · I anticipate that…
+- Para justificar: I believe this because… · My primary reason for thinking so is… · Perhaps the most convincing reason for this is…
+- Para persuadir: Based on the evidence presented so far, I believe that… · Although some people claim that…, opponents argue that… · It is vital to consider… · The advantages of… outweigh the disadvantages of… insofar as… · The statistics are misleading because they do / do not show… · These facts / reasons / data strongly suggest that… Yet some argue…
+
+Gramática:
+- Presente simple y continuo
+- Pasado simple y continuo
+- Infinitivo de propósito: It's + adjetivo + infinitivo
+- Gerundios
+- Modales
+- Estilo indirecto
+
+Pronunciación:
+- Reconocer el énfasis en frases cortas: What I hear you say… · My group members are…
+
+Discursivo:
+- Conectores para mostrar ventajas y desventajas.
+
+Sociolingüístico / intercultural:
+- Habilidades para analizar, interpretar y relacionar.
+- Adaptabilidad a las diferentes formas de comunicar y aprender.
+- Aprendizaje a través de la interacción.
+
+Evaluación para el aprendizaje:
+- Analizo la pertinencia y precisión de la información obtenida de fuentes bibliográficas y de mis compañeros.
+- Realizo ejercicios de familiarización, práctica y consolidación a partir de textos escritos y orales.
+- Confirmo la pertinencia y validez de las fuentes bibliográficas usadas.
+- Analizo la calidad de mi justificación sobre las ventajas y desventajas de la globalización en los productos de uso cotidiano.
+- Realizo borradores de texto escrito como parte del proceso de escritura.
+- Tomo notas para dar mi opinión sobre las acciones presentadas por mis compañeros.
+- Respeto las opiniones de los compañeros y la toma de turnos.
+
+Evaluación del aprendizaje:
+- Rúbrica de presentación oral.
+- Rúbrica de texto argumentativo.
+- Examen modular.
+
+---
+
+Notas de transcripción (10.°):
+- **Módulo 1, nivel de los estándares:** el PDF dice «Nivel A2.1, Guía 22: pp. 20-21». Es el mismo error de 9.°: el primer módulo de 9.°, 10.° y 11.° trae copiado el encabezado de 7.°. Los números citados corresponden a B1.2, por ejemplo Lectura 3 («Asumo una posición crítica frente al punto de vista del autor»). En A2.1 esos números serían estándares de primaria, como «Participo en juegos de búsqueda de palabras». Se corrigió a B1.2.
+- **Módulo 2, nivel de los estándares:** el PDF dice «Nivel B1.1, pp. 24-25», aunque el módulo es B1.2. Los números existen en ambos niveles, pero los de B1.2 encajan con el módulo: Monólogo 8 («Opino sobre los estilos de vida de la gente de otras culturas») y Conversación 6 (debatir y negociar acuerdos). Se tomó B1.2. **Es una decisión de criterio**: si se prefiere el PDF literal, este módulo apuntaría a B1.1.
+- Módulo 1, meta: la malla dice «ej. No respeta la fila, plagio» y la ruta dice «ej. respeta la fila, citación de fuentes». Se unieron las dos versiones.
+- Módulo 2: «Desordenes alimenticias» se corrigió a *desórdenes alimenticios*, «Parachute / Jetskis» a *parachuting / jet skis*, y «his pierced his ear» a *he pierced his ear*. El PDF evalúa una «campaña publicitaria» aunque el proyecto es una encuesta; se respetó en *saber hacer*.
+- Módulo 3: «hairdesser» se corrigió a *hairdresser*, «lose» a *loose*, «I think is that one's better» a *What I think is that one's better*, y «adjetives» a *adjetivo*.
+- Módulo 4: «Outsoource» se corrigió a *outsource*. La meta en inglés «in the use of everyday products» se simplificó a *in everyday products*.
