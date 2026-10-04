@@ -1,0 +1,1722 @@
+[
+ {
+  "codigo": "MAT-EBC-1.3-PN-01",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 1,
+  "texto": "Reconozco significados del número en diferentes contextos (medición, conteo, comparación, codificación, localización entre otros).",
+  "pagina": 35,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PN-02",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 2,
+  "texto": "Describo, comparo y cuantifico situaciones con números, en diferentes contextos y con diversas representaciones.",
+  "pagina": 35,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PN-03",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 3,
+  "texto": "Describo situaciones que requieren el uso de medidas relativas.",
+  "pagina": 35,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PN-04",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 4,
+  "texto": "Describo situaciones de medición utilizando fracciones comunes.",
+  "pagina": 35,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PN-05",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 5,
+  "texto": "Uso representaciones –principalmente concretas y pictóricas– para explicar el valor de posición en el sistema de numeración decimal.",
+  "pagina": 35,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PN-06",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 6,
+  "texto": "Uso representaciones –principalmente concretas y pictóricas– para realizar equivalencias de un número en las diferentes unidades del sistema decimal.",
+  "pagina": 35,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PN-07",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 7,
+  "texto": "Reconozco propiedades de los números (ser par, ser impar, etc.) y relaciones entre ellos (ser mayor que, ser menor que, ser múltiplo de, ser divisible por, etc.) en diferentes contextos.",
+  "pagina": 35,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PN-08",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 8,
+  "texto": "Resuelvo y formulo problemas en situaciones aditivas de composición y de transformación.",
+  "pagina": 35,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PN-09",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 9,
+  "texto": "Resuelvo y formulo problemas en situaciones de variación proporcional.",
+  "pagina": 35,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PN-10",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 10,
+  "texto": "Uso diversas estrategias de cálculo (especialmente cálculo mental) y de estimación para resolver problemas en situaciones aditivas y multiplicativas.",
+  "pagina": 35,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PN-11",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 11,
+  "texto": "Identifico, si a la luz de los datos de un problema, los resultados obtenidos son o no razonables.",
+  "pagina": 35,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PN-12",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 12,
+  "texto": "Identifico regularidades y propiedades de los números utilizando diferentes instrumentos de cálculo (calculadoras, ábacos, bloques multibase, etc.).",
+  "pagina": 35,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PE-01",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento espacial",
+  "numero": 1,
+  "texto": "Diferencio atributos y propiedades de objetos tridimensionales.",
+  "pagina": 35,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PE-02",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento espacial",
+  "numero": 2,
+  "texto": "Dibujo y describo cuerpos o figuras tridimensionales en distintas posiciones y tamaños.",
+  "pagina": 35,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PE-03",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento espacial",
+  "numero": 3,
+  "texto": "Reconozco nociones de horizontalidad, verticalidad, paralelismo y perpendicularidad en distintos contextos y su condición relativa con respecto a diferentes sistemas de referencia.",
+  "pagina": 35,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PE-04",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento espacial",
+  "numero": 4,
+  "texto": "Represento el espacio circundante para establecer relaciones espaciales.",
+  "pagina": 35,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PE-05",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento espacial",
+  "numero": 5,
+  "texto": "Reconozco y aplico traslaciones y giros sobre una figura.",
+  "pagina": 35,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PE-06",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento espacial",
+  "numero": 6,
+  "texto": "Reconozco y valoro simetrías en distintos aspectos del arte y el diseño.",
+  "pagina": 35,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PE-07",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento espacial",
+  "numero": 7,
+  "texto": "Reconozco congruencia y semejanza entre figuras (ampliar, reducir).",
+  "pagina": 35,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PE-08",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento espacial",
+  "numero": 8,
+  "texto": "Realizo construcciones y diseños utilizando cuerpos y figuras geométricas tridimensionales y dibujos o figuras geométricas bidimensionales.",
+  "pagina": 35,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PE-09",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento espacial",
+  "numero": 9,
+  "texto": "Desarrollo habilidades para relacionar dirección, distancia y posición en el espacio.",
+  "pagina": 35,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PM-01",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento métrico",
+  "numero": 1,
+  "texto": "Reconozco en los objetos propiedades o atributos que se puedan medir (longitud, área, volumen, capacidad, peso y masa) y, en los eventos, su duración.",
+  "pagina": 36,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PM-02",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento métrico",
+  "numero": 2,
+  "texto": "Comparo y ordeno objetos respecto a atributos medibles.",
+  "pagina": 36,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PM-03",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento métrico",
+  "numero": 3,
+  "texto": "Realizo y describo procesos de medición con patrones arbitrarios y algunos estandarizados, de acuerdo al contexto.",
+  "pagina": 36,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PM-04",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento métrico",
+  "numero": 4,
+  "texto": "Analizo y explico sobre la pertinencia de patrones e instrumentos en procesos de medición.",
+  "pagina": 36,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PM-05",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento métrico",
+  "numero": 5,
+  "texto": "Realizo estimaciones de medidas requeridas en la resolución de problemas relativos particularmente a la vida social, económica y de las ciencias.",
+  "pagina": 36,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PM-06",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento métrico",
+  "numero": 6,
+  "texto": "Reconozco el uso de las magnitudes y sus unidades de medida en situaciones aditivas y multiplicativas.",
+  "pagina": 36,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PA-01",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 1,
+  "texto": "Clasifico y organizo datos de acuerdo a cualidades y atributos y los presento en tablas.",
+  "pagina": 36,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PA-02",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 2,
+  "texto": "Interpreto cualitativamente datos referidos a situaciones del entorno escolar.",
+  "pagina": 36,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PA-03",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 3,
+  "texto": "Describo situaciones o eventos a partir de un conjunto de datos.",
+  "pagina": 36,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PA-04",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 4,
+  "texto": "Represento datos relativos a mi entorno usando objetos concretos, pictogramas y diagramas de barras.",
+  "pagina": 36,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PA-05",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 5,
+  "texto": "Identifico regularidades y tendencias en un conjunto de datos.",
+  "pagina": 36,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PA-06",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 6,
+  "texto": "Explico –desde mi experiencia– la posibilidad o imposibilidad de ocurrencia de eventos cotidianos.",
+  "pagina": 36,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PA-07",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 7,
+  "texto": "Predigo si la posibilidad de ocurrencia de un evento es mayor que la de otro.",
+  "pagina": 36,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PA-08",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 8,
+  "texto": "Resuelvo y formulo preguntas que requieran para su solución coleccionar y analizar datos del entorno próximo.",
+  "pagina": 36,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PV-01",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento variacional",
+  "numero": 1,
+  "texto": "Reconozco y describo regularidades y patrones en distintos contextos (numérico, geométrico, musical, entre otros).",
+  "pagina": 36,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PV-02",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento variacional",
+  "numero": 2,
+  "texto": "Describo cualitativamente situaciones de cambio y variación utilizando el lenguaje natural, dibujos y gráficas.",
+  "pagina": 36,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PV-03",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento variacional",
+  "numero": 3,
+  "texto": "Reconozco y genero equivalencias entre expresiones numéricas y describo cómo cambian los símbolos aunque el valor siga igual.",
+  "pagina": 36,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-1.3-PV-04",
+  "nivel": "1-3",
+  "grados": "1.° a 3.°",
+  "habilidad": "Pensamiento variacional",
+  "numero": 4,
+  "texto": "Construyo secuencias numéricas y geométricas utilizando propiedades de los números y de las figuras geométricas.",
+  "pagina": 36,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PN-01",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 1,
+  "texto": "Interpreto las fracciones en diferentes contextos: situaciones de medición, relaciones parte todo, cociente, razones y proporciones.",
+  "pagina": 37,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PN-02",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 2,
+  "texto": "Identifico y uso medidas relativas en distintos contextos.",
+  "pagina": 37,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PN-03",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 3,
+  "texto": "Utilizo la notación decimal para expresar fracciones en diferentes contextos y relaciono estas dos notaciones con la de los porcentajes.",
+  "pagina": 37,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PN-04",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 4,
+  "texto": "Justifico el valor de posición en el sistema de numeración decimal en relación con el conteo recurrente de unidades.",
+  "pagina": 37,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PN-05",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 5,
+  "texto": "Resuelvo y formulo problemas cuya estrategia de solución requiera de las relaciones y propiedades de los números naturales y sus operaciones.",
+  "pagina": 37,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PN-06",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 6,
+  "texto": "Resuelvo y formulo problemas en situaciones aditivas de composición, transformación, comparación e igualación.",
+  "pagina": 37,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PN-07",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 7,
+  "texto": "Resuelvo y formulo problemas en situaciones de proporcionalidad directa, inversa y producto de medidas.",
+  "pagina": 37,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PN-08",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 8,
+  "texto": "Identifico la potenciación y la radicación en contextos matemáticos y no matemáticos.",
+  "pagina": 37,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PN-09",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 9,
+  "texto": "Modelo situaciones de dependencia mediante la proporcionalidad directa e inversa.",
+  "pagina": 37,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PN-10",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 10,
+  "texto": "Uso diversas estrategias de cálculo y de estimación para resolver problemas en situaciones aditivas y multiplicativas.",
+  "pagina": 37,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PN-11",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 11,
+  "texto": "Identifico, en el contexto de una situación, la necesidad de un cálculo exacto o aproximado y lo razonable de los resultados obtenidos.",
+  "pagina": 37,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PN-12",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 12,
+  "texto": "Justifico regularidades y propiedades de los números, sus relaciones y operaciones.",
+  "pagina": 37,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PE-01",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento espacial",
+  "numero": 1,
+  "texto": "Comparo y clasifico objetos tridimensionales de acuerdo con componentes (caras, lados) y propiedades.",
+  "pagina": 37,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PE-02",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento espacial",
+  "numero": 2,
+  "texto": "Comparo y clasifico figuras bidimensionales de acuerdo con sus componentes (ángulos, vértices) y características.",
+  "pagina": 37,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PE-03",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento espacial",
+  "numero": 3,
+  "texto": "Identifico, represento y utilizo ángulos en giros, aberturas, inclinaciones, figuras, puntas y esquinas en situaciones estáticas y dinámicas.",
+  "pagina": 37,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PE-04",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento espacial",
+  "numero": 4,
+  "texto": "Utilizo sistemas de coordenadas para especificar localizaciones y describir relaciones espaciales.",
+  "pagina": 37,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PE-05",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento espacial",
+  "numero": 5,
+  "texto": "Identifico y justifico relaciones de congruencia y semejanza entre figuras.",
+  "pagina": 37,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PE-06",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento espacial",
+  "numero": 6,
+  "texto": "Construyo y descompongo figuras y sólidos a partir de condiciones dadas.",
+  "pagina": 37,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PE-07",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento espacial",
+  "numero": 7,
+  "texto": "Conjeturo y verifico los resultados de aplicar transformaciones a figuras en el plano para construir diseños.",
+  "pagina": 37,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PE-08",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento espacial",
+  "numero": 8,
+  "texto": "Construyo objetos tridimensionales a partir de representaciones bidimensionales y puedo realizar el proceso contrario en contextos de arte, diseño y arquitectura.",
+  "pagina": 37,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PM-01",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento métrico",
+  "numero": 1,
+  "texto": "Diferencio y ordeno, en objetos y eventos, propiedades o atributos que se puedan medir (longitudes, distancias, áreas de superficies, volúmenes de cuerpos sólidos, volúmenes de líquidos y capacidades de recipientes; pesos y masa de cuerpos sólidos; duración de eventos o procesos; amplitud de ángulos).",
+  "pagina": 38,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PM-02",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento métrico",
+  "numero": 2,
+  "texto": "Selecciono unidades, tanto convencionales como estandarizadas, apropiadas para diferentes mediciones.",
+  "pagina": 38,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PM-03",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento métrico",
+  "numero": 3,
+  "texto": "Utilizo y justifico el uso de la estimación para resolver problemas relativos a la vida social, económica y de las ciencias, utilizando rangos de variación.",
+  "pagina": 38,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PM-04",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento métrico",
+  "numero": 4,
+  "texto": "Utilizo diferentes procedimientos de cálculo para hallar el área de la superficie exterior y el volumen de algunos cuerpos sólidos.",
+  "pagina": 38,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PM-05",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento métrico",
+  "numero": 5,
+  "texto": "Justifico relaciones de dependencia del área y volumen, respecto a las dimensiones de figuras y sólidos.",
+  "pagina": 38,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PM-06",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento métrico",
+  "numero": 6,
+  "texto": "Reconozco el uso de algunas magnitudes (longitud, área, volumen, capacidad, peso y masa, duración, rapidez, temperatura) y de algunas de las unidades que se usan para medir cantidades de la magnitud respectiva en situaciones aditivas y multiplicativas.",
+  "pagina": 38,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PM-07",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento métrico",
+  "numero": 7,
+  "texto": "Describo y argumento relaciones entre el perímetro y el área de figuras diferentes, cuando se fija una de estas medidas.",
+  "pagina": 38,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PA-01",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 1,
+  "texto": "Represento datos usando tablas y gráficas (pictogramas, gráficas de barras, diagramas de líneas, diagramas circulares).",
+  "pagina": 38,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PA-02",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 2,
+  "texto": "Comparo diferentes representaciones del mismo conjunto de datos.",
+  "pagina": 38,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PA-03",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 3,
+  "texto": "Interpreto información presentada en tablas y gráficas. (pictogramas, gráficas de barras, diagramas de líneas, diagramas circulares).",
+  "pagina": 38,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PA-04",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 4,
+  "texto": "Conjeturo y pongo a prueba predicciones acerca de la posibilidad de ocurrencia de eventos.",
+  "pagina": 38,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PA-05",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 5,
+  "texto": "Describo la manera como parecen distribuirse los distintos datos de un conjunto de ellos y la comparo con la manera como se distribuyen en otros conjuntos de datos.",
+  "pagina": 38,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PA-06",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 6,
+  "texto": "Uso e interpreto la media (o promedio) y la mediana y comparo lo que indican.",
+  "pagina": 38,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PA-07",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 7,
+  "texto": "Resuelvo y formulo problemas a partir de un conjunto de datos provenientes de observaciones, consultas o experimentos.",
+  "pagina": 38,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PV-01",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento variacional",
+  "numero": 1,
+  "texto": "Describo e interpreto variaciones representadas en gráficos.",
+  "pagina": 38,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PV-02",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento variacional",
+  "numero": 2,
+  "texto": "Predigo patrones de variación en una secuencia numérica, geométrica o gráfica.",
+  "pagina": 38,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PV-03",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento variacional",
+  "numero": 3,
+  "texto": "Represento y relaciono patrones numéricos con tablas y reglas verbales.",
+  "pagina": 38,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PV-04",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento variacional",
+  "numero": 4,
+  "texto": "Analizo y explico relaciones de dependencia entre cantidades que varían en el tiempo con cierta regularidad en situaciones económicas, sociales y de las ciencias naturales.",
+  "pagina": 38,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-4.5-PV-05",
+  "nivel": "4-5",
+  "grados": "4.° a 5.°",
+  "habilidad": "Pensamiento variacional",
+  "numero": 5,
+  "texto": "Construyo igualdades y desigualdades numéricas como representación de relaciones entre distintos datos.",
+  "pagina": 38,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PN-01",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 1,
+  "texto": "Resuelvo y formulo problemas en contextos de medidas relativas y de variaciones en las medidas.",
+  "pagina": 39,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PN-02",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 2,
+  "texto": "Utilizo números racionales, en sus distintas expresiones (fracciones, razones, decimales o porcentajes) para resolver problemas en contextos de medida.",
+  "pagina": 39,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PN-03",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 3,
+  "texto": "Justifico la extensión de la representación polinomial decimal usual de los números naturales a la representación decimal usual de los números racionales, utilizando las propiedades del sistema de numeración decimal.",
+  "pagina": 39,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PN-04",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 4,
+  "texto": "Reconozco y generalizo propiedades de las relaciones entre números racionales (simétrica, transitiva, etc.) y de las operaciones entre ellos (conmutativa, asociativa, etc.) en diferentes contextos.",
+  "pagina": 39,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PN-05",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 5,
+  "texto": "Resuelvo y formulo problemas utilizando propiedades básicas de la teoría de números, como las de la igualdad, las de las distintas formas de la desigualdad y las de la adición, sustracción, multiplicación, división y potenciación.",
+  "pagina": 39,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PN-06",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 6,
+  "texto": "Justifico procedimientos aritméticos utilizando las relaciones y propiedades de las operaciones.",
+  "pagina": 39,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PN-07",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 7,
+  "texto": "Formulo y resuelvo problemas en situaciones aditivas y multiplicativas, en diferentes contextos y dominios numéricos.",
+  "pagina": 39,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PN-08",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 8,
+  "texto": "Resuelvo y formulo problemas cuya solución requiere de la potenciación o radicación.",
+  "pagina": 39,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PN-09",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 9,
+  "texto": "Justifico el uso de representaciones y procedimientos en situaciones de proporcionalidad directa e inversa.",
+  "pagina": 39,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PN-10",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 10,
+  "texto": "Justifico la pertinencia de un cálculo exacto o aproximado en la solución de un problema y lo razonable o no de las respuestas obtenidas.",
+  "pagina": 39,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PN-11",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 11,
+  "texto": "Establezco conjeturas sobre propiedades y relaciones de los números, utilizando calculadoras o computadores.",
+  "pagina": 39,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PN-12",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 12,
+  "texto": "Justifico la elección de métodos e instrumentos de cálculo en la resolución de problemas.",
+  "pagina": 39,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PN-13",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 13,
+  "texto": "Reconozco argumentos combinatorios como herramienta para interpretación de situaciones diversas de conteo.",
+  "pagina": 39,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PE-01",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento espacial",
+  "numero": 1,
+  "texto": "Represento objetos tridimensionales desde diferentes posiciones y vistas.",
+  "pagina": 39,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PE-02",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento espacial",
+  "numero": 2,
+  "texto": "Identifico y describo figuras y cuerpos generados por cortes rectos y transversales de objetos tridimensionales.",
+  "pagina": 39,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PE-03",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento espacial",
+  "numero": 3,
+  "texto": "Clasifico polígonos en relación con sus propiedades.",
+  "pagina": 39,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PE-04",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento espacial",
+  "numero": 4,
+  "texto": "Predigo y comparo los resultados de aplicar transformaciones rígidas (traslaciones, rotaciones, reflexiones) y homotecias (ampliaciones y reducciones) sobre figuras bidimensionales en situaciones matemáticas y en el arte.",
+  "pagina": 39,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PE-05",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento espacial",
+  "numero": 5,
+  "texto": "Resuelvo y formulo problemas que involucren relaciones y propiedades de semejanza y congruencia usando representaciones visuales.",
+  "pagina": 39,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PE-06",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento espacial",
+  "numero": 6,
+  "texto": "Resuelvo y formulo problemas usando modelos geométricos.",
+  "pagina": 39,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PE-07",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento espacial",
+  "numero": 7,
+  "texto": "Identifico características de localización de objetos en sistemas de representación cartesiana y geográfica.",
+  "pagina": 39,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PM-01",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento métrico",
+  "numero": 1,
+  "texto": "Utilizo técnicas y herramientas para la construcción de figuras planas y cuerpos con medidas dadas.",
+  "pagina": 40,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PM-02",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento métrico",
+  "numero": 2,
+  "texto": "Resuelvo y formulo problemas que involucren factores escalares (diseño de maquetas, mapas).",
+  "pagina": 40,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PM-03",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento métrico",
+  "numero": 3,
+  "texto": "Calculo áreas y volúmenes a través de composición y descomposición de figuras y cuerpos.",
+  "pagina": 40,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PM-04",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento métrico",
+  "numero": 4,
+  "texto": "Identifico relaciones entre distintas unidades utilizadas para medir cantidades de la misma magnitud.",
+  "pagina": 40,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PM-05",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento métrico",
+  "numero": 5,
+  "texto": "Resuelvo y formulo problemas que requieren técnicas de estimación.",
+  "pagina": 40,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PA-01",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 1,
+  "texto": "Comparo e interpreto datos provenientes de diversas fuentes (prensa, revistas, televisión, experimentos, consultas, entrevistas).",
+  "pagina": 40,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PA-02",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 2,
+  "texto": "Reconozco la relación entre un conjunto de datos y su representación.",
+  "pagina": 40,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PA-03",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 3,
+  "texto": "Interpreto, produzco y comparo representaciones gráficas adecuadas para presentar diversos tipos de datos. (diagramas de barras, diagramas circulares.)",
+  "pagina": 40,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PA-04",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 4,
+  "texto": "Uso medidas de tendencia central (media, mediana, moda) para interpretar comportamiento de un conjunto de datos.",
+  "pagina": 40,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PA-05",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 5,
+  "texto": "Uso modelos (diagramas de árbol, por ejemplo) para discutir y predecir posibilidad de ocurrencia de un evento.",
+  "pagina": 40,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PA-06",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 6,
+  "texto": "Conjeturo acerca del resultado de un experimento aleatorio usando proporcionalidad y nociones básicas de probabilidad.",
+  "pagina": 40,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PA-07",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 7,
+  "texto": "Resuelvo y formulo problemas a partir de un conjunto de datos presentados en tablas, diagramas de barras, diagramas circulares.",
+  "pagina": 40,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PA-08",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 8,
+  "texto": "Predigo y justifico razonamientos y conclusiones usando información estadística.",
+  "pagina": 40,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PV-01",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento variacional",
+  "numero": 1,
+  "texto": "Describo y represento situaciones de variación relacionando diferentes representaciones (diagramas, expresiones verbales generalizadas y tablas).",
+  "pagina": 40,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PV-02",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento variacional",
+  "numero": 2,
+  "texto": "Reconozco el conjunto de valores de cada una de las cantidades variables ligadas entre sí en situaciones concretas de cambio (variación).",
+  "pagina": 40,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PV-03",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento variacional",
+  "numero": 3,
+  "texto": "Analizo las propiedades de correlación positiva y negativa entre variables, de variación lineal o de proporcionalidad directa y de proporcionalidad inversa en contextos aritméticos y geométricos.",
+  "pagina": 40,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PV-04",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento variacional",
+  "numero": 4,
+  "texto": "Utilizo métodos informales (ensayo y error, complementación) en la solución de ecuaciones.",
+  "pagina": 40,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-6.7-PV-05",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Pensamiento variacional",
+  "numero": 5,
+  "texto": "Identifico las características de las diversas gráficas cartesianas (de puntos, continuas, formadas por segmentos, etc.) en relación con la situación que representan.",
+  "pagina": 40,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PN-01",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 1,
+  "texto": "Utilizo números reales en sus diferentes representaciones y en diversos contextos.",
+  "pagina": 41,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PN-02",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 2,
+  "texto": "Resuelvo problemas y simplifico cálculos usando propiedades y relaciones de los números reales y de las relaciones y operaciones entre ellos.",
+  "pagina": 41,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PN-03",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 3,
+  "texto": "Utilizo la notación científica para representar medidas de cantidades de diferentes magnitudes.",
+  "pagina": 41,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PN-04",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 4,
+  "texto": "Identifico y utilizo la potenciación, la radicación y la logaritmación para representar situaciones matemáticas y no matemáticas y para resolver problemas.",
+  "pagina": 41,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PE-01",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Pensamiento espacial",
+  "numero": 1,
+  "texto": "Conjeturo y verifico propiedades de congruencias y semejanzas entre figuras bidimensionales y entre objetos tridimensionales en la solución de problemas.",
+  "pagina": 41,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PE-02",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Pensamiento espacial",
+  "numero": 2,
+  "texto": "Reconozco y contrasto propiedades y relaciones geométricas utilizadas en demostración de teoremas básicos (Pitágoras y Tales).",
+  "pagina": 41,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PE-03",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Pensamiento espacial",
+  "numero": 3,
+  "texto": "Aplico y justifico criterios de congruencias y semejanza entre triángulos en la resolución y formulación de problemas.",
+  "pagina": 41,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PE-04",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Pensamiento espacial",
+  "numero": 4,
+  "texto": "Uso representaciones geométricas para resolver y formular problemas en las matemáticas y en otras disciplinas.",
+  "pagina": 41,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PM-01",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Pensamiento métrico",
+  "numero": 1,
+  "texto": "Generalizo procedimientos de cálculo válidos para encontrar el área de regiones planas y el volumen de sólidos.",
+  "pagina": 42,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PM-02",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Pensamiento métrico",
+  "numero": 2,
+  "texto": "Selecciono y uso técnicas e instrumentos para medir longitudes, áreas de superficies, volúmenes y ángulos con niveles de precisión apropiados.",
+  "pagina": 42,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PM-03",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Pensamiento métrico",
+  "numero": 3,
+  "texto": "Justifico la pertinencia de utilizar unidades de medida estandarizadas en situaciones tomadas de distintas ciencias.",
+  "pagina": 42,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PA-01",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 1,
+  "texto": "Reconozco cómo diferentes maneras de presentación de información pueden originar distintas interpretaciones.",
+  "pagina": 42,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PA-02",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 2,
+  "texto": "Interpreto analítica y críticamente información estadística proveniente de diversas fuentes (prensa, revistas, televisión, experimentos, consultas, entrevistas.",
+  "pagina": 42,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PA-03",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 3,
+  "texto": "Interpreto y utilizo conceptos de media, mediana y moda y explicito sus diferencias en distribuciones de distinta dispersión y asimetría.",
+  "pagina": 42,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PA-04",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 4,
+  "texto": "Selecciono y uso algunos métodos estadísticos adecuados al tipo de problema, de información y al nivel de la escala en la que esta se representa (nominal, ordinal, de intervalo o de razón).",
+  "pagina": 42,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PA-05",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 5,
+  "texto": "Comparo resultados de experimentos aleatorios con los resultados previstos por un modelo matemático probabilístico.",
+  "pagina": 42,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PA-06",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 6,
+  "texto": "Resuelvo y formulo problemas seleccionando información relevante en conjuntos de datos provenientes de fuentes diversas. (prensa, revistas, televisión, experimentos, consultas, entrevistas).",
+  "pagina": 42,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PA-07",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 7,
+  "texto": "Reconozco tendencias que se presentan en conjuntos de variables relacionadas.",
+  "pagina": 42,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PA-08",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 8,
+  "texto": "Calculo probabilidad de eventos simples usando métodos diversos (listados, diagramas de árbol, técnicas de conteo).",
+  "pagina": 42,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PA-09",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 9,
+  "texto": "Uso conceptos básicos de probabilidad (espacio muestral, evento, independencia, etc.).",
+  "pagina": 42,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PV-01",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Pensamiento variacional",
+  "numero": 1,
+  "texto": "Identifico relaciones entre propiedades de las gráficas y propiedades de las ecuaciones algebraicas.",
+  "pagina": 42,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PV-02",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Pensamiento variacional",
+  "numero": 2,
+  "texto": "Construyo expresiones algebraicas equivalentes a una expresión algebraica dada.",
+  "pagina": 42,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PV-03",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Pensamiento variacional",
+  "numero": 3,
+  "texto": "Uso procesos inductivos y lenguaje algebraico para formular y poner a prueba conjeturas.",
+  "pagina": 42,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PV-04",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Pensamiento variacional",
+  "numero": 4,
+  "texto": "Modelo situaciones de variación con funciones polinómicas.",
+  "pagina": 42,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PV-05",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Pensamiento variacional",
+  "numero": 5,
+  "texto": "Identifico diferentes métodos para solucionar sistemas de ecuaciones lineales.",
+  "pagina": 42,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PV-06",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Pensamiento variacional",
+  "numero": 6,
+  "texto": "Analizo los procesos infinitos que subyacen en las notaciones decimales.",
+  "pagina": 42,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PV-07",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Pensamiento variacional",
+  "numero": 7,
+  "texto": "Identifico y utilizo diferentes maneras de definir y medir la pendiente de una curva que representa en el plano cartesiano situaciones de variación.",
+  "pagina": 42,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PV-08",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Pensamiento variacional",
+  "numero": 8,
+  "texto": "Identifico la relación entre los cambios en los parámetros de la representación algebraica de una familia de funciones y los cambios en las gráficas que las representan.",
+  "pagina": 42,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-8.9-PV-09",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Pensamiento variacional",
+  "numero": 9,
+  "texto": "Analizo en representaciones gráficas cartesianas los comportamientos de cambio de funciones específicas pertenecientes a familias de funciones polinómicas, racionales, exponenciales y logarítmicas.",
+  "pagina": 42,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PN-01",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 1,
+  "texto": "Analizo representaciones decimales de los números reales para diferenciar entre racionales e irracionales.",
+  "pagina": 43,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PN-02",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 2,
+  "texto": "Reconozco la densidad e incompletitud de los números racionales a través de métodos numéricos, geométricos y algebraicos.",
+  "pagina": 43,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PN-03",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 3,
+  "texto": "Comparo y contrasto las propiedades de los números (naturales, enteros, racionales y reales) y las de sus relaciones y operaciones para construir, manejar y utilizar apropiadamente los distintos sistemas numéricos.",
+  "pagina": 43,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PN-04",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 4,
+  "texto": "Utilizo argumentos de la teoría de números para justificar relaciones que involucran números naturales.",
+  "pagina": 43,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PN-05",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "Pensamiento numérico",
+  "numero": 5,
+  "texto": "Establezco relaciones y diferencias entre diferentes notaciones de números reales para decidir sobre su uso en una situación dada.",
+  "pagina": 43,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PE-01",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "Pensamiento espacial",
+  "numero": 1,
+  "texto": "Identifico en forma visual, gráfica y algebraica algunas propiedades de las curvas que se observan en los bordes obtenidos por cortes longitudinales, diagonales y transversales en un cilindro y en un cono.",
+  "pagina": 43,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PE-02",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "Pensamiento espacial",
+  "numero": 2,
+  "texto": "Identifico características de localización de objetos geométricos en sistemas de representación cartesiana y otros (polares, cilíndricos y esféricos) y en particular de las curvas y figuras cónicas.",
+  "pagina": 43,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PE-03",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "Pensamiento espacial",
+  "numero": 3,
+  "texto": "Resuelvo problemas en los que se usen las propiedades geométricas de figuras cónicas por medio de transformaciones de las representaciones algebraicas de esas figuras.",
+  "pagina": 43,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PE-04",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "Pensamiento espacial",
+  "numero": 4,
+  "texto": "Uso argumentos geométricos para resolver y formular problemas en contextos matemáticos y en otras ciencias.",
+  "pagina": 43,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PE-05",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "Pensamiento espacial",
+  "numero": 5,
+  "texto": "Describo y modelo fenómenos periódicos del mundo real usando relaciones y funciones trigonométricas.",
+  "pagina": 43,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PE-06",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "Pensamiento espacial",
+  "numero": 6,
+  "texto": "Reconozco y describo curvas y o lugares geométricos.",
+  "pagina": 43,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PM-01",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "Pensamiento métrico",
+  "numero": 1,
+  "texto": "Diseño estrategias para abordar situaciones de medición que requieran grados de precisión específicos.",
+  "pagina": 44,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PM-02",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "Pensamiento métrico",
+  "numero": 2,
+  "texto": "Resuelvo y formulo problemas que involucren magnitudes cuyos valores medios se suelen definir indirectamente como razones entre valores de otras magnitudes, como la velocidad media, la aceleración media y la densidad media.",
+  "pagina": 44,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PM-03",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "Pensamiento métrico",
+  "numero": 3,
+  "texto": "Justifico resultados obtenidos mediante procesos de aproximación sucesiva, rangos de variación y límites en situaciones de medición.",
+  "pagina": 44,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PA-01",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 1,
+  "texto": "Interpreto y comparo resultados de estudios con información estadística provenientes de medios de comunicación.",
+  "pagina": 44,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PA-02",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 2,
+  "texto": "Justifico o refuto inferencias basadas en razonamientos estadísticos a partir de resultados de estudios publicados en los medios o diseñados en el ámbito escolar.",
+  "pagina": 44,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PA-03",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 3,
+  "texto": "Diseño experimentos aleatorios (de las ciencias físicas, naturales o sociales) para estudiar un problema o pregunta.",
+  "pagina": 44,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PA-04",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 4,
+  "texto": "Describo tendencias que se observan en conjuntos de variables relacionadas.",
+  "pagina": 44,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PA-05",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 5,
+  "texto": "Interpreto nociones básicas relacionadas con el manejo de información como población, muestra, variable aleatoria, distribución de frecuencias, parámetros y estadígrafos).",
+  "pagina": 44,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PA-06",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 6,
+  "texto": "Uso comprensivamente algunas medidas de centralización, localización, dispersión y correlación (percentiles, cuartiles, centralidad, distancia, rango, varianza, covarianza y normalidad).",
+  "pagina": 44,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PA-07",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 7,
+  "texto": "Interpreto conceptos de probabilidad condicional e independencia de eventos.",
+  "pagina": 44,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PA-08",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 8,
+  "texto": "Resuelvo y planteo problemas usando conceptos básicos de conteo y probabilidad (combinaciones, permutaciones, espacio muestral, muestreo aleatorio, muestreo con remplazo).",
+  "pagina": 44,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PA-09",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "Pensamiento aleatorio",
+  "numero": 9,
+  "texto": "Propongo inferencias a partir del estudio de muestras probabilísticas.",
+  "pagina": 44,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PV-01",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "Pensamiento variacional",
+  "numero": 1,
+  "texto": "Utilizo las técnicas de aproximación en procesos infinitos numéricos.",
+  "pagina": 44,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PV-02",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "Pensamiento variacional",
+  "numero": 2,
+  "texto": "Interpreto la noción de derivada como razón de cambio y como valor de la pendiente de la tangente a una curva y desarrollo métodos para hallar las derivadas de algunas funciones básicas en contextos matemáticos y no matemáticos.",
+  "pagina": 44,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PV-03",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "Pensamiento variacional",
+  "numero": 3,
+  "texto": "Analizo las relaciones y propiedades entre las expresiones algebraicas y las gráficas de funciones polinómicas y racionales y de sus derivadas.",
+  "pagina": 44,
+  "competencias": []
+ },
+ {
+  "codigo": "MAT-EBC-10.11-PV-04",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "Pensamiento variacional",
+  "numero": 4,
+  "texto": "Modelo situaciones de variación periódica con funciones trigonométricas e interpreto y utilizo sus derivadas.",
+  "pagina": 44,
+  "competencias": []
+ }
+]
