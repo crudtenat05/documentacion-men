@@ -18,6 +18,20 @@
 | Ciencias Naturales | 1.° a 11.° (enunciado y evidencias) | pendiente | pendiente |
 | Ciencias Sociales | 1.° a 11.° (enunciado y evidencias) | pendiente | pendiente |
 
+## ICFES · Saber 11° (Guía de orientación 2026-2)
+
+Qué evalúa cada prueba, con los textos literales de la guía y su página. Datos en `_soporte/datos/icfes/<prueba>/` (JSON, CSV y versión legible) y acta en `_soporte/verificacion/icfes_<prueba>.md`.
+
+| Prueba | Qué se extrajo | Literales verificados |
+|---|---|---|
+| Matemáticas | 3 competencias, 3 afirmaciones, 8 evidencias, 23 contenidos | 37 de 37 |
+| Lectura Crítica | 1 competencia, 3 procesos, 3 afirmaciones, 12 evidencias, tipos de texto y su distribución | 32 de 32 |
+| Sociales y Ciudadanas | 3 competencias, 6 habilidades, 6 afirmaciones, 16 evidencias | 35 de 35 |
+| Ciencias Naturales | 3 competencias, 9 afirmaciones, 43 evidencias, 4 componentes y su distribución | 64 de 64 |
+| Inglés | 7 partes con su habilidad y 4 niveles (la guía no da afirmaciones ni evidencias) | 17 de 17 |
+
+Falta conseguir, para las cinco: el **marco de referencia** de cada prueba y los **niveles de desempeño** con sus descriptores. La guía los cita pero no los trae.
+
 ## Formato de los DBA
 
 Cada DBA tiene su **enunciado exacto** (en negrita, la idea central que destaca el MEN), las **habilidades** o
