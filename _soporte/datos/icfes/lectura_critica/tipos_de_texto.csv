@@ -1,0 +1,5 @@
+﻿codigo,formato,clase,ejemplos,pagina_pdf
+LEC-TX-CON-LIT,Continuos,Literarios,"Novela, cuento, poesía, canción, dramaturgia",43
+LEC-TX-CON-INF,Continuos,"Informativos (descriptivos, expositivos, argumentativos)","Ensayo, columna de opinión, crónica",43
+LEC-TX-DIS-LIT,Discontinuos,Literarios,"Caricatura, cómic",43
+LEC-TX-DIS-INF,Discontinuos,"Informativos (descriptivos, expositivos, argumentativos)","Etiqueta, infografía, tabla, diagrama, aviso publicitario, manual, reglamento, imagenes",43
