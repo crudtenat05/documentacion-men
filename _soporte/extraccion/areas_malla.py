@@ -232,6 +232,24 @@ def estandares_comunes(area):
     } for e in todos if e['grado_desde'] >= 6 and e.get('tipo', 'estandar') == 'estandar']
 
 
+def acciones_por_grupo(area):
+    """Acciones de pensamiento y producción de Ciencias por grupo de grados, en el orden del documento y agrupadas
+    por columna. Son material de apoyo del docente: no se cruzan con un DBA ni un estándar en particular."""
+    todos = json.loads((DATOS / area / 'estandares.json').read_text(encoding='utf-8'))
+    grupos = {}
+    for e in todos:
+        if e.get('tipo') != 'accion' or e['grado_desde'] < 6:
+            continue
+        columnas = grupos.setdefault(f"{e['grado_desde']}.{e['grado_hasta']}", [])
+        if not columnas or columnas[-1]['columna'] != e['eje_nombre']:
+            columnas.append({'columna': e['eje_nombre'], 'items': []})
+        item = {'codigo': e['codigo'], 'texto': e['texto'], 'pagina': e['pagina_pdf']}
+        if e.get('subtitulo'):
+            item['subtitulo'] = e['subtitulo']
+        columnas[-1]['items'].append(item)
+    return grupos
+
+
 def main():
     total = 0
     for area, ejes in EJES.items():
@@ -244,6 +262,7 @@ def main():
         if errores:
             sys.exit('\n'.join(errores))
 
+        acciones = acciones_por_grupo(area) if area != 'lenguaje' else {}
         malla = []
         for d in sorted(dba, key=lambda x: (x['grado'], x['numero'])):
             eje, titulo = propios[d['codigo']]
@@ -265,6 +284,11 @@ def main():
                 if area == 'lenguaje' else
                 [f'{d["codigo"].split("-")[0]}-EBC-{GRUPOS[d["grado"]]}-{c}' for c in ESTANDARES_CIENCIAS[d['codigo']]],
                 'fuente': d.get('fuente'),
+                **({'acciones': acciones[GRUPOS[d['grado']]],
+                    'acciones_nota': 'Acciones de pensamiento y producción de los Estándares Básicos de Competencias '
+                                     'del grupo de grados (MEN, 2006). El MEN aclara que no dependen de un estándar en '
+                                     'particular: son material de apoyo para planear.'}
+                   if area != 'lenguaje' else {}),
                 'fuente_pagina': d.get('pagina_pdf'),
             })
 
