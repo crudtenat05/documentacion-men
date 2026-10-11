@@ -1,0 +1,2576 @@
+[
+ {
+  "codigo": "MAT-DBA-6-01",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 6,
+  "modulo": 1,
+  "eje": "Pensamiento numérico",
+  "tema": "Números enteros y racionales en contexto",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Interpreta los números enteros y racionales (en sus representaciones de fracción y de decimal) con sus operaciones, en diferentes contextos, al resolver problemas de variación, repartos, particiones, estimaciones, etc. Reconoce y establece diferentes relaciones (de orden y equivalencia y las utiliza para argumentar procedimientos).",
+  "meta_en": null,
+  "ruta": "En una competencia de autos a tres vueltas, el tiempo (en minutos) de cada vuelta se registró en la siguiente tabla. Los competidores ganan puntos de acuerdo con las siguientes reglas: Finalizada la segunda vuelta se dan 10 puntos de bonificación en la clasificación general a quien vaya de líder y 5 puntos a quien vaya de segundo. Al ganador de la competencia le dan 20 puntos, al segundo 10 puntos y al tercero 5 puntos. a) Escribe cómo se distribuyen los puntos al finalizar la segunda vuelta y al finalizar la carrera. b) Determine cuál de los autos se acercó más a un minuto y sesenta décimas de minuto en la primera vuelta. c) Explica por qué considera que la práctica generalizada en este tipo de carreras el tiempo por vuelta se representa con tres dígitos después de la coma y no por dos. Calcula la diferencia de tiempo de los tres carros A, B y C en la primera vuelta con un carro D si se sabe que en esa vuelta invierte 1,4 minutos. ¿Cuáles serían estas diferencias si por un percance mecánico demora 1,09 minutos?",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-6-01-E1",
+    "texto": "Resuelve problemas en los que intervienen cantidades positivas y negativas en procesos de comparación, transformación y representación."
+   },
+   {
+    "codigo": "MAT-DBA-6-01-E2",
+    "texto": "Propone y justifica diferentes estrategias para resolver problemas con números enteros, racionales (en sus representaciones de fracción y de decimal) en contextos escolares y extraescolares."
+   },
+   {
+    "codigo": "MAT-DBA-6-01-E3",
+    "texto": "Representa en la recta numérica la posición de un número utilizando diferentes estrategias."
+   },
+   {
+    "codigo": "MAT-DBA-6-01-E4",
+    "texto": "Interpreta y justifica cálculos numéricos al solucionar problemas."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-6.7-PN-01",
+   "MAT-EBC-6.7-PN-02",
+   "MAT-EBC-6.7-PN-03",
+   "MAT-EBC-6.7-PN-04",
+   "MAT-EBC-6.7-PN-05",
+   "MAT-EBC-6.7-PN-06",
+   "MAT-EBC-6.7-PN-07",
+   "MAT-EBC-6.7-PN-08",
+   "MAT-EBC-6.7-PN-09",
+   "MAT-EBC-6.7-PN-10",
+   "MAT-EBC-6.7-PN-11",
+   "MAT-EBC-6.7-PN-12",
+   "MAT-EBC-6.7-PN-13"
+  ],
+  "fuente_pagina": 45
+ },
+ {
+  "codigo": "MAT-DBA-6-02",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 6,
+  "modulo": 2,
+  "eje": "Pensamiento numérico",
+  "tema": "Propiedades de las operaciones con enteros y racionales",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Utiliza las propiedades de los números enteros y racionales y las propiedades de sus operaciones para proponer estrategias y procedimientos de cálculo en la solución de problemas.",
+  "meta_en": null,
+  "ruta": "Un obrero tiene que controlar la cantidad de vapor que hay en la caldera a través de un dispositivo conectado a ella, así como muestra la figura. Por este dispositivo entra vapor que se encarga de mover el corcho. El corcho sube cuando aumenta la cantidad de vapor en la caldera y baja cuando disminuye. Cuando el nivel del vapor en la caldera es el normal el corcho marca exactamente el punto cero. q Para indicar la ubicación del corcho se utilizan números acompañados del signo más (+) o del signo menos (-). Si el corcho está por encima del punto cero su ubicación se representa con un número acompañado del signo más. Si el corcho está por debajo de cero la ubicación del corcho se representa con un número acompañado del signo menos. q Los desplazamientos del corcho hacia arriba se representan por números acompañados del signo “+” Los desplazamientos hacia abajo se representan por números acompañados del signo “-”. Calcula el desplazamiento del corcho si inicialmente está en la raya -23 y después aparece en la raya marcada con -45. Identifica cuál de las dos expresiones, (-80) + 8(-15) y (-80) - 8(-15), permite calcular la raya final a la que llega el corcho si inicialmente está en la raya marcada con -80 y a partir de este punto hace 8 desplazamientos uno tras otro hacia abajo. Cada desplazamiento tiene una magnitud de 15 rayas. Da razones de su elección.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-6-02-E1",
+    "texto": "Propone y utiliza diferentes procedimientos para realizar operaciones con números enteros y racionales."
+   },
+   {
+    "codigo": "MAT-DBA-6-02-E2",
+    "texto": "Argumenta de diversas maneras la necesidad de establecer relaciones y características en conjuntos de números (ser par, ser impar, ser primo, ser el doble de, el triple de, la mitad de, etc)."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-6.7-PN-01",
+   "MAT-EBC-6.7-PN-02",
+   "MAT-EBC-6.7-PN-03",
+   "MAT-EBC-6.7-PN-04",
+   "MAT-EBC-6.7-PN-05",
+   "MAT-EBC-6.7-PN-06",
+   "MAT-EBC-6.7-PN-07",
+   "MAT-EBC-6.7-PN-08",
+   "MAT-EBC-6.7-PN-09",
+   "MAT-EBC-6.7-PN-10",
+   "MAT-EBC-6.7-PN-11",
+   "MAT-EBC-6.7-PN-12",
+   "MAT-EBC-6.7-PN-13"
+  ],
+  "fuente_pagina": 45
+ },
+ {
+  "codigo": "MAT-DBA-6-03",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 6,
+  "modulo": 3,
+  "eje": "Pensamiento numérico",
+  "tema": "Orden y equivalencia entre números",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Reconoce y establece diferentes relaciones (orden y equivalencia) entre elementos de diversos dominios numéricos y los utiliza para argumentar procedimientos sencillos.",
+  "meta_en": null,
+  "ruta": "En la figura se muestra una secuencia de imágenes que ilustran formas de encontrar el valor de x. Describe diferentes procedimientos o acciones que le permitan conocer el valor de x y pone a prueba esos procedimientos.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-6-03-E1",
+    "texto": "Determina criterios de comparación para establecer relaciones de orden entre dos o más números."
+   },
+   {
+    "codigo": "MAT-DBA-6-03-E2",
+    "texto": "Representa en la recta numérica la posición de un número utilizando diferentes estrategias."
+   },
+   {
+    "codigo": "MAT-DBA-6-03-E3",
+    "texto": "Describe procedimientos para resolver ecuaciones lineales."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-6.7-PN-01",
+   "MAT-EBC-6.7-PN-02",
+   "MAT-EBC-6.7-PN-03",
+   "MAT-EBC-6.7-PN-04",
+   "MAT-EBC-6.7-PN-05",
+   "MAT-EBC-6.7-PN-06",
+   "MAT-EBC-6.7-PN-07",
+   "MAT-EBC-6.7-PN-08",
+   "MAT-EBC-6.7-PN-09",
+   "MAT-EBC-6.7-PN-10",
+   "MAT-EBC-6.7-PN-11",
+   "MAT-EBC-6.7-PN-12",
+   "MAT-EBC-6.7-PN-13"
+  ],
+  "fuente_pagina": 46
+ },
+ {
+  "codigo": "MAT-DBA-6-04",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 6,
+  "modulo": 4,
+  "eje": "Pensamiento espacial",
+  "tema": "Construcción de figuras planas y cuerpos",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Utiliza y explica diferentes estrategias (desarrollo de la forma o plantillas) e instrumentos (regla, compás o software) para la construcción de figuras planas y cuerpos.",
+  "meta_en": null,
+  "ruta": "Se quieren forrar con papel de colores unos cuerpos geométricos como los que se muestran en la imagen. Selecciona de los moldes que se muestran en la figura los que se podrían utilizar para construir, con regla y compás, los forros respectivos y determina cómo calcular la cantidad de papel que se requiere para elaborar cada forro, si se conocen las medidas de las aristas de cada cuerpo. Aunque estos tres cuerpos tuvieran igual medida en sus aristas, el volumen de los tres sería diferente. Encuentra el de mayor volumen y explica la respuesta.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-6-04-E1",
+    "texto": "Construye plantillas para cuerpos geométricos dadas sus medidas."
+   },
+   {
+    "codigo": "MAT-DBA-6-04-E2",
+    "texto": "Selecciona las plantillas que genera cada cuerpo a partir del análisis de su forma, sus caras y sus vértices."
+   },
+   {
+    "codigo": "MAT-DBA-6-04-E3",
+    "texto": "Utiliza la regla no graduada y el compás para dibujar las plantillas de cuerpos geométricos cuando se tienen sus medidas."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-6.7-PE-01",
+   "MAT-EBC-6.7-PE-02",
+   "MAT-EBC-6.7-PE-03",
+   "MAT-EBC-6.7-PE-04",
+   "MAT-EBC-6.7-PE-05",
+   "MAT-EBC-6.7-PE-06",
+   "MAT-EBC-6.7-PE-07"
+  ],
+  "fuente_pagina": 46
+ },
+ {
+  "codigo": "MAT-DBA-6-05",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 6,
+  "modulo": 5,
+  "eje": "Pensamiento métrico",
+  "tema": "Estimación y medición de ángulos, longitudes, áreas y volúmenes",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Propone y desarrolla estrategias de estimación, medición y cálculo de diferentes cantidades (ángulos, longitudes, áreas, volúmenes, etc.) para resolver problemas.",
+  "meta_en": null,
+  "ruta": "Se presentan dos imágenes, una con un jugador frente al arco y la otra con 7 jugadores frente al arco para practicar sus lanzamientos. Estima la medida de los ángulos que forma cada jugador con respecto a los dos palos del arco y argumenta en qué posición existe mayor posibilidad de gol. Utiliza el transportador para medir los ángulos y compara esas medidas con las de la estimación, explica las estrategias utilizadas en ambos casos. Gol Gol Jugador en Jugador en posición A posición B Gol Gol 1 2 1 4 5 6 7",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-6-05-E1",
+    "texto": "Decide acerca de las estrategias para determinar qué tan pertinente es la estimación y analiza las causas de error en procesos de medición y estimación."
+   },
+   {
+    "codigo": "MAT-DBA-6-05-E2",
+    "texto": "Estima el resultado de una medición sin realizarla, de acuerdo con un referente previo y aplica el proceso de estimación elegido y valora el resultado de acuerdo con los datos y contexto de un problema."
+   },
+   {
+    "codigo": "MAT-DBA-6-05-E3",
+    "texto": "Estima la medida de longitudes, áreas, volúmenes, masas, pesos y ángulos en presencia o no de los objetos y decide sobre la conveniencia de los instrumentos a utilizar, según las necesidades de la situación."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-6.7-PM-01",
+   "MAT-EBC-6.7-PM-02",
+   "MAT-EBC-6.7-PM-03",
+   "MAT-EBC-6.7-PM-04",
+   "MAT-EBC-6.7-PM-05"
+  ],
+  "fuente_pagina": 47
+ },
+ {
+  "codigo": "MAT-DBA-6-06",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 6,
+  "modulo": 6,
+  "eje": "Pensamiento espacial",
+  "tema": "Formas bidimensionales y tridimensionales",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Representa y construye formas bidimensionales y tridimensionales con el apoyo en instrumentos de medida apropiados.",
+  "meta_en": null,
+  "ruta": "Los productos de la industria son envasados en diferentes materiales: cartón, vidrio, plástico, metal y diferentes formas. A partir de las condiciones reales identifica las formas volumétricas que los constituyen, construye representaciones semejantes para configurar sus desarrollos geométricos y estima la cantidad de material necesario para su fabricación. Compara la información sobre volumen y peso que aparece en algunos empaques y establece relaciones entre ellas.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-6-06-E1",
+    "texto": "Diferencia las propiedades geométricas de las figuras y cuerpos geométricos."
+   },
+   {
+    "codigo": "MAT-DBA-6-06-E2",
+    "texto": "Identifica los elementos que componen las figuras y cuerpos geométricos."
+   },
+   {
+    "codigo": "MAT-DBA-6-06-E3",
+    "texto": "Describe las congruencias y semejanzas en figuras bidimensionales y tridimensionales."
+   },
+   {
+    "codigo": "MAT-DBA-6-06-E4",
+    "texto": "Estima áreas y volúmenes de figuras y cuerpos geométricos."
+   },
+   {
+    "codigo": "MAT-DBA-6-06-E5",
+    "texto": "Construye cuerpos geométricos con el apoyo de instrumentos de medida adecuados."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-6.7-PE-01",
+   "MAT-EBC-6.7-PE-02",
+   "MAT-EBC-6.7-PE-03",
+   "MAT-EBC-6.7-PE-04",
+   "MAT-EBC-6.7-PE-05",
+   "MAT-EBC-6.7-PE-06",
+   "MAT-EBC-6.7-PE-07"
+  ],
+  "fuente_pagina": 48
+ },
+ {
+  "codigo": "MAT-DBA-6-07",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 6,
+  "modulo": 7,
+  "eje": "Pensamiento espacial",
+  "tema": "El plano cartesiano",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Reconoce el plano cartesiano como un sistema bidimensional que permite ubicar puntos como sistema de referencia gráfico o geográfico.",
+  "meta_en": null,
+  "ruta": "Elabora diseños de bisutería artesanal para crear diferentes pulseras con diversos materiales. Utiliza el plano cartesiano para identificar patrones y los expresa como parejas ordenadas y modifica estos patrones para producir nuevos modelos. Tomado de: https://www.youtube.com/watch?v=IqVR8_Tmjc.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-6-07-E1",
+    "texto": "Localiza, describe y representa la posición y la trayectoria de un objeto en un plano cartesiano."
+   },
+   {
+    "codigo": "MAT-DBA-6-07-E2",
+    "texto": "Identifica e interpreta la semejanza de dos figuras al realizar rotaciones, ampliaciones y reducciones de formas bidimensionales en el plano cartesiano."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-6.7-PE-01",
+   "MAT-EBC-6.7-PE-02",
+   "MAT-EBC-6.7-PE-03",
+   "MAT-EBC-6.7-PE-04",
+   "MAT-EBC-6.7-PE-05",
+   "MAT-EBC-6.7-PE-06",
+   "MAT-EBC-6.7-PE-07"
+  ],
+  "fuente_pagina": 48
+ },
+ {
+  "codigo": "MAT-DBA-6-08",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 6,
+  "modulo": 8,
+  "eje": "Pensamiento variacional",
+  "tema": "Variación directa e inversa",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Identifica y analiza propiedades de covariación directa e inversa entre variables, en contextos numéricos, geométricos y cotidianos y las representa mediante gráficas (cartesianas de puntos, continuas, formadas por segmentos, etc.).",
+  "meta_en": null,
+  "ruta": "[1] Yadira se mudará a otro apartamento y pide cotizaciones a tres empresas de transporte. Cada empresa da sus condiciones: Empresa A Empresa B Empresa C Hasta 300 Hasta 200 Hasta 400 kilos para kilos para kilos para transportar: transportar: transportar: tarifa 300.000 tarifa de tarifa 400.000 pesos. 250.000. pesos. Más de 300 Más de 200 Más de 400 kilos: 300.000 kilos: 250.000 kilos: 600.000 pesos más pesos más pesos más 500 2.000 pesos 1.000 pesos pesos por cada por cada kilo por cada kilo kilo de más. de más. de más. Representa en el plano cartesiano el costo total de transporte en pesos, en términos del peso transportado. Averigua en cuál de las empresas la razón entre peso transportado y costo es la mayor. Representa gráficamente las ofertas de las tres empresas en un diagrama cartesiano. Decide cuál es la empresa que le conviene contratar a Yadira, si tiene 400 kilogramos para transportar, o si el peso es de 700 kilogramos. [1] Adaptado de matemáticas de la Vida Real (2011). G. Barozzi; M, Bergamini; D, Boni; R, Ceriani; L. Pagani. Editorial Octaedro.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-6-08-E1",
+    "texto": "Propone patrones de comportamiento numéricos y expresa verbalmente o por escrito los procedimientos matemáticos."
+   },
+   {
+    "codigo": "MAT-DBA-6-08-E2",
+    "texto": "Realiza cálculos numéricos, organiza la información en tablas, elabora representaciones gráficas y las interpreta."
+   },
+   {
+    "codigo": "MAT-DBA-6-08-E3",
+    "texto": "Trabaja sobre números desconocidos y con esos números para dar respuestas a los problemas."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-6.7-PV-01",
+   "MAT-EBC-6.7-PV-02",
+   "MAT-EBC-6.7-PV-03",
+   "MAT-EBC-6.7-PV-04",
+   "MAT-EBC-6.7-PV-05"
+  ],
+  "fuente_pagina": 49
+ },
+ {
+  "codigo": "MAT-DBA-6-09",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 6,
+  "modulo": 9,
+  "eje": "Pensamiento variacional",
+  "tema": "Operaciones con números desconocidos",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Opera sobre números desconocidos y encuentra las operaciones apropiadas al contexto para resolver problemas.",
+  "meta_en": null,
+  "ruta": "Una compañía de pintura contrata empleados por días. La compañía determina que el monto que se paga por hora trabajada es de $8.000, en jornada normal (8 horas diarias), pero si se hacen horas extras, se paga la hora a $9.000 (máximo 4 diarias). Describe verbal, numérica, gráfica o simbólicamente, el monto que se ha de pagar diariamente y en varios días según la cantidad de horas extras. Calcula el monto de contribución a Seguridad Social en función del dinero ganado. La regla de la Oficina de Seguridad Social dice: Si se trabaja 8 horas diarias, se ha de pagar $1.000 fijos, más un 5% para salud, pensiones y cesantías. Pero si se trabajan más de 8 horas, se ha de pagar $1.000, más un 4% para salud, pensiones y cesantías. Representa esos resultados en una tabla y una gráfica cartesiana, utiliza esta información para determinar el número de horas trabajadas por una persona que ganó en un día $99.000. Si una persona debe pagar $5.320 de aportes a la Seguridad Social, determina, cantidad de horas que trabajó y si trabajó horas extras.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-6-09-E1",
+    "texto": "Utiliza las operaciones y sus inversas en problemas de cálculo numérico."
+   },
+   {
+    "codigo": "MAT-DBA-6-09-E2",
+    "texto": "Realiza cálculos numéricos, organiza la información en tablas, elabora representaciones gráficas y las interpreta."
+   },
+   {
+    "codigo": "MAT-DBA-6-09-E3",
+    "texto": "Realiza combinaciones de operaciones, encuentra propiedades y resuelve ecuaciones en donde están involucradas."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-6.7-PV-01",
+   "MAT-EBC-6.7-PV-02",
+   "MAT-EBC-6.7-PV-03",
+   "MAT-EBC-6.7-PV-04",
+   "MAT-EBC-6.7-PV-05"
+  ],
+  "fuente_pagina": 50
+ },
+ {
+  "codigo": "MAT-DBA-6-10",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 6,
+  "modulo": 10,
+  "eje": "Pensamiento aleatorio",
+  "tema": "Interpretación de información estadística",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Interpreta información estadística presentada en diversas fuentes de información, la analiza y la usa para plantear y resolver preguntas que sean de su interés.",
+  "meta_en": null,
+  "ruta": "A finales del 2012 en su informe trimestral el Ministerio de Tecnologías de la Información y las comunicaciones, MINTIC, publicó la siguiente información: “En cuanto a la telefonía móvil, sector que tuvo un crecimiento de 1,13%, en Colombia hay más de 48 millones de abonados, lo que quiere decir que en el país hay 104,5 líneas por cada 100 habitantes. De estos 18,86% se encuentra en la modalidad de postpago, y 81,14% es prepago” (Tomado de http://colombiatic.mintic.gov.co/602/ articles-15179_archivo_pdf.pdf). Responde preguntas como ¿el comportamiento del uso de la telefonía móvil en el salón es similar a lo afirmado en la noticia? Si se presentan diferencias con los datos de la noticia, ¿cuáles son las posibles razones para que esto suceda?",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-6-10-E1",
+    "texto": "Lee y extrae la información estadística publicada en diversas fuentes."
+   },
+   {
+    "codigo": "MAT-DBA-6-10-E2",
+    "texto": "Plantea una pregunta que le facilite recolectar información que le permita contrastar la información estadística publicada."
+   },
+   {
+    "codigo": "MAT-DBA-6-10-E3",
+    "texto": "Organiza la información recolectada en tablas y la representa mediante gráficas adecuadas."
+   },
+   {
+    "codigo": "MAT-DBA-6-10-E4",
+    "texto": "Calcula las medidas requeridas de acuerdo a los datos recolectados y usa, cuando sea posible, calculadoras o software adecuado."
+   },
+   {
+    "codigo": "MAT-DBA-6-10-E5",
+    "texto": "Escribe un informe en el que analiza la información presentada en el medio de comunicación y la contrasta con la obtenida en su estudio."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-6.7-PA-01",
+   "MAT-EBC-6.7-PA-02",
+   "MAT-EBC-6.7-PA-03",
+   "MAT-EBC-6.7-PA-04",
+   "MAT-EBC-6.7-PA-05",
+   "MAT-EBC-6.7-PA-06",
+   "MAT-EBC-6.7-PA-07",
+   "MAT-EBC-6.7-PA-08"
+  ],
+  "fuente_pagina": 50
+ },
+ {
+  "codigo": "MAT-DBA-6-11",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 6,
+  "modulo": 11,
+  "eje": "Pensamiento aleatorio",
+  "tema": "Comparación de poblaciones y muestras",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Compara características compartidas por dos o más poblaciones o características diferentes dentro de una misma población para lo cual seleccionan muestras, utiliza representaciones gráficas adecuadas y analiza los resultados obtenidos usando conjuntamente las medidas de tendencia central y el rango.",
+  "meta_en": null,
+  "ruta": "En un estudio reciente sobre la velocidad de descarga de fotos y videos en celulares, se sometieron a prueba dos marcas, durante una hora se usaron 10 celulares diferentes de cada marca. Si se desea comprar un celular con una buena velocidad de descarga, ¿cuál de las dos marcas seleccionaría? Interpreta la información representada en los gráficos, y utiliza las medidas adecuadas para realizar la comparación que le permita tomar una buena decisión y así justificar las ventajas de una marca sobre la otra.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-6-11-E1",
+    "texto": "Comprende la diferencia entre la muestra y la población."
+   },
+   {
+    "codigo": "MAT-DBA-6-11-E2",
+    "texto": "Selecciona y produce representaciones gráficas apropiadas al conjunto de datos, usando, cuando sea posible, calculadoras o software adecuado."
+   },
+   {
+    "codigo": "MAT-DBA-6-11-E3",
+    "texto": "Interpreta la información que se presenta en los gráficos usando las medidas de tendencia central y el rango."
+   },
+   {
+    "codigo": "MAT-DBA-6-11-E4",
+    "texto": "Compara las características de dos o más poblaciones o de dos o más grupos, haciendo uso conjunto de las respectivas medidas de tendencia central y el rango."
+   },
+   {
+    "codigo": "MAT-DBA-6-11-E5",
+    "texto": "Describe el comportamiento de las características de dos o más poblaciones o de dos o más grupos de una población, a partir de las respectivas medidas de tendencia central y el rango."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-6.7-PA-01",
+   "MAT-EBC-6.7-PA-02",
+   "MAT-EBC-6.7-PA-03",
+   "MAT-EBC-6.7-PA-04",
+   "MAT-EBC-6.7-PA-05",
+   "MAT-EBC-6.7-PA-06",
+   "MAT-EBC-6.7-PA-07",
+   "MAT-EBC-6.7-PA-08"
+  ],
+  "fuente_pagina": 51
+ },
+ {
+  "codigo": "MAT-DBA-6-12",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 6,
+  "modulo": 12,
+  "eje": "Pensamiento aleatorio",
+  "tema": "Frecuencias en experimentos aleatorios",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "A partir de la información previamente obtenida en repeticiones de experimentos aleatorios sencillos, compara las frecuencias esperadas con las frecuencias observadas.",
+  "meta_en": null,
+  "ruta": "En un el juego con dados, uno en forma de cubo (6 caras) y otro en forma de tetraedro (4 caras) participan dos jugadores. Cada uno selecciona un dado, lo lanza al aire y gana quien obtenga más veces el número 1, después de hacer 100 lanzamientos. Leidy dice que ella juega si selecciona el dado en forma de tetraedro. Justifica la selección de uno de los dados, anticipa la posibilidad de ocurrencia del evento que salga el 1, realiza el experimento, registra los resultados y compara y razona sobre las diferencias entre lo esperado y lo observado. Verifica la validez de la afirmación de Leidy.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-6-12-E1",
+    "texto": "Enumera los posibles resultados de un experimento aleatorio sencillo."
+   },
+   {
+    "codigo": "MAT-DBA-6-12-E2",
+    "texto": "Realiza repeticiones del experimento aleatorio sencillo y registra los resultados en tablas y gráficos de frecuencia."
+   },
+   {
+    "codigo": "MAT-DBA-6-12-E3",
+    "texto": "Interpreta y asigna la probabilidad de ocurrencia de un evento dado, teniendo en cuenta el número de veces que ocurre el evento en relación con el número total de veces que realiza el experimento."
+   },
+   {
+    "codigo": "MAT-DBA-6-12-E4",
+    "texto": "Compara los resultados obtenidos experimentalmente con las predicciones anticipadas."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-6.7-PA-01",
+   "MAT-EBC-6.7-PA-02",
+   "MAT-EBC-6.7-PA-03",
+   "MAT-EBC-6.7-PA-04",
+   "MAT-EBC-6.7-PA-05",
+   "MAT-EBC-6.7-PA-06",
+   "MAT-EBC-6.7-PA-07",
+   "MAT-EBC-6.7-PA-08"
+  ],
+  "fuente_pagina": 52
+ },
+ {
+  "codigo": "MAT-DBA-7-01",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 7,
+  "modulo": 1,
+  "eje": "Pensamiento numérico",
+  "tema": "Problemas con números racionales",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Comprende y resuelve problemas, que involucran los números racionales con las operaciones (suma, resta, multiplicación, división, potenciación, radicación) en contextos escolares y extraescolares.",
+  "meta_en": null,
+  "ruta": "El salario mínimo en Colombia se incrementa anualmente bien sea por común acuerdo entre centrales obreras y el gobierno, o por decreto presidencial. Consulta los incrementos en los salarios mínimos en los últimos 10 años en Colombia. Consulta también el costo de vida en el mismo período de tiempo. Elabora una tabla y una representación gráfica en la que se compare el poder adquisitivo de un empleado en los 10 años. ¿Cómo ha variado el poder adquisitivo de un empleado que ha devengado el salario mínimo desde hace 10 años?",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-7-01-E1",
+    "texto": "Describe situaciones en las que los números enteros y racionales con sus operaciones están presentes."
+   },
+   {
+    "codigo": "MAT-DBA-7-01-E2",
+    "texto": "Utiliza los signos “positivo” y “negativo” para describir cantidades relativas con números enteros y racionales."
+   },
+   {
+    "codigo": "MAT-DBA-7-01-E3",
+    "texto": "Resuelve problemas en los que se involucran variaciones porcentuales."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-6.7-PN-01",
+   "MAT-EBC-6.7-PN-02",
+   "MAT-EBC-6.7-PN-03",
+   "MAT-EBC-6.7-PN-04",
+   "MAT-EBC-6.7-PN-05",
+   "MAT-EBC-6.7-PN-06",
+   "MAT-EBC-6.7-PN-07",
+   "MAT-EBC-6.7-PN-08",
+   "MAT-EBC-6.7-PN-09",
+   "MAT-EBC-6.7-PN-10",
+   "MAT-EBC-6.7-PN-11",
+   "MAT-EBC-6.7-PN-12",
+   "MAT-EBC-6.7-PN-13"
+  ],
+  "fuente_pagina": 53
+ },
+ {
+  "codigo": "MAT-DBA-7-02",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 7,
+  "modulo": 2,
+  "eje": "Pensamiento numérico",
+  "tema": "Algoritmos para operar con racionales",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Describe y utiliza diferentes algoritmos, convencionales y no convencionales, al realizar operaciones entre números racionales en sus diferentes representaciones (fracciones y decimales) y los emplea con sentido en la solución de problemas.",
+  "meta_en": null,
+  "ruta": "Calcula el área de un rectángulo que se construye en un software de geometría dinámica o en papel milimetrado. Los lados del rectángulo podrán variar en algún dominio específico, por ejemplo de 0 a 5, tomando todos los números en el intervalo hasta con un dígito decimal. A medida que cambian los lados, el software debe proporcionar el área del rectángulo conforme se muestra en la siguiente secuencia de imágenes. Las imágenes están construidas recreando una cuadrícula de papel milimetrado en la cual se resaltan las divisiones en unidades y en décimas. A partir de estos datos determina la relación entre el área de un cuadradito pequeño (de 0.1 de lado) y el área de un cuadrado unidad (de 1 de lado). q Representa los resultados como fracción y como decimal. q Escribe los valores de las áreas de estos rectángulos de dos formas, una tomando como unidad el área de un cuadrado cuyo lado mide 1 y la otra el área de un cuadrado cuyo lado mide 0,1. En la segunda escribe los valores usando fracciones y representaciones decimales. q En la primera forma escribe el valor en términos de la unidad de medida pequeña. q Compara los valores obtenidos por las dos formas y ofrece argumentos variados para justificar las equivalencias.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-7-02-E1",
+    "texto": "Representa los números enteros y racionales en una recta numérica."
+   },
+   {
+    "codigo": "MAT-DBA-7-02-E2",
+    "texto": "Estima el valor de una raíz cuadrada y de una potencia."
+   },
+   {
+    "codigo": "MAT-DBA-7-02-E3",
+    "texto": "Construye representaciones geométricas y pictóricas para ilustrar relaciones entre cantidades."
+   },
+   {
+    "codigo": "MAT-DBA-7-02-E4",
+    "texto": "Calcula e interpreta el máximo común divisor y el mínimo común múltiplo entre números enteros."
+   },
+   {
+    "codigo": "MAT-DBA-7-02-E5",
+    "texto": "Describe procedimientos para calcular el resultado de una operación (suma, resta, multiplicación y división) entre números enteros y racionales."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-6.7-PN-01",
+   "MAT-EBC-6.7-PN-02",
+   "MAT-EBC-6.7-PN-03",
+   "MAT-EBC-6.7-PN-04",
+   "MAT-EBC-6.7-PN-05",
+   "MAT-EBC-6.7-PN-06",
+   "MAT-EBC-6.7-PN-07",
+   "MAT-EBC-6.7-PN-08",
+   "MAT-EBC-6.7-PN-09",
+   "MAT-EBC-6.7-PN-10",
+   "MAT-EBC-6.7-PN-11",
+   "MAT-EBC-6.7-PN-12",
+   "MAT-EBC-6.7-PN-13"
+  ],
+  "fuente_pagina": 53
+ },
+ {
+  "codigo": "MAT-DBA-7-03",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 7,
+  "modulo": 3,
+  "eje": "Pensamiento numérico",
+  "tema": "Racionales y cantidades desconocidas",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Utiliza diferentes relaciones, operaciones y representaciones en los números racionales para argumentar y solucionar problemas en los que aparecen cantidades desconocidas.",
+  "meta_en": null,
+  "ruta": "Encuentra el valor numérico de una operación, por ejemplo: 0,457 + 2,56 - 3,4 por medio de una calculadora que tiene las teclas cinco (5) y punto decimal (.) averiadas como se muestra en la figura y describe el procedimiento utilizado. Describe al menos dos maneras de hacer la operación indicada y discute sobre la validez de los procedimientos.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-7-03-E1",
+    "texto": "Realiza operaciones para calcular el número decimal que representa una fracción y viceversa."
+   },
+   {
+    "codigo": "MAT-DBA-7-03-E2",
+    "texto": "Usa las propiedades distributiva, asociativa, modulativa, del inverso y conmutativa de la suma y la multiplicación en los racionales para proponer diferentes caminos al realizar un cálculo."
+   },
+   {
+    "codigo": "MAT-DBA-7-03-E3",
+    "texto": "Determina el valor desconocido de una cantidad a partir de las transformaciones de una expresión algebraica."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-6.7-PN-01",
+   "MAT-EBC-6.7-PN-02",
+   "MAT-EBC-6.7-PN-03",
+   "MAT-EBC-6.7-PN-04",
+   "MAT-EBC-6.7-PN-05",
+   "MAT-EBC-6.7-PN-06",
+   "MAT-EBC-6.7-PN-07",
+   "MAT-EBC-6.7-PN-08",
+   "MAT-EBC-6.7-PN-09",
+   "MAT-EBC-6.7-PN-10",
+   "MAT-EBC-6.7-PN-11",
+   "MAT-EBC-6.7-PN-12",
+   "MAT-EBC-6.7-PN-13"
+  ],
+  "fuente_pagina": 54
+ },
+ {
+  "codigo": "MAT-DBA-7-04",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 7,
+  "modulo": 4,
+  "eje": "Pensamiento métrico",
+  "tema": "Escalas en planos, mapas y maquetas",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Utiliza escalas apropiadas para representar e interpretar planos, mapas y maquetas con diferentes unidades.",
+  "meta_en": null,
+  "ruta": "La Institución Rural “La Esperanza” tiene 11 aulas distribuidas en un terreno de 15,18 Dm (decámetros cuadrados), el terreno tiene forma aproximadamente rectangular. La institución va a ser reconstruido debido a que se desea que además de las 11 aulas de 36 m cada una, también se aproveche el terreno sin construir para que cuente con un restaurante de 72m, un salón de música de 45m, un salón de artes integradas de 48m, un auditorio de 2 Dm, una biblioteca de 42m, una cancha de 480 m, y que se conserven algunas zonas verdes. Los estudiantes tendrán que recibir sus clases por algún tiempo en la sede de acción comunal en diferentes horarios. Elabora un plano de la nueva institución a escala, en una hoja tamaño oficio, determina si 1:100 es una escala adecuada, en caso de que no lo sea, explica por qué y encuentra la escala adecuada.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-7-04-E1",
+    "texto": "Identifica los tipos de escalas y selecciona la adecuada para la elaboración de planos de acuerdo al formato o espacio disponible para dibujar."
+   },
+   {
+    "codigo": "MAT-DBA-7-04-E2",
+    "texto": "Expresa la misma medida con diferentes unidades según el contexto."
+   },
+   {
+    "codigo": "MAT-DBA-7-04-E3",
+    "texto": "Representa e interpreta situaciones de ampliación y reducción en contextos diversos."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-6.7-PM-01",
+   "MAT-EBC-6.7-PM-02",
+   "MAT-EBC-6.7-PM-03",
+   "MAT-EBC-6.7-PM-04",
+   "MAT-EBC-6.7-PM-05"
+  ],
+  "fuente_pagina": 55
+ },
+ {
+  "codigo": "MAT-DBA-7-05",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 7,
+  "modulo": 5,
+  "eje": "Pensamiento espacial",
+  "tema": "Objetos tridimensionales y sus transformaciones",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Observa objetos tridimensionales desde diferentes puntos de vista, los representa según su ubicación y los reconoce cuando se transforman mediante rotaciones, traslaciones y reflexiones.",
+  "meta_en": null,
+  "ruta": "Un observador visualizó el envase que se muestra en la imagen desde diferentes puntos de vista: vista frontal, vista superior y vista inferior como lo muestra la figura. Según se observa cambian las configuraciones de la forma del objeto. Describe cómo cambia la visualización del envase en cada una de las vistas. Observa un objeto desde diferentes puntos de vista. Representa gráficamente el objeto si se visualiza por el frente (vista frontal), por encima (vista superior) y por debajo (vista inferior). Toma las fotos respectivas a cada vista del objeto y compara las imágenes con las representaciones gráficas realizadas.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-7-05-E1",
+    "texto": "Establece relaciones entre la posición y las vistas de un objeto."
+   },
+   {
+    "codigo": "MAT-DBA-7-05-E2",
+    "texto": "Reconoce e interpreta la representación de un objeto."
+   },
+   {
+    "codigo": "MAT-DBA-7-05-E3",
+    "texto": "Representa objetos tridimensionales cuando se transforman."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-6.7-PE-01",
+   "MAT-EBC-6.7-PE-02",
+   "MAT-EBC-6.7-PE-03",
+   "MAT-EBC-6.7-PE-04",
+   "MAT-EBC-6.7-PE-05",
+   "MAT-EBC-6.7-PE-06",
+   "MAT-EBC-6.7-PE-07"
+  ],
+  "fuente_pagina": 55
+ },
+ {
+  "codigo": "MAT-DBA-7-06",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 7,
+  "modulo": 6,
+  "eje": "Pensamiento variacional",
+  "tema": "Variación de áreas y perímetros en el plano cartesiano",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Representa en el plano cartesiano la variación de magnitudes (áreas y perímetro) y con base en la variación explica el comportamiento de situaciones y fenómenos de la vida diaria.",
+  "meta_en": null,
+  "ruta": "Manipula las longitudes de un par de lados paralelos de un rectángulo, con el uso de un software de geometría dinámica. Establece el factor de escala para relacionar las longitudes de los lados, los perímetros y las áreas de los dos rectángulos. Determina qué indica el registro gráfico en correspondencia con la longitud de los lados y con las áreas de los rectángulos. En caso de no tener el apoyo del software dinámico realiza la actividad organizando los datos en una tabla para identificar la relación entre la escala, el perímetro y el área.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-7-06-E1",
+    "texto": "Interpreta las modificaciones entre el perímetro y el área con un factor de variación respectivo."
+   },
+   {
+    "codigo": "MAT-DBA-7-06-E2",
+    "texto": "Establece diferencias entre los gráficos del perímetro y del área."
+   },
+   {
+    "codigo": "MAT-DBA-7-06-E3",
+    "texto": "Coordina los cambios de la variación entre el perímetro y la longitud de los lados o el área de una figura."
+   },
+   {
+    "codigo": "MAT-DBA-7-06-E4",
+    "texto": "Organiza la información (registros tabulares y gráficos) para comprender la relación entre el perímetro y el área."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-6.7-PV-01",
+   "MAT-EBC-6.7-PV-02",
+   "MAT-EBC-6.7-PV-03",
+   "MAT-EBC-6.7-PV-04",
+   "MAT-EBC-6.7-PV-05"
+  ],
+  "fuente_pagina": 56
+ },
+ {
+  "codigo": "MAT-DBA-7-07",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 7,
+  "modulo": 7,
+  "eje": "Pensamiento variacional",
+  "tema": "Ecuaciones y situaciones de variación",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Plantea y resuelve ecuaciones, las describe verbalmente y representa situaciones de variación de manera numérica, simbólica o gráfica.",
+  "meta_en": null,
+  "ruta": "Con base en la información gráfica encuentra el peso de cada una de las gallinas (Los pesos están expresados en libras).",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-7-07-E1",
+    "texto": "Plantea modelos algebraicos, gráficos o numéricos en los que identifica variables y rangos de variación de las variables."
+   },
+   {
+    "codigo": "MAT-DBA-7-07-E2",
+    "texto": "Toma decisiones informadas en exploraciones numéricas, algebraicas o gráficas de los modelos matemáticos usados."
+   },
+   {
+    "codigo": "MAT-DBA-7-07-E3",
+    "texto": "Utiliza métodos informales exploratorios para resolver ecuaciones."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-6.7-PV-01",
+   "MAT-EBC-6.7-PV-02",
+   "MAT-EBC-6.7-PV-03",
+   "MAT-EBC-6.7-PV-04",
+   "MAT-EBC-6.7-PV-05"
+  ],
+  "fuente_pagina": 56
+ },
+ {
+  "codigo": "MAT-DBA-7-08",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 7,
+  "modulo": 8,
+  "eje": "Pensamiento aleatorio",
+  "tema": "Estudios estadísticos y gráficos",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Plantea preguntas para realizar estudios estadísticos en los que representa información mediante histogramas, polígonos de frecuencia, gráficos de línea entre otros; identifica variaciones, relaciones o tendencias para dar respuesta a las preguntas planteadas.",
+  "meta_en": null,
+  "ruta": "Un piscicultor tiene tres estanques en los que cultivan truchas, él quiere estimar el peso aproximado de las truchas en cada estanque para saber cómo va el crecimiento. Saca al azar de cada uno de los 3 estanques 50 truchas y las pesa. La información se presenta en las siguientes tablas: ESTANQUE 1 ESTANQUE 2 ESTANQUE 3 PESO DE LAS FRECUENCIA PESO DE LAS FRECUENCIA PESO DE LAS FRECUENCIA TRUCHAS (gr) TRUCHAS (gr) TRUCHAS (gr) 451-470 451-470 451-470 471-490 471-490 471-490 491-510 491-510 491-510 511-530 511-530 511-530 531-550 531-550 531-550 TOTAL TOTAL TOTAL Encuentra el peso aproximado de las truchas en cada estanque y compara el comportamiento para concluir sobre el estado de crecimiento de las truchas en cada estanque.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-7-08-E1",
+    "texto": "Plantea preguntas, diseña y realiza un plan para recolectar la información pertinente."
+   },
+   {
+    "codigo": "MAT-DBA-7-08-E2",
+    "texto": "Construye tablas de frecuencia y gráficos (histogramas, polígonos de frecuencia, gráficos de línea, entre otros), para datos agrupados usando, calculadoras o software adecuado."
+   },
+   {
+    "codigo": "MAT-DBA-7-08-E3",
+    "texto": "Encuentra e interpreta las medidas de tendencia central y el rango en datos agrupados, empleando herramientas tecnológicas cuando sea posible."
+   },
+   {
+    "codigo": "MAT-DBA-7-08-E4",
+    "texto": "Analiza la información presentada identificando variaciones, relaciones o tendencias y elabora conclusiones que permiten responder la pregunta planteada."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-6.7-PA-01",
+   "MAT-EBC-6.7-PA-02",
+   "MAT-EBC-6.7-PA-03",
+   "MAT-EBC-6.7-PA-04",
+   "MAT-EBC-6.7-PA-05",
+   "MAT-EBC-6.7-PA-06",
+   "MAT-EBC-6.7-PA-07",
+   "MAT-EBC-6.7-PA-08"
+  ],
+  "fuente_pagina": 57
+ },
+ {
+  "codigo": "MAT-DBA-7-09",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 7,
+  "modulo": 9,
+  "eje": "Pensamiento aleatorio",
+  "tema": "Principio multiplicativo y probabilidad",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Usa el principio multiplicativo en situaciones aleatorias sencillas y lo representa con tablas o diagramas de árbol. Asigna probabilidades a eventos compuestos y los interpreta a partir de propiedades básicas de la probabilidad.",
+  "meta_en": null,
+  "ruta": "En la cafetería del colegio se anuncia: “Aproveche, diferentes formas de seleccionar su almuerzo”. Ofrecen las siguientes opciones: Sopa o fruta. Pollo, carne o ensalada. Arroz, papa o plátano. Elabora un diagrama de árbol para representar las posibles elecciones de menú. Cuenta o multiplica para encontrar todas las posibles combinaciones disponibles y argumenta sobre la veracidad de la información del anuncio.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-7-09-E1",
+    "texto": "Elabora tablas o diagramas de árbol para representar las distintas maneras en que un experimento aleatorio puede suceder."
+   },
+   {
+    "codigo": "MAT-DBA-7-09-E2",
+    "texto": "Usa el principio multiplicativo para calcular el número de resultados posibles."
+   },
+   {
+    "codigo": "MAT-DBA-7-09-E3",
+    "texto": "Interpreta el número de resultados considerando que cuando se cambia de orden no se altera el resultado."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-6.7-PA-01",
+   "MAT-EBC-6.7-PA-02",
+   "MAT-EBC-6.7-PA-03",
+   "MAT-EBC-6.7-PA-04",
+   "MAT-EBC-6.7-PA-05",
+   "MAT-EBC-6.7-PA-06",
+   "MAT-EBC-6.7-PA-07",
+   "MAT-EBC-6.7-PA-08"
+  ],
+  "fuente_pagina": 57
+ },
+ {
+  "codigo": "MAT-DBA-8-01",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 8,
+  "modulo": 1,
+  "eje": "Pensamiento numérico",
+  "tema": "Números irracionales",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Reconoce la existencia de los números irracionales como números no racionales y los describe de acuerdo con sus características y propiedades.",
+  "meta_en": null,
+  "ruta": "Marina Julián Marcela “Yoempecé Catalina decipuseelpuntconcero, ponemralyempeode consnaturaleslosnúmeroscéa 0.12ecutiva,deesforma 4....yasídecir, mensutecesiva- En clase de matemáticas la profesora pidió a los estudiantes que construyeran números en su representación decimal. Algunos estudiantes hicieron lo siguiente: Marina dijo: “Yo empecé con el cinco como entero. Para formar los decimales utilicé un dado y lo lancé 10 veces, y así formé el número con 10 dígitos después del punto” Julián dijo: “Yo empecé con cero, puse el punto de decimal y empecé a poner los números naturales de forma consecutiva, es decir, 0.1234567891011121314... y así sucesivamente” Catalina dijo: “Yo recordé algo del año pasado y lo formé dividiendo en la calculadora 1 entre 3” Marcela dijo: “Yo me inspiré en lo que Marina hizo, pero mi número se formaría pensando en que siempre voy a poder seguir tirando el dado, por tanto tendría infinitos dígitos decimales” Analiza la manera en que Marina, Julián, Catalina y Marcela construyeron sus números y argumenta cuáles de ellos serían racionales y cuáles no. Propone otras maneras de construir números y argumenta cuáles de ellos serían racionales y cuáles no.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-8-01-E1",
+    "texto": "Utiliza procedimientos geométricos para representar números racionales e irracionales."
+   },
+   {
+    "codigo": "MAT-DBA-8-01-E2",
+    "texto": "Identifica las diferentes representaciones (decimales y no decimales) para argumentar por qué un número es o no racional."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-8.9-PN-01",
+   "MAT-EBC-8.9-PN-02",
+   "MAT-EBC-8.9-PN-03",
+   "MAT-EBC-8.9-PN-04"
+  ],
+  "fuente_pagina": 59
+ },
+ {
+  "codigo": "MAT-DBA-8-02",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 8,
+  "modulo": 2,
+  "eje": "Pensamiento numérico",
+  "tema": "Propiedades de los racionales e irracionales",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Construye representaciones, argumentos y ejemplos de propiedades de los números racionales y no racionales.",
+  "meta_en": null,
+  "ruta": "Si en la siguiente representación, el triángulo y el cuadrado representan números cualesquiera: √ + =√ +√ Asigna valores en las casillas y y utiliza la calculadora para establecer la existencia de números que hagan verdadera la igualdad. Argumenta este hecho y escribe una consecuencia que pueda inferirse a partir de esta exploración. Construye otras representaciones con productos, cocientes y potencias y analiza lo que sucede en cada caso.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-8-02-E1",
+    "texto": "Utiliza procedimientos geométricos o aritméticos para construir algunos números irracionales y los ubica en la recta numérica."
+   },
+   {
+    "codigo": "MAT-DBA-8-02-E2",
+    "texto": "Justificar procedimientos con los cuales se representa geométricamente números racionales y números reales."
+   },
+   {
+    "codigo": "MAT-DBA-8-02-E3",
+    "texto": "Construye varias representaciones (geométrica, decimales o no decimales) de un mismo número racional o irracional."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-8.9-PN-01",
+   "MAT-EBC-8.9-PN-02",
+   "MAT-EBC-8.9-PN-03",
+   "MAT-EBC-8.9-PN-04"
+  ],
+  "fuente_pagina": 59
+ },
+ {
+  "codigo": "MAT-DBA-8-03",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 8,
+  "modulo": 3,
+  "eje": "Pensamiento variacional",
+  "tema": "El signo igual, equivalencias y sistemas de ecuaciones",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Reconoce los diferentes usos y significados de las operaciones (convencionales y no convencionales) y del signo igual (relación de equivalencia e igualdad condicionada) y los utiliza para argumentar equivalencias entre expresiones algebraicas y resolver sistemas de ecuaciones.",
+  "meta_en": null,
+  "ruta": "En clase de matemáticas el profesor pidió a los estudiantes analizar tres expresiones y hablar acerca de sus posibles relaciones. Las tres expresiones fueron: q x - 1 q 4x+1 q 5 Al respecto Carlos y José escribieron: Analiza los escritos de Carlos y José y presenta argumentos que confirmen o refuten lo que ellos han hecho. Determina si José tiene razón al dudar si aplica o no la propiedad transitiva. ¿De qué depende que la pueda aplicar o no?",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-8-03-E1",
+    "texto": "Reconoce el uso del signo igual como relación de equivalencia de expresiones algebraicas en los números reales."
+   },
+   {
+    "codigo": "MAT-DBA-8-03-E2",
+    "texto": "Propone y ejecuta procedimientos para resolver una ecuación lineal y sistemas de ecuaciones lineales y argumenta la validez o no de un procedimiento"
+   },
+   {
+    "codigo": "MAT-DBA-8-03-E3",
+    "texto": "Usa el conjunto solución de una relación (de equivalencia y de orden) para argumentar la validez o no de un procedimiento."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-8.9-PV-01",
+   "MAT-EBC-8.9-PV-02",
+   "MAT-EBC-8.9-PV-03",
+   "MAT-EBC-8.9-PV-04",
+   "MAT-EBC-8.9-PV-05",
+   "MAT-EBC-8.9-PV-06",
+   "MAT-EBC-8.9-PV-07",
+   "MAT-EBC-8.9-PV-08",
+   "MAT-EBC-8.9-PV-09"
+  ],
+  "fuente_pagina": 60
+ },
+ {
+  "codigo": "MAT-DBA-8-04",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 8,
+  "modulo": 4,
+  "eje": "Pensamiento métrico",
+  "tema": "Atributos medibles de los sólidos",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Describe atributos medibles de diferentes sólidos y explica relaciones entre ellos por medio del lenguaje algebraico.",
+  "meta_en": null,
+  "ruta": "En la figura se presentan cinco cajas y en la tabla se especifican las dimensiones de cada una de ellas. Completa e interpreta la tabla a partir de las dimensiones de cada caja. Encuentra las razones aritméticas entre los diferentes volúmenes de las cajas y la expresión general para el volumen y el área exterior total de cada una de ellas.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-8-04-E1",
+    "texto": "Utiliza lenguaje algebraico para representar el volumen de un prisma en términos de sus aristas."
+   },
+   {
+    "codigo": "MAT-DBA-8-04-E2",
+    "texto": "Realiza la representación gráfica del desarrollo plano de un prisma."
+   },
+   {
+    "codigo": "MAT-DBA-8-04-E3",
+    "texto": "Estima, calcula y compara volúmenes a partir de las relaciones entre las aristas de un prisma o de otros sólidos."
+   },
+   {
+    "codigo": "MAT-DBA-8-04-E4",
+    "texto": "Interpreta las expresiones algebraicas que representan el volumen y el área cuando sus dimensiones varían."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-8.9-PM-01",
+   "MAT-EBC-8.9-PM-02",
+   "MAT-EBC-8.9-PM-03"
+  ],
+  "fuente_pagina": 60
+ },
+ {
+  "codigo": "MAT-DBA-8-05",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 8,
+  "modulo": 5,
+  "eje": "Pensamiento métrico",
+  "tema": "Volumen de objetos regulares e irregulares",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Utiliza y explica diferentes estrategias para encontrar el volumen de objetos regulares e irregulares en la solución de problemas en las matemáticas y en otras ciencias.",
+  "meta_en": null,
+  "ruta": "En un recipiente cilíndrico totalmente lleno de agua, se sumerge por completo un objeto de forma irregular, el agua desalojada se recoge en un recipiente que se ha colocado previamente como lo muestra la figura. Compara el volumen calculado con el volumen de la cantidad de agua derramada. Describe los procedimientos utilizados y explica los resultados y sus respectivos procedimientos. Asocia la forma del objeto irregular formada por una composición de figuras regulares, utiliza estas figuras para calcular el volumen del objeto irregular con una aproximación razonable.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-8-05-E1",
+    "texto": "Estima medidas de volumen con unidades estandarizadas y no estandarizadas."
+   },
+   {
+    "codigo": "MAT-DBA-8-05-E2",
+    "texto": "Utiliza la relación de las unidades de capacidad con las unidades de volumen (litros, dm, etc) en la solución de un problema."
+   },
+   {
+    "codigo": "MAT-DBA-8-05-E3",
+    "texto": "Identifica la posibilidad del error en la medición del volumen haciendo aproximaciones pertinentes al respecto."
+   },
+   {
+    "codigo": "MAT-DBA-8-05-E4",
+    "texto": "Explora y crea estrategias para calcular el volumen de cuerpos regulares e irregulares."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-8.9-PM-01",
+   "MAT-EBC-8.9-PM-02",
+   "MAT-EBC-8.9-PM-03"
+  ],
+  "fuente_pagina": 61
+ },
+ {
+  "codigo": "MAT-DBA-8-06",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 8,
+  "modulo": 6,
+  "eje": "Pensamiento espacial",
+  "tema": "Congruencia y semejanza",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Identifica relaciones de congruencia y semejanza entre las formas geométricas que configuran el diseño de un objeto.",
+  "meta_en": null,
+  "ruta": "Las grandes empresas invierten en el diseño de la imagen corporativa que los representa. Por ejemplo, en sus logotipos o iconos que los diferencian en el mercado. Las empresas buscan que los símbolos además de sencillos sean inconfundibles, para que las personas siempre los distingan entre las demás marcas. En muchos de los logotipos de las grandes marcas priman las regularidades geométricas como se muestra a continuación: Identifica las figuras congruentes que hay en cada uno de los logotipos. Argumenta las congruencias encontradas en cada logotipo.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-8-06-E1",
+    "texto": "Utiliza criterios para argumentar la congruencia de dos triángulos."
+   },
+   {
+    "codigo": "MAT-DBA-8-06-E2",
+    "texto": "Discrimina casos de semejanza de triángulos en situaciones diversas."
+   },
+   {
+    "codigo": "MAT-DBA-8-06-E3",
+    "texto": "Resuelve problemas que implican aplicación de los criterios de semejanza."
+   },
+   {
+    "codigo": "MAT-DBA-8-06-E4",
+    "texto": "Compara figuras y argumenta la posibilidad de ser congruente o semejantes entre sí."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-8.9-PE-01",
+   "MAT-EBC-8.9-PE-02",
+   "MAT-EBC-8.9-PE-03",
+   "MAT-EBC-8.9-PE-04"
+  ],
+  "fuente_pagina": 62
+ },
+ {
+  "codigo": "MAT-DBA-8-07",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 8,
+  "modulo": 7,
+  "eje": "Pensamiento espacial",
+  "tema": "Teoremas y propiedades de figuras geométricas",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Identifica regularidades y argumenta propiedades de figuras geométricas a partir de teoremas y las aplica en situaciones reales.",
+  "meta_en": null,
+  "ruta": "A partir de los rompecabezas que se muestran en la imagen, explica regularidades y propiedades que se presentan al variar los elementos de la construcción geométrica del teorema de Pitágoras hasta llegar a su generalización por medio de diferentes expresiones (numéricas, geométricas y algebraicas). Con el apoyo de Software verifica la generalidad del teorema de Pitágoras con triángulos, cuadrados y formas de diferentes tamaños.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-8-07-E1",
+    "texto": "Describe teoremas y argumenta su validez a través de diferentes recursos (Software, tangram, papel, entre otros)."
+   },
+   {
+    "codigo": "MAT-DBA-8-07-E2",
+    "texto": "Argumenta la relación pitagórica por medio de construcción al utilizar material concreto."
+   },
+   {
+    "codigo": "MAT-DBA-8-07-E3",
+    "texto": "Reconoce relaciones geométricas al utilizar el teorema de Pitágoras y Thales, entre otros."
+   },
+   {
+    "codigo": "MAT-DBA-8-07-E4",
+    "texto": "Aplica el teorema de Pitágoras para calcular la medida de cualquier lado de un triángulo rectángulo."
+   },
+   {
+    "codigo": "MAT-DBA-8-07-E5",
+    "texto": "Resuelve problemas utilizando teoremas básicos."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-8.9-PE-01",
+   "MAT-EBC-8.9-PE-02",
+   "MAT-EBC-8.9-PE-03",
+   "MAT-EBC-8.9-PE-04"
+  ],
+  "fuente_pagina": 62
+ },
+ {
+  "codigo": "MAT-DBA-8-08",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 8,
+  "modulo": 8,
+  "eje": "Pensamiento variacional",
+  "tema": "Gráficas y expresiones algebraicas",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Identifica y analiza relaciones entre propiedades de las gráficas y propiedades de expresiones algebraicas y relaciona la variación y covariación con los comportamientos gráficos, numéricos y características de las expresiones algebraicas en situaciones de modelación.",
+  "meta_en": null,
+  "ruta": "Escribe una expresión que relacione el cambio que ocurre en el valor del volumen del cono circular recto cuando el radio cambia de r a r+ ∆r (∆r representa un incremento en el valor de r) y la altura permanece constante. Calcula el cambio en el volumen para algunos incrementos del radio. Representa por medio de una gráfica la relación entre volumen cuando la altura del cono y el radio de su base son iguales y la utiliza para averiguar el valor del radio para que el volumen sea igual a 20 u (u es la unidad de medida). Encuentra los valores enteros del volumen a partir de los valores del radio.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-8-08-E1",
+    "texto": "Opera con formas simbólicas y las interpreta."
+   },
+   {
+    "codigo": "MAT-DBA-8-08-E2",
+    "texto": "Relaciona un cambio en la variable independiente con el cambio correspondiente en la variable dependiente."
+   },
+   {
+    "codigo": "MAT-DBA-8-08-E3",
+    "texto": "Encuentra valores desconocidos en ecuaciones algebraicas."
+   },
+   {
+    "codigo": "MAT-DBA-8-08-E4",
+    "texto": "Reconoce y representa relaciones numéricas mediante expresiones algebraicas y encuentra el conjunto de variación de una variable en función del contexto."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-8.9-PV-01",
+   "MAT-EBC-8.9-PV-02",
+   "MAT-EBC-8.9-PV-03",
+   "MAT-EBC-8.9-PV-04",
+   "MAT-EBC-8.9-PV-05",
+   "MAT-EBC-8.9-PV-06",
+   "MAT-EBC-8.9-PV-07",
+   "MAT-EBC-8.9-PV-08",
+   "MAT-EBC-8.9-PV-09"
+  ],
+  "fuente_pagina": 63
+ },
+ {
+  "codigo": "MAT-DBA-8-09",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 8,
+  "modulo": 9,
+  "eje": "Pensamiento variacional",
+  "tema": "Conjeturas con lenguaje algebraico",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Propone, compara y usa procedimientos inductivos y lenguaje algebraico para formular y poner a prueba conjeturas en diversas situaciones o contextos.",
+  "meta_en": null,
+  "ruta": "Encuentra valores para b, c, d, e, etc., que satisfagan las ecuaciones propuestas y argumenta cómo cambian las respuestas obtenidas si se cambia el valor de a por 6 o por 8. a = 4 a + 2b = 10 a + 2b + 3c = 28 a + 2b + 3c + 4d = 68 a + 2b + 3c + 4d + 5e = 93 a +2b + 3c + 4d + 5e + 6f = 123 a + 2b + 3c + 4d + 5e + 6f + 7g = 200 Describe los procedimientos para obtener valores numéricos que satisfagan las ecuaciones segunda y tercera, si se desconoce el valor de a.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-8-09-E1",
+    "texto": "Opera con formas simbólicas que representan números y encuentra valores desconocidos en ecuaciones numéricas."
+   },
+   {
+    "codigo": "MAT-DBA-8-09-E2",
+    "texto": "Reconoce patrones numéricos y los describe verbalmente."
+   },
+   {
+    "codigo": "MAT-DBA-8-09-E3",
+    "texto": "Representa relaciones numéricas mediante expresiones algebraicas y opera con y sobre variables."
+   },
+   {
+    "codigo": "MAT-DBA-8-09-E4",
+    "texto": "Describe diferentes usos del signo igual (equivalencia, igualdad condicionada) en las expresiones algebraicas."
+   },
+   {
+    "codigo": "MAT-DBA-8-09-E5",
+    "texto": "Utiliza las propiedades de los conjuntos numéricos para resolver ecuaciones."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-8.9-PV-01",
+   "MAT-EBC-8.9-PV-02",
+   "MAT-EBC-8.9-PV-03",
+   "MAT-EBC-8.9-PV-04",
+   "MAT-EBC-8.9-PV-05",
+   "MAT-EBC-8.9-PV-06",
+   "MAT-EBC-8.9-PV-07",
+   "MAT-EBC-8.9-PV-08",
+   "MAT-EBC-8.9-PV-09"
+  ],
+  "fuente_pagina": 63
+ },
+ {
+  "codigo": "MAT-DBA-8-10",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 8,
+  "modulo": 10,
+  "eje": "Pensamiento variacional",
+  "tema": "Modelos funcionales y covariación",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Propone relaciones o modelos funcionales entre variables e identifica y analiza propiedades de covariación entre variables, en contextos numéricos, geométricos y cotidianos y las representa mediante gráficas (cartesianas de puntos, continuas, formadas por segmentos, etc.).",
+  "meta_en": null,
+  "ruta": "Una araña ubicada en una esquina quiere cazar a una mosca que está ubicada en la esquina inferior izquierda de una caja cúbica cuyo lado mide un metro. La araña usará un camino recto pasando por dos caras del cubo y atravesando una de sus aristas por un punto X como se muestra en la línea punteada de la figura. Determina la posición del punto X para que el camino seguido por la mosca sea el más corto. Encuentra el camino más corto que ha de seguir la araña para llegar hasta la mosca. Utiliza el teorema de Pitágoras para obtener la distancia de la línea punteada. Explora numéricamente una solución y elabora un modelo algebraico de las longitudes de las rutas posibles.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-8-10-E1",
+    "texto": "Toma decisiones informadas en exploraciones numéricas, algebraicas o gráficas de los modelos matemáticos usados."
+   },
+   {
+    "codigo": "MAT-DBA-8-10-E2",
+    "texto": "Relaciona características algebraicas de las funciones, sus gráficas y procesos de aproximación sucesiva."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-8.9-PV-01",
+   "MAT-EBC-8.9-PV-02",
+   "MAT-EBC-8.9-PV-03",
+   "MAT-EBC-8.9-PV-04",
+   "MAT-EBC-8.9-PV-05",
+   "MAT-EBC-8.9-PV-06",
+   "MAT-EBC-8.9-PV-07",
+   "MAT-EBC-8.9-PV-08",
+   "MAT-EBC-8.9-PV-09"
+  ],
+  "fuente_pagina": 64
+ },
+ {
+  "codigo": "MAT-DBA-8-11",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 8,
+  "modulo": 11,
+  "eje": "Pensamiento aleatorio",
+  "tema": "Datos agrupados y medidas de tendencia central",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Interpreta información presentada en tablas de frecuencia y gráficos cuyos datos están agrupados en intervalos y decide cuál es la medida de tendencia central que mejor representa el comportamiento de dicho conjunto.",
+  "meta_en": null,
+  "ruta": "Los estadísticos que hicieron un estudio sobre la producción de café por hectárea en 510 fincas cafeteras cometieron un error, no incorporaron los datos de 60 fincas de un municipio. Ellos afirman que, como en esa población la producción de café por hectárea se encuentra entre los límites menor y mayor de las ya estudiadas, en general los resultados no varían. Lee y compara la información presentada en cada gráfica. Encuentra las medidas de tendencia central adecuadas y analiza si hay cambios o no cuando se introduce la información faltante.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-8-11-E1",
+    "texto": "Interpreta los datos representados en diferentes tablas y gráficos."
+   },
+   {
+    "codigo": "MAT-DBA-8-11-E2",
+    "texto": "Usa estrategias gráficas o numéricas para encontrar las medidas de tendencia central de un conjunto de datos agrupados."
+   },
+   {
+    "codigo": "MAT-DBA-8-11-E3",
+    "texto": "Describe el comportamiento de los datos empleando las medidas de tendencia central y el rango."
+   },
+   {
+    "codigo": "MAT-DBA-8-11-E4",
+    "texto": "Reconoce cómo varían las medidas de tendencia central y el rango cuando varían los datos."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-8.9-PA-01",
+   "MAT-EBC-8.9-PA-02",
+   "MAT-EBC-8.9-PA-03",
+   "MAT-EBC-8.9-PA-04",
+   "MAT-EBC-8.9-PA-05",
+   "MAT-EBC-8.9-PA-06",
+   "MAT-EBC-8.9-PA-07",
+   "MAT-EBC-8.9-PA-08",
+   "MAT-EBC-8.9-PA-09"
+  ],
+  "fuente_pagina": 64
+ },
+ {
+  "codigo": "MAT-DBA-8-12",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 8,
+  "modulo": 12,
+  "eje": "Pensamiento aleatorio",
+  "tema": "Probabilidad de eventos compuestos",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Hace predicciones sobre la posibilidad de ocurrencia de un evento compuesto e interpreta la predicción a partir del uso de propiedades básicas de la probabilidad.",
+  "meta_en": null,
+  "ruta": "Se realiza un estudio con estudiantes de grado octavo para indagar por la cantidad de hermanos y sus edades. En la tabla se presentan la cantidad de estudiantes por cada número de hermanos y rango de edades. Con base en la tabla de distribución de frecuencias determina: q La probabilidad de que un estudiante del curso tenga 1 o 2 hermanos. q La probabilidad de que en la familia de un alumno del curso haya dos hijos y él sea el menor. q Utiliza al menos dos procedimientos diferentes para calcular esta probabilidad y justifica la igualdad de los resultados.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-8-12-E1",
+    "texto": "Identifica y enumera el espacio muestral de un experimento aleatorio."
+   },
+   {
+    "codigo": "MAT-DBA-8-12-E2",
+    "texto": "Identifica y enumera los resultados favorables de ocurrencia de un evento indicado."
+   },
+   {
+    "codigo": "MAT-DBA-8-12-E3",
+    "texto": "Asigna la probabilidad de la ocurrencia de un evento usando valores entre 0 y 1."
+   },
+   {
+    "codigo": "MAT-DBA-8-12-E4",
+    "texto": "Reconoce cuando dos eventos son o no mutuamente excluyentes y les asigna la probabilidad usando la regla de la adición."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-8.9-PA-01",
+   "MAT-EBC-8.9-PA-02",
+   "MAT-EBC-8.9-PA-03",
+   "MAT-EBC-8.9-PA-04",
+   "MAT-EBC-8.9-PA-05",
+   "MAT-EBC-8.9-PA-06",
+   "MAT-EBC-8.9-PA-07",
+   "MAT-EBC-8.9-PA-08",
+   "MAT-EBC-8.9-PA-09"
+  ],
+  "fuente_pagina": 65
+ },
+ {
+  "codigo": "MAT-DBA-9-01",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 9,
+  "modulo": 1,
+  "eje": "Pensamiento numérico",
+  "tema": "Números reales y expresiones polinómicas",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Utiliza los números reales (sus operaciones, relaciones y propiedades) para resolver problemas con expresiones polinómicas.",
+  "meta_en": null,
+  "ruta": "Los estudiantes de noveno inflan dos globos (como se muestran en la figura) para representar la razón entre los diámetros de dos esferas. Describa los posibles caminos que tendría en cuenta para construir esferas cuya razón entre sus diámetros sea √5. q Mónica escribió la siguiente relación en el D tablero:dd =√5=2.23 d Ella mencionó que D representa al diámetro del globo mayor y d al del globo menor. Identifique si en el planteamiento de Mónica puede haber un error y cómo se representaría dicha relación. q Usando los mismos símbolos, Fernando escribió d en su cuaderno =√5 . En caso de existir un D error ¿Qué error pudo haber cometido Fernando? Descríbalo. q Alex dijo “Yo sé que raíz de dos es más o menos 2.23, así que voy a suponer que eso es 2” y luego agregó “Como el volumen de 4 π d una esfera es 4 π(d) quiere decir que V= 3 3 22 cuando reemplazo me da el volumen de la mayor casi ocho veces la menor”. Con ese resultado Alex sopló una vez un globo y luego ocho veces el otro globo y dijo “estos dos globos están en la razón pedida”. Discute con sus compañeros sobre la validez del proceso hecho por Alex y comenta las consideraciones que se deben tener en cuenta para mejorar el cálculo. qPaula, al escuchar a Alex hizo el mismo proceso pero ahora usó una aproximación √5≈2,2. Karla hizo lo mismo pero ella usó √5≈2,236 ¿Qué tanto se aleja el cálculo de Paula con relación al cálculo de Karla? qFinalmente Camila sopló, con toda su potencia, tres veces uno de los globos y dijo que esa sería la menor. Describe cómo se podría construir el globo mayor.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-9-01-E1",
+    "texto": "Considera el error que genera la aproximación de un número real a partir de números racionales."
+   },
+   {
+    "codigo": "MAT-DBA-9-01-E2",
+    "texto": "Identifica la diferencia entre exactitud y aproximación en las diferentes representaciones de los números reales."
+   },
+   {
+    "codigo": "MAT-DBA-9-01-E3",
+    "texto": "Construye representaciones geométricas y numéricas de los números reales (con decimales, raíces, razones, y otros símbolos) y realiza conversiones entre ellas."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-8.9-PN-01",
+   "MAT-EBC-8.9-PN-02",
+   "MAT-EBC-8.9-PN-03",
+   "MAT-EBC-8.9-PN-04"
+  ],
+  "fuente_pagina": 66
+ },
+ {
+  "codigo": "MAT-DBA-9-02",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 9,
+  "modulo": 2,
+  "eje": "Pensamiento variacional",
+  "tema": "Expresiones algebraicas, igualdad y orden",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Propone y desarrolla expresiones algebraicas en el conjunto de los números reales y utiliza las propiedades de la igualdad y de orden para determinar el conjunto solución de relaciones entre tales expresiones.",
+  "meta_en": null,
+  "ruta": "La siguiente imagen muestra una representación de tres funciones diferentes: Encuentra los valores de x, para los cuales la gráfica de la función f(x) está entre las gráficas de las funciones g(x) y h(x). Escribe la respuesta utilizando intervalos. Sobre la gráfica de la función cuadrática g(x) dibuja las gráficas de f(x) y h(x). Compara las funciones a partir de sus diferentes representaciones.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-9-02-E1",
+    "texto": "Identifica y utiliza múltiples representaciones de números reales para realizar transformaciones y comparaciones entre expresiones algebraicas."
+   },
+   {
+    "codigo": "MAT-DBA-9-02-E2",
+    "texto": "Establece conjeturas al resolver una situación problema, apoyado en propiedades y relaciones entre números reales."
+   },
+   {
+    "codigo": "MAT-DBA-9-02-E3",
+    "texto": "Determina y describe relaciones al comparar características de gráficas y expresiones algebraicas o funciones."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-8.9-PV-01",
+   "MAT-EBC-8.9-PV-02",
+   "MAT-EBC-8.9-PV-03",
+   "MAT-EBC-8.9-PV-04",
+   "MAT-EBC-8.9-PV-05",
+   "MAT-EBC-8.9-PV-06",
+   "MAT-EBC-8.9-PV-07",
+   "MAT-EBC-8.9-PV-08",
+   "MAT-EBC-8.9-PV-09"
+  ],
+  "fuente_pagina": 66
+ },
+ {
+  "codigo": "MAT-DBA-9-03",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 9,
+  "modulo": 3,
+  "eje": "Pensamiento numérico",
+  "tema": "Números reales y procesos infinitos",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Utiliza los números reales, sus operaciones, relaciones y representaciones para analizar procesos infinitos y resolver problemas.",
+  "meta_en": null,
+  "ruta": "Observa la siguiente espiral y describe la manera en que fue construida. Completa la tabla al iniciar con el lado, el perímetro y el área del cuadrado más pequeño e interior de la espiral (su lado mide 1 unidad). No 1 2 3 4 5 6 7 8 9 cuadrados Lado 1u 1u 2u 3u 5u Perímetro 4u 1u Área 1u 1u La sucesión formada por los lados de los cuadrados se conoce como sucesión de Fibonacci (1u, 1u, 2u, 3u, 5u,...) Observa la tabla y describe patrones y regularidades que allí se presentan.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-9-03-E1",
+    "texto": "Encuentra las relaciones y propiedades que determinan la formación de secuencias numéricas."
+   },
+   {
+    "codigo": "MAT-DBA-9-03-E2",
+    "texto": "Determina y utiliza la expresión general de una sucesión para calcular cualquier valor de la misma y para compararla con otras sucesiones."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-8.9-PN-01",
+   "MAT-EBC-8.9-PN-02",
+   "MAT-EBC-8.9-PN-03",
+   "MAT-EBC-8.9-PN-04"
+  ],
+  "fuente_pagina": 67
+ },
+ {
+  "codigo": "MAT-DBA-9-04",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 9,
+  "modulo": 4,
+  "eje": "Pensamiento métrico",
+  "tema": "Volumen y capacidad de cilindros, conos y esferas",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Identifica y utiliza relaciones entre el volumen y la capacidad de algunos cuerpos redondos (cilindro, cono y esfera) con referencia a las situaciones escolares y extraescolares.",
+  "meta_en": null,
+  "ruta": "Un mecánico industrial desea comprobar una estimación que ha realizado en su trabajo, en cuanto a la relación entre el volumen. Justifica si el mecánico al construir dos piezas metálicas como las que se muestran en la figura puede comprobar la estimación. Conjetura y comprueba las veces que cabe el contenido del recipiente en forma de cono en el de forma de cilindro al llenarlos con diferentes materiales. Utiliza el resultado obtenido por este procedimiento para expresar el volumen del cono en términos del volumen del cilindro.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-9-04-E1",
+    "texto": "Estima la capacidad de objetos con superficies redondas."
+   },
+   {
+    "codigo": "MAT-DBA-9-04-E2",
+    "texto": "Construye cuerpos redondos usando diferentes estrategias."
+   },
+   {
+    "codigo": "MAT-DBA-9-04-E3",
+    "texto": "Compara y representa las relaciones que encuentra de manera experimental entre el volumen y la capacidad de objetos con superficies redondas."
+   },
+   {
+    "codigo": "MAT-DBA-9-04-E4",
+    "texto": "Explica la pertinencia o no de la solución de un problema de cálculo de área o de volumen, de acuerdo con las condiciones de la situación."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-8.9-PM-01",
+   "MAT-EBC-8.9-PM-02",
+   "MAT-EBC-8.9-PM-03"
+  ],
+  "fuente_pagina": 68
+ },
+ {
+  "codigo": "MAT-DBA-9-05",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 9,
+  "modulo": 5,
+  "eje": "Pensamiento espacial",
+  "tema": "Teoremas de Thales y Pitágoras",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Utiliza teoremas, propiedades y relaciones geométricas (teorema de Thales y el teorema de Pitágoras) para proponer y justificar estrategias de medición y cálculo de longitudes.",
+  "meta_en": null,
+  "ruta": "Camila observa un ave en un árbol y desea determinar la altura a la que se encuentra. Para ello utiliza un instrumento como el de la figura 1 (una escuadra isósceles y un pitillo). Además, en uno de los extremos ata un pedazo de hilo con un objeto que actúa como plomada. Figura 1 En la figura 2, se observa la técnica que utiliza Camila para medir la altura a la que se encuentra el ave. Ella mira a través del pitillo y se aleja o se acerca del árbol hasta ubicarse en un punto donde pueda visualizar el ave. Luego, fija este lugar con una marca en el piso y mide la distancia h desde este punto hasta la base del árbol. Figura 2 Identifica y describe las figuras geométricas que usó Camila en el proceso de medición y completa la tabla. Nombre Lados Lados Ángulos paralelos congruentes Justifica el procedimiento que utilizó Camila para establecer la altura a la que se encuentra el ave como h+H y propone mejoras al instrumento para realizar mediciones más precisas.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-9-05-E1",
+    "texto": "Describe y justifica procesos de medición de longitudes."
+   },
+   {
+    "codigo": "MAT-DBA-9-05-E2",
+    "texto": "Explica propiedades de figuras geométricas que se involucran en los procesos de medición."
+   },
+   {
+    "codigo": "MAT-DBA-9-05-E3",
+    "texto": "Justifica procedimientos de medición a partir del Teorema de Thales, Teorema de Pitágoras y relaciones intra e interfigurales."
+   },
+   {
+    "codigo": "MAT-DBA-9-05-E4",
+    "texto": "Valida la precisión de instrumentos para medir longitudes."
+   },
+   {
+    "codigo": "MAT-DBA-9-05-E5",
+    "texto": "Propone alternativas para estimar y medir con precisión diferentes magnitudes."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-8.9-PE-01",
+   "MAT-EBC-8.9-PE-02",
+   "MAT-EBC-8.9-PE-03",
+   "MAT-EBC-8.9-PE-04"
+  ],
+  "fuente_pagina": 68
+ },
+ {
+  "codigo": "MAT-DBA-9-06",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 9,
+  "modulo": 6,
+  "eje": "Pensamiento espacial",
+  "tema": "Semejanza y congruencia en dos y tres dimensiones",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Conjetura acerca de las regularidades de las formas bidimensionales y tridimensionales y realiza inferencias a partir de los criterios de semejanza, congruencia y teoremas básicos.",
+  "meta_en": null,
+  "ruta": "Describe situaciones reales que puedan representarse con las figuras que se presentan a continuación. Problematiza las situaciones y las resuelve con el apoyo del teorema de Thales.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-9-06-E1",
+    "texto": "Reconoce regularidades en formas bidimensionales y tridimensionales."
+   },
+   {
+    "codigo": "MAT-DBA-9-06-E2",
+    "texto": "Explica criterios de semejanza y congruencia a partir del teorema de Thales."
+   },
+   {
+    "codigo": "MAT-DBA-9-06-E3",
+    "texto": "Compara figuras geométricas y conjetura sobre posibles regularidades."
+   },
+   {
+    "codigo": "MAT-DBA-9-06-E4",
+    "texto": "Redacta y argumenta procesos llevados a cabo para resolver situaciones de semejanza y congruencia de figuras."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-8.9-PE-01",
+   "MAT-EBC-8.9-PE-02",
+   "MAT-EBC-8.9-PE-03",
+   "MAT-EBC-8.9-PE-04"
+  ],
+  "fuente_pagina": 69
+ },
+ {
+  "codigo": "MAT-DBA-9-07",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 9,
+  "modulo": 7,
+  "eje": "Pensamiento espacial",
+  "tema": "Trayectorias y desplazamientos",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Interpreta el espacio de manera analítica a partir de relaciones geométricas que se establecen en las trayectorias y desplazamientos de los cuerpos en diferentes situaciones.",
+  "meta_en": null,
+  "ruta": "A las motocicletas antes de salir a la venta les realizan pruebas de velocidad. A partir de la visualización del video https://www.youtube. com/watch?v=FeIqwVKdyXc, dibuja una gráfica que represente la velocidad registrada por el tacómetro cada tres segundos. Tiempo Velocidad Variación Variación Variación velocidad tiempo velocidad Variación tiempo Grafica los datos registrados en la tabla y encuentra la relación con respecto a la primera gráfica. Explica a qué se deben las diferencias o las similitudes en caso de que existan y el significado de la expresión (Variación de la velocidad) (Variación del tiempo).",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-9-07-E1",
+    "texto": "Describe verbalmente procesos de trayectorias y de desplazamiento."
+   },
+   {
+    "codigo": "MAT-DBA-9-07-E2",
+    "texto": "Explica y representa gráficamente la variación del movimiento de diferentes objetos."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-8.9-PE-01",
+   "MAT-EBC-8.9-PE-02",
+   "MAT-EBC-8.9-PE-03",
+   "MAT-EBC-8.9-PE-04"
+  ],
+  "fuente_pagina": 70
+ },
+ {
+  "codigo": "MAT-DBA-9-08",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 9,
+  "modulo": 8,
+  "eje": "Pensamiento variacional",
+  "tema": "Modelos numéricos, algebraicos y gráficos para decidir",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Utiliza expresiones numéricas, algebraicas o gráficas para hacer descripciones de situaciones concretas y tomar decisiones con base en su interpretación.",
+  "meta_en": null,
+  "ruta": "La figura muestra varios terrenos. Cada terreno será delimitado con una cerca cuyo costo por metro es de 15.000 pesos. Cada lado tiene una longitud en metros, cuyo valor desconocemos, representado por una letra: a, b, c, d, e. Se sabe que a=b; c=e; d<a y d<c. Encuentra una expresión para el precio total de la cerca de cada terreno. Indica cuál de los terrenos es más costoso y cuál es menos costoso para cercar.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-9-08-E1",
+    "texto": "Opera con formas simbólicas que representan cantidades."
+   },
+   {
+    "codigo": "MAT-DBA-9-08-E2",
+    "texto": "Reconoce que las letras pueden representar números y cantidades, y que se pueden operar con ellas y sobre ellas."
+   },
+   {
+    "codigo": "MAT-DBA-9-08-E3",
+    "texto": "Interpreta expresiones numéricas, algebraicas o gráficas y toma decisiones con base en su interpretación."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-8.9-PV-01",
+   "MAT-EBC-8.9-PV-02",
+   "MAT-EBC-8.9-PV-03",
+   "MAT-EBC-8.9-PV-04",
+   "MAT-EBC-8.9-PV-05",
+   "MAT-EBC-8.9-PV-06",
+   "MAT-EBC-8.9-PV-07",
+   "MAT-EBC-8.9-PV-08",
+   "MAT-EBC-8.9-PV-09"
+  ],
+  "fuente_pagina": 70
+ },
+ {
+  "codigo": "MAT-DBA-9-09",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 9,
+  "modulo": 9,
+  "eje": "Pensamiento variacional",
+  "tema": "Procesos inductivos y conjeturas",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Utiliza procesos inductivos y lenguaje simbólico o algebraico para formular, proponer y resolver conjeturas en la solución de problemas numéricos, geométricos, métricos, en situaciones cotidianas y no cotidianas.",
+  "meta_en": null,
+  "ruta": "Encuentra de manera sistemática el número total de rectángulos que se pueden formar en un tablero de 8 x 8 como el de la figura, considerando que los cuadrados son casos particulares de rectángulos. Tomar como referencia la tabla de rectángulos en una tabla de 3x3. Registra la información en una tabla, encuentra la expresión general para hallar el número de rectángulos en un cuadrado de n x n. Rectángulos en una tabla de 3x3",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-9-09-E1",
+    "texto": "Efectúa exploraciones, organiza los resultados de las mismas y propone patrones de comportamiento."
+   },
+   {
+    "codigo": "MAT-DBA-9-09-E2",
+    "texto": "Propone conjeturas sobre configuraciones geométricas o numéricas y las expresa verbal o simbólicamente."
+   },
+   {
+    "codigo": "MAT-DBA-9-09-E3",
+    "texto": "Valida las conjeturas y explica sus conclusiones."
+   },
+   {
+    "codigo": "MAT-DBA-9-09-E4",
+    "texto": "Interpreta expresiones numéricas y toma decisiones con base en su interpretación."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-8.9-PV-01",
+   "MAT-EBC-8.9-PV-02",
+   "MAT-EBC-8.9-PV-03",
+   "MAT-EBC-8.9-PV-04",
+   "MAT-EBC-8.9-PV-05",
+   "MAT-EBC-8.9-PV-06",
+   "MAT-EBC-8.9-PV-07",
+   "MAT-EBC-8.9-PV-08",
+   "MAT-EBC-8.9-PV-09"
+  ],
+  "fuente_pagina": 71
+ },
+ {
+  "codigo": "MAT-DBA-9-10",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 9,
+  "modulo": 10,
+  "eje": "Pensamiento aleatorio",
+  "tema": "Comparación de distribuciones de dos grupos",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Propone un diseño estadístico adecuado para resolver una pregunta que indaga por la comparación sobre las distribuciones de dos grupos de datos, para lo cual usa comprensivamente diagramas de caja, medidas de tendencia central, de variación y de localización.",
+  "meta_en": null,
+  "ruta": "Responde la pregunta ¿cuál de los dos métodos es el más efectivo? usando los resultados obtenidos en un estudio realizado por el preparador físico de una escuela de fútbol en el que comparó los tiempos que se demoran, 60 jugadores, en realizar una actividad de resistencia física antes y después de realizar los entrenamientos alternativos. Se sabe que el preparador físico seleccionó al azar 30 estudiantes para conformar dos grupos y con cada grupo realizó un entrenamiento diferente.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-9-10-E1",
+    "texto": "Define el método para recolectar los datos (encuestas, observación o experimento simple) e identifica la población y el tamaño de la muestra del estudio."
+   },
+   {
+    "codigo": "MAT-DBA-9-10-E2",
+    "texto": "Construye diagramas de caja y a partir de los resultados representados en ellos describe y compara la distribución de un conjunto de datos."
+   },
+   {
+    "codigo": "MAT-DBA-9-10-E3",
+    "texto": "Compara las distribuciones de los conjuntos de datos a partir de las medidas de tendencia central, las de variación y las de localización."
+   },
+   {
+    "codigo": "MAT-DBA-9-10-E4",
+    "texto": "Elabora conclusiones para responder el problema planteado."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-8.9-PA-01",
+   "MAT-EBC-8.9-PA-02",
+   "MAT-EBC-8.9-PA-03",
+   "MAT-EBC-8.9-PA-04",
+   "MAT-EBC-8.9-PA-05",
+   "MAT-EBC-8.9-PA-06",
+   "MAT-EBC-8.9-PA-07",
+   "MAT-EBC-8.9-PA-08",
+   "MAT-EBC-8.9-PA-09"
+  ],
+  "fuente_pagina": 72
+ },
+ {
+  "codigo": "MAT-DBA-9-11",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 9,
+  "modulo": 11,
+  "eje": "Pensamiento aleatorio",
+  "tema": "Técnicas de conteo",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Encuentra el número de posibles resultados de experimentos aleatorios, con reemplazo y sin reemplazo, usando técnicas de conteo adecuadas, y argumenta la selección realizada en el contexto de la situación abordada. Encuentra la probabilidad de eventos aleatorios compuestos.",
+  "meta_en": null,
+  "ruta": "Se está organizando la ejecución de las pruebas de atletismo en el colegio; para participar en éstas se han organizado 3 horarios, de 7:00 a.m a 8:00 a.m, de 9:00 a.m a 10:00 a.m y de 11:00 a.m a 12:00 m, la condición es que en cada horario solo puede realizar una prueba atlética. Se indica a los participantes que para clasificar es necesario que presenten tres de las cinco pruebas organizadas. Se desea conocer el número total de opciones que tiene un participante para seleccionar las tres pruebas que debe presentar. Usa métodos de conteo, sistemáticos o no y, argumenta sobre el método elegido en función de la situación planteada.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-9-11-E1",
+    "texto": "Diferencia experimentos aleatorios realizados con reemplazo, de experimentos aleatorios realizados sin reemplazo."
+   },
+   {
+    "codigo": "MAT-DBA-9-11-E2",
+    "texto": "Encuentra el número de posibles resultados de un experimento aleatorio, usando métodos adecuados (diagramas de árbol, combinaciones, permutaciones, regla de la multiplicación, etc.)."
+   },
+   {
+    "codigo": "MAT-DBA-9-11-E3",
+    "texto": "Justifica la elección de un método particular de acuerdo al tipo de situación."
+   },
+   {
+    "codigo": "MAT-DBA-9-11-E4",
+    "texto": "Encuentra la probabilidad de eventos dados usando razón entre frecuencias."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-8.9-PA-01",
+   "MAT-EBC-8.9-PA-02",
+   "MAT-EBC-8.9-PA-03",
+   "MAT-EBC-8.9-PA-04",
+   "MAT-EBC-8.9-PA-05",
+   "MAT-EBC-8.9-PA-06",
+   "MAT-EBC-8.9-PA-07",
+   "MAT-EBC-8.9-PA-08",
+   "MAT-EBC-8.9-PA-09"
+  ],
+  "fuente_pagina": 73
+ },
+ {
+  "codigo": "MAT-DBA-10-01",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 10,
+  "modulo": 1,
+  "eje": "Pensamiento numérico",
+  "tema": "Propiedades de los números reales",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Utiliza las propiedades de los números reales para justificar procedimientos y diferentes representaciones de subconjuntos de ellos.",
+  "meta_en": null,
+  "ruta": "A partir de construcciones como la de la figura elabora argumentos para mostrar que raíz cuadrada de dos no puede representarse como la división de dos enteros. Los catetos de los triángulos son números enteros. Identifica que en cada nuevo elemento de la sucesión el nuevo triángulo construido es rectángulo isósceles. Determina si la sucesión de figuras puede continuarse. ¿cuántos nuevos elementos puede tener hasta cubrir por completo BC?",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-10-01-E1",
+    "texto": "Argumenta la existencia de los números irracionales."
+   },
+   {
+    "codigo": "MAT-DBA-10-01-E2",
+    "texto": "Utiliza representaciones geométricas de los números irracionales y los ubica en una recta numérica."
+   },
+   {
+    "codigo": "MAT-DBA-10-01-E3",
+    "texto": "Describe la propiedad de densidad de los números reales y utiliza estrategias para calcular un número entre otros dos."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-10.11-PN-01",
+   "MAT-EBC-10.11-PN-02",
+   "MAT-EBC-10.11-PN-03",
+   "MAT-EBC-10.11-PN-04",
+   "MAT-EBC-10.11-PN-05"
+  ],
+  "fuente_pagina": 74
+ },
+ {
+  "codigo": "MAT-DBA-10-02",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 10,
+  "modulo": 2,
+  "eje": "Pensamiento numérico",
+  "tema": "Orden en los reales e intervalos",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Utiliza las propiedades algebraicas de equivalencia y de orden de los números reales para comprender y crear estrategias que permitan compararlos y comparar subconjuntos de ellos (por ejemplo, intervalos).",
+  "meta_en": null,
+  "ruta": "A la ‘máquina’ de la figura se le introducen números, los procesa de acuerdo con una regla y arroja los resultados. La máquina puede realizar los siguientes procesos: Proceso 1: “Toma el número de entrada y lo divide entre 0,25”. Proceso 2: “Toma el número de entrada y lo multiplica por 5”. Proceso 3. “Toma el número de entrada y le saca raíz cuadrada”. Determina los conjuntos de salida, si se toman los números de entrada en cada uno de los conjuntos dados; Conjunto 1: 1, 1 , 1 10 100 1000 Conjunto 2: [0, 0.5) Conjunto 3: [5,∞) Conjunto 4: [-1.5, -0.5] Margarita dijo “yo pensaba que dividir siempre daba como resultado un número más pequeño, ahora me doy cuenta que no”. Analiza la validez de la afirmación y justifica la decisión tomada.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-10-02-E1",
+    "texto": "Ordena de menor a mayor o viceversa números reales."
+   },
+   {
+    "codigo": "MAT-DBA-10-02-E2",
+    "texto": "Describe el ‘efecto’ que tendría realizar operaciones con números reales (positivos, negativos, mayores y menores que 1) sobre la cantidad."
+   },
+   {
+    "codigo": "MAT-DBA-10-02-E3",
+    "texto": "Utiliza las propiedades de la equivalencia para realizar cálculos con números reales."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-10.11-PN-01",
+   "MAT-EBC-10.11-PN-02",
+   "MAT-EBC-10.11-PN-03",
+   "MAT-EBC-10.11-PN-04",
+   "MAT-EBC-10.11-PN-05"
+  ],
+  "fuente_pagina": 74
+ },
+ {
+  "codigo": "MAT-DBA-10-03",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 10,
+  "modulo": 3,
+  "eje": "Pensamiento métrico",
+  "tema": "Velocidad media y aceleración media",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Resuelve problemas que involucran el significado de medidas de magnitudes relacionales (velocidad media, aceleración media) a partir de tablas, gráficas y expresiones algebraicas.",
+  "meta_en": null,
+  "ruta": "Al arrojar piedras a un lago de aguas tranquilas se van formando ondas circulares concéntricas, las cuales van aumentando de tamaño a medida que transcurre el tiempo. Una onda exterior tiene un radio de 80 cm y la rapidez con la que aumenta su radio es de 0,3 m/s. El aumento del tamaño de las ondas significa que aumenta el radio y por lo tanto el área de los círculos concéntricos. Discute la rapidez con la cual aumenta el área del círculo formado por la onda. Completa la tabla calculando la rapidez con la que aumenta el área de las ondas, para t = 1, 2, 3, respectivamente. Compara, a partir de gráficas cartesianas, el cambio de radio, de la rapidez de cambio del radio, el cambio de las áreas y la rapidez del cambio de área. Radio (m) Área del Tiempo Rapidez círculo (m) (seg) (m/s) 0,1 1 2 0,09 π 3 Discute sobre las magnitudes que son razones de otras magnitudes, sus unidades y la solución de ecuaciones.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-10-03-E1",
+    "texto": "Reconoce la relación funcional entre variables asociadas a problemas."
+   },
+   {
+    "codigo": "MAT-DBA-10-03-E2",
+    "texto": "Interpreta y expresa magnitudes definidas como razones entre magnitudes (velocidad, aceleración, etc.), con las unidades respectivas y las relaciones entre ellas."
+   },
+   {
+    "codigo": "MAT-DBA-10-03-E3",
+    "texto": "Utiliza e interpreta la razón de cambio para resolver problemas relacionados con magnitudes como velocidad, aceleración."
+   },
+   {
+    "codigo": "MAT-DBA-10-03-E4",
+    "texto": "Explica las respuestas y resultados en un problema usando las expresiones algebraicas y la pertinencia de las unidades utilizadas en los cálculos."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-10.11-PM-01",
+   "MAT-EBC-10.11-PM-02",
+   "MAT-EBC-10.11-PM-03"
+  ],
+  "fuente_pagina": 75
+ },
+ {
+  "codigo": "MAT-DBA-10-04",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 10,
+  "modulo": 4,
+  "eje": "Pensamiento variacional",
+  "tema": "Funciones periódicas",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Comprende y utiliza funciones para modelar fenómenos periódicos y justifica las soluciones.",
+  "meta_en": null,
+  "ruta": "Construye un disco de radio 12 cm con diferentes colores, de tal forma que cada franja de color se encuentre a una distancia determinada con respecto al centro del disco. El primer color (azul claro) se encuentra desde el centro del disco hasta un radio de 5 cm y los demás colores tienen un ancho de un centímetro. Representa en un plano cartesiano el movimiento que realiza una marca que se hace en algunos de las franjas del disco, cuando éste se hace girar. El centro del disco de colores está en (0, 0). Determina los tiempos en los que la marca gira 30° más a partir de su posición de inicio a =0° y realiza la gráfica para estas dos variables hasta una vuelta completa del disco.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-10-04-E1",
+    "texto": "Reconoce el significado de las razones trigonométricas en un triángulo rectángulo para ángulos agudos, en particular, seno, coseno y tangente."
+   },
+   {
+    "codigo": "MAT-DBA-10-04-E2",
+    "texto": "Explora, en una situación o fenómeno de variación periódica, valores, condiciones, relaciones o comportamientos, a través de diferentes representaciones."
+   },
+   {
+    "codigo": "MAT-DBA-10-04-E3",
+    "texto": "Calcula algunos valores de las razones seno y coseno para ángulos no agudos, auxiliándose de ángulos de referencia inscritos en el círculo unitario."
+   },
+   {
+    "codigo": "MAT-DBA-10-04-E4",
+    "texto": "Reconoce algunas aplicaciones de las funciones trigonométricas en el estudio de fenómenos diversos de variación periódica, por ejemplo: movimiento circular, movimiento del péndulo, del pistón, ciclo de la respiración, entre otros."
+   },
+   {
+    "codigo": "MAT-DBA-10-04-E5",
+    "texto": "Modela fenómenos periódicos a través de funciones trigonométricas."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-10.11-PV-01",
+   "MAT-EBC-10.11-PV-02",
+   "MAT-EBC-10.11-PV-03",
+   "MAT-EBC-10.11-PV-04"
+  ],
+  "fuente_pagina": 76
+ },
+ {
+  "codigo": "MAT-DBA-10-05",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 10,
+  "modulo": 5,
+  "eje": "Pensamiento espacial",
+  "tema": "Lugares geométricos y transformaciones",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Explora y describe las propiedades de los lugares geométricos y de sus transformaciones a partir de diferentes representaciones.",
+  "meta_en": null,
+  "ruta": "Con un software de geometría dinámica y mediante la escritura de las ecuaciones diseña la imagen de la figura. Realiza su propio diseño. Realiza un vídeo (editor de videos Windows Movie Maker de office o Virtual Dub) acerca del paso a paso del diseño. En caso de no contar con un software de geometría dinámica realiza en papel milimetrado la construcción.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-10-05-E1",
+    "texto": "Localiza objetos geométricos en el plano cartesiano."
+   },
+   {
+    "codigo": "MAT-DBA-10-05-E2",
+    "texto": "Identifica las propiedades de lugares geométricos a través de sus representación en un sistema de referencia."
+   },
+   {
+    "codigo": "MAT-DBA-10-05-E3",
+    "texto": "Utiliza las expresiones simbólicas de las cónicas y propone los rangos de variación para obtener una gráfica requerida."
+   },
+   {
+    "codigo": "MAT-DBA-10-05-E4",
+    "texto": "Representa lugares geométricos en el plano cartesiano, a partir de su expresión algebraica."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-10.11-PE-01",
+   "MAT-EBC-10.11-PE-02",
+   "MAT-EBC-10.11-PE-03",
+   "MAT-EBC-10.11-PE-04",
+   "MAT-EBC-10.11-PE-05",
+   "MAT-EBC-10.11-PE-06"
+  ],
+  "fuente_pagina": 76
+ },
+ {
+  "codigo": "MAT-DBA-10-06",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 10,
+  "modulo": 6,
+  "eje": "Pensamiento variacional",
+  "tema": "Razón de cambio",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Comprende y usa el concepto de razón de cambio para estudiar el cambio promedio y el cambio alrededor de un punto y lo reconoce en representaciones gráficas, numéricas y algebraicas.",
+  "meta_en": null,
+  "ruta": "Difusión del sarampión. La difusión del sarampión en cierta escuela está dada por la expresión, 200 P(t)= 1+e (5-t) donde t representa el número de días desde la aparición del sarampión, y P(t) representa el número total de estudiantes que se han contagiado hasta la fecha. Estima tanto el número inicial de estudiantes infectados como el número de estudiantes que se contagiarán. Determina cuándo se presenta la máxima tasa de difusión del sarampión e indica cuál es esa tasa. Nota: Se pide la “máxima tasa” de variación que es diferente al valor máximo para P(t). Una estimación geométrica es posible.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-10-06-E1",
+    "texto": "Utiliza representaciones gráficas o numéricas para tomar decisiones, frente a la solución de problemas prácticos."
+   },
+   {
+    "codigo": "MAT-DBA-10-06-E2",
+    "texto": "Determina la tendencia numérica en relación con problemas prácticos como predicción del comportamiento futuro."
+   },
+   {
+    "codigo": "MAT-DBA-10-06-E3",
+    "texto": "Relaciona características algebraicas de las funciones, sus gráficas y procesos de aproximación sucesiva."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-10.11-PV-01",
+   "MAT-EBC-10.11-PV-02",
+   "MAT-EBC-10.11-PV-03",
+   "MAT-EBC-10.11-PV-04"
+  ],
+  "fuente_pagina": 77
+ },
+ {
+  "codigo": "MAT-DBA-10-07",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 10,
+  "modulo": 7,
+  "eje": "Pensamiento variacional",
+  "tema": "Propiedades de las funciones",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Resuelve problemas mediante el uso de las propiedades de las funciones y usa representaciones tabulares, gráficas y algebraicas para estudiar la variación, la tendencia numérica y las razones de cambio entre magnitudes.",
+  "meta_en": null,
+  "ruta": "Al lanzar un cohete, el combustible se quema durante algunos segundos, acelerando hacia arriba. Después de consumirse el combustible, el cohete sigue ascendiendo durante un tiempo y luego comienza a caer. Una pequeña carga explosiva expulsa un paracaídas poco después que el cohete comienza a descender. El paracaídas evita que el cohete se estrelle. La gráfica muestra los datos de velocidad durante el vuelo. Utiliza la gráfica para determinar: la velocidad del cohete cuando se para el motor, el tiempo de funcionamiento del motor, el tiempo cuando alcanzó el cohete el punto más alto y su velocidad en ese momento. En el momento en que el paracaídas se abrió, determina la velocidad de caída del cohete, el tiempo de caída antes de que se abriera el paracaídas, la velocidad y la aceleración máxima del cohete.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-10-07-E1",
+    "texto": "Utiliza representaciones gráficas o numéricas para tomar decisiones en problemas prácticos."
+   },
+   {
+    "codigo": "MAT-DBA-10-07-E2",
+    "texto": "Usa la pendiente de la recta tangente como razón de cambio, la reconoce y verbaliza en representaciones gráficas, numéricas y algebraicas."
+   },
+   {
+    "codigo": "MAT-DBA-10-07-E3",
+    "texto": "Utiliza la razón entre magnitudes para tomar decisiones sobre el cambio."
+   },
+   {
+    "codigo": "MAT-DBA-10-07-E4",
+    "texto": "Relaciona características algebraicas de las funciones, sus gráficas y procesos de aproximación sucesiva."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-10.11-PV-01",
+   "MAT-EBC-10.11-PV-02",
+   "MAT-EBC-10.11-PV-03",
+   "MAT-EBC-10.11-PV-04"
+  ],
+  "fuente_pagina": 77
+ },
+ {
+  "codigo": "MAT-DBA-10-08",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 10,
+  "modulo": 8,
+  "eje": "Pensamiento aleatorio",
+  "tema": "Muestras aleatorias e inferencia",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Selecciona muestras aleatorias en poblaciones grandes para inferir el comportamiento de las variables en estudio. Interpreta, valora y analiza críticamente los resultados y las inferencias presentadas en estudios estadísticos.",
+  "meta_en": null,
+  "ruta": "Con la información que se presenta tanto en la página web (http://banrep.gov.co/es/encuestaexpectativas-trimestral) como en la siguiente ficha técnica, elabora un informe crítico al estudio realizado por el Banco de la República sobre las expectativas económicas. http://banrep.gov.co/es/encuesta-expectativastrimestral",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-10-08-E1",
+    "texto": "Define la población de la cual va a extraer las muestras."
+   },
+   {
+    "codigo": "MAT-DBA-10-08-E2",
+    "texto": "Define el tamaño y el método de selección de la muestra."
+   },
+   {
+    "codigo": "MAT-DBA-10-08-E3",
+    "texto": "Construye gráficas para representar las distribuciones de los datos muestrales y encuentra los estadígrafos adecuados. Usa software cuando sea posible."
+   },
+   {
+    "codigo": "MAT-DBA-10-08-E4",
+    "texto": "Hace inferencias sobre los parámetros basadas en los estadígrafos calculados."
+   },
+   {
+    "codigo": "MAT-DBA-10-08-E5",
+    "texto": "Hace análisis críticos de las conclusiones de los estudios presentados en medios de comunicación o en artículos científicos."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-10.11-PA-01",
+   "MAT-EBC-10.11-PA-02",
+   "MAT-EBC-10.11-PA-03",
+   "MAT-EBC-10.11-PA-04",
+   "MAT-EBC-10.11-PA-05",
+   "MAT-EBC-10.11-PA-06",
+   "MAT-EBC-10.11-PA-07",
+   "MAT-EBC-10.11-PA-08",
+   "MAT-EBC-10.11-PA-09"
+  ],
+  "fuente_pagina": 78
+ },
+ {
+  "codigo": "MAT-DBA-10-09",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 10,
+  "modulo": 9,
+  "eje": "Pensamiento aleatorio",
+  "tema": "Medidas de tendencia central y de dispersión",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Comprende y explica el carácter relativo de las medidas de tendencias central y de dispersión, junto con algunas de sus propiedades, y la necesidad de complementar una medida con otra para obtener mejores lecturas de los datos.",
+  "meta_en": null,
+  "ruta": "Se realizó un estudio para determinar la durabilidad de dos marcas de llantas para moto, para esto, se escogieron al azar 20 llantas de cada marca y se pusieron a prueba. Los resultados se presentan en las siguientes tablas. No. de Durabilidad Durabilidad llantas de las llantas de las llantas marca 1 marca 2 (meses) (meses) 1 24,3 24,5 2 23,5 25,8 3 25,7 25,7 4 26,5 26,5 5 24,3 24,7 6 24,6 25,4 7 26,2 24,8 8 25,7 25,9 9 24,6 5,4 10 25,4 24,2 11 26,4 24,5 12 24,7 25,2 13 23,2 23,4 14 25,4 25,8 15 24,5 26,9 16 27,1 25,3 17 26,8 23,5 18 23,4 24,4 19 24,8 22,8 20 25,6 21,5 Encuentra la medida que mejor representa los datos, justifica su elección y decide cuál es la marca con mayor durabilidad.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-10-09-E1",
+    "texto": "Encuentra las medidas de tendencia central y de dispersión, usando, cuando sea posible, herramientas tecnológicas."
+   },
+   {
+    "codigo": "MAT-DBA-10-09-E2",
+    "texto": "Interpreta y compara lo que representan cada una de las medidas de tendencia central en un conjunto de datos."
+   },
+   {
+    "codigo": "MAT-DBA-10-09-E3",
+    "texto": "Interpreta y compara lo que representan cada una de las medidas de dispersión en un conjunto de datos."
+   },
+   {
+    "codigo": "MAT-DBA-10-09-E4",
+    "texto": "Usa algunas de las propiedades de las medidas de tendencia central y de dispersión para caracterizar un conjunto de datos."
+   },
+   {
+    "codigo": "MAT-DBA-10-09-E5",
+    "texto": "Formula conclusiones sobre la distribución de un conjunto de datos, empleando más de una medida."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-10.11-PA-01",
+   "MAT-EBC-10.11-PA-02",
+   "MAT-EBC-10.11-PA-03",
+   "MAT-EBC-10.11-PA-04",
+   "MAT-EBC-10.11-PA-05",
+   "MAT-EBC-10.11-PA-06",
+   "MAT-EBC-10.11-PA-07",
+   "MAT-EBC-10.11-PA-08",
+   "MAT-EBC-10.11-PA-09"
+  ],
+  "fuente_pagina": 79
+ },
+ {
+  "codigo": "MAT-DBA-10-10",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 10,
+  "modulo": 10,
+  "eje": "Pensamiento aleatorio",
+  "tema": "Experimentos aleatorios y predicción",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Propone y realiza experimentos aleatorios en contextos de las ciencias naturales o sociales y predice la ocurrencia de eventos, en casos para los cuales el espacio muestral es indeterminado.",
+  "meta_en": null,
+  "ruta": "En una revista médica se menciona lo siguiente: “Se ha estimado que la probabilidad de que una persona fumadora muera de una enfermedad asociada con el consumo del cigarrillo es de aproximadamente 1”. 2 Se trata de describir un método posible por medio del cual se haya podido llegar a este resultado. “Afirma que el estudio se pudo realizar en una muestra aleatoria de la población de personas fumadoras en donde se calculó la probabilidad de que una persona fumadora muera de una enfermedad asociada con el consumo del cigarrillo. Concluye que lo previsible es que en esa muestra el resultado haya sido 1.” 2",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-10-10-E1",
+    "texto": "Plantea o identifica una pregunta cuya solución requiera de la realización de un experimento aleatorio."
+   },
+   {
+    "codigo": "MAT-DBA-10-10-E2",
+    "texto": "Identifica la población y las variables en estudio."
+   },
+   {
+    "codigo": "MAT-DBA-10-10-E3",
+    "texto": "Encuentra muestras aleatorias para hacer predicciones sobre el comportamiento de las variables en estudio."
+   },
+   {
+    "codigo": "MAT-DBA-10-10-E4",
+    "texto": "Usa la probabilidad frecuencial para interpretar la posibilidad de ocurrencia de un evento dado."
+   },
+   {
+    "codigo": "MAT-DBA-10-10-E5",
+    "texto": "Infiere o valida la probabilidad de ocurrencia del evento en estudio."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-10.11-PA-01",
+   "MAT-EBC-10.11-PA-02",
+   "MAT-EBC-10.11-PA-03",
+   "MAT-EBC-10.11-PA-04",
+   "MAT-EBC-10.11-PA-05",
+   "MAT-EBC-10.11-PA-06",
+   "MAT-EBC-10.11-PA-07",
+   "MAT-EBC-10.11-PA-08",
+   "MAT-EBC-10.11-PA-09"
+  ],
+  "fuente_pagina": 79
+ },
+ {
+  "codigo": "MAT-DBA-11-01",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 11,
+  "modulo": 1,
+  "eje": "Pensamiento numérico",
+  "tema": "Los sistemas numéricos",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Utiliza las propiedades de los números (naturales, enteros, racionales y reales) y sus relaciones y operaciones para construir y comparar los distintos sistemas numéricos.",
+  "meta_en": null,
+  "ruta": "Un profesor presenta a sus estudiantes las siguientes imágenes: 0 5 10 15 20 25 30 El profesor pregunta a sus estudiantes: ¿Cuáles aspectos en común tienen las tres representaciones? A la pregunta Federico respondió: “Las tres representan lo mismo, están hablando de los números mayores que cinco”. Sara dijo “Federico, en parte, tiene razón; pero los conjuntos no son los mismos”. Luego, el profesor agregó: “¡Muy bien Sara! Entonces si no son los mismos conjuntos, ¿cuáles serían sus diferencias?, ¿Podrías describirme esos conjuntos?” Finalmente, Carolina después de todo el trabajo dijo: “Yo no he podido entender una cosa, ¿Por qué no es válido que yo diga que de cinco siga el 5.1 o el 5.01? Discute la veracidad de las afirmaciones de Sara y Federico. Ofrece una respuesta a la pregunta de Carolina.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-11-01-E1",
+    "texto": "Describe propiedades de los números y las operaciones que son comunes y diferentes en los distintos sistemas numéricos."
+   },
+   {
+    "codigo": "MAT-DBA-11-01-E2",
+    "texto": "Utiliza la propiedad de densidad para justificar la necesidad de otras notaciones para subconjuntos de los números reales."
+   },
+   {
+    "codigo": "MAT-DBA-11-01-E3",
+    "texto": "Construye representaciones de los conjuntos numéricos y establece relaciones acorde con sus propiedades."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-10.11-PN-01",
+   "MAT-EBC-10.11-PN-02",
+   "MAT-EBC-10.11-PN-03",
+   "MAT-EBC-10.11-PN-04",
+   "MAT-EBC-10.11-PN-05"
+  ],
+  "fuente_pagina": 81
+ },
+ {
+  "codigo": "MAT-DBA-11-02",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 11,
+  "modulo": 2,
+  "eje": "Pensamiento numérico",
+  "tema": "Orden en los reales e inecuaciones",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Justifica la validez de las propiedades de orden de los números reales y las utiliza para resolver problemas analíticos que se modelen con inecuaciones.",
+  "meta_en": null,
+  "ruta": "“Ana una estudiante de undécimo decide resolver una inecuación como se muestra en la siguiente figura: Ana argumenta que para resolver la inecuación, todo lo que está sumando al lado izquierdo se pasa a restar al lado derecho y posteriormente, realiza las operaciones. Luego, termina su ejercicio de la siguiente manera: dice que para despejar la x pasa a multiplicar el 3 a ambos lados”. Analiza los procedimientos propuestos por la estudiante de la situación anterior y valida su solución. En caso de encontrar algún error, construye una nueva solución.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-11-02-E1",
+    "texto": "Utiliza propiedades del producto de números Reales para resolver ecuaciones e inecuaciones."
+   },
+   {
+    "codigo": "MAT-DBA-11-02-E2",
+    "texto": "Interpreta las operaciones en diversos dominios numéricos para validar propiedades de ecuaciones e inecuaciones."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-10.11-PN-01",
+   "MAT-EBC-10.11-PN-02",
+   "MAT-EBC-10.11-PN-03",
+   "MAT-EBC-10.11-PN-04",
+   "MAT-EBC-10.11-PN-05"
+  ],
+  "fuente_pagina": 81
+ },
+ {
+  "codigo": "MAT-DBA-11-03",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 11,
+  "modulo": 3,
+  "eje": "Pensamiento métrico",
+  "tema": "Medición, estimación y razón de cambio",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Utiliza instrumentos, unidades de medida, sus relaciones y la noción de derivada como razón de cambio, para resolver problemas, estimar cantidades y juzgar la pertinencia de las soluciones de acuerdo al contexto.",
+  "meta_en": null,
+  "ruta": "Desde la terraza de un edificio con una altura (h ) o de 40 metros, se lanza un balón verticalmente hacia arriba con una velocidad inicial (V ) de o 19m/s. La altura H que alcanza el balón en un tiempo t (en segundos) se puede calcular con la expresión. H=-4,9t+V t + h o o Discute el significado y las unidades del número -4,9. Explica la relación entre las unidades de las magnitudes involucradas en la expresión para calcular la altura, de manera que ésta quede expresada en metros. Explica por qué la velocidad se expresa en m/s y la aceleración en m/s. Explica el sentido de la afirmación “la expresión para H representa la gráfica de una parábola en el sistema de coordenadas H contra t, pero el movimiento de caída libre puede ser vertical cuando se suelta un objeto desde cierta altura”.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-11-03-E1",
+    "texto": "Reconoce magnitudes definidas como razones entre otras magnitudes."
+   },
+   {
+    "codigo": "MAT-DBA-11-03-E2",
+    "texto": "Interpreta y expresa magnitudes como velocidad y aceleración, con las unidades respectivas y las relaciones entre ellas."
+   },
+   {
+    "codigo": "MAT-DBA-11-03-E3",
+    "texto": "Utiliza e interpreta la derivada para resolver problemas relacionados con la variación y la razón de cambio de funciones que involucran magnitudes como velocidad, aceleración, longitud, tiempo."
+   },
+   {
+    "codigo": "MAT-DBA-11-03-E4",
+    "texto": "Explica las respuestas y resultados en un problema usando las expresiones algebraicas y la pertinencia de las unidades utilizadas en los cálculos."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-10.11-PM-01",
+   "MAT-EBC-10.11-PM-02",
+   "MAT-EBC-10.11-PM-03"
+  ],
+  "fuente_pagina": 82
+ },
+ {
+  "codigo": "MAT-DBA-11-04",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 11,
+  "modulo": 4,
+  "eje": "Pensamiento métrico",
+  "tema": "Precisión en las mediciones",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Interpreta y diseña técnicas para hacer mediciones con niveles crecientes de precisión (uso de diferentes instrumentos para la misma medición, revisión de escalas y rangos de medida, estimaciones, verificaciones a través de mediciones indirectas).",
+  "meta_en": null,
+  "ruta": "En una fábrica se requiere cortar láminas de acero para fabricar piezas de diferentes formas (cilindros, conos truncados, pirámides truncadas, prismas, etc). Los cortes de dichas láminas se realizan con “discos de corte” acoplados a una máquina pulidora. Para establecer la eficiencia de un mecánico industrial al hacer los cortes, se toman los datos que aparecen en la tabla (la longitud de la lámina cortada se mide con un flexómetro en mm; el tiempo se mide con un cronómetro en minutos, el procedimiento se realiza para 4 discos de la misma marca y el mismo diámetro). Disco Rendimiento productivo: Tiempo Longitud de Lámina cortada (mm) (min) 1 2060 2.23 2 2070 2.45 3 2030 2.17 4 2080 2.65 Los datos fueron tomados en un contexto real de la industria. Determina la rapidez media con la que el mecánico corta las láminas. De acuerdo con el gráfico determina la precisión de la rapidez media del mecánico para cortar las láminas. Identifica y explica los factores que influyen en la precisión de la rapidez del mecánico para realizar los cortes, y propone técnicas para medir con mayor precisión la rapidez del mecánico al cortar las láminas.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-11-04-E1",
+    "texto": "Interpreta la rapidez como una razón de cambio entre dos cantidades."
+   },
+   {
+    "codigo": "MAT-DBA-11-04-E2",
+    "texto": "Justifica la precisión de una medición directa o indirecta de acuerdo con información suministrada en gráficas y tablas."
+   },
+   {
+    "codigo": "MAT-DBA-11-04-E3",
+    "texto": "Establece conclusiones pertinentes con respecto a la precisión de mediciones en contextos específicos (científicos, industriales)."
+   },
+   {
+    "codigo": "MAT-DBA-11-04-E4",
+    "texto": "Determina las unidades e instrumentos adecuados para mejorar la precisión en las mediciones."
+   },
+   {
+    "codigo": "MAT-DBA-11-04-E5",
+    "texto": "Reconoce la diferencia entre la precisión y la exactitud en procesos de medición."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-10.11-PM-01",
+   "MAT-EBC-10.11-PM-02",
+   "MAT-EBC-10.11-PM-03"
+  ],
+  "fuente_pagina": 83
+ },
+ {
+  "codigo": "MAT-DBA-11-05",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 11,
+  "modulo": 5,
+  "eje": "Pensamiento variacional",
+  "tema": "La derivada como razón de cambio y pendiente",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Interpreta la noción de derivada como razón de cambio y como valor de la pendiente de la tangente a una curva y desarrolla métodos para hallar las derivadas de algunas funciones básicas en contextos matemáticos y no matemáticos.",
+  "meta_en": null,
+  "ruta": "Cuando un atleta recorre cierta distancia se puede suponer que su velocidad no es constante, que a partir del momento en que sale empieza a aumentar su velocidad hasta un pico máximo y que disminuye progresivamente hasta el final. Si se admite que la ecuación F(t) = 0.00192t(250– t) Representa la distancia recorrida por el atleta en metros cuando lleva t segundos. Averigua la distancia que ha recorrido cuando alcanza la mayor velocidad. Usa la derivada para construir un argumento.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-11-05-E1",
+    "texto": "Relaciona la noción derivada con características numéricas, geométricas y métricas."
+   },
+   {
+    "codigo": "MAT-DBA-11-05-E2",
+    "texto": "Utiliza la derivada para estudiar la covariación entre dos magnitudes y relaciona características de la derivada con características de la función."
+   },
+   {
+    "codigo": "MAT-DBA-11-05-E3",
+    "texto": "Halla la derivada de algunas funciones empleando métodos gráficos y numéricos."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-10.11-PV-01",
+   "MAT-EBC-10.11-PV-02",
+   "MAT-EBC-10.11-PV-03",
+   "MAT-EBC-10.11-PV-04"
+  ],
+  "fuente_pagina": 84
+ },
+ {
+  "codigo": "MAT-DBA-11-06",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 11,
+  "modulo": 6,
+  "eje": "Pensamiento espacial",
+  "tema": "Sistemas de coordenadas",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Modela objetos geométricos en diversos sistemas de coordenadas (cartesiano, polar, esférico) y realiza comparaciones y toma decisiones con respecto a los modelos.",
+  "meta_en": null,
+  "ruta": "La naturaleza tiene formas curvas que revelan regularidades geométricas muy hermosas. Algunas de ellas se perciben en las flores, las mariposas, los caracoles y otros animales o plantas como se aprecia en las siguientes imágenes. Con el apoyo de un software matemático o de papel milimetrado, realiza una representación aproximada de cada una de las formas que se presentan en los diferentes sistemas de coordenadas. Tomado y modificado de Pérez, N. J. C., & Gutiérrez, R. W. S. (2012). Coordenadas polares: curvas maravillosas. En Blanco y Negro, 1(1), 1-27. http://ezproxybib.pucp. edu.pe/index.php/enblancoynegro/article/view/2191",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-11-06-E1",
+    "texto": "Reconoce y utiliza distintos sistemas de coordenadas para modelar."
+   },
+   {
+    "codigo": "MAT-DBA-11-06-E2",
+    "texto": "Compara objetos geométricos, a partir de puntos de referencia diferentes."
+   },
+   {
+    "codigo": "MAT-DBA-11-06-E3",
+    "texto": "Explora el entorno y lo representa mediante diversos sistemas de coordenadas."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-10.11-PE-01",
+   "MAT-EBC-10.11-PE-02",
+   "MAT-EBC-10.11-PE-03",
+   "MAT-EBC-10.11-PE-04",
+   "MAT-EBC-10.11-PE-05",
+   "MAT-EBC-10.11-PE-06"
+  ],
+  "fuente_pagina": 84
+ },
+ {
+  "codigo": "MAT-DBA-11-07",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 11,
+  "modulo": 7,
+  "eje": "Pensamiento variacional",
+  "tema": "Modelos funcionales y variación",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Usa propiedades y modelos funcionales para analizar situaciones y para establecer relaciones funcionales entre variables que permiten estudiar la variación en situaciones intraescolares y extraescolares.",
+  "meta_en": null,
+  "ruta": "Una araña ubicada en una esquina quiere cazar a una mosca que está ubicada en la esquina inferior izquierda de una caja cúbica cuyo lado mide un metro. La araña usará un camino recto señalado en línea punteada. Encuentra el camino más corto que ha de seguir la araña para llegar hasta la mosca.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-11-07-E1",
+    "texto": "Plantea modelos funcionales en los que identifica variables y rangos de variación de las variables."
+   },
+   {
+    "codigo": "MAT-DBA-11-07-E2",
+    "texto": "Relaciona el signo de la derivada con características numéricas, geométricas y métricas."
+   },
+   {
+    "codigo": "MAT-DBA-11-07-E3",
+    "texto": "Utiliza la derivada para estudiar la variación y relaciona características de la derivada con características de la función."
+   },
+   {
+    "codigo": "MAT-DBA-11-07-E4",
+    "texto": "Relaciona características algebraicas de las funciones, sus gráficas y procesos de aproximación sucesiva."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-10.11-PV-01",
+   "MAT-EBC-10.11-PV-02",
+   "MAT-EBC-10.11-PV-03",
+   "MAT-EBC-10.11-PV-04"
+  ],
+  "fuente_pagina": 85
+ },
+ {
+  "codigo": "MAT-DBA-11-08",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 11,
+  "modulo": 8,
+  "eje": "Pensamiento variacional",
+  "tema": "Derivadas de funciones",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Encuentra derivadas de funciones, reconoce sus propiedades y las utiliza para resolver problemas.",
+  "meta_en": null,
+  "ruta": "[1] Un avión vuela a una altitud H cuando comienza su descenso a una pista de aeropuerto que está a una distancia L del avión, con respecto al suelo, como se muestra en la figura. Asume que la trayectoria de aterrizaje se representa con la gráfica de una función polinomial cúbica y= ax+bx+ cx +d, donde y(-L)=H, y(0)=0. dy Encuentra el valor de en x=0 y el valor de dx dy d y en x=-L? en x=-L? dx dx dy Utiliza los valores de en x=0 y en x=-L junto dx con y(0)=0 y y(-L)=H para mostrar que y(x)=H 2(x)+3(x) L L [1]Tomado de Cálculo de una variable. Finney, Demana, Waits y Kennedy. Prentice Hall Segunda Edición. 2000.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-11-08-E1",
+    "texto": "Utiliza la derivada para estudiar la variación y relaciona características de la derivada con características de la función."
+   },
+   {
+    "codigo": "MAT-DBA-11-08-E2",
+    "texto": "Relaciona características algebraicas de las funciones, sus gráficas y procesos de aproximación sucesiva."
+   },
+   {
+    "codigo": "MAT-DBA-11-08-E3",
+    "texto": "Calcula derivadas de funciones."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-10.11-PV-01",
+   "MAT-EBC-10.11-PV-02",
+   "MAT-EBC-10.11-PV-03",
+   "MAT-EBC-10.11-PV-04"
+  ],
+  "fuente_pagina": 85
+ },
+ {
+  "codigo": "MAT-DBA-11-09",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 11,
+  "modulo": 9,
+  "eje": "Pensamiento aleatorio",
+  "tema": "Asociación y correlación entre variables",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Plantea y resuelve situaciones problemáticas del contexto real y/o matemático que implican la exploración de posibles asociaciones o correlaciones entre las variables estudiadas.",
+  "meta_en": null,
+  "ruta": "Revista CA CIENTIFÕ gos y los antropÛlo usan las ìLos ntÛlogos huesos paleo des de los el longitu os como s larg ro para fÛsile el h ̇me del fÈmur y laestatura calcular estudioî. iduo en indiv 8 En un artículo de ciencias se afirma que: “los antropólogos y los paleontólogos usan las longitudes de los huesos fósiles largos como el fémur y el húmero para calcular la estatura del individuo en estudio”. Diseña y lleva a cabo un estudio estadístico para comprobar si se puede demostrar que existe una relación entre la estatura y la longitud de los huesos largos entre los seres humanos.",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-11-09-E1",
+    "texto": "En situaciónes matemáticas plantea preguntas que indagan por la correlación o la asociación entre variables."
+   },
+   {
+    "codigo": "MAT-DBA-11-09-E2",
+    "texto": "Define el plan de recolección de la información, en el que se incluye: definición de población y muestra, método para recolectar la información (encuestas, observaciones o experimentos simples), variables a estudiar."
+   },
+   {
+    "codigo": "MAT-DBA-11-09-E3",
+    "texto": "Elabora gráficos de dispersión usando software adecuado como Excel y analiza las relaciones que se visibilizan en el gráfico."
+   },
+   {
+    "codigo": "MAT-DBA-11-09-E4",
+    "texto": "Expresa cualitativamente las relaciones entre las variables, para lo cual utiliza su conocimiento de los modelos lineales."
+   },
+   {
+    "codigo": "MAT-DBA-11-09-E5",
+    "texto": "Usa adecuadamente la desviación estándar, la media el coeficiente de variación y el de correlación para dar respuesta a la pregunta planteada."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-10.11-PA-01",
+   "MAT-EBC-10.11-PA-02",
+   "MAT-EBC-10.11-PA-03",
+   "MAT-EBC-10.11-PA-04",
+   "MAT-EBC-10.11-PA-05",
+   "MAT-EBC-10.11-PA-06",
+   "MAT-EBC-10.11-PA-07",
+   "MAT-EBC-10.11-PA-08",
+   "MAT-EBC-10.11-PA-09"
+  ],
+  "fuente_pagina": 86
+ },
+ {
+  "codigo": "MAT-DBA-11-10",
+  "area": "matematicas",
+  "unidad": "DBA",
+  "grado": 11,
+  "modulo": 10,
+  "eje": "Pensamiento aleatorio",
+  "tema": "Eventos independientes y probabilidad condicional",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Plantea y resuelve problemas en los que se reconoce cuando dos eventos son o no independientes y usa la probabilidad condicional para comprobarlo.",
+  "meta_en": null,
+  "ruta": "Los resultados de la encuesta realizada con personas entre 14 a 17 años de edad, seleccionadas al azar, se presentan en la siguiente tabla: Preferencia Género TOTAL Hombres Mujeres Deportes 90 88 178 Música 93 74 167 TOTAL 183 162 345 Plantea una pregunta sobre la relación entre las dos variables que se presentan en la tabla, indica si las dos variables (género y preferencia) son o no independientes y da respuesta a la pregunta planteada. disponible desde noviembre de 2016 nuevos ajustes en 2017. hasta la realización de los Centro Administrativo Bogotá Conmutador: Línea gratuita Línea gratuita Bogotá www.mineducacion.gov.co Ministerio de Calle 43 No 57-14 Nacional, CAN D.C. – Colombia (+571) 2222800 Fax: (+571) 2222800 fuera de Bogotá 018000910122 (+571) 2220206 @Mineducación Educación Nacional",
+  "evidencias": [
+   {
+    "codigo": "MAT-DBA-11-10-E1",
+    "texto": "Propone problemas a estudiar en variedad de situaciones aleatorias."
+   },
+   {
+    "codigo": "MAT-DBA-11-10-E2",
+    "texto": "Reconoce los diferentes eventos que se proponen en una situación o problema."
+   },
+   {
+    "codigo": "MAT-DBA-11-10-E3",
+    "texto": "Interpreta y asigna la probabilidad de cada evento."
+   },
+   {
+    "codigo": "MAT-DBA-11-10-E4",
+    "texto": "Usa la probabilidad condicional de cada evento para decidir si son o no independientes."
+   }
+  ],
+  "estandares": [
+   "MAT-EBC-10.11-PA-01",
+   "MAT-EBC-10.11-PA-02",
+   "MAT-EBC-10.11-PA-03",
+   "MAT-EBC-10.11-PA-04",
+   "MAT-EBC-10.11-PA-05",
+   "MAT-EBC-10.11-PA-06",
+   "MAT-EBC-10.11-PA-07",
+   "MAT-EBC-10.11-PA-08",
+   "MAT-EBC-10.11-PA-09"
+  ],
+  "fuente_pagina": 86
+ }
+]

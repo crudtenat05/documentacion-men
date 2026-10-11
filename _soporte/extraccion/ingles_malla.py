@@ -210,6 +210,20 @@ def main():
     if errores:
         sys.exit('\n'.join(errores))
 
+    # DBA de Inglés por grado. El MEN dice que no están en un orden particular, que «no corresponde[n] a una actividad
+    # ni a una clase» y que las actividades «idealmente deben, involucrar varios DBA de un mismo grado» (DBA de Inglés,
+    # p. 8). Por eso cada módulo lleva todos los DBA de su grado, en vez de un reparto que el MEN no hace.
+    dba = json.loads((SALIDA / 'dba.json').read_text(encoding='utf-8'))
+    for m in modulos:
+        del_grado = [d for d in dba if d['grado'] == int(m['grado'])]
+        if not del_grado:
+            sys.exit(f'{m["codigo"]}: no hay DBA de grado {m["grado"]} en dba.json')
+        m['dba'] = [{'codigo': d['codigo'], 'enunciado': d['enunciado'],
+                     'evidencias': [{'codigo': e['codigo'], 'texto': e['texto']} for e in d['evidencias']],
+                     'pagina': d.get('pagina_pdf')} for d in del_grado]
+        m['dba_nota'] = ('Los DBA del grado se trabajan juntos a lo largo del año: el MEN indica que no siguen un orden '
+                         'y que cada actividad idealmente involucra varios DBA del mismo grado (DBA de Inglés, p. 8).')
+
     SALIDA.mkdir(parents=True, exist_ok=True)
     (SALIDA / 'estandares.json').write_text(json.dumps(estandares, ensure_ascii=False, indent=1) + '\n', encoding='utf-8')
     (SALIDA / 'malla.json').write_text(json.dumps(modulos, ensure_ascii=False, indent=1) + '\n', encoding='utf-8')

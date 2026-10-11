@@ -1,0 +1,1722 @@
+[
+ {
+  "codigo": "LEN-DBA-6-01",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 6,
+  "modulo": 1,
+  "eje": "Medios de comunicación",
+  "tema": "Información de los medios de comunicación",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Utiliza la información ofrecida por los medios de comunicación, teniendo en cuenta el mensaje, los interlocutores, la intencionalidad y el contexto de producción, para participar en los procesos comunicativos de su entorno.",
+  "meta_en": null,
+  "ruta": "u Indaga en periódicos, revistas, programas radiales o televisivos sobre acontecimientos importantes que están sucediendo en el mundo. u Selecciona un tema para producir un texto al interior de un medio de comunicación como la emisora del colegio, el periódico mural del barrio, un blog, una revista u otro que tenga en su entorno.",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-6-01-E1",
+    "texto": "Reconoce una visión particular de mundo de las distintas interlocuciones a las que accede en los medios de comunicación."
+   },
+   {
+    "codigo": "LEN-DBA-6-01-E2",
+    "texto": "Interpreta los mensajes que circulan en los medios de comunicación de su contexto."
+   },
+   {
+    "codigo": "LEN-DBA-6-01-E3",
+    "texto": "Busca información específica en los contenidos emitidos por diversos medios de comunicación."
+   },
+   {
+    "codigo": "LEN-DBA-6-01-E4",
+    "texto": "Retoma los formatos empleados por algunos medios de comunicación y los emplea como modelos para sus elaboraciones textuales."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-6.7-MC-01"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 28
+ },
+ {
+  "codigo": "LEN-DBA-6-02",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 6,
+  "modulo": 2,
+  "eje": "Otros sistemas simbólicos",
+  "tema": "Organizadores gráficos",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Crea organizadores gráficos en los que integra signos verbales y no verbales para dar cuenta de sus conocimientos.",
+  "meta_en": null,
+  "ruta": "Para la creación de un organizador gráfico: u Expone una temática mediante textos que relacionan imágenes y esquemas.",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-6-02-E1",
+    "texto": "Utiliza los organizadores gráficos para procesar la información que encuentra en diferentes fuentes."
+   },
+   {
+    "codigo": "LEN-DBA-6-02-E2",
+    "texto": "Expone sus ideas en torno a un tema específico mediante organizadores gráficos."
+   },
+   {
+    "codigo": "LEN-DBA-6-02-E3",
+    "texto": "Interpreta signos no verbales presentes en algunos textos gráficos, tales como mapas de ideas, cuadros sinópticos, planos, infografías y esquemas."
+   },
+   {
+    "codigo": "LEN-DBA-6-02-E4",
+    "texto": "Reconoce cómo se relacionan y estructuran los símbolos, colores, señales e imágenes en los organizadores gráficos."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-6.7-MC-02"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 28
+ },
+ {
+  "codigo": "LEN-DBA-6-03",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 6,
+  "modulo": 3,
+  "eje": "Literatura",
+  "tema": "La obra literaria y la imaginación",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Reconoce las obras literarias como una posibilidad de circulación del conocimiento y de desarrollo de su imaginación.",
+  "meta_en": null,
+  "ruta": "u Comprende y produce obras literarias a partir del análisis de elementos como:",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-6-03-E1",
+    "texto": "Comprende que las obras literarias se enmarcan en contextos culturales e históricos que promueven la circulación de ciertos conocimientos."
+   },
+   {
+    "codigo": "LEN-DBA-6-03-E2",
+    "texto": "Interpreta los argumentos y temáticas que se enuncian en las obras literarias para crear nuevos textos."
+   },
+   {
+    "codigo": "LEN-DBA-6-03-E3",
+    "texto": "Define elementos literarios tales como personajes, lugar, tiempo, sentimientos acciones al interior de una obra literaria."
+   },
+   {
+    "codigo": "LEN-DBA-6-03-E4",
+    "texto": "Reconoce que elementos como el ritmo y la rima se emplean para comunicar sentimientos o emociones cuando se declaman textos poéticos."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-6.7-LI-01",
+   "LEN-EBC-6.7-LI-02"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 29
+ },
+ {
+  "codigo": "LEN-DBA-6-04",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 6,
+  "modulo": 4,
+  "eje": "Literatura",
+  "tema": "Expresiones regionales en la literatura",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Identifica algunas expresiones de diferentes regiones y contextos en las obras literarias.",
+  "meta_en": null,
+  "ruta": "Frente a obras pertenecientes a diferentes contextos: Identifica las expresiones de su región y las compara con las de otras regiones: Extracto de: IE Normal Superior La Inmaculada. (2016). Negro he sido, negro soy, negro vengo, negro voy. Bogotá: Ministerio de Educación Nacional; Save the children.",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-6-04-E1",
+    "texto": "Reconoce que en las obras literarias se recrea la cultura propia de diferentes regiones."
+   },
+   {
+    "codigo": "LEN-DBA-6-04-E2",
+    "texto": "Comprende el sentido que tienen algunas expresiones populares al interior de las obras literarias."
+   },
+   {
+    "codigo": "LEN-DBA-6-04-E3",
+    "texto": "Clasifica expresiones formales y populares de la lengua en textos literarios."
+   },
+   {
+    "codigo": "LEN-DBA-6-04-E4",
+    "texto": "Recita textos literarios en los que se emplean expresiones populares con diferentes matices de voz."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-6.7-LI-01",
+   "LEN-EBC-6.7-LI-02"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 29
+ },
+ {
+  "codigo": "LEN-DBA-6-05",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 6,
+  "modulo": 5,
+  "eje": "Literatura",
+  "tema": "Obras de la tradición popular",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Interpreta obras de la tradición popular propias de su entorno.",
+  "meta_en": null,
+  "ruta": "Durante el análisis de refranes, trovas o dichos populares de las diferentes regiones de Colombia: u Comprende el contenido y la estructura de refranes, trovas o dichos populares. u Recita refranes, trovas o dichos populares atendiendo a su estructura.",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-6-05-E1",
+    "texto": "Reconoce el componente cultural en coplas, trovas y refranes."
+   },
+   {
+    "codigo": "LEN-DBA-6-05-E2",
+    "texto": "Distingue los sentidos de expresiones literales y figuradas que circulan en obras de la tradición popular."
+   },
+   {
+    "codigo": "LEN-DBA-6-05-E3",
+    "texto": "Comprende los elementos líricos y las temáticas usadas en las expresiones artísticas de su entorno."
+   },
+   {
+    "codigo": "LEN-DBA-6-05-E4",
+    "texto": "Identifica la estructura de los textos de la tradición oral y las semejanzas con otro tipo de composiciones."
+   },
+   {
+    "codigo": "LEN-DBA-6-05-E5",
+    "texto": "Identifica los elementos líricos que acompañan la pronunciación de expresiones populares."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-6.7-LI-01",
+   "LEN-EBC-6.7-LI-02"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 30
+ },
+ {
+  "codigo": "LEN-DBA-6-06",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 6,
+  "modulo": 6,
+  "eje": "Comprensión e interpretación textual",
+  "tema": "Comprensión de tipos de texto",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Comprende diversos tipos de texto, a partir del análisis de sus contenidos, características formales e intenciones comunicativas.",
+  "meta_en": null,
+  "ruta": "Realiza un análisis de la intención comunicativa, las ideas centrales y la función de los signos: Palacios, A. (2010). Las estrellas son negras. Bogotá: Ministerio de Cultura. Recuperado de: www.banrepcultural.org",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-6-06-E1",
+    "texto": "Infiere la intención comunicativa de los textos (narrar, informar, exponer, argumentar, describir) a partir de las circunstancias en que han sido creados."
+   },
+   {
+    "codigo": "LEN-DBA-6-06-E2",
+    "texto": "Reconoce que los textos son el resultado de un grupo de párrafos que desarrollan ideas con diferente jerarquía y que están relacionados entre sí por un contenido general."
+   },
+   {
+    "codigo": "LEN-DBA-6-06-E3",
+    "texto": "Interpreta la función de elementos no verbales en el sentido del texto, como uso de negrita, corchetes, comillas, guiones, entre otros."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-6.7-CI-01"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 30
+ },
+ {
+  "codigo": "LEN-DBA-6-07",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 6,
+  "modulo": 7,
+  "eje": "Oralidad",
+  "tema": "Discursos orales según el contexto",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Produce discursos orales y los adecúa a las circunstancias del contexto: el público, la intención comunicativa y el tema a desarrollar.",
+  "meta_en": null,
+  "ruta": "Para preparar la producción de un discurso oral:",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-6-07-E1",
+    "texto": "Analiza el público a quien se dirige y las exigencias propias del contexto para producir textos orales."
+   },
+   {
+    "codigo": "LEN-DBA-6-07-E2",
+    "texto": "Selecciona las ideas que emplea en un discurso oral."
+   },
+   {
+    "codigo": "LEN-DBA-6-07-E3",
+    "texto": "Ordena su discurso de manera lógica para facilitar la comprensión de sus interlocutores."
+   },
+   {
+    "codigo": "LEN-DBA-6-07-E4",
+    "texto": "Adecúa las cualidades de la voz (volumen, tono) para dar expresividad a sus producciones orales."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-6.7-PT-01",
+   "LEN-EBC-6.7-EC-01"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 31
+ },
+ {
+  "codigo": "LEN-DBA-6-08",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 6,
+  "modulo": 8,
+  "eje": "Producción textual",
+  "tema": "Producción de textos según el destinatario",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Produce diversos tipos de texto atendiendo a los destinatarios, al medio en que se escribirá y a los propósitos comunicativos.",
+  "meta_en": null,
+  "ruta": "Frente a una situación de comunicación específica como la producción de un diario de viaje: u Recopila información sobre un viaje, o una visita, a un lugar diferente a la casa, barrio o localidad. u Escribe todas las ideas sobre el viaje, tratando de hacer descripciones detalladas sobre el lugar, por ejemplo: la fecha, el clima, el paisaje y el vestuario de las personas. u Escribe el texto teniendo en cuenta que el propósito comunicativo es el de narrar. u Revisa la concordancia de las oraciones empleadas en el escrito. u Ilustra con un dibujo o una fotografía el texto sobre el viaje.",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-6-08-E1",
+    "texto": "Elige, entre diversos tipos de texto, aquel que mejor se adecúa al propósito comunicativo del texto que debe escribir."
+   },
+   {
+    "codigo": "LEN-DBA-6-08-E2",
+    "texto": "Consulta diversas fuentes para nutrir sus textos, y comprende el sentido de lo que escribe atendiendo a factores como el contexto, la temática y el propósito comunicativo."
+   },
+   {
+    "codigo": "LEN-DBA-6-08-E3",
+    "texto": "Tiene en cuenta las concordancias gramaticales entre los elementos de la oración (género, número) al momento de escribir textos."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-6.7-PT-02"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 31
+ },
+ {
+  "codigo": "LEN-DBA-7-01",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 7,
+  "modulo": 1,
+  "eje": "Medios de comunicación",
+  "tema": "Clasificación de la información de los medios",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Clasifica la información que circula en los medios de comunicación con los que interactúa y la retoma como referente para sus producciones discursivas.",
+  "meta_en": null,
+  "ruta": "u Elige una temática de actualidad y rastrea la información que encuentra sobre ella en diferentes medios de comunicación: prensa impresa o electrónica, noticieros, revistas o programas radiales. u Relaciona la información más relevante en el siguiente formato: Periódico Noticiero Periódico Noticiero local de la noche nacional radial u Con base en la información recolectada, escribe una carta al lector para contradecir o apoyar una de las publicaciones revisadas.",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-7-01-E1",
+    "texto": "Recoge información con el fin de expresar su punto de vista frente a los medios de comunicación con los que interactúa."
+   },
+   {
+    "codigo": "LEN-DBA-7-01-E2",
+    "texto": "Selecciona la información principal que encuentra en los diferentes medios de comunicación y la utiliza para apoyar sus producciones."
+   },
+   {
+    "codigo": "LEN-DBA-7-01-E3",
+    "texto": "Analiza la estructura de la información que circula por los medios de comunicación y la emplea como soporte para sus producciones discursivas."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-6.7-MC-01"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 32
+ },
+ {
+  "codigo": "LEN-DBA-7-02",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 7,
+  "modulo": 2,
+  "eje": "Otros sistemas simbólicos",
+  "tema": "Sistemas verbales y no verbales",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Reconoce las diferencias y semejanzas entre sistemas verbales y no verbales para utilizarlos en contextos escolares y sociales.",
+  "meta_en": null,
+  "ruta": "Para comprender textos que emplean sistemas verbales y no verbales de comunicación: u Reconoce el sentido que tienen elementos como:",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-7-02-E1",
+    "texto": "Comprende la intención comunicativa de textos que contienen segmentos verbales y no verbales."
+   },
+   {
+    "codigo": "LEN-DBA-7-02-E2",
+    "texto": "Interpreta los mensajes difundidos por medio de sistemas verbales y no verbales del contexto."
+   },
+   {
+    "codigo": "LEN-DBA-7-02-E3",
+    "texto": "Reconoce la organización de los sistemas verbales y no verbales en el contexto y cómo estos contribuyen a dar sentido a los mensajes."
+   },
+   {
+    "codigo": "LEN-DBA-7-02-E4",
+    "texto": "Comprende que los gestos permiten complementar los mensajes y ayudan en la construcción de sentido por parte del interlocutor."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-6.7-MC-02"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 32
+ },
+ {
+  "codigo": "LEN-DBA-7-03",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 7,
+  "modulo": 3,
+  "eje": "Literatura",
+  "tema": "Literatura e historia",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Establece conexiones entre los elementos presentes en la literatura y los hechos históricos, culturales y sociales en los que se han producido.",
+  "meta_en": null,
+  "ruta": "Durante el análisis de una obra literaria: u Lee novelas que presentan acontecimientos históricos (un ejemplo podría ser la novela El día del odio de José Antonio Osorio Lizarazo). Identifica el tema general que se presenta y señala las ideas que lo soportan. u Organiza esta información en un cuadro sinóptico como el que se presenta en la imagen: u Busca información histórica relacionada con el tema para generar una discusión sobre los sucesos narrados en el texto y los acontecidos en la realidad del país durante una época específica.",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-7-03-E1",
+    "texto": "Analiza el desarrollo de hechos históricos y conflictos sociales en historias presentes en obras literarias."
+   },
+   {
+    "codigo": "LEN-DBA-7-03-E2",
+    "texto": "Comprende la realidad que circunda a las obras literarias a partir de los conflictos y hechos desarrollados en textos como novelas y obras teatrales."
+   },
+   {
+    "codigo": "LEN-DBA-7-03-E3",
+    "texto": "Señala las diferencias entre textos literarios y no literarios que tratan hechos históricos y conflictos sociales a partir del reconocimiento de sus recursos estilísticos."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-6.7-LI-01",
+   "LEN-EBC-6.7-LI-02"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 33
+ },
+ {
+  "codigo": "LEN-DBA-7-04",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 7,
+  "modulo": 4,
+  "eje": "Literatura",
+  "tema": "Géneros literarios",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Clasifica las producciones literarias a partir del análisis de su contenido y estructura en diferentes géneros literarios.",
+  "meta_en": null,
+  "ruta": "Clasifica obras literarias en géneros como:",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-7-04-E1",
+    "texto": "Reconoce en los géneros literarios las visiones de mundo que imprimen los seres humanos en sus interacciones sociales."
+   },
+   {
+    "codigo": "LEN-DBA-7-04-E2",
+    "texto": "Categoriza las temáticas de los textos literarios con los que interactúa y en función de ello establece el género al que pertenecen."
+   },
+   {
+    "codigo": "LEN-DBA-7-04-E3",
+    "texto": "Analiza las características formales de los textos literarios con los que se relaciona, y a partir de ellas establece el género al que pertenecen y la época en que fueron escritos."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-6.7-LI-01",
+   "LEN-EBC-6.7-LI-02"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 33
+ },
+ {
+  "codigo": "LEN-DBA-7-05",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 7,
+  "modulo": 5,
+  "eje": "Oralidad",
+  "tema": "Comprensión de discursos orales",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Comprende discursos orales producidos con un objetivo determinado en diversos contextos sociales y escolares.",
+  "meta_en": null,
+  "ruta": "Durante la emisión de un discurso oral: u Identifica las características generales de un tema, por ejemplo, en una conferencia sobre las tribus urbanas, comprende el tipo de música, la vestimenta, la ideología y otros aspectos.",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-7-05-E1",
+    "texto": "Escucha los discursos orales de su entorno para deducir los propósitos comunicativos de un interlocutor."
+   },
+   {
+    "codigo": "LEN-DBA-7-05-E2",
+    "texto": "Distingue líneas temáticas en los discursos que escucha, la manera como son planteadas por el autor, y las conexiones entre unas y otras a propósito de su intención comunicativa."
+   },
+   {
+    "codigo": "LEN-DBA-7-05-E3",
+    "texto": "Anticipa la estructura con que un interlocutor puede organizar su discurso oral."
+   },
+   {
+    "codigo": "LEN-DBA-7-05-E4",
+    "texto": "Discrimina los sonidos que hay en el ambiente para comprender el contexto donde se produce un discurso oral."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-6.7-PT-01",
+   "LEN-EBC-6.7-EC-01"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 34
+ },
+ {
+  "codigo": "LEN-DBA-7-06",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 7,
+  "modulo": 6,
+  "eje": "Comprensión e interpretación textual",
+  "tema": "Interpretación de tipologías textuales",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Interpreta textos informativos, expositivos, narrativos, líricos, argumentativos y descriptivos, y da cuenta de sus características formales y no formales.",
+  "meta_en": null,
+  "ruta": "Establece semejanzas y diferencias entre periódicos, revistas, enciclopedias, libros de texto del colegio, cartillas y directorios, para identificar sus usos, estructuras, temáticas, contextos de circulación y expresiones empleadas.",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-7-06-E1",
+    "texto": "Identifica y caracteriza al posible destinatario del texto a partir del tratamiento de la temática."
+   },
+   {
+    "codigo": "LEN-DBA-7-06-E2",
+    "texto": "Identifica elementos como temáticas, léxico especializado y estilo empleados en los textos."
+   },
+   {
+    "codigo": "LEN-DBA-7-06-E3",
+    "texto": "Ubica el texto en una tipología particular de acuerdo con su estructura interna y las características formales empleadas."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-6.7-CI-01"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 34
+ },
+ {
+  "codigo": "LEN-DBA-7-07",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 7,
+  "modulo": 7,
+  "eje": "Oralidad",
+  "tema": "Narraciones orales",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Construye narraciones orales, para lo cual retoma las características de los géneros que quiere relatar y los contextos de circulación de su discurso.",
+  "meta_en": null,
+  "ruta": "En un espacio en el que comparte narraciones orales: u Escucha con atención a sus compañeros para comprender los momentos de una narración y los sucesos que se relatan.",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-7-07-E1",
+    "texto": "Define la estructura y el contenido de una producción oral, atendiendo a la necesidad comunicativa de narrar en un contexto particular. Da cuenta de la intencionalidad narrativa con la que ha elaborado su producción textual oral."
+   },
+   {
+    "codigo": "LEN-DBA-7-07-E2",
+    "texto": "Explica las problemáticas principales de sus narraciones orales, teniendo en cuenta las impresiones de sus interlocutores."
+   },
+   {
+    "codigo": "LEN-DBA-7-07-E3",
+    "texto": "Narra oralmente un acontecimiento en consideración a los elementos que componen una narración (lugar, tiempo, personajes, acciones)."
+   },
+   {
+    "codigo": "LEN-DBA-7-07-E4",
+    "texto": "Articula los sonidos del discurso para dar claridad y expresividad a la narración."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-6.7-PT-01",
+   "LEN-EBC-6.7-EC-01"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 35
+ },
+ {
+  "codigo": "LEN-DBA-7-08",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 7,
+  "modulo": 8,
+  "eje": "Producción textual",
+  "tema": "Planificación textual",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Produce textos verbales y no verbales conforme a las características de una tipología seleccionada, a partir de un proceso de planificación textual.",
+  "meta_en": null,
+  "ruta": "A partir de la selección de un tipo de escrito como la reseña: Hace un plan de escritura como el siguiente y lo desarrolla en la producción del escrito:",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-7-08-E1",
+    "texto": "Sabe cómo emplear diversos tipos de texto atendiendo al propósito comunicativo."
+   },
+   {
+    "codigo": "LEN-DBA-7-08-E2",
+    "texto": "Desarrolla en sus textos un único tema central, alrededor del cual organiza una serie de subtemas."
+   },
+   {
+    "codigo": "LEN-DBA-7-08-E3",
+    "texto": "Explica los conceptos principales de sus textos a partir de los párrafos en los que desarrolla su definición."
+   },
+   {
+    "codigo": "LEN-DBA-7-08-E4",
+    "texto": "Prepara esquemas previos a la escritura para estructurar jerárquicamente las ideas a desenvolver en su texto. Usa diversos tipos de conectores para unir las ideas del texto."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-6.7-PT-02"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 35
+ },
+ {
+  "codigo": "LEN-DBA-8-01",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 8,
+  "modulo": 1,
+  "eje": "Medios de comunicación",
+  "tema": "Discursos en los medios de comunicación",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Caracteriza los discursos presentes en los medios de comunicación y otras fuentes de información, atendiendo al contenido, la intención comunicativa del autor y al contexto en que se producen.",
+  "meta_en": null,
+  "ruta": "Durante la caracterización de la información emitida en los medios de comunicación, por ejemplo, las noticias: u Compara la información presentada por diferentes noticias. u Analiza el lenguaje empleado en cada medio. u Comprende el manejo que cada medio hace de dicha información. u Considera las implicaciones sociales que conlleva cada mensaje presentado.",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-8-01-E1",
+    "texto": "Identifica la función social de los medios de comunicación y otras fuentes de información de la cultura, como una forma de construcción de identidad."
+   },
+   {
+    "codigo": "LEN-DBA-8-01-E2",
+    "texto": "Infiere el significado de palabras de acuerdo con el contexto en que se encuentren y los propósitos en que se enmarquen."
+   },
+   {
+    "codigo": "LEN-DBA-8-01-E3",
+    "texto": "Selecciona estrategias para organizar la información que circula en los medios masivos de comunicación."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-8.9-MC-01"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 36
+ },
+ {
+  "codigo": "LEN-DBA-8-02",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 8,
+  "modulo": 2,
+  "eje": "Otros sistemas simbólicos",
+  "tema": "Manifestaciones artísticas y culturas",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Relaciona las manifestaciones artísticas con las comunidades y culturas en las que se producen.",
+  "meta_en": null,
+  "ruta": "Con el objeto de relacionar algunas manifestaciones artísticas con las comunidades que las producen: u Elige una canción popular de su región y analiza sus contenidos y estructura. u Busca canciones de otras regiones y analiza sus contenidos y estructura. u Relaciona las dos expresiones artísticas para encontrar semejanzas y diferencias.",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-8-02-E1",
+    "texto": "Valora expresiones artísticas propias de los distintos pueblos y comunidades."
+   },
+   {
+    "codigo": "LEN-DBA-8-02-E2",
+    "texto": "Determina el contenido expresado en diferentes manifestaciones artísticas."
+   },
+   {
+    "codigo": "LEN-DBA-8-02-E3",
+    "texto": "Resignifica las expresiones artísticas de origen popular para explorar usos no convencionales del léxico."
+   },
+   {
+    "codigo": "LEN-DBA-8-02-E4",
+    "texto": "Reconoce las características de las distintas manifestaciones artísticas de una comunidad o grupo poblacional y las incorpora en sus elaboraciones."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-8.9-MC-02"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 36
+ },
+ {
+  "codigo": "LEN-DBA-8-03",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 8,
+  "modulo": 3,
+  "eje": "Literatura",
+  "tema": "Estructura de cuentos, relatos y novelas",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Reconoce en las producciones literarias como cuentos, relatos cortos, fábulas y novelas, aspectos referidos a la estructura formal del género y a la identidad cultural que recrea.",
+  "meta_en": null,
+  "ruta": "Durante la lectura de obras literarias: u Lee textos literarios que contienen sucesos que han ocurrido en una región (por ejemplo, la novela Leopardo al Sol de Laura Restrepo). u Consulta sobre los temas y sucesos abordados en la obra (por ejemplo el tema del narcotráfico y el conflicto en Colombia), y los comenta con sus compañeros.",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-8-03-E1",
+    "texto": "Identifica las estrategias narrativas del autor para relatar su perspectiva sobre lo que ha ocurrido en una región."
+   },
+   {
+    "codigo": "LEN-DBA-8-03-E2",
+    "texto": "Construye el sentido de los textos literarios con base en las interacciones que sostiene con las comunidades de lectores y escritores a las que pertenece."
+   },
+   {
+    "codigo": "LEN-DBA-8-03-E3",
+    "texto": "Determina la identidad cultural presente en textos literarios y la relaciona con épocas y autores."
+   },
+   {
+    "codigo": "LEN-DBA-8-03-E4",
+    "texto": "Distingue las estructuras formales de textos literarios como la presencia de diferentes narradores que se encargan de nutrir la historia con diferentes puntos de vista sobre un suceso."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-8.9-LI-01"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 37
+ },
+ {
+  "codigo": "LEN-DBA-8-04",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 8,
+  "modulo": 4,
+  "eje": "Literatura",
+  "tema": "El género lírico",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Comprende que el género lírico es una construcción mediada por la musicalidad, la rima y el uso de figuras retóricas, que permiten recrear una idea, un sentimiento o una situación.",
+  "meta_en": null,
+  "ruta": "En la lectura de textos líricos: u Reconoce las diferencias entre la escritura de un poema y otros textos. Tomado de: Cote Lamus, E. (2004). Antología. Bogotá: Universidad Externado de Colombia. Eduardo Cote Lamus",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-8-04-E1",
+    "texto": "Relaciona los textos que lee con producciones artísticas en las que se presentan rimas, acompañamientos musicales o imágenes."
+   },
+   {
+    "codigo": "LEN-DBA-8-04-E2",
+    "texto": "Reconoce el sentido de las imágenes poéticas en las obras literarias que lee."
+   },
+   {
+    "codigo": "LEN-DBA-8-04-E3",
+    "texto": "Identifica elementos formales asociados a las figuras retóricas y al tipo de rima utilizada."
+   },
+   {
+    "codigo": "LEN-DBA-8-04-E4",
+    "texto": "Comprende la diferencia que se presenta entre la segmentación silábica gramatical y la segmentación silábica métrica, en los textos poéticos que lee o escribe."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-8.9-LI-01"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 37
+ },
+ {
+  "codigo": "LEN-DBA-8-05",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 8,
+  "modulo": 5,
+  "eje": "Oralidad",
+  "tema": "Escucha atenta en el diálogo",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Escucha con atención a sus compañeros en diálogos informales y predice los contenidos de la comunicación.",
+  "meta_en": null,
+  "ruta": "Durante una conversación informal con sus compañeros: u Escucha lo que dicen sus compañeros y se adecúa al nivel de formalidad de la conversación.",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-8-05-E1",
+    "texto": "Participa en espacios discursivos que se dan en la cotidianidad de la escuela con el propósito de conocer las posturas de sus compañeros frente a diversos temas."
+   },
+   {
+    "codigo": "LEN-DBA-8-05-E2",
+    "texto": "Comprende los contenidos de un diálogo y predice las posibles ideas que pueden darse en él."
+   },
+   {
+    "codigo": "LEN-DBA-8-05-E3",
+    "texto": "Identifica el nivel de formalidad o informalidad que se da en un diálogo con sus compañeros."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-8.9-PT-01",
+   "LEN-EBC-8.9-EC-01"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 38
+ },
+ {
+  "codigo": "LEN-DBA-8-06",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 8,
+  "modulo": 6,
+  "eje": "Comprensión e interpretación textual",
+  "tema": "Sentidos de un texto",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Infiere múltiples sentidos en los textos que lee y los relaciona con los conceptos macro del texto y con sus contextos de producción y circulación.",
+  "meta_en": null,
+  "ruta": "u Analiza las características propias de un texto como el narrativo: voz que narra, punto de vista de dicha voz, tipos de personajes, lugar, tiempo, orden la historia, recursos como la descripción o el diálogo, entre otras. El perturbado inquilino No creo en fantasmas, pero últimamente unas voces miedosas han abrumado las habitaciones y muchas pisadas han medido la largura polvorienta de los corredores. He percibido charlas en que una voz le cuenta a otra sus pánicas aventuras de caza, o el cabal rendimiento de sus acciones en la capital Edimburgo, o sus prohibidos amores. Estoy muy intranquilo porque es la primera vez que semejantes seres impredecibles perturban la paz de este castillo en el que he sido feliz siglos y siglos, ambulando sus aposentos y patios, atravesando sin abrir las puertas, viendo el alba por entre sus ruinosas paredes, o inventando huracanados silbidos que hacen bambolear las ventanas como si las animara la vida . David Ramírez Tomado de: Bustamante, G. y Kremer, H. (2006). Antología del cuento corto colombiano. Bogotá: Universidad Pedagógica Nacional.",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-8-06-E1",
+    "texto": "Identifica y caracteriza las voces que hablan en el texto."
+   },
+   {
+    "codigo": "LEN-DBA-8-06-E2",
+    "texto": "Elabora hipótesis sobre el sentido global de un texto a partir de la relación de información explícita e implícita."
+   },
+   {
+    "codigo": "LEN-DBA-8-06-E3",
+    "texto": "Identifica las características retóricas de las tipologías textuales con las que trabaja y señala en sus notas de clase los conceptos más relevantes."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-8.9-CI-01"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 38
+ },
+ {
+  "codigo": "LEN-DBA-8-07",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 8,
+  "modulo": 7,
+  "eje": "Oralidad",
+  "tema": "El sentido de los textos en las intervenciones",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Reconstruye en sus intervenciones el sentido de los textos desde la relación existente entre la temática, los interlocutores y el contexto histórico-cultural.",
+  "meta_en": null,
+  "ruta": "Durante intercambios orales como la plenaria: u Plantea sus argumentos a partir de una planeación previa. u Conduce el tema de acuerdo con la manera como se desarrolla el discurso. u Usa verbos de pensamiento en sus intervenciones (opinar, definir, argumentar, etc.). u Apoya o refuta las ideas de sus interlocutores respetando sus posiciones.",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-8-07-E1",
+    "texto": "Expone sus puntos de vista para apoyar o contradecir las opiniones de sus interlocutores."
+   },
+   {
+    "codigo": "LEN-DBA-8-07-E2",
+    "texto": "Precisa el significado de los principales conceptos tratados en los textos orales que produce."
+   },
+   {
+    "codigo": "LEN-DBA-8-07-E3",
+    "texto": "Prepara una estructura retórica que contempla el contexto formal, el papel del orador y la posición del auditorio, como base para los intercambios orales en debates, plenarias y sustentaciones."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-8.9-PT-01",
+   "LEN-EBC-8.9-EC-01"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 39
+ },
+ {
+  "codigo": "LEN-DBA-8-08",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 8,
+  "modulo": 8,
+  "eje": "Producción textual",
+  "tema": "Textos para ámbitos públicos y privados",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Compone diferentes tipos de texto atendiendo a las características de sus ámbitos de uso: privado/público o cotidiano/científico.",
+  "meta_en": null,
+  "ruta": "En la composición de un texto escrito específico, por ejemplo un artículo de opinión: u Tiene en cuenta la estructura de este tipo de texto: un buen uso de conectores, un manejo adecuado de la ortografía y acontecimientos relacionados que puedan ampliar sus argumentos y que le ayuden a presentar de una manera más convincente sus ideas. Estructura general y estilo Uso de argumentos",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-8-08-E1",
+    "texto": "Estructura los textos que compone, para lo cual elige entre las diferentes formas que puede asumir la expresión (narración, explicación, descripción, argumentación) y su adecuación al ámbito de uso."
+   },
+   {
+    "codigo": "LEN-DBA-8-08-E2",
+    "texto": "Evalúa sus propios textos atendiendo a las características del género, el léxico empleado y el propósito comunicativo."
+   },
+   {
+    "codigo": "LEN-DBA-8-08-E3",
+    "texto": "Evalúa el uso adecuado de elementos gramaticales y ortográficos en las producciones propias y en las de otros."
+   },
+   {
+    "codigo": "LEN-DBA-8-08-E4",
+    "texto": "Emplea de forma precisa los signos de puntuación."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-8.9-PT-02"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 39
+ },
+ {
+  "codigo": "LEN-DBA-9-01",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 9,
+  "modulo": 1,
+  "eje": "Medios de comunicación",
+  "tema": "Confrontación de los discursos de los medios",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Confronta los discursos provenientes de los medios de comunicación con los que interactúa en el medio para afianzar su punto de vista particular.",
+  "meta_en": null,
+  "ruta": "u Hace interpretaciones a partir de los titulares y las imágenes de un texto informativo. u Define el significado de las palabras de acuerdo con el contexto y la situación comunicativa en que se ha producido un texto. Adaptado de: Revista Semana. (19 de julio de 2016). Historia de los exámenes, ¿quién y por qué los inventó? Educación. Recuperado de: http://www.semana.com/ educacion/",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-9-01-E1",
+    "texto": "Participa en medios escolares en los que plantea su postura frente a un acontecimiento, situación o problemática que llama su atención o que incide en la cotidianidad institucional."
+   },
+   {
+    "codigo": "LEN-DBA-9-01-E2",
+    "texto": "Infiere significados implícitos, referentes ideológicos, sociales y culturales en los medios con los que interactúa."
+   },
+   {
+    "codigo": "LEN-DBA-9-01-E3",
+    "texto": "Elabora esquemas en los que relaciona las problemáticas que identifica en los medios de comunicación para proponer alternativas de confrontación y resolución."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-8.9-MC-01"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 40
+ },
+ {
+  "codigo": "LEN-DBA-9-02",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 9,
+  "modulo": 2,
+  "eje": "Otros sistemas simbólicos",
+  "tema": "Símbolos en los discursos",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Incorpora símbolos de orden deportivo, cívico, político, religioso, científico o publicitario en los discursos que produce, teniendo claro su uso dentro del contexto.",
+  "meta_en": null,
+  "ruta": "Crea infografías a partir de una temática específica y en su realización hace un uso efectivo de elementos verbales y no verbales.",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-9-02-E1",
+    "texto": "Identifica la función que cumplen diferentes símbolos y signos en los contextos comunicativos en los que participa."
+   },
+   {
+    "codigo": "LEN-DBA-9-02-E2",
+    "texto": "Reconoce el sentido de los símbolos presentes en desfiles, carnavales, exposiciones, entre otros."
+   },
+   {
+    "codigo": "LEN-DBA-9-02-E3",
+    "texto": "Utiliza símbolos, íconos u otras representaciones gráficas en los discursos que produce y los vincula con los conceptos de las temáticas a las que se refieren."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-8.9-MC-02"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 40
+ },
+ {
+  "codigo": "LEN-DBA-9-03",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 9,
+  "modulo": 3,
+  "eje": "Literatura",
+  "tema": "El lenguaje literario",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Analiza el lenguaje literario como una manifestación artística que permite crear ficciones y expresar pensamientos o emociones.",
+  "meta_en": null,
+  "ruta": "Durante la lectura de textos literarios: u Elige cuentos de la tradición literaria para indagar sobre las costumbres, visiones de mundo, las características de los personajes principales y las diferentes versiones de varios autores.",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-9-03-E1",
+    "texto": "Relaciona su interpretación de una obra literaria con las visiones de mundo vigentes en una época y/o movimiento literario."
+   },
+   {
+    "codigo": "LEN-DBA-9-03-E2",
+    "texto": "Reconoce la literatura como una memoria de los pensamientos y sucesos de una región o un país."
+   },
+   {
+    "codigo": "LEN-DBA-9-03-E3",
+    "texto": "Identifica el sentido del lenguaje figurado dentro de los textos que lee y expresa sus interpretaciones sobre el mismo."
+   },
+   {
+    "codigo": "LEN-DBA-9-03-E4",
+    "texto": "Reconoce que la literatura puede emplear lenguaje figurado y coloquial para dar expresividad al escrito."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-8.9-LI-01"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 41
+ },
+ {
+  "codigo": "LEN-DBA-9-04",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 9,
+  "modulo": 4,
+  "eje": "Literatura",
+  "tema": "Literatura y producciones audiovisuales",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Compara los formatos de obras literarias y de producciones audiovisuales con el propósito de analizar elementos propios de la narración.",
+  "meta_en": null,
+  "ruta": "Para comprender la relación entre la narrativa de los textos literarios y de las producciones audiovisuales: Completa una ficha técnica para analizar el contenido de dos obras de su contexto (como la película colombiana “Los colores de la montaña” y la obra literaria colombiana “La carroza de Bolívar”).",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-9-04-E1",
+    "texto": "Identifica estrategias narrativas relacionadas con el abordaje de hechos históricos o problemáticas reales, en obras literarias o en producciones cinematográficas."
+   },
+   {
+    "codigo": "LEN-DBA-9-04-E2",
+    "texto": "Reconoce las problemáticas o los hechos narrados en obras literarias y en producciones audiovisuales."
+   },
+   {
+    "codigo": "LEN-DBA-9-04-E3",
+    "texto": "Reconoce la forma como se presentan los contenidos en textos literarios (prosa o verso) y en textos audiovisuales (planos, ángulos, movimientos de la cámara)."
+   },
+   {
+    "codigo": "LEN-DBA-9-04-E4",
+    "texto": "Reconoce los sonidos presentes en producciones audiovisuales: ruidos ambientales, música y cambios en la voz de los personajes."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-8.9-LI-01"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 41
+ },
+ {
+  "codigo": "LEN-DBA-9-05",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 9,
+  "modulo": 5,
+  "eje": "Oralidad",
+  "tema": "Opiniones en debates de actualidad",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Comprende y respeta las opiniones en debates sobre temas de actualidad social.",
+  "meta_en": null,
+  "ruta": "Con el objeto de comprender las opiniones de otros: Participa en un debate en torno a un tema de actualidad social. Comprende que el debate sigue una estructura: presentación de la temática por parte del moderador, características del uso de la palabra y el tiempo; desarrollo y conclusiones. Tiene en cuenta el punto de vista de los participantes.",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-9-05-E1",
+    "texto": "Respeta los diferentes puntos de vista de sus compañeros y los turnos para tomar la palabra, en los debates en los que participa."
+   },
+   {
+    "codigo": "LEN-DBA-9-05-E2",
+    "texto": "Reconoce las posiciones de sus compañeros en un debate, a partir de la comparación entre lo que escucha y lo que piensa en torno a un tema."
+   },
+   {
+    "codigo": "LEN-DBA-9-05-E3",
+    "texto": "Comprende la estructura o la organización del debate a fin de garantizar la participación de distintas voces con posiciones contrarias."
+   },
+   {
+    "codigo": "LEN-DBA-9-05-E4",
+    "texto": "Analiza las características de la voz de sus interlocutores con el propósito de comprender el tono del discurso: ironía, agresividad, etc."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-8.9-PT-01",
+   "LEN-EBC-8.9-EC-01"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 42
+ },
+ {
+  "codigo": "LEN-DBA-9-06",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 9,
+  "modulo": 6,
+  "eje": "Comprensión e interpretación textual",
+  "tema": "Estrategias de lectura",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Interpreta textos atendiendo al funcionamiento de la lengua en situaciones de comunicación, a partir del uso de estrategias de lectura.",
+  "meta_en": null,
+  "ruta": "En la interpretación de textos: u Selecciona un texto de actualidad social, cultural o científico y cuestiona el papel de los interlocutores, del contexto, la temática y argumenta la posición personal.",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-9-06-E1",
+    "texto": "Da cuenta del papel que desempeñan el interlocutor y el contexto en relación con la temática tratada y plantea su posición sobre la misma."
+   },
+   {
+    "codigo": "LEN-DBA-9-06-E2",
+    "texto": "Infiere significados implícitos y referentes ideológicos, sociales y culturales en los textos que lee."
+   },
+   {
+    "codigo": "LEN-DBA-9-06-E3",
+    "texto": "Identifica las estructuras propias de las tipologías textuales que conoce."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-8.9-CI-01"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 42
+ },
+ {
+  "codigo": "LEN-DBA-9-07",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 9,
+  "modulo": 7,
+  "eje": "Oralidad",
+  "tema": "Exposición oral de argumentos",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Produce textos orales, a partir del empleo de diversas estrategias para exponer sus argumentos.",
+  "meta_en": null,
+  "ruta": "Durante la planeación de un foro sobre temas de interés actual como la promoción de la lectura y la escritura: u Completa un esquema en el que organiza la información recolectada en diferentes medios (periódicos, libros, internet). u A partir del esquema de planeación, desarrolla un foro donde expone la temática y plantea su postura frente a ella.",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-9-07-E1",
+    "texto": "Argumenta las posturas y sugerencias que plantea, en el momento de proponer alternativas para resolver un problema."
+   },
+   {
+    "codigo": "LEN-DBA-9-07-E2",
+    "texto": "Explica el significado de los conceptos que utiliza en sus opiniones y realiza una síntesis de las ideas más relevantes de su intervención."
+   },
+   {
+    "codigo": "LEN-DBA-9-07-E3",
+    "texto": "Da cuenta del orden en el que se produce una conversación y de los mecanismos que median la toma de decisiones y la interacción oral con otros."
+   },
+   {
+    "codigo": "LEN-DBA-9-07-E4",
+    "texto": "Corrige la pronunciación cuando no ha articulado con claridad los sonidos del discurso."
+   },
+   {
+    "codigo": "LEN-DBA-9-07-E5",
+    "texto": "Controla los matices de voz (tono, volumen, impostación) para apoyar su discurso."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-8.9-PT-01",
+   "LEN-EBC-8.9-EC-01"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 43
+ },
+ {
+  "codigo": "LEN-DBA-9-08",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 9,
+  "modulo": 8,
+  "eje": "Producción textual",
+  "tema": "Planes textuales y corrección lingüística",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Produce textos verbales y no verbales, a partir de los planes textuales que elabora, y siguiendo procedimientos sistemáticos de corrección lingüística.",
+  "meta_en": null,
+  "ruta": "Realiza planes textuales para la producción de cualquier tipo de escrito (por ejemplo una relatoría) que permitirán, posteriormente, evaluar el texto: Redacta una relatoría sobre un tema de actualidad nacional o internacional a partir de un texto que lo desarrolle. Tiene en cuenta recomendaciones como:",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-9-08-E1",
+    "texto": "Evalúa el rol que debe cumplir como enunciador de un texto, según el propósito elegido y la situación comunicativa particular."
+   },
+   {
+    "codigo": "LEN-DBA-9-08-E2",
+    "texto": "Evalúa estrategias de progresión y desarrollo del tema seleccionado."
+   },
+   {
+    "codigo": "LEN-DBA-9-08-E3",
+    "texto": "Evalúa el seguimiento de un plan textual y el uso adecuado de elementos gramaticales y ortográficos en los textos que escribe."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-8.9-PT-02"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 43
+ },
+ {
+  "codigo": "LEN-DBA-10-01",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 10,
+  "modulo": 1,
+  "eje": "Medios de comunicación",
+  "tema": "Lectura crítica de los medios masivos",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Asume una posición crítica y propositiva frente a los medios de comunicación masiva para analizar su influencia en la sociedad actual.",
+  "meta_en": null,
+  "ruta": "u Identifica en una caricatura (como la que se propone), la crítica que plantea el autor. u Busca en otros textos como artículos de opinión, noticias y caricaturas, la manera como se aborda dicha problemática. u A partir del trabajo anterior, escribe un ensayo académico en el que plantea su punto de vista. Caricaturas tomadas de: El Espectador [Digital]. (2016). Magola. Bogotá. Disponible en: http://www.elespectador. com/opinion/magola",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-10-01-E1",
+    "texto": "Valora la diversidad de visiones de mundo y posiciones ideológicas presentes en los medios de comunicación."
+   },
+   {
+    "codigo": "LEN-DBA-10-01-E2",
+    "texto": "Analiza los discursos culturales, sociales e ideológicos, expresados a través de distintos medios de comunicación."
+   },
+   {
+    "codigo": "LEN-DBA-10-01-E3",
+    "texto": "Encuentra claves para comunicar sus ideas en la diferenciación de la estructura de textos como: el discurso político, el artículo de opinión y la caricatura."
+   },
+   {
+    "codigo": "LEN-DBA-10-01-E4",
+    "texto": "Comprende diferentes tipos de argumentos presentes en un discurso."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-10.11-MC-01"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 44
+ },
+ {
+  "codigo": "LEN-DBA-10-02",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 10,
+  "modulo": 2,
+  "eje": "Otros sistemas simbólicos",
+  "tema": "Producción de textos audiovisuales",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Planea la producción de textos audiovisuales en los que articula elementos verbales y no verbales de la comunicación para desarrollar un tema o una historia.",
+  "meta_en": null,
+  "ruta": "u Elige un texto literario (novela, crónica u obra de teatro) para adaptar al cine. u Resume la historia en bloques, ordenando el inicio, el conflicto y la resolución. u Elabora un guion en el que detalla qué ocurrirá en cada escena haciendo uso de elementos no verbales. u Completa el guion con la información sobre los escenarios, los personajes, los diálogos, las acotaciones, etc.",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-10-02-E1",
+    "texto": "Produce guiones para textos audiovisuales, donde caracteriza diferentes culturas, teniendo en cuenta aspectos étnicos, lingüísticos, sociales y culturales, entre otros, del mundo contemporáneo."
+   },
+   {
+    "codigo": "LEN-DBA-10-02-E2",
+    "texto": "Construye textos verbales y no verbales, donde demuestra un amplio conocimiento tanto del tema elegido como de las relaciones de significado y de sentido a nivel local y global."
+   },
+   {
+    "codigo": "LEN-DBA-10-02-E3",
+    "texto": "Elabora guiones para la producción de textos audiovisuales, como cortos o películas, en los que integra recursos no verbales."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-10.11-MC-02"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 44
+ },
+ {
+  "codigo": "LEN-DBA-10-03",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 10,
+  "modulo": 3,
+  "eje": "Literatura",
+  "tema": "La literatura en su momento histórico",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Caracteriza la literatura en un momento particular de la historia desde el acercamiento a sus principales exponentes, textos, temáticas y recursos estilísticos.",
+  "meta_en": null,
+  "ruta": "Para reconocer la influencia de una época en las obras literarios elige un periodo específico como el Siglo de Oro Español que se dio entre el siglo XVI y el XVII, frente al que: u Identifica el contexto histórico, las características, las obras y los autores pertenecientes a un periodo específico. u Relaciona los contenidos y la estructura de un texto con el momento histórico en que se produjo. u Analiza la relación entre el texto y el contexto actual. Escrito está en mi alma vuestro gesto (Soneto V) Escrito está en mi alma vuestro gesto, y cuanto yo escribir de vos deseo; vos sola lo escribisteis, yo lo leo tan solo, que aun de vos me guardo en esto. En esto estoy y estaré siempre puesto; que aunque no cabe en mí cuanto en vos veo, de tanto bien lo que no entiendo creo, tomando ya la fe por presupuesto. Yo no nací sino para quereros; mi alma os ha cortado a su medida; por hábito del alma mismo os quiero. Cuanto tengo confieso yo deberos; por vos nací, por vos tengo la vida, por vos he de morir, y por vos muero. Garcilaso de la Vega",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-10-03-E1",
+    "texto": "Comprende la influencia de las épocas en la estructura y configuración de los géneros literarios."
+   },
+   {
+    "codigo": "LEN-DBA-10-03-E2",
+    "texto": "Reconoce y da cuenta de las temáticas, los exponentes y los perfiles estilísticos de las obras literarias de una época o movimiento literario."
+   },
+   {
+    "codigo": "LEN-DBA-10-03-E3",
+    "texto": "Identifica las estructuras propias de cada género literario."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-10.11-LI-01"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 45
+ },
+ {
+  "codigo": "LEN-DBA-10-04",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 10,
+  "modulo": 4,
+  "eje": "Literatura",
+  "tema": "Literatura y artes visuales",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Formula puntos de encuentro entre la literatura y las artes plásticas y visuales.",
+  "meta_en": null,
+  "ruta": "Para analizar la relación entre la literatura y las artes plásticas o visuales: u Observa una pintura como Los amantes de René Magritte. u Lee una pieza literaria que trate sobre una temática semejante como el poema “Los amantes” de Julio Cortázar. u Busca información sobre las dos obras teniendo en cuenta su estructura y características particulares. René Magritte. (1928). Les amants (Los amantes). Óleo sobre lienzo, 54 x 73.4 cm. New York: Museum of Modern Art.",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-10-04-E1",
+    "texto": "Amplía su visión de las corrientes literarias mediante el conocimiento de las manifestaciones artísticas de una época determinada."
+   },
+   {
+    "codigo": "LEN-DBA-10-04-E2",
+    "texto": "Determina las principales características de los textos literarios que lee y los relaciona con expresiones artísticas."
+   },
+   {
+    "codigo": "LEN-DBA-10-04-E3",
+    "texto": "Reconoce las diferencias formales entre las obras literarias y las artes plásticas o visuales."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-10.11-LI-01"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 45
+ },
+ {
+  "codigo": "LEN-DBA-10-05",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 10,
+  "modulo": 5,
+  "eje": "Oralidad",
+  "tema": "Evaluación de discursos orales",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Participa en discursos orales en los que evalúa aspectos relacionados con la progresión temática, manejo de la voz, tono, estilo y puntos de vista sobre temas sociales, culturales, políticos y científicos.",
+  "meta_en": null,
+  "ruta": "",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-10-05-E1",
+    "texto": "Profundiza en los contextos en los que se dan las temáticas tratadas, a partir de la búsqueda de información en diversas fuentes."
+   },
+   {
+    "codigo": "LEN-DBA-10-05-E2",
+    "texto": "Evalúa la progresión temática, tono, estilo y vocabulario presentes en las intervenciones propias y en las de los otros."
+   },
+   {
+    "codigo": "LEN-DBA-10-05-E3",
+    "texto": "Comprende contenidos que no se dicen explícitamente por medio de ambigüedades o dobles sentidos."
+   },
+   {
+    "codigo": "LEN-DBA-10-05-E4",
+    "texto": "Aplica en su discurso oral la estructura de textos específicos como la ponencia o el debate."
+   },
+   {
+    "codigo": "LEN-DBA-10-05-E5",
+    "texto": "Infiere datos de sus interlocutores como carácter, actitud, propósito comunicativo a partir de las modulaciones de voz que estos emplean."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-10.11-PT-01",
+   "LEN-EBC-10.11-EC-01"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 46
+ },
+ {
+  "codigo": "LEN-DBA-10-06",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 10,
+  "modulo": 6,
+  "eje": "Comprensión e interpretación textual",
+  "tema": "Lectura crítica y argumentada",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Comprende diversos tipos de texto, asumiendo una actitud crítica y argumentando sus puntos de vista frente a lo leído.",
+  "meta_en": null,
+  "ruta": "Durante la comprensión de textos: u Busca textos de temas de interés, pueden ser artículos científicos, de opinión, trabajos de investigación, noticias, entre otros. u Analiza los textos elegidos a la luz de preguntas como: la ¿ Util Cuál es iza palab ¿ nalidad expr intencio cada uno esiones ras, r en clara e del auto s ? ilust xtos ? racion de los te es ¿ En enfoque ma uncia ¿Desde qué nera las conceptos? me cl idea aborda los diante ara s de de y co pár distint heren rafo s ? os t te ipo s u Asume una posición frente a los textos leídos y la argumenta.",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-10-06-E1",
+    "texto": "Deduce referentes sociales, culturales o ideológicos presentes en las voces que hablan en el texto y argumenta su posición al respecto."
+   },
+   {
+    "codigo": "LEN-DBA-10-06-E2",
+    "texto": "Evalúa textos escritos teniendo en cuenta el plan de contenido, las relaciones de sentido y las estrategias discursivas empleadas."
+   },
+   {
+    "codigo": "LEN-DBA-10-06-E3",
+    "texto": "Identifica las estrategias organizativas sugeridas en el texto."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-10.11-CI-01"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 46
+ },
+ {
+  "codigo": "LEN-DBA-10-07",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 10,
+  "modulo": 7,
+  "eje": "Oralidad",
+  "tema": "Ponencias, relatorías y entrevistas",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Produce textos orales como ponencias, comentarios, relatorías o entrevistas, atendiendo a la progresión temática, a los interlocutores, al propósito y a la situación comunicativa.",
+  "meta_en": null,
+  "ruta": "Durante la producción de una ponencia: u Elabora fichas de lectura que den cuenta de la búsqueda en distintas fuentes. u Prepara los contenidos y estructura de la ponencia teniendo en cuenta a su interlocutor. u Lee la ponencia usando diversas estrategias orales, corporales y retóricas para llamar la atención de los oyentes.",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-10-07-E1",
+    "texto": "Expresa de manera coherente y respetuosa sus posicionamientos frente a un texto o situación comunicativa cuando participa en espacios de discusión."
+   },
+   {
+    "codigo": "LEN-DBA-10-07-E2",
+    "texto": "Demuestra apropiación en el dominio del tema al explicar el significado de los conceptos clave que utiliza en sus opiniones."
+   },
+   {
+    "codigo": "LEN-DBA-10-07-E3",
+    "texto": "Construye un texto para ser leído en voz alta, como una relatoría, teniendo en cuenta la progresión temática y el uso de diversos tipos de argumentos."
+   },
+   {
+    "codigo": "LEN-DBA-10-07-E4",
+    "texto": "Interviene oralmente empleando aspectos no verbales de la comunicación como la impostación, el volumen y el tono de voz."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-10.11-PT-01",
+   "LEN-EBC-10.11-EC-01"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 47
+ },
+ {
+  "codigo": "LEN-DBA-10-08",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 10,
+  "modulo": 8,
+  "eje": "Producción textual",
+  "tema": "Estrategias de producción y corrección",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Escribe textos que evidencian procedimientos sistemáticos de corrección lingüística y el uso de estrategias de producción textual.",
+  "meta_en": null,
+  "ruta": "u Produce textos informativos como el artículo de divulgación científica siguiendo un proceso de investigación y de escritura:",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-10-08-E1",
+    "texto": "Divulga información científica sobre temas de su interés, mediante textos que motivan a sus compañeros a conocer dichas temáticas."
+   },
+   {
+    "codigo": "LEN-DBA-10-08-E2",
+    "texto": "Identifica el contenido que abarca la problemática desarrollada y evalúa los mecanismos que le dan sentido global al texto."
+   },
+   {
+    "codigo": "LEN-DBA-10-08-E3",
+    "texto": "Evalúa el uso adecuado de elementos gramaticales, ortográficos y sintácticos en los textos que produce."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-10.11-PT-01"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 47
+ },
+ {
+  "codigo": "LEN-DBA-11-01",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 11,
+  "modulo": 1,
+  "eje": "Medios de comunicación",
+  "tema": "Posición crítica ante los medios",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Participa en escenarios académicos, políticos y culturales; asumiendo una posición crítica y propositiva frente a los discursos que le presentan los distintos medios de comunicación y otras fuentes de información.",
+  "meta_en": null,
+  "ruta": "Durante la lectura de medios de comunicación: u Compara información de los medios de comunicación a partir de criterios como: línea temática, estrategias discursivas y mediáticas, parcialidad e imparcialidad en el tratamiento de la información y punto de vista. Noticias tomadas de: La Razón, Diario Digital. (2012). Madrid: Audiovisual Española y de El Mundo. (2014). Madrid: Unidad Editorial.",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-11-01-E1",
+    "texto": "Analiza la información difundida en los medios de comunicación institucionales y regionales, para participar en procesos democráticos."
+   },
+   {
+    "codigo": "LEN-DBA-11-01-E2",
+    "texto": "Infiere la relación de los mensajes emitidos por los medios de comunicación masiva dentro de contextos sociales, culturales y políticos."
+   },
+   {
+    "codigo": "LEN-DBA-11-01-E3",
+    "texto": "Contrasta estilos, tonos y estrategias discursivas, para determinar sus modos de participación en los escenarios democráticos institucionales."
+   },
+   {
+    "codigo": "LEN-DBA-11-01-E4",
+    "texto": "Comprende que la entonación revela la intención de resaltar o encubrir información de parte del interlocutor."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-10.11-MC-01"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 48
+ },
+ {
+  "codigo": "LEN-DBA-11-02",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 11,
+  "modulo": 2,
+  "eje": "Otros sistemas simbólicos",
+  "tema": "Códigos verbales y no verbales en la cultura",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Expresa, con sentido crítico, cómo se articulan los códigos verbales y no verbales en diversas manifestaciones humanas y da cuenta de sus implicaciones culturales, sociales e ideológicas.",
+  "meta_en": null,
+  "ruta": "Elige un género musical y selecciona un videoclip representativo para analizarlo a partir de los siguientes criterios: u Aspectos sociales, estéticos, ideológicos y culturales. u Estructura del video (partes que lo organizan). u Relación entre imágenes, sonidos y discursos. u Aspectos técnicos: tamaños, planos, formas, texturas y colores. u Gestos y expresiones corporales.",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-11-02-E1",
+    "texto": "Identifica la intencionalidad de los anuncios publicitarios, políticos y deportivos que se producen en el contexto social y cultural."
+   },
+   {
+    "codigo": "LEN-DBA-11-02-E2",
+    "texto": "Comprende el sentido literal y figurado de distintos símbolos empleados en los medios de comunicación."
+   },
+   {
+    "codigo": "LEN-DBA-11-02-E3",
+    "texto": "Clasifica los elementos simbólicos presentes en diferentes situaciones como una clase, un videoclip o un concierto musical."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-10.11-MC-02"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 48
+ },
+ {
+  "codigo": "LEN-DBA-11-03",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 11,
+  "modulo": 3,
+  "eje": "Literatura",
+  "tema": "Elección y abordaje de lecturas",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Determina los textos que desea leer y la manera en que abordará su comprensión, con base en sus experiencias de formación e inclinaciones literarias.",
+  "meta_en": null,
+  "ruta": "Al leer obras literarias es posible establecer diálogos interdisciplinares con las ciencias sociales, las matemáticas, el arte, entre otros. u Analiza una obra literaria en función de:",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-11-03-E1",
+    "texto": "Determina en los textos literarios las expresiones que pueden incidir tanto en las concepciones políticas, religiosas y culturales, como en la construcción de ciudadanía."
+   },
+   {
+    "codigo": "LEN-DBA-11-03-E2",
+    "texto": "Conjuga la lectura individual con la discusión grupal sobre los textos literarios."
+   },
+   {
+    "codigo": "LEN-DBA-11-03-E3",
+    "texto": "Comprende las temáticas, características, estilos, tonos, sentido local y global de las obras literarias que lee."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-10.11-LI-01"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 49
+ },
+ {
+  "codigo": "LEN-DBA-11-04",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 11,
+  "modulo": 4,
+  "eje": "Literatura",
+  "tema": "Temas de la literatura clásica",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Identifica, en las producciones literarias clásicas, diferentes temas que le permiten establecer comparaciones con las visiones de mundo de otras épocas.",
+  "meta_en": null,
+  "ruta": "Para la apreciación literaria: u Selecciona una obra literaria representativa de un movimiento literario, época o autor clásico. u Escribe una reseña crítica en la que se desarrollen los siguientes elementos: temáticas, características formales del texto, recursos empleados y contexto de la obra. u Diseña una estrategia mediática para promover la lectura del texto leído.",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-11-04-E1",
+    "texto": "Asume una postura frente a la vigencia de las obras literarias clásicas."
+   },
+   {
+    "codigo": "LEN-DBA-11-04-E2",
+    "texto": "Analiza obras literarias clásicas y las compara con otras que no pertenecen al canon."
+   },
+   {
+    "codigo": "LEN-DBA-11-04-E3",
+    "texto": "Reconoce que en las obras clásicas se abordan temas que vinculan a los seres humanos de diferentes épocas."
+   },
+   {
+    "codigo": "LEN-DBA-11-04-E4",
+    "texto": "Encuentra que el sentido de las obras literarias clásicas está determinado por sus recursos narrativos, poéticos y dramáticos."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-10.11-LI-01"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 49
+ },
+ {
+  "codigo": "LEN-DBA-11-05",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 11,
+  "modulo": 5,
+  "eje": "Oralidad",
+  "tema": "Comprensión de los argumentos del otro",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Comprende que los argumentos de sus interlocutores involucran procesos de comprensión, crítica y proposición.",
+  "meta_en": null,
+  "ruta": "Tanto en la vida cotidiana como en los escenarios académicos estamos expuestos a la comprensión e interpretación de diversas clases de discursos orales que son necesarios analizar con el fin de asumir puntos de vista propios. A continuación, se presentan algunas ideas a tener en cuenta para dicho análisis: 1. Descripción de la situación comunicativa: roles y características de los participantes, definición del contexto situacional, canal y códigos empleados. 2. Asunto central referido y progresión temática. 3. Clasificación y pertinencia de las estrategias discursivas empleadas. 4. Discriminación entre hechos y opiniones. 5. Identificación y clasificación de posibles falacias empleadas. 6. Evaluación de la inter vención oral de los participantes con base en criterios preestablecidos.",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-11-05-E1",
+    "texto": "Entiende las implicaciones sociales, políticas e ideológicas de los discursos que escucha."
+   },
+   {
+    "codigo": "LEN-DBA-11-05-E2",
+    "texto": "Comprende las posturas de un discurso sobre un tema de interés social y las relaciona con sus posturas previas."
+   },
+   {
+    "codigo": "LEN-DBA-11-05-E3",
+    "texto": "Comprende diferentes tipos de argumentos presentes en un discurso."
+   },
+   {
+    "codigo": "LEN-DBA-11-05-E4",
+    "texto": "Infiere las variantes dialectales, sociales y geográficas en la voz de sus interlocutores."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-10.11-PT-01",
+   "LEN-EBC-10.11-EC-01"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 50
+ },
+ {
+  "codigo": "LEN-DBA-11-06",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 11,
+  "modulo": 6,
+  "eje": "Comprensión e interpretación textual",
+  "tema": "Comparación crítica de textos",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Compara diversos tipos de texto, con capacidad crítica y argumentativa para establecer relaciones entre temáticas, características y los múltiples contextos en los que fueron producidos.",
+  "meta_en": null,
+  "ruta": "Al hacer un análisis comparativo de dos tipologías textuales, por ejemplo, el texto expositivo y el texto lírico, tiene en cuenta los siguientes elementos: u Intencionalidad del autor de cada texto. u Recursos estilísticos (tipo de lenguaje: culto, coloquial, literario, especializado; uso de lenguaje literal y figurado, interrogaciones retóricas, apoyo en esquemas e ilustraciones, etc.). u Estructura por medio de la cual se ordena el texto. u Contextos sociales, culturales y políticos en los que se enmarca el texto.",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-11-06-E1",
+    "texto": "Relaciona el significado del texto con los contextos sociales, culturales y políticos en los que fue producido y plantea su posición al respecto."
+   },
+   {
+    "codigo": "LEN-DBA-11-06-E2",
+    "texto": "Contrasta textos, atendiendo a temáticas, características formales, estructura interna, léxico y estilo empleados, entre otros."
+   },
+   {
+    "codigo": "LEN-DBA-11-06-E3",
+    "texto": "Da cuenta de la organización y de los componentes del texto."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-10.11-CI-01"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 51
+ },
+ {
+  "codigo": "LEN-DBA-11-07",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 11,
+  "modulo": 7,
+  "eje": "Oralidad",
+  "tema": "Dominio oral de un tema",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Expresa por medio de producciones orales el dominio de un tema, un texto o la obra de un autor.",
+  "meta_en": null,
+  "ruta": "Escribe una relatoría a partir de un texto leído, por ejemplo, una obra literaria clásica, y comparte el análisis realizado en un conversatorio: Conversemos en torno a las preguntas que guiaron nuestro análisis de un autor y una obra literaria: * ¿Cuál es el argumento elegido por el autor y qué implicaciones tiene en el contexto en que se produjo la obra ? * ¿ A qué corriente y género literarios pertenece la obra ? * ¿La obra leída cumple una función estética, cultura o social ? * ¿ Tiene alguna importancia el marco histórico y las influencias de otros autores en la obra ?",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-11-07-E1",
+    "texto": "Enfatiza la importancia académica de un tema de su interés personal."
+   },
+   {
+    "codigo": "LEN-DBA-11-07-E2",
+    "texto": "Hace referencia a los contenidos de otros textos en sus producciones orales."
+   },
+   {
+    "codigo": "LEN-DBA-11-07-E3",
+    "texto": "Construye relaciones de contenido entre temas, categorías y conceptos."
+   },
+   {
+    "codigo": "LEN-DBA-11-07-E4",
+    "texto": "Desarrolla un tema académico de su interés, a través de la estructura de introducción, justificación, argumentación y conclusiones."
+   },
+   {
+    "codigo": "LEN-DBA-11-07-E5",
+    "texto": "Evita el uso de falacias en discusiones académicas."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-10.11-PT-01",
+   "LEN-EBC-10.11-EC-01"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 51
+ },
+ {
+  "codigo": "LEN-DBA-11-08",
+  "area": "lenguaje",
+  "unidad": "DBA",
+  "grado": 11,
+  "modulo": 8,
+  "eje": "Producción textual",
+  "tema": "Textos académicos",
+  "horas": null,
+  "nivel_mcer": null,
+  "meta": "Produce textos académicos a partir de procedimientos sistemáticos de corrección lingüística, atendiendo al tipo de texto y al contexto comunicativo.",
+  "meta_en": null,
+  "ruta": "Escribe un ensayo sobre un tema polémico y de interés común; teniendo en cuenta las siguientes indicaciones:",
+  "evidencias": [
+   {
+    "codigo": "LEN-DBA-11-08-E1",
+    "texto": "Evalúa la adecuación del texto en relación con su rol como enunciatario, las estrategias discursivas utilizadas y la visión de mundo que proyecta en su escrito."
+   },
+   {
+    "codigo": "LEN-DBA-11-08-E2",
+    "texto": "Evalúa el seguimiento de un plan textual y el uso de la lengua en textos propios y producidos por sus compañeros."
+   },
+   {
+    "codigo": "LEN-DBA-11-08-E3",
+    "texto": "Construye párrafos que tienen funciones específicas dentro del discurso como ampliar, introducir, sintetizar y concluir."
+   },
+   {
+    "codigo": "LEN-DBA-11-08-E4",
+    "texto": "Emplea diferentes tipos de argumento para sustentar sus puntos de vista."
+   }
+  ],
+  "estandares": [
+   "LEN-EBC-10.11-PT-01"
+  ],
+  "fuente": "dba-lenguaje.pdf",
+  "fuente_pagina": 52
+ }
+]
