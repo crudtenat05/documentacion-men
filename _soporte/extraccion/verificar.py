@@ -30,6 +30,12 @@ SIGUIENTES = ('•', 'm', 'Evidenciasdeaprendizaje', 'Ejemplo', 'PENSAMIENTO', '
 VINETAS = {'ciencias_naturales': 'q', 'ciencias_sociales': 'l'}
 # En los DBA de Inglés el enunciado termina donde empieza su ejemplo («Por ejemplo…»)
 FRONTERAS_AREA = {'ingles': ('Por', 'Puede,porejemplo', ';como', ';tal', ';así', ',como', 'como', 'Alfinalizar')}
+# En los estándares de Ciencias, tras un texto vienen los rótulos de la doble página: el encabezado de la franja
+# («Al terminar tercer grado...», «Para lograrlo...»), el título de una columna o un subtítulo dentro de ella
+_ROTULOS_CIENCIAS = ('Alterminar', 'Alfinalde', 'Paralograrlo', '...meaproximo', '...desarrollocompromisos',
+                     'Procesosbiológicos', 'Procesosfísicos', 'Formuloproyectos', 'Desarrollolasinvestigaciones',
+                     'Presentolosresultados')
+FRONTERAS_AREA.update({'ciencias_sociales': _ROTULOS_CIENCIAS, 'ciencias_naturales': _ROTULOS_CIENCIAS})
 AREA = None
 
 
@@ -40,7 +46,8 @@ def compacto(s):
 
 
 def texto_pdf(pdf):
-    raw = subprocess.run(['pdftotext', '-raw', pdf, '-'], capture_output=True, text=True, check=True).stdout
+    # salida pedida en UTF-8 y leída como UTF-8: en Windows la codificación por defecto pierde las viñetas
+    raw = subprocess.run(['pdftotext', '-raw', '-enc', 'UTF-8', pdf, '-'], capture_output=True, check=True).stdout.decode('utf-8')
     return compacto(raw)
 
 
@@ -91,7 +98,7 @@ def textos(area):
             continue
         for d in json.load(open(f'_soporte/datos/{area}/{archivo}', encoding='utf-8')):
             pdf = f"fuentes/men/{d['fuente']}"
-            yield tipo, d['codigo'], d.get('texto') or d.get('enunciado'), pdf, d['pagina_pdf']
+            yield ('Acción' if d.get('tipo') == 'accion' else tipo), d['codigo'], d.get('texto') or d.get('enunciado'), pdf, d['pagina_pdf']
             for e in d.get('subprocesos', []):
                 yield 'Subproceso', e['codigo'], e['texto'], pdf, d['pagina_pdf']
             for e in d.get('evidencias', []):

@@ -82,5 +82,11 @@
   "razon": "La ligadura «fi» de «geográficos» no existe en el texto interno del PDF; se restituyó como se lee en la página.",
   "acepta_no_literal": true,
   "pagina_pdf": 31
+ },
+ {
+  "codigo": "CS-EBC-10.11-EG-02",
+  "razon": "El estándar empieza en la franja superior de la página 35 («…de la aplicación de las») y termina en la de la página 36 («diferentes teorías y modelos económicos…»), que no trae punta de flecha porque es continuación. En el flujo del PDF ambas mitades están separadas por el resto de la página 35. Confirmado contra las dos páginas.",
+  "acepta_no_literal": true,
+  "pagina_pdf": 35
  }
 ]

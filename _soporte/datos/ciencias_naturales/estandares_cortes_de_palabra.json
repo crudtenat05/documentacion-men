@@ -1,0 +1,870 @@
+[
+ {
+  "codigo": "CN-EBC-1.3-EG-01",
+  "palabra": "algunas"
+ },
+ {
+  "codigo": "CN-EBC-1.3-EG-02",
+  "palabra": "fenómenos"
+ },
+ {
+  "codigo": "CN-EBC-1.3-EG-03",
+  "palabra": "humano"
+ },
+ {
+  "codigo": "CN-EBC-1.3-AC-06",
+  "palabra": "termómetro,"
+ },
+ {
+  "codigo": "CN-EBC-1.3-AC-07",
+  "palabra": "alteraciones),"
+ },
+ {
+  "codigo": "CN-EBC-1.3-AC-08",
+  "palabra": "propias"
+ },
+ {
+  "codigo": "CN-EBC-1.3-AC-12",
+  "palabra": "personas."
+ },
+ {
+  "codigo": "CN-EBC-1.3-EV-02",
+  "palabra": "compañeros"
+ },
+ {
+  "codigo": "CN-EBC-1.3-EV-04",
+  "palabra": "seres"
+ },
+ {
+  "codigo": "CN-EBC-1.3-EV-05",
+  "palabra": "desarrollo"
+ },
+ {
+  "codigo": "CN-EBC-1.3-EV-07",
+  "palabra": "parecen"
+ },
+ {
+  "codigo": "CN-EBC-1.3-EV-07",
+  "palabra": "características"
+ },
+ {
+  "codigo": "CN-EBC-1.3-EF-01",
+  "palabra": "características"
+ },
+ {
+  "codigo": "CN-EBC-1.3-EF-01",
+  "palabra": "sentidos."
+ },
+ {
+  "codigo": "CN-EBC-1.3-EF-02",
+  "palabra": "medir"
+ },
+ {
+  "codigo": "CN-EBC-1.3-EF-10",
+  "palabra": "producen."
+ },
+ {
+  "codigo": "CN-EBC-1.3-CT-02",
+  "palabra": "humano."
+ },
+ {
+  "codigo": "CN-EBC-1.3-CT-05",
+  "palabra": "aparatos"
+ },
+ {
+  "codigo": "CN-EBC-1.3-CT-06",
+  "palabra": "épocas"
+ },
+ {
+  "codigo": "CN-EBC-1.3-CT-08",
+  "palabra": "cuidado"
+ },
+ {
+  "codigo": "CN-EBC-1.3-CP-01",
+  "palabra": "compañeros"
+ },
+ {
+  "codigo": "CN-EBC-1.3-CP-04",
+  "palabra": "animales,"
+ },
+ {
+  "codigo": "CN-EBC-4.5-EG-01",
+  "palabra": "vivos"
+ },
+ {
+  "codigo": "CN-EBC-4.5-EG-02",
+  "palabra": "materia,"
+ },
+ {
+  "codigo": "CN-EBC-4.5-EG-02",
+  "palabra": "manifestaciones"
+ },
+ {
+  "codigo": "CN-EBC-4.5-EG-03",
+  "palabra": "partir"
+ },
+ {
+  "codigo": "CN-EBC-4.5-AC-02",
+  "palabra": "algunas"
+ },
+ {
+  "codigo": "CN-EBC-4.5-AC-05",
+  "palabra": "respuesta"
+ },
+ {
+  "codigo": "CN-EBC-4.5-AC-07",
+  "palabra": "rigurosa"
+ },
+ {
+  "codigo": "CN-EBC-4.5-AC-08",
+  "palabra": "experimentos"
+ },
+ {
+  "codigo": "CN-EBC-4.5-AC-10",
+  "palabra": "determino"
+ },
+ {
+  "codigo": "CN-EBC-4.5-AC-12",
+  "palabra": "personas."
+ },
+ {
+  "codigo": "CN-EBC-4.5-EV-02",
+  "palabra": "celular"
+ },
+ {
+  "codigo": "CN-EBC-4.5-EV-03",
+  "palabra": "cumplen"
+ },
+ {
+  "codigo": "CN-EBC-4.5-EV-03",
+  "palabra": "órganos"
+ },
+ {
+  "codigo": "CN-EBC-4.5-EV-04",
+  "palabra": "órganos"
+ },
+ {
+  "codigo": "CN-EBC-4.5-EV-05",
+  "palabra": "microorganismos...)."
+ },
+ {
+  "codigo": "CN-EBC-4.5-EV-06",
+  "palabra": "(compresión,"
+ },
+ {
+  "codigo": "CN-EBC-4.5-EV-06",
+  "palabra": "fracturar"
+ },
+ {
+  "codigo": "CN-EBC-4.5-EV-08",
+  "palabra": "neuronas,"
+ },
+ {
+  "codigo": "CN-EBC-4.5-EV-11",
+  "palabra": "teniendo"
+ },
+ {
+  "codigo": "CN-EBC-4.5-EV-11",
+  "palabra": "energía"
+ },
+ {
+  "codigo": "CN-EBC-4.5-EV-12",
+  "palabra": "necesidades"
+ },
+ {
+  "codigo": "CN-EBC-4.5-EF-01",
+  "palabra": "transferencia"
+ },
+ {
+  "codigo": "CN-EBC-4.5-EF-04",
+  "palabra": "diferentes"
+ },
+ {
+  "codigo": "CN-EBC-4.5-EF-06",
+  "palabra": "movimiento"
+ },
+ {
+  "codigo": "CN-EBC-4.5-EF-08",
+  "palabra": "calor"
+ },
+ {
+  "codigo": "CN-EBC-4.5-EF-09",
+  "palabra": "componentes"
+ },
+ {
+  "codigo": "CN-EBC-4.5-EF-14",
+  "palabra": "corrientes"
+ },
+ {
+  "codigo": "CN-EBC-4.5-CT-01",
+  "palabra": "objetos"
+ },
+ {
+  "codigo": "CN-EBC-4.5-CT-03",
+  "palabra": "situaciones"
+ },
+ {
+  "codigo": "CN-EBC-4.5-CT-03",
+  "palabra": "motores"
+ },
+ {
+  "codigo": "CN-EBC-4.5-CT-04",
+  "palabra": "ambientales"
+ },
+ {
+  "codigo": "CN-EBC-4.5-CT-05",
+  "palabra": "efecto"
+ },
+ {
+  "codigo": "CN-EBC-4.5-CT-06",
+  "palabra": "características"
+ },
+ {
+  "codigo": "CN-EBC-4.5-CT-06",
+  "palabra": "eléctricos"
+ },
+ {
+  "codigo": "CN-EBC-4.5-CT-06",
+  "palabra": "diferentes"
+ },
+ {
+  "codigo": "CN-EBC-4.5-CT-09",
+  "palabra": "aplicaciones"
+ },
+ {
+  "codigo": "CN-EBC-4.5-CT-10",
+  "palabra": "microorganismos"
+ },
+ {
+  "codigo": "CN-EBC-4.5-CT-12",
+  "palabra": "deporte"
+ },
+ {
+  "codigo": "CN-EBC-4.5-CP-01",
+  "palabra": "compañeros"
+ },
+ {
+  "codigo": "CN-EBC-4.5-CP-01",
+  "palabra": "reconozco"
+ },
+ {
+  "codigo": "CN-EBC-4.5-CP-02",
+  "palabra": "escepticismo"
+ },
+ {
+  "codigo": "CN-EBC-4.5-CP-04",
+  "palabra": "trabajo"
+ },
+ {
+  "codigo": "CN-EBC-4.5-CP-04",
+  "palabra": "funciones"
+ },
+ {
+  "codigo": "CN-EBC-4.5-CP-05",
+  "palabra": "pensar."
+ },
+ {
+  "codigo": "CN-EBC-4.5-CP-06",
+  "palabra": "semejanzas"
+ },
+ {
+  "codigo": "CN-EBC-4.5-CP-06",
+  "palabra": "demás"
+ },
+ {
+  "codigo": "CN-EBC-4.5-CP-07",
+  "palabra": "cuidar"
+ },
+ {
+  "codigo": "CN-EBC-6.7-EG-01",
+  "palabra": "ecosistemas."
+ },
+ {
+  "codigo": "CN-EBC-6.7-EG-02",
+  "palabra": "características"
+ },
+ {
+  "codigo": "CN-EBC-6.7-EG-02",
+  "palabra": "químicas"
+ },
+ {
+  "codigo": "CN-EBC-6.7-EG-03",
+  "palabra": "tecnológicos"
+ },
+ {
+  "codigo": "CN-EBC-6.7-AC-10",
+  "palabra": "presentar"
+ },
+ {
+  "codigo": "CN-EBC-6.7-AC-12",
+  "palabra": "correspondiente."
+ },
+ {
+  "codigo": "CN-EBC-6.7-AC-14",
+  "palabra": "datos"
+ },
+ {
+  "codigo": "CN-EBC-6.7-AC-15",
+  "palabra": "preguntas"
+ },
+ {
+  "codigo": "CN-EBC-6.7-AC-16",
+  "palabra": "resultados"
+ },
+ {
+  "codigo": "CN-EBC-6.7-EV-01",
+  "palabra": "funciones"
+ },
+ {
+  "codigo": "CN-EBC-6.7-EV-03",
+  "palabra": "diversas"
+ },
+ {
+  "codigo": "CN-EBC-6.7-EV-05",
+  "palabra": "argumento"
+ },
+ {
+  "codigo": "CN-EBC-6.7-EV-06",
+  "palabra": "partir"
+ },
+ {
+  "codigo": "CN-EBC-6.7-EV-06",
+  "palabra": "sistemas"
+ },
+ {
+  "codigo": "CN-EBC-6.7-EV-07",
+  "palabra": "energía"
+ },
+ {
+  "codigo": "CN-EBC-6.7-EV-10",
+  "palabra": "equilibrio"
+ },
+ {
+  "codigo": "CN-EBC-6.7-EV-11",
+  "palabra": "climáticas."
+ },
+ {
+  "codigo": "CN-EBC-6.7-EV-13",
+  "palabra": "extinción"
+ },
+ {
+  "codigo": "CN-EBC-6.7-EV-14",
+  "palabra": "sostenimiento"
+ },
+ {
+  "codigo": "CN-EBC-6.7-EV-15",
+  "palabra": "ecosistemas."
+ },
+ {
+  "codigo": "CN-EBC-6.7-EF-01",
+  "palabra": "materia."
+ },
+ {
+  "codigo": "CN-EBC-6.7-EF-03",
+  "palabra": "explican"
+ },
+ {
+  "codigo": "CN-EBC-6.7-EF-06",
+  "palabra": "elementos"
+ },
+ {
+  "codigo": "CN-EBC-6.7-EF-07",
+  "palabra": "organización"
+ },
+ {
+  "codigo": "CN-EBC-6.7-EF-08",
+  "palabra": "herramienta"
+ },
+ {
+  "codigo": "CN-EBC-6.7-EF-09",
+  "palabra": "estados"
+ },
+ {
+  "codigo": "CN-EBC-6.7-EF-09",
+  "palabra": "electrostáticas."
+ },
+ {
+  "codigo": "CN-EBC-6.7-EF-11",
+  "palabra": "tipos"
+ },
+ {
+  "codigo": "CN-EBC-6.7-EF-12",
+  "palabra": "diferentes"
+ },
+ {
+  "codigo": "CN-EBC-6.7-EF-13",
+  "palabra": "fuerzas"
+ },
+ {
+  "codigo": "CN-EBC-6.7-EF-15",
+  "palabra": "aceleración"
+ },
+ {
+  "codigo": "CN-EBC-6.7-CT-01",
+  "palabra": "naturales"
+ },
+ {
+  "codigo": "CN-EBC-6.7-CT-02",
+  "palabra": "están"
+ },
+ {
+  "codigo": "CN-EBC-6.7-CT-05",
+  "palabra": "comunidades"
+ },
+ {
+  "codigo": "CN-EBC-6.7-CT-05",
+  "palabra": "disponibles"
+ },
+ {
+  "codigo": "CN-EBC-6.7-CT-06",
+  "palabra": "responsabilidades"
+ },
+ {
+  "codigo": "CN-EBC-6.7-CT-07",
+  "palabra": "transmisión"
+ },
+ {
+  "codigo": "CN-EBC-6.7-CT-09",
+  "palabra": "tabaco,"
+ },
+ {
+  "codigo": "CN-EBC-6.7-CT-13",
+  "palabra": "ambientes"
+ },
+ {
+  "codigo": "CN-EBC-6.7-CP-01",
+  "palabra": "compañeros"
+ },
+ {
+  "codigo": "CN-EBC-6.7-CP-02",
+  "palabra": "escepticismo"
+ },
+ {
+  "codigo": "CN-EBC-6.7-CP-02",
+  "palabra": "compañeras"
+ },
+ {
+  "codigo": "CN-EBC-6.7-CP-03",
+  "palabra": "conocimientos"
+ },
+ {
+  "codigo": "CN-EBC-6.7-CP-06",
+  "palabra": "solucionar"
+ },
+ {
+  "codigo": "CN-EBC-6.7-CP-06",
+  "palabra": "conocimientos."
+ },
+ {
+  "codigo": "CN-EBC-6.7-CP-09",
+  "palabra": "corporales"
+ },
+ {
+  "codigo": "CN-EBC-6.7-CP-10",
+  "palabra": "alimentación"
+ },
+ {
+  "codigo": "CN-EBC-8.9-EG-01",
+  "palabra": "consecuencia"
+ },
+ {
+  "codigo": "CN-EBC-8.9-EG-02",
+  "palabra": "conservación"
+ },
+ {
+  "codigo": "CN-EBC-8.9-EG-02",
+  "palabra": "energía"
+ },
+ {
+  "codigo": "CN-EBC-8.9-EG-04",
+  "palabra": "comerciales"
+ },
+ {
+  "codigo": "CN-EBC-8.9-AC-04",
+  "palabra": "experimento"
+ },
+ {
+  "codigo": "CN-EBC-8.9-AC-06",
+  "palabra": "magnitudes"
+ },
+ {
+  "codigo": "CN-EBC-8.9-AC-16",
+  "palabra": "resultados"
+ },
+ {
+  "codigo": "CN-EBC-8.9-EV-01",
+  "palabra": "almacenamiento"
+ },
+ {
+  "codigo": "CN-EBC-8.9-EV-01",
+  "palabra": "hereditario."
+ },
+ {
+  "codigo": "CN-EBC-8.9-EV-03",
+  "palabra": "reproducción."
+ },
+ {
+  "codigo": "CN-EBC-8.9-EV-04",
+  "palabra": "variabilidad."
+ },
+ {
+  "codigo": "CN-EBC-8.9-EV-05",
+  "palabra": "menstrual"
+ },
+ {
+  "codigo": "CN-EBC-8.9-EV-08",
+  "palabra": "algunos"
+ },
+ {
+  "codigo": "CN-EBC-8.9-EV-08",
+  "palabra": "taxonómica."
+ },
+ {
+  "codigo": "CN-EBC-8.9-EV-11",
+  "palabra": "humano."
+ },
+ {
+  "codigo": "CN-EBC-8.9-EV-13",
+  "palabra": "evolución"
+ },
+ {
+  "codigo": "CN-EBC-8.9-EF-01",
+  "palabra": "sustancia"
+ },
+ {
+  "codigo": "CN-EBC-8.9-EF-02",
+  "palabra": "teniendo"
+ },
+ {
+  "codigo": "CN-EBC-8.9-EF-02",
+  "palabra": "moléculas"
+ },
+ {
+  "codigo": "CN-EBC-8.9-EF-03",
+  "palabra": "químicos"
+ },
+ {
+  "codigo": "CN-EBC-8.9-EF-05",
+  "palabra": "definición"
+ },
+ {
+  "codigo": "CN-EBC-8.9-EF-07",
+  "palabra": "comportamiento"
+ },
+ {
+  "codigo": "CN-EBC-8.9-EF-08",
+  "palabra": "interna"
+ },
+ {
+  "codigo": "CN-EBC-8.9-EF-09",
+  "palabra": "transferencia"
+ },
+ {
+  "codigo": "CN-EBC-8.9-EF-10",
+  "palabra": "longitud"
+ },
+ {
+  "codigo": "CN-EBC-8.9-EF-12",
+  "palabra": "explicar"
+ },
+ {
+  "codigo": "CN-EBC-8.9-CT-01",
+  "palabra": "herramienta"
+ },
+ {
+  "codigo": "CN-EBC-8.9-CT-03",
+  "palabra": "desarrollo"
+ },
+ {
+  "codigo": "CN-EBC-8.9-CT-04",
+  "palabra": "microbiología"
+ },
+ {
+  "codigo": "CN-EBC-8.9-CT-05",
+  "palabra": "etiquetas"
+ },
+ {
+  "codigo": "CN-EBC-8.9-CT-07",
+  "palabra": "termodinámicos"
+ },
+ {
+  "codigo": "CN-EBC-8.9-CT-07",
+  "palabra": "motores."
+ },
+ {
+  "codigo": "CN-EBC-8.9-CT-08",
+  "palabra": "instrumentos"
+ },
+ {
+  "codigo": "CN-EBC-8.9-CT-10",
+  "palabra": "tecnológicos"
+ },
+ {
+  "codigo": "CN-EBC-8.9-CT-11",
+  "palabra": "prevención"
+ },
+ {
+  "codigo": "CN-EBC-8.9-CT-11",
+  "palabra": "enfermedades"
+ },
+ {
+  "codigo": "CN-EBC-8.9-CT-12",
+  "palabra": "exceso"
+ },
+ {
+  "codigo": "CN-EBC-8.9-CT-14",
+  "palabra": "implicaciones"
+ },
+ {
+  "codigo": "CN-EBC-8.9-CP-01",
+  "palabra": "compañeros"
+ },
+ {
+  "codigo": "CN-EBC-8.9-CP-02",
+  "palabra": "escepticismo"
+ },
+ {
+  "codigo": "CN-EBC-8.9-CP-02",
+  "palabra": "compañeras"
+ },
+ {
+  "codigo": "CN-EBC-8.9-CP-03",
+  "palabra": "conocimientos"
+ },
+ {
+  "codigo": "CN-EBC-8.9-CP-08",
+  "palabra": "corporales"
+ },
+ {
+  "codigo": "CN-EBC-8.9-CP-10",
+  "palabra": "papeles"
+ },
+ {
+  "codigo": "CN-EBC-8.9-CP-11",
+  "palabra": "alimentación"
+ },
+ {
+  "codigo": "CN-EBC-10.11-EG-01",
+  "palabra": "ambientales,"
+ },
+ {
+  "codigo": "CN-EBC-10.11-EG-01",
+  "palabra": "dinámicas"
+ },
+ {
+  "codigo": "CN-EBC-10.11-EG-02",
+  "palabra": "moléculas"
+ },
+ {
+  "codigo": "CN-EBC-10.11-EG-03",
+  "palabra": "interacciones"
+ },
+ {
+  "codigo": "CN-EBC-10.11-EG-04",
+  "palabra": "explicar"
+ },
+ {
+  "codigo": "CN-EBC-10.11-EG-05",
+  "palabra": "industriales"
+ },
+ {
+  "codigo": "CN-EBC-10.11-EG-05",
+  "palabra": "analizo"
+ },
+ {
+  "codigo": "CN-EBC-10.11-AC-01",
+  "palabra": "aplicaciones"
+ },
+ {
+  "codigo": "CN-EBC-10.11-AC-02",
+  "palabra": "cotidiano,"
+ },
+ {
+  "codigo": "CN-EBC-10.11-AC-05",
+  "palabra": "adecuados."
+ },
+ {
+  "codigo": "CN-EBC-10.11-AC-07",
+  "palabra": "alteración"
+ },
+ {
+  "codigo": "CN-EBC-10.11-AC-10",
+  "palabra": "presentar"
+ },
+ {
+  "codigo": "CN-EBC-10.11-AC-10",
+  "palabra": "funciones"
+ },
+ {
+  "codigo": "CN-EBC-10.11-AC-16",
+  "palabra": "preguntas."
+ },
+ {
+  "codigo": "CN-EBC-10.11-PB-01",
+  "palabra": "diversidad"
+ },
+ {
+  "codigo": "CN-EBC-10.11-PB-03",
+  "palabra": "diferentes"
+ },
+ {
+  "codigo": "CN-EBC-10.11-PB-04",
+  "palabra": "cadenas"
+ },
+ {
+  "codigo": "CN-EBC-10.11-PB-09",
+  "palabra": "energía"
+ },
+ {
+  "codigo": "CN-EBC-10.11-PB-10",
+  "palabra": "relaciones"
+ },
+ {
+  "codigo": "CN-EBC-10.11-PB-11",
+  "palabra": "comunidad"
+ },
+ {
+  "codigo": "CN-EBC-10.11-PQ-01",
+  "palabra": "átomos"
+ },
+ {
+  "codigo": "CN-EBC-10.11-PQ-01",
+  "palabra": "teorías."
+ },
+ {
+  "codigo": "CN-EBC-10.11-PQ-03",
+  "palabra": "ambiente."
+ },
+ {
+  "codigo": "CN-EBC-10.11-PQ-05",
+  "palabra": "estructura"
+ },
+ {
+  "codigo": "CN-EBC-10.11-PQ-05",
+  "palabra": "enlaces"
+ },
+ {
+  "codigo": "CN-EBC-10.11-PQ-07",
+  "palabra": "determinar"
+ },
+ {
+  "codigo": "CN-EBC-10.11-PQ-09",
+  "palabra": "controlar"
+ },
+ {
+  "codigo": "CN-EBC-10.11-PQ-11",
+  "palabra": "carbono"
+ },
+ {
+  "codigo": "CN-EBC-10.11-PQ-11",
+  "palabra": "moléculas"
+ },
+ {
+  "codigo": "CN-EBC-10.11-PQ-13",
+  "palabra": "químicos"
+ },
+ {
+  "codigo": "CN-EBC-10.11-PQ-13",
+  "palabra": "humano."
+ },
+ {
+  "codigo": "CN-EBC-10.11-PF-01",
+  "palabra": "diferentes"
+ },
+ {
+  "codigo": "CN-EBC-10.11-PF-01",
+  "palabra": "condiciones"
+ },
+ {
+  "codigo": "CN-EBC-10.11-PF-02",
+  "palabra": "movimiento"
+ },
+ {
+  "codigo": "CN-EBC-10.11-PF-04",
+  "palabra": "estabilidad"
+ },
+ {
+  "codigo": "CN-EBC-10.11-PF-05",
+  "palabra": "conservación"
+ },
+ {
+  "codigo": "CN-EBC-10.11-PF-08",
+  "palabra": "modelo"
+ },
+ {
+  "codigo": "CN-EBC-10.11-PF-09",
+  "palabra": "electrostáticas."
+ },
+ {
+  "codigo": "CN-EBC-10.11-PF-11",
+  "palabra": "sistema."
+ },
+ {
+  "codigo": "CN-EBC-10.11-CT-02",
+  "palabra": "componentes"
+ },
+ {
+  "codigo": "CN-EBC-10.11-CT-04",
+  "palabra": "deporte"
+ },
+ {
+  "codigo": "CN-EBC-10.11-CT-06",
+  "palabra": "tabaco,"
+ },
+ {
+  "codigo": "CN-EBC-10.11-CT-07",
+  "palabra": "cocina,"
+ },
+ {
+  "codigo": "CN-EBC-10.11-CT-08",
+  "palabra": "microorganismos"
+ },
+ {
+  "codigo": "CN-EBC-10.11-CT-09",
+  "palabra": "tecnológicos"
+ },
+ {
+  "codigo": "CN-EBC-10.11-CT-10",
+  "palabra": "medidas"
+ },
+ {
+  "codigo": "CN-EBC-10.11-CT-10",
+  "palabra": "salud"
+ },
+ {
+  "codigo": "CN-EBC-10.11-CP-01",
+  "palabra": "compañeros"
+ },
+ {
+  "codigo": "CN-EBC-10.11-CP-03",
+  "palabra": "conocimientos"
+ },
+ {
+  "codigo": "CN-EBC-10.11-CP-04",
+  "palabra": "simultáneamente."
+ },
+ {
+  "codigo": "CN-EBC-10.11-CP-06",
+  "palabra": "debates"
+ },
+ {
+  "codigo": "CN-EBC-10.11-CP-08",
+  "palabra": "personas."
+ },
+ {
+  "codigo": "CN-EBC-10.11-CP-10",
+  "palabra": "tradicionales"
+ },
+ {
+  "codigo": "CN-EBC-10.11-CP-10",
+  "palabra": "cultura"
+ },
+ {
+  "codigo": "CN-EBC-10.11-CP-12",
+  "palabra": "tecnológicos"
+ },
+ {
+  "codigo": "CN-EBC-10.11-CP-12",
+  "palabra": "implicaciones"
+ }
+]

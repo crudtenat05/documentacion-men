@@ -1,17 +1,2898 @@
 {
  "resumen": {
   "area": "ciencias_naturales",
-  "fecha": "2026-10-03",
-  "total": 233,
-  "literales": 233,
-  "completos_automatico": 229,
+  "fecha": "2026-10-11",
+  "total": 593,
+  "literales": 593,
+  "completos_automatico": 589,
   "completos_manual": 4,
   "pendientes": [],
   "fuentes": {
+   "estandares-ciencias-sociales-naturales.pdf": "29ebf9e8bf099afac9794f3e1eb49ff15d6647d872ca04967f195c7c33f00cd4",
    "dba-naturales.pdf": "3156475f8a0cc988080dc71c49b722f9f125726591adafd66f45a78d5e8a3f4d"
   }
  },
  "textos": [
+  {
+   "tipo": "Estándar",
+   "codigo": "CN-EBC-1.3-EG-01",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "CN-EBC-1.3-EG-02",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "CN-EBC-1.3-EG-03",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-AC-01",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-AC-02",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-AC-03",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-AC-04",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-AC-05",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-AC-06",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-AC-07",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-AC-08",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-AC-09",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-AC-10",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-AC-11",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-AC-12",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-AC-13",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-EV-01",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-EV-02",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-EV-03",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-EV-04",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-EV-05",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-EV-06",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-EV-07",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-EV-08",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-EV-09",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-EV-10",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-EV-11",
+   "pagina_pdf": 37,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-EF-01",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-EF-02",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-EF-03",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-EF-04",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-EF-05",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-EF-06",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-EF-07",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-EF-08",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-EF-09",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-EF-10",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-EF-11",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-EF-12",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-EF-13",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-CT-01",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-CT-02",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-CT-03",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-CT-04",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-CT-05",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-CT-06",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-CT-07",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-CT-08",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-CP-01",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-CP-02",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-CP-03",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-CP-04",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-1.3-CP-05",
+   "pagina_pdf": 38,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "CN-EBC-4.5-EG-01",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "CN-EBC-4.5-EG-02",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "CN-EBC-4.5-EG-03",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-AC-01",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-AC-02",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-AC-03",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-AC-04",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-AC-05",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-AC-06",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-AC-07",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-AC-08",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-AC-09",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-AC-10",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-AC-11",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-AC-12",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-AC-13",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-AC-14",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-EV-01",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-EV-02",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-EV-03",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-EV-04",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-EV-05",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-EV-06",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-EV-07",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-EV-08",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-EV-09",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-EV-10",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-EV-11",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-EV-12",
+   "pagina_pdf": 39,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-EF-01",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-EF-02",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-EF-03",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-EF-04",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-EF-05",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-EF-06",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-EF-07",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-EF-08",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-EF-09",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-EF-10",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-EF-11",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-EF-12",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-EF-13",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-EF-14",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-CT-01",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-CT-02",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-CT-03",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-CT-04",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-CT-05",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-CT-06",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-CT-07",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-CT-08",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-CT-09",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-CT-10",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-CT-11",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-CT-12",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-CP-01",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-CP-02",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-CP-03",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-CP-04",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-CP-05",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-CP-06",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-CP-07",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-CP-08",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-4.5-CP-09",
+   "pagina_pdf": 40,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "CN-EBC-6.7-EG-01",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "CN-EBC-6.7-EG-02",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "CN-EBC-6.7-EG-03",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-AC-01",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-AC-02",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-AC-03",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-AC-04",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-AC-05",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-AC-06",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-AC-07",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-AC-08",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-AC-09",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-AC-10",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-AC-11",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-AC-12",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-AC-13",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-AC-14",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-AC-15",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-AC-16",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-AC-17",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-AC-18",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-AC-19",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-AC-20",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-AC-21",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-AC-22",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-EV-01",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-EV-02",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-EV-03",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-EV-04",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-EV-05",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-EV-06",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-EV-07",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-EV-08",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-EV-09",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-EV-10",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-EV-11",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-EV-12",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-EV-13",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-EV-14",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-EV-15",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-EV-16",
+   "pagina_pdf": 41,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-EF-01",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-EF-02",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-EF-03",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-EF-04",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-EF-05",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-EF-06",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-EF-07",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-EF-08",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-EF-09",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-EF-10",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-EF-11",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-EF-12",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-EF-13",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-EF-14",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-EF-15",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-EF-16",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-CT-01",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-CT-02",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-CT-03",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-CT-04",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-CT-05",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-CT-06",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-CT-07",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-CT-08",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-CT-09",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-CT-10",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-CT-11",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-CT-12",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-CT-13",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-CP-01",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-CP-02",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-CP-03",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-CP-04",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-CP-05",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-CP-06",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-CP-07",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-CP-08",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-CP-09",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-CP-10",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-6.7-CP-11",
+   "pagina_pdf": 42,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "CN-EBC-8.9-EG-01",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "CN-EBC-8.9-EG-02",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "CN-EBC-8.9-EG-03",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "CN-EBC-8.9-EG-04",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-AC-01",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-AC-02",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-AC-03",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-AC-04",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-AC-05",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-AC-06",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-AC-07",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-AC-08",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-AC-09",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-AC-10",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-AC-11",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-AC-12",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-AC-13",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-AC-14",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-AC-15",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-AC-16",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-AC-17",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-AC-18",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-AC-19",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-AC-20",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-AC-21",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-EV-01",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-EV-02",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-EV-03",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-EV-04",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-EV-05",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-EV-06",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-EV-07",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-EV-08",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-EV-09",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-EV-10",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-EV-11",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-EV-12",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-EV-13",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-EV-14",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-EV-15",
+   "pagina_pdf": 43,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-EF-01",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-EF-02",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-EF-03",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-EF-04",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-EF-05",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-EF-06",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-EF-07",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-EF-08",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-EF-09",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-EF-10",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-EF-11",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-EF-12",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-CT-01",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-CT-02",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-CT-03",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-CT-04",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-CT-05",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-CT-06",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-CT-07",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-CT-08",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-CT-09",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-CT-10",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-CT-11",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-CT-12",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-CT-13",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-CT-14",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-CT-15",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-CP-01",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-CP-02",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-CP-03",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-CP-04",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-CP-05",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-CP-06",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-CP-07",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-CP-08",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-CP-09",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-CP-10",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-CP-11",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-8.9-CP-12",
+   "pagina_pdf": 44,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "CN-EBC-10.11-EG-01",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "CN-EBC-10.11-EG-02",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "CN-EBC-10.11-EG-03",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "CN-EBC-10.11-EG-04",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Estándar",
+   "codigo": "CN-EBC-10.11-EG-05",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-AC-01",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-AC-02",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-AC-03",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-AC-04",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-AC-05",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-AC-06",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-AC-07",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-AC-08",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-AC-09",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-AC-10",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-AC-11",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-AC-12",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-AC-13",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-AC-14",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-AC-15",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-AC-16",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-AC-17",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-AC-18",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-AC-19",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PB-01",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PB-02",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PB-03",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PB-04",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PB-05",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PB-06",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PB-07",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PB-08",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PB-09",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PB-10",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PB-11",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PB-12",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PQ-01",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PQ-02",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PQ-03",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PQ-04",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PQ-05",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PQ-06",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PQ-07",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PQ-08",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PQ-09",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PQ-10",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PQ-11",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PQ-12",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PQ-13",
+   "pagina_pdf": 45,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PF-01",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PF-02",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PF-03",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PF-04",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PF-05",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PF-06",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PF-07",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PF-08",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PF-09",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PF-10",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-PF-11",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-CT-01",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-CT-02",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-CT-03",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-CT-04",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-CT-05",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-CT-06",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-CT-07",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-CT-08",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-CT-09",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-CT-10",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-CT-11",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-CP-01",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-CP-02",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-CP-03",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-CP-04",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-CP-05",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-CP-06",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-CP-07",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-CP-08",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-CP-09",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-CP-10",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-CP-11",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
+  {
+   "tipo": "Acción",
+   "codigo": "CN-EBC-10.11-CP-12",
+   "pagina_pdf": 46,
+   "fuente": "fuentes/men/estandares-ciencias-sociales-naturales.pdf",
+   "literal": true,
+   "completo": true
+  },
   {
    "tipo": "DBA",
    "codigo": "CN-DBA-1-01",

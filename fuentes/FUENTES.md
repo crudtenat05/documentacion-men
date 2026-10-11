@@ -13,7 +13,7 @@ Todos traen texto incrustado (no son escaneados), por lo que la extracción no r
 | `dba-naturales.pdf` | MEN | Derechos Básicos de Aprendizaje · Ciencias Naturales · V.1 | 2016 | 44 | `3156475f8a0cc988…` | Procesado: `datos/ciencias_naturales/` (DBA) |
 | `dba-sociales.pdf` | MEN | Derechos Básicos de Aprendizaje · Ciencias Sociales · V.1 | 2016 | 52 | `f816ba011a0c6041…` | Procesado: `datos/ciencias_sociales/` (DBA) |
 | `dba-transicion-y-primaria_ingles.pdf` | MEN | Derechos Básicos de Aprendizaje de Inglés · Transición a 5.° (ISBN 978-958-691-991-3) | 2016 | 15 | `9f5dba10ef169fd8…` | Procesado: `datos/ingles/` (DBA) |
-| `estandares-ciencias-sociales-naturales.pdf` | MEN | _pendiente de ficha_ |  | 52 | `29ebf9e8bf099afa…` | Sin procesar |
+| `estandares-ciencias-sociales-naturales.pdf` | MEN | Estándares Básicos de Competencias en Ciencias Sociales y Ciencias Naturales. Capítulo de «Estándares Básicos de Competencias en Lenguaje, Matemáticas, Ciencias y Ciudadanas» (páginas 96 a 147 del libro) | 2006 | 52 | `29ebf9e8bf099afa…` | Procesado: `datos/ciencias_sociales/` y `datos/ciencias_naturales/` (estándares) |
 | `estandares-competencias-ciudadanas.pdf` | MEN | _pendiente de ficha_ |  | 37 | `6b87688895106515…` | Sin procesar |
 | `estandares-lengua-castellana.pdf` | MEN | Estándares Básicos de Competencias del Lenguaje. Capítulo de «Estándares Básicos de Competencias en Lenguaje, Matemáticas, Ciencias y Ciudadanas» (páginas 18 a 45 del libro) | 2006 | 28 | `2475062ca03b4c90…` | Procesado: `datos/lenguaje/` |
 | `estandares-lengua-extranjera-ingles.pdf` | MEN | _pendiente de ficha_ |  | 42 | `49e5fe6cc7787b82…` | Sin procesar |

@@ -1,0 +1,970 @@
+[
+ {
+  "codigo": "CS-EBC-1.3-EG-01",
+  "palabra": "histórico,"
+ },
+ {
+  "codigo": "CS-EBC-1.3-EG-01",
+  "palabra": "diversas"
+ },
+ {
+  "codigo": "CS-EBC-1.3-EG-02",
+  "palabra": "humano"
+ },
+ {
+  "codigo": "CS-EBC-1.3-EG-02",
+  "palabra": "consecuencias"
+ },
+ {
+  "codigo": "CS-EBC-1.3-EG-03",
+  "palabra": "organizaciones"
+ },
+ {
+  "codigo": "CS-EBC-1.3-EG-03",
+  "palabra": "desarrollo"
+ },
+ {
+  "codigo": "CS-EBC-1.3-EG-03",
+  "palabra": "acuerdos"
+ },
+ {
+  "codigo": "CS-EBC-1.3-AC-01",
+  "palabra": "pertenezco"
+ },
+ {
+  "codigo": "CS-EBC-1.3-HC-01",
+  "palabra": "hacen"
+ },
+ {
+  "codigo": "CS-EBC-1.3-HC-02",
+  "palabra": "características"
+ },
+ {
+  "codigo": "CS-EBC-1.3-HC-03",
+  "palabra": "organizaciones"
+ },
+ {
+  "codigo": "CS-EBC-1.3-HC-04",
+  "palabra": "huellas"
+ },
+ {
+  "codigo": "CS-EBC-1.3-HC-04",
+  "palabra": "museos,"
+ },
+ {
+  "codigo": "CS-EBC-1.3-HC-05",
+  "palabra": "miembro"
+ },
+ {
+  "codigo": "CS-EBC-1.3-HC-06",
+  "palabra": "diversidad"
+ },
+ {
+  "codigo": "CS-EBC-1.3-HC-08",
+  "palabra": "cuando"
+ },
+ {
+  "codigo": "CS-EBC-1.3-EA-01",
+  "palabra": "representación"
+ },
+ {
+  "codigo": "CS-EBC-1.3-EA-02",
+  "palabra": "(mapas,"
+ },
+ {
+  "codigo": "CS-EBC-1.3-EA-03",
+  "palabra": "representación"
+ },
+ {
+  "codigo": "CS-EBC-1.3-EA-04",
+  "palabra": "físicas"
+ },
+ {
+  "codigo": "CS-EBC-1.3-EA-07",
+  "palabra": "naturales"
+ },
+ {
+  "codigo": "CS-EBC-1.3-EA-08",
+  "palabra": "(horas,"
+ },
+ {
+  "codigo": "CS-EBC-1.3-EA-11",
+  "palabra": "actividades"
+ },
+ {
+  "codigo": "CS-EBC-1.3-EA-12",
+  "palabra": "naturales"
+ },
+ {
+  "codigo": "CS-EBC-1.3-EA-13",
+  "palabra": "social."
+ },
+ {
+  "codigo": "CS-EBC-1.3-EP-01",
+  "palabra": "características"
+ },
+ {
+  "codigo": "CS-EBC-1.3-EP-01",
+  "palabra": "organizaciones"
+ },
+ {
+  "codigo": "CS-EBC-1.3-EP-01",
+  "palabra": "resguardo,"
+ },
+ {
+  "codigo": "CS-EBC-1.3-EP-02",
+  "palabra": "incumplimiento"
+ },
+ {
+  "codigo": "CS-EBC-1.3-EP-03",
+  "palabra": "organización"
+ },
+ {
+  "codigo": "CS-EBC-1.3-EP-03",
+  "palabra": "pequeños"
+ },
+ {
+  "codigo": "CS-EBC-1.3-EP-03",
+  "palabra": "colegio...)"
+ },
+ {
+  "codigo": "CS-EBC-1.3-EP-04",
+  "palabra": "organizaciones"
+ },
+ {
+  "codigo": "CS-EBC-1.3-EP-05",
+  "palabra": "comunidades"
+ },
+ {
+  "codigo": "CS-EBC-1.3-EP-06",
+  "palabra": "algunas"
+ },
+ {
+  "codigo": "CS-EBC-1.3-EP-06",
+  "palabra": "pertenezco"
+ },
+ {
+  "codigo": "CS-EBC-1.3-EP-07",
+  "palabra": "construcción"
+ },
+ {
+  "codigo": "CS-EBC-1.3-CP-02",
+  "palabra": "aportados"
+ },
+ {
+  "codigo": "CS-EBC-1.3-CP-03",
+  "palabra": "etnia,"
+ },
+ {
+  "codigo": "CS-EBC-1.3-CP-04",
+  "palabra": "discriminación"
+ },
+ {
+  "codigo": "CS-EBC-1.3-CP-04",
+  "palabra": "discapacidad...)"
+ },
+ {
+  "codigo": "CS-EBC-1.3-CP-04",
+  "palabra": "cambiarlas."
+ },
+ {
+  "codigo": "CS-EBC-1.3-CP-05",
+  "palabra": "cultural"
+ },
+ {
+  "codigo": "CS-EBC-1.3-CP-06",
+  "palabra": "expresan"
+ },
+ {
+  "codigo": "CS-EBC-1.3-CP-06",
+  "palabra": "comunidad"
+ },
+ {
+  "codigo": "CS-EBC-1.3-CP-09",
+  "palabra": "manejo"
+ },
+ {
+  "codigo": "CS-EBC-1.3-CP-10",
+  "palabra": "recursos"
+ },
+ {
+  "codigo": "CS-EBC-1.3-CP-11",
+  "palabra": "organizaciones"
+ },
+ {
+  "codigo": "CS-EBC-1.3-CP-11",
+  "palabra": "entorno"
+ },
+ {
+  "codigo": "CS-EBC-4.5-EG-03",
+  "palabra": "organizaciones"
+ },
+ {
+  "codigo": "CS-EBC-4.5-EG-03",
+  "palabra": "resultado"
+ },
+ {
+  "codigo": "CS-EBC-4.5-AC-01",
+  "palabra": "culturales"
+ },
+ {
+  "codigo": "CS-EBC-4.5-AC-06",
+  "palabra": "deben"
+ },
+ {
+  "codigo": "CS-EBC-4.5-AC-06",
+  "palabra": "geográfica,"
+ },
+ {
+  "codigo": "CS-EBC-4.5-HC-02",
+  "palabra": "sociales,"
+ },
+ {
+  "codigo": "CS-EBC-4.5-HC-03",
+  "palabra": "organizaciones"
+ },
+ {
+  "codigo": "CS-EBC-4.5-HC-04",
+  "palabra": "antigüedad"
+ },
+ {
+  "codigo": "CS-EBC-4.5-HC-05",
+  "palabra": "exploraciones"
+ },
+ {
+  "codigo": "CS-EBC-4.5-HC-06",
+  "palabra": "económicas"
+ },
+ {
+  "codigo": "CS-EBC-4.5-HC-06",
+  "palabra": "prehispánicas"
+ },
+ {
+  "codigo": "CS-EBC-4.5-HC-08",
+  "palabra": "prehispánicos"
+ },
+ {
+  "codigo": "CS-EBC-4.5-HC-08",
+  "palabra": "actuales."
+ },
+ {
+  "codigo": "CS-EBC-4.5-HC-09",
+  "palabra": "organizaciones"
+ },
+ {
+  "codigo": "CS-EBC-4.5-EA-01",
+  "palabra": "derecha,"
+ },
+ {
+  "codigo": "CS-EBC-4.5-EA-02",
+  "palabra": "convenciones"
+ },
+ {
+  "codigo": "CS-EBC-4.5-EA-02",
+  "palabra": "históricos"
+ },
+ {
+  "codigo": "CS-EBC-4.5-EA-04",
+  "palabra": "culturales...)"
+ },
+ {
+  "codigo": "CS-EBC-4.5-EA-05",
+  "palabra": "actividades"
+ },
+ {
+  "codigo": "CS-EBC-4.5-EA-05",
+  "palabra": "distribución,"
+ },
+ {
+  "codigo": "CS-EBC-4.5-EA-05",
+  "palabra": "sectores"
+ },
+ {
+  "codigo": "CS-EBC-4.5-EA-06",
+  "palabra": "naturales"
+ },
+ {
+  "codigo": "CS-EBC-4.5-EA-06",
+  "palabra": "(parques"
+ },
+ {
+  "codigo": "CS-EBC-4.5-EA-07",
+  "palabra": "resuelven"
+ },
+ {
+  "codigo": "CS-EBC-4.5-EA-07",
+  "palabra": "comunidad,"
+ },
+ {
+  "codigo": "CS-EBC-4.5-EP-01",
+  "palabra": "organizaciones"
+ },
+ {
+  "codigo": "CS-EBC-4.5-EP-01",
+  "palabra": "épocas"
+ },
+ {
+  "codigo": "CS-EBC-4.5-EP-02",
+  "palabra": "sistema"
+ },
+ {
+  "codigo": "CS-EBC-4.5-EP-02",
+  "palabra": "público–"
+ },
+ {
+  "codigo": "CS-EBC-4.5-EP-03",
+  "palabra": "político-administrativas."
+ },
+ {
+  "codigo": "CS-EBC-4.5-EP-04",
+  "palabra": "hechos"
+ },
+ {
+  "codigo": "CS-EBC-4.5-EP-04",
+  "palabra": "limítrofe"
+ },
+ {
+  "codigo": "CS-EBC-4.5-EP-04",
+  "palabra": "Panamá...)."
+ },
+ {
+  "codigo": "CS-EBC-4.5-EP-05",
+  "palabra": "características"
+ },
+ {
+  "codigo": "CS-EBC-4.5-EP-05",
+  "palabra": "(personeros"
+ },
+ {
+  "codigo": "CS-EBC-4.5-EP-06",
+  "palabra": "instituciones"
+ },
+ {
+  "codigo": "CS-EBC-4.5-EP-06",
+  "palabra": "estudiantil,"
+ },
+ {
+  "codigo": "CS-EBC-4.5-EP-06",
+  "palabra": "Unicef...)."
+ },
+ {
+  "codigo": "CS-EBC-4.5-CP-01",
+  "palabra": "puntos"
+ },
+ {
+  "codigo": "CS-EBC-4.5-CP-03",
+  "palabra": "culturales"
+ },
+ {
+  "codigo": "CS-EBC-4.5-CP-03",
+  "palabra": "(género,"
+ },
+ {
+  "codigo": "CS-EBC-4.5-CP-05",
+  "palabra": "aportes"
+ },
+ {
+  "codigo": "CS-EBC-4.5-CP-05",
+  "palabra": "científicos,"
+ },
+ {
+  "codigo": "CS-EBC-4.5-CP-05",
+  "palabra": "religiosos..."
+ },
+ {
+  "codigo": "CS-EBC-4.5-CP-06",
+  "palabra": "normas"
+ },
+ {
+  "codigo": "CS-EBC-4.5-CP-08",
+  "palabra": "manejo"
+ },
+ {
+  "codigo": "CS-EBC-4.5-CP-10",
+  "palabra": "(profesor,"
+ },
+ {
+  "codigo": "CS-EBC-6.7-EG-01",
+  "palabra": "culturales"
+ },
+ {
+  "codigo": "CS-EBC-6.7-EG-02",
+  "palabra": "producen,"
+ },
+ {
+  "codigo": "CS-EBC-6.7-EG-02",
+  "palabra": "características"
+ },
+ {
+  "codigo": "CS-EBC-6.7-EG-03",
+  "palabra": "diferentes"
+ },
+ {
+  "codigo": "CS-EBC-6.7-EG-03",
+  "palabra": "principales"
+ },
+ {
+  "codigo": "CS-EBC-6.7-AC-01",
+  "palabra": "culturales."
+ },
+ {
+  "codigo": "CS-EBC-6.7-AC-03",
+  "palabra": "diferentes"
+ },
+ {
+  "codigo": "CS-EBC-6.7-AC-05",
+  "palabra": "orales,"
+ },
+ {
+  "codigo": "CS-EBC-6.7-AC-06",
+  "palabra": "información"
+ },
+ {
+  "codigo": "CS-EBC-6.7-AC-10",
+  "palabra": "diversos"
+ },
+ {
+  "codigo": "CS-EBC-6.7-AC-11",
+  "palabra": "organización"
+ },
+ {
+  "codigo": "CS-EBC-6.7-AC-12",
+  "palabra": "causas,"
+ },
+ {
+  "codigo": "CS-EBC-6.7-AC-13",
+  "palabra": "carteleras...),"
+ },
+ {
+  "codigo": "CS-EBC-6.7-HC-01",
+  "palabra": "medioevo,"
+ },
+ {
+  "codigo": "CS-EBC-6.7-HC-01",
+  "palabra": "Renacimiento...)."
+ },
+ {
+  "codigo": "CS-EBC-6.7-HC-03",
+  "palabra": "sociedad"
+ },
+ {
+  "codigo": "CS-EBC-6.7-HC-03",
+  "palabra": "explicaciones"
+ },
+ {
+  "codigo": "CS-EBC-6.7-HC-05",
+  "palabra": "caracterizar"
+ },
+ {
+  "codigo": "CS-EBC-6.7-HC-05",
+  "palabra": "marcadas"
+ },
+ {
+  "codigo": "CS-EBC-6.7-HC-06",
+  "palabra": "períodos"
+ },
+ {
+  "codigo": "CS-EBC-6.7-HC-07",
+  "palabra": "generado"
+ },
+ {
+  "codigo": "CS-EBC-6.7-HC-07",
+  "palabra": "sociales"
+ },
+ {
+  "codigo": "CS-EBC-6.7-HC-07",
+  "palabra": "imperio"
+ },
+ {
+  "codigo": "CS-EBC-6.7-HC-08",
+  "palabra": "españolas,"
+ },
+ {
+  "codigo": "CS-EBC-6.7-HC-09",
+  "palabra": "encuentro"
+ },
+ {
+  "codigo": "CS-EBC-6.7-EA-02",
+  "palabra": "planos"
+ },
+ {
+  "codigo": "CS-EBC-6.7-EA-05",
+  "palabra": "climáticas"
+ },
+ {
+  "codigo": "CS-EBC-6.7-EA-06",
+  "palabra": "diferentes"
+ },
+ {
+  "codigo": "CS-EBC-6.7-EA-07",
+  "palabra": "económicas"
+ },
+ {
+  "codigo": "CS-EBC-6.7-EA-09",
+  "palabra": "sociales,"
+ },
+ {
+  "codigo": "CS-EBC-6.7-EA-09",
+  "palabra": "poblacional"
+ },
+ {
+  "codigo": "CS-EBC-6.7-EA-10",
+  "palabra": "organización"
+ },
+ {
+  "codigo": "CS-EBC-6.7-EA-10",
+  "palabra": "explotación)"
+ },
+ {
+  "codigo": "CS-EBC-6.7-EA-11",
+  "palabra": "involucradas"
+ },
+ {
+  "codigo": "CS-EBC-6.7-EP-02",
+  "palabra": "legitimaban"
+ },
+ {
+  "codigo": "CS-EBC-6.7-EP-02",
+  "palabra": "sistema"
+ },
+ {
+  "codigo": "CS-EBC-6.7-EP-03",
+  "palabra": "democracia"
+ },
+ {
+  "codigo": "CS-EBC-6.7-EP-04",
+  "palabra": "sistemas"
+ },
+ {
+  "codigo": "CS-EBC-6.7-EP-04",
+  "palabra": "colombiano."
+ },
+ {
+  "codigo": "CS-EBC-6.7-EP-05",
+  "palabra": "significado"
+ },
+ {
+  "codigo": "CS-EBC-6.7-EP-08",
+  "palabra": "características"
+ },
+ {
+  "codigo": "CS-EBC-6.7-EP-08",
+  "palabra": "portuguesas"
+ },
+ {
+  "codigo": "CS-EBC-6.7-CP-01",
+  "palabra": "sociales."
+ },
+ {
+  "codigo": "CS-EBC-6.7-CP-03",
+  "palabra": "cambiarlas."
+ },
+ {
+  "codigo": "CS-EBC-6.7-CP-04",
+  "palabra": "organización"
+ },
+ {
+  "codigo": "CS-EBC-6.7-CP-05",
+  "palabra": "ayudan"
+ },
+ {
+  "codigo": "CS-EBC-6.7-CP-05",
+  "palabra": "grupos"
+ },
+ {
+  "codigo": "CS-EBC-6.7-CP-06",
+  "palabra": "conformación"
+ },
+ {
+  "codigo": "CS-EBC-6.7-CP-07",
+  "palabra": "relaciones"
+ },
+ {
+  "codigo": "CS-EBC-6.7-CP-07",
+  "palabra": "relaciones"
+ },
+ {
+  "codigo": "CS-EBC-6.7-CP-08",
+  "palabra": "sobre"
+ },
+ {
+  "codigo": "CS-EBC-6.7-CP-09",
+  "palabra": "participo"
+ },
+ {
+  "codigo": "CS-EBC-6.7-CP-10",
+  "palabra": "concepciones"
+ },
+ {
+  "codigo": "CS-EBC-6.7-CP-10",
+  "palabra": "críticas"
+ },
+ {
+  "codigo": "CS-EBC-6.7-CP-10",
+  "palabra": "Inquisición...)."
+ },
+ {
+  "codigo": "CS-EBC-8.9-EG-02",
+  "palabra": "permanente"
+ },
+ {
+  "codigo": "CS-EBC-8.9-EG-03",
+  "palabra": "identidad"
+ },
+ {
+  "codigo": "CS-EBC-8.9-AC-01",
+  "palabra": "culturales."
+ },
+ {
+  "codigo": "CS-EBC-8.9-AC-03",
+  "palabra": "secundarias"
+ },
+ {
+  "codigo": "CS-EBC-8.9-AC-13",
+  "palabra": "sociales"
+ },
+ {
+  "codigo": "CS-EBC-8.9-AC-13",
+  "palabra": "económica,"
+ },
+ {
+  "codigo": "CS-EBC-8.9-AC-15",
+  "palabra": "políticas,"
+ },
+ {
+  "codigo": "CS-EBC-8.9-HC-01",
+  "palabra": "Industrial...)."
+ },
+ {
+  "codigo": "CS-EBC-8.9-HC-03",
+  "palabra": "sociales,"
+ },
+ {
+  "codigo": "CS-EBC-8.9-HC-03",
+  "palabra": "independencia"
+ },
+ {
+  "codigo": "CS-EBC-8.9-HC-04",
+  "palabra": "sociales"
+ },
+ {
+  "codigo": "CS-EBC-8.9-HC-04",
+  "palabra": "movimientos"
+ },
+ {
+  "codigo": "CS-EBC-8.9-HC-05",
+  "palabra": "cuenta"
+ },
+ {
+  "codigo": "CS-EBC-8.9-HC-06",
+  "palabra": "pensamiento"
+ },
+ {
+  "codigo": "CS-EBC-8.9-HC-06",
+  "palabra": "filosófico"
+ },
+ {
+  "codigo": "CS-EBC-8.9-HC-06",
+  "palabra": "América"
+ },
+ {
+  "codigo": "CS-EBC-8.9-HC-08",
+  "palabra": "modernización"
+ },
+ {
+  "codigo": "CS-EBC-8.9-HC-08",
+  "palabra": "urbanización...)"
+ },
+ {
+  "codigo": "CS-EBC-8.9-EA-02",
+  "palabra": "ambiente"
+ },
+ {
+  "codigo": "CS-EBC-8.9-EA-02",
+  "palabra": "regiones"
+ },
+ {
+  "codigo": "CS-EBC-8.9-EA-03",
+  "palabra": "cultivo"
+ },
+ {
+  "codigo": "CS-EBC-8.9-EA-04",
+  "palabra": "(colonización"
+ },
+ {
+  "codigo": "CS-EBC-8.9-EA-06",
+  "palabra": "Colombia"
+ },
+ {
+  "codigo": "CS-EBC-8.9-EA-06",
+  "palabra": "procesos"
+ },
+ {
+  "codigo": "CS-EBC-8.9-EA-06",
+  "palabra": "urbanización...)."
+ },
+ {
+  "codigo": "CS-EBC-8.9-EA-07",
+  "palabra": "siglo"
+ },
+ {
+  "codigo": "CS-EBC-8.9-EA-07",
+  "palabra": "(proteccionismo,"
+ },
+ {
+  "codigo": "CS-EBC-8.9-EP-01",
+  "palabra": "contemplados"
+ },
+ {
+  "codigo": "CS-EBC-8.9-EP-01",
+  "palabra": "políticas"
+ },
+ {
+  "codigo": "CS-EBC-8.9-EP-02",
+  "palabra": "participaron"
+ },
+ {
+  "codigo": "CS-EBC-8.9-EP-02",
+  "palabra": "colombiana"
+ },
+ {
+  "codigo": "CS-EBC-8.9-EP-03",
+  "palabra": "(federalismo,"
+ },
+ {
+  "codigo": "CS-EBC-8.9-EP-04",
+  "palabra": "Colombia"
+ },
+ {
+  "codigo": "CS-EBC-8.9-EP-04",
+  "palabra": "Revolución"
+ },
+ {
+  "codigo": "CS-EBC-8.9-EP-05",
+  "palabra": "tuvieron"
+ },
+ {
+  "codigo": "CS-EBC-8.9-EP-05",
+  "palabra": "Revolución"
+ },
+ {
+  "codigo": "CS-EBC-8.9-EP-06",
+  "palabra": "procesos"
+ },
+ {
+  "codigo": "CS-EBC-8.9-EP-06",
+  "palabra": "siglo"
+ },
+ {
+  "codigo": "CS-EBC-8.9-CP-03",
+  "palabra": "ideológicas"
+ },
+ {
+  "codigo": "CS-EBC-8.9-CP-03",
+  "palabra": "cambiarlas."
+ },
+ {
+  "codigo": "CS-EBC-8.9-CP-04",
+  "palabra": "fundamentales"
+ },
+ {
+  "codigo": "CS-EBC-8.9-CP-04",
+  "palabra": "política,"
+ },
+ {
+  "codigo": "CS-EBC-8.9-CP-05",
+  "palabra": "patrimonio"
+ },
+ {
+  "codigo": "CS-EBC-8.9-CP-05",
+  "palabra": "preservación."
+ },
+ {
+  "codigo": "CS-EBC-8.9-CP-06",
+  "palabra": "normas"
+ },
+ {
+  "codigo": "CS-EBC-8.9-CP-07",
+  "palabra": "impuestos"
+ },
+ {
+  "codigo": "CS-EBC-8.9-CP-07",
+  "palabra": "solidaridad"
+ },
+ {
+  "codigo": "CS-EBC-8.9-CP-09",
+  "palabra": "relaciones"
+ },
+ {
+  "codigo": "CS-EBC-8.9-CP-10",
+  "palabra": "sobre"
+ },
+ {
+  "codigo": "CS-EBC-8.9-CP-11",
+  "palabra": "participo"
+ },
+ {
+  "codigo": "CS-EBC-10.11-EG-01",
+  "palabra": "sociales"
+ },
+ {
+  "codigo": "CS-EBC-10.11-EG-01",
+  "palabra": "generaron"
+ },
+ {
+  "codigo": "CS-EBC-10.11-EG-02",
+  "palabra": "consecuencias"
+ },
+ {
+  "codigo": "CS-EBC-10.11-EG-02",
+  "palabra": "económicos"
+ },
+ {
+  "codigo": "CS-EBC-10.11-AC-01",
+  "palabra": "proyectos,"
+ },
+ {
+  "codigo": "CS-EBC-10.11-AC-08",
+  "palabra": "combinación"
+ },
+ {
+  "codigo": "CS-EBC-10.11-AC-18",
+  "palabra": "relacionarlos"
+ },
+ {
+  "codigo": "CS-EBC-10.11-HC-02",
+  "palabra": "Violencia”"
+ },
+ {
+  "codigo": "CS-EBC-10.11-HC-02",
+  "palabra": "formas"
+ },
+ {
+  "codigo": "CS-EBC-10.11-HC-03",
+  "palabra": "consecuencias"
+ },
+ {
+  "codigo": "CS-EBC-10.11-HC-04",
+  "palabra": "paramilitarismo"
+ },
+ {
+  "codigo": "CS-EBC-10.11-HC-05",
+  "palabra": "sobresalientes"
+ },
+ {
+  "codigo": "CS-EBC-10.11-HC-05",
+  "palabra": "conflicto"
+ },
+ {
+  "codigo": "CS-EBC-10.11-HC-06",
+  "palabra": "Oriente-Occidente...)."
+ },
+ {
+  "codigo": "CS-EBC-10.11-HC-09",
+  "palabra": "familiar"
+ },
+ {
+  "codigo": "CS-EBC-10.11-HC-10",
+  "palabra": "derechos"
+ },
+ {
+  "codigo": "CS-EBC-10.11-EA-02",
+  "palabra": "económico"
+ },
+ {
+  "codigo": "CS-EBC-10.11-EA-04",
+  "palabra": "desarrollo"
+ },
+ {
+  "codigo": "CS-EBC-10.11-EA-05",
+  "palabra": "suficiente"
+ },
+ {
+  "codigo": "CS-EBC-10.11-EA-07",
+  "palabra": "relaciones"
+ },
+ {
+  "codigo": "CS-EBC-10.11-EA-08",
+  "palabra": "globalización"
+ },
+ {
+  "codigo": "CS-EBC-10.11-EA-09",
+  "palabra": "culturales"
+ },
+ {
+  "codigo": "CS-EBC-10.11-EP-01",
+  "palabra": "políticos"
+ },
+ {
+  "codigo": "CS-EBC-10.11-EP-02",
+  "palabra": "democrático"
+ },
+ {
+  "codigo": "CS-EBC-10.11-EP-02",
+  "palabra": "democrático"
+ },
+ {
+  "codigo": "CS-EBC-10.11-EP-03",
+  "palabra": "consecuencias"
+ },
+ {
+  "codigo": "CS-EBC-10.11-EP-05",
+  "palabra": "forzado"
+ },
+ {
+  "codigo": "CS-EBC-10.11-EP-05",
+  "palabra": "derechos"
+ },
+ {
+  "codigo": "CS-EBC-10.11-EP-06",
+  "palabra": "internacionales"
+ },
+ {
+  "codigo": "CS-EBC-10.11-EP-06",
+  "palabra": "ámbito"
+ },
+ {
+  "codigo": "CS-EBC-10.11-EP-07",
+  "palabra": "hechos"
+ },
+ {
+  "codigo": "CS-EBC-10.11-EP-07",
+  "palabra": "globalización,"
+ },
+ {
+  "codigo": "CS-EBC-10.11-EP-09",
+  "palabra": "cumplen"
+ },
+ {
+  "codigo": "CS-EBC-10.11-EP-09",
+  "palabra": "control"
+ },
+ {
+  "codigo": "CS-EBC-10.11-EP-10",
+  "palabra": "instituciones"
+ },
+ {
+  "codigo": "CS-EBC-10.11-CP-04",
+  "palabra": "situaciones."
+ },
+ {
+  "codigo": "CS-EBC-10.11-CP-05",
+  "palabra": "fundamentales"
+ },
+ {
+  "codigo": "CS-EBC-10.11-CP-05",
+  "palabra": "política,"
+ },
+ {
+  "codigo": "CS-EBC-10.11-CP-08",
+  "palabra": "relaciones"
+ },
+ {
+  "codigo": "CS-EBC-10.11-CP-09",
+  "palabra": "sobre"
+ },
+ {
+  "codigo": "CS-EBC-10.11-CP-10",
+  "palabra": "grupos"
+ }
+]

@@ -15,8 +15,8 @@
 | Inglés | 6.° a 11.°, formato final: enunciado exacto, habilidades y ejemplo explicado. Primaria, en curso | 1.° a 11.° (A1, A2.1, A2.2, B1.1 y B1.2): completos | 6.° a 11.° completa (24 módulos). Análisis MEN (Anexo 8) |
 | Matemáticas | 1.° a 11.° (enunciado y evidencias) | 1.° a 11.° | pendiente |
 | Lenguaje | 1.° a 11.° (enunciado y evidencias) | 1.° a 11.° | pendiente |
-| Ciencias Naturales | 1.° a 11.° (enunciado y evidencias) | pendiente | pendiente |
-| Ciencias Sociales | 1.° a 11.° (enunciado y evidencias) | pendiente | pendiente |
+| Ciencias Naturales | 1.° a 11.° (enunciado y evidencias) | 1.° a 11.° (18 estándares y 342 acciones de pensamiento y de producción) | pendiente |
+| Ciencias Sociales | 1.° a 11.° (enunciado y evidencias) | 1.° a 11.° (15 estándares y 250 acciones de pensamiento y de producción) | pendiente |
 
 ## ICFES · Saber 11° (Guía de orientación 2026-2)
 

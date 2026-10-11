@@ -1,23 +1,26 @@
 # Verificación de ciencias_sociales
 
-Fecha: 2026-10-03
+Fecha: 2026-10-11
 
 ## Fuentes
 
 | Archivo | SHA-256 |
 |---|---|
+| `estandares-ciencias-sociales-naturales.pdf` | `29ebf9e8bf099afac9794f3e1eb49ff15d6647d872ca04967f195c7c33f00cd4` |
 | `dba-sociales.pdf` | `f816ba011a0c6041fbe9e72644832fbaa217340748dcdcd29aad3e7a3188870e` |
 
 ## Resultado
 
 | Tipo | Textos |
 |---|---|
+| Estándar | 15 |
+| Acción | 250 |
 | DBA | 82 |
 | Evidencia | 328 |
 
-- Literales en el PDF: **410 de 410**
-- Completos (frontera confirmada automáticamente): 394
-- Completos (confirmados por revisión manual): 16
+- Literales en el PDF: **675 de 675**
+- Completos (frontera confirmada automáticamente): 658
+- Completos (confirmados por revisión manual): 17
 - Pendientes: **0**
 
 ## Confirmaciones manuales
@@ -38,6 +41,7 @@ Fecha: 2026-10-03
 - `CS-DBA-7-05-E4` (pág. 35): La evidencia termina antes de una imagen, un pie de foto o un espacio en blanco; en el flujo del PDF sigue ese otro texto. Confirmada contra la página.
 - `CS-DBA-9-06-E4` (pág. 44): La evidencia termina antes de una imagen, un pie de foto o un espacio en blanco; en el flujo del PDF sigue ese otro texto. Confirmada contra la página.
 - `CS-DBA-6-05-E1` (pág. 31): La ligadura «fi» de «geográficos» no existe en el texto interno del PDF; se restituyó como se lee en la página.
+- `CS-EBC-10.11-EG-02` (pág. 35): El estándar empieza en la franja superior de la página 35 («…de la aplicación de las») y termina en la de la página 36 («diferentes teorías y modelos económicos…»), que no trae punta de flecha porque es continuación. En el flujo del PDF ambas mitades están separadas por el resto de la página 35. Confirmado contra las dos páginas.
 
 ## Método
 

@@ -1,22 +1,25 @@
 # Verificación de ciencias_naturales
 
-Fecha: 2026-10-03
+Fecha: 2026-10-11
 
 ## Fuentes
 
 | Archivo | SHA-256 |
 |---|---|
+| `estandares-ciencias-sociales-naturales.pdf` | `29ebf9e8bf099afac9794f3e1eb49ff15d6647d872ca04967f195c7c33f00cd4` |
 | `dba-naturales.pdf` | `3156475f8a0cc988080dc71c49b722f9f125726591adafd66f45a78d5e8a3f4d` |
 
 ## Resultado
 
 | Tipo | Textos |
 |---|---|
+| Estándar | 18 |
+| Acción | 342 |
 | DBA | 53 |
 | Evidencia | 180 |
 
-- Literales en el PDF: **233 de 233**
-- Completos (frontera confirmada automáticamente): 229
+- Literales en el PDF: **593 de 593**
+- Completos (frontera confirmada automáticamente): 589
 - Completos (confirmados por revisión manual): 4
 - Pendientes: **0**
 
