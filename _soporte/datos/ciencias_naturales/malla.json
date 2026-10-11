@@ -22,7 +22,9 @@
     "texto": "Identifica si los cuerpos tienen cargas iguales o contrarias a partir de los efectos de atracción o repulsión que se producen."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "CN-EBC-6.7-EG-02"
+  ],
   "fuente": "dba-naturales.pdf",
   "fuente_pagina": 21
  },
@@ -53,7 +55,10 @@
     "texto": "Diseña y realiza experiencias para separar mezclas homogéneas y heterogéneas utilizando técnicas (vaporización, cristalización, destilación), para justificar la elección de las mismas a partir de las propiedades fisicoquímicas de las sustancias involucradas."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "CN-EBC-6.7-EG-02",
+   "CN-EBC-6.7-EG-03"
+  ],
   "fuente": "dba-naturales.pdf",
   "fuente_pagina": 21
  },
@@ -88,7 +93,9 @@
     "texto": "Reconoce la importancia de los coloides (como ejemplo de mezcla heterogénea) en los procesos industriales (Pinturas, lacas) y biomédicos (Alimentos y medicinas)."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "CN-EBC-6.7-EG-02"
+  ],
   "fuente": "dba-naturales.pdf",
   "fuente_pagina": 22
  },
@@ -123,7 +130,9 @@
     "texto": "Predice qué ocurre a nivel de transporte de membrana, obtención de energía y división celular en caso de daño de alguna de las organelas celulares."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "CN-EBC-6.7-EG-01"
+  ],
   "fuente": "dba-naturales.pdf",
   "fuente_pagina": 22
  },
@@ -154,7 +163,9 @@
     "texto": "Explica la clasificación taxonómica como mecanismo que permite reconocer la biodiversidad en el planeta y las relaciones de parentesco entre los organismos."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "CN-EBC-6.7-EG-01"
+  ],
   "fuente": "dba-naturales.pdf",
   "fuente_pagina": 23
  },
@@ -185,7 +196,9 @@
     "texto": "Representa gráficamente las energías cinética y potencial gravitacional en función del tiempo."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "CN-EBC-6.7-EG-02"
+  ],
   "fuente": "dba-naturales.pdf",
   "fuente_pagina": 24
  },
@@ -216,7 +229,9 @@
     "texto": "Explica la variación de algunas de las propiedades (densidad, temperatura de ebullición y fusión) de sustancias simples (metales, no metales, metaloides y gases nobles) en la tabla periódica."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "CN-EBC-6.7-EG-02"
+  ],
   "fuente": "dba-naturales.pdf",
   "fuente_pagina": 24
  },
@@ -247,7 +262,9 @@
     "texto": "Compara el proceso de fotosíntesis con el de respiración celular, considerando sus reactivos y productos y su función en los organismos."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "CN-EBC-6.7-EG-01"
+  ],
   "fuente": "dba-naturales.pdf",
   "fuente_pagina": 25
  },
@@ -282,7 +299,10 @@
     "texto": "Propone acciones de uso responsable del agua en su hogar, en la escuela y en sus contextos cercanos."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "CN-EBC-6.7-EG-01",
+   "CN-EBC-6.7-EG-03"
+  ],
   "fuente": "dba-naturales.pdf",
   "fuente_pagina": 25
  },
@@ -317,7 +337,10 @@
     "texto": "Explica, haciendo uso de las leyes termodinámicas, el funcionamiento térmico de diferentes máquinas (motor de combustión, refrigerador)."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "CN-EBC-8.9-EG-02",
+   "CN-EBC-8.9-EG-04"
+  ],
   "fuente": "dba-naturales.pdf",
   "fuente_pagina": 27
  },
@@ -352,7 +375,9 @@
     "texto": "Predice algunas de las propiedades (estado de agregación, solubilidad, temperatura de ebullición y de fusión) de los compuestos químicos a partir del tipo de enlace de sus átomos dentro de sus moléculas."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "CN-EBC-8.9-EG-02"
+  ],
   "fuente": "dba-naturales.pdf",
   "fuente_pagina": 27
  },
@@ -383,7 +408,9 @@
     "texto": "Explica eventos cotidianos, (funcionamiento de un globo aerostático, pipetas de gas, inflar/ explotar una bomba), a partir de relaciones matemáticas entre variables como la presión, la temperatura, la cantidad de gas y el volumen, identificando cómo las leyes de los gases (Boyle- Mariotte, Charles, Gay-Lussac, Ley combinada, ecuación de estado) permiten establecer dichas relaciones."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "CN-EBC-8.9-EG-02"
+  ],
   "fuente": "dba-naturales.pdf",
   "fuente_pagina": 28
  },
@@ -418,7 +445,9 @@
     "texto": "Explica, a través de ejemplos, los efectos de hábitos no saludables en el funcionamiento adecuado de los sistemas excretor, nervioso, inmune, endocrino, óseo y muscular."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "CN-EBC-8.9-EG-01"
+  ],
   "fuente": "dba-naturales.pdf",
   "fuente_pagina": 28
  },
@@ -453,7 +482,10 @@
     "texto": "Explica la importancia de la aplicación de medidas preventivas de patologías relacionadas con el sistema reproductor."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "CN-EBC-8.9-EG-01",
+   "CN-EBC-8.9-EG-03"
+  ],
   "fuente": "dba-naturales.pdf",
   "fuente_pagina": 29
  },
@@ -484,7 +516,9 @@
     "texto": "Identifica las modificaciones necesarias en la descripción del movimiento de un cuerpo, representada en gráficos, cuando se cambia de marco de referencia."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "CN-EBC-8.9-EG-02"
+  ],
   "fuente": "dba-naturales.pdf",
   "fuente_pagina": 30
  },
@@ -515,7 +549,10 @@
     "texto": "Explica la función de los ácidos y las bases en procesos propios de los seres vivos (respiración y digestión en el estómago) y de procesos industriales (uso fertilizantes en la agricultura) y limpieza (jabón)."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "CN-EBC-8.9-EG-02",
+   "CN-EBC-8.9-EG-04"
+  ],
   "fuente": "dba-naturales.pdf",
   "fuente_pagina": 30
  },
@@ -550,7 +587,9 @@
     "texto": "Explica a partir de las fuerzas intermoleculares (Puentes de Hidrogeno, fuerzas de Van der Waals) las propiedades físicas (solubilidad, la densidad, el punto de ebullición y fusión y la tensión superficial) de sustancias liquidas."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "CN-EBC-8.9-EG-02"
+  ],
   "fuente": "dba-naturales.pdf",
   "fuente_pagina": 31
  },
@@ -585,7 +624,10 @@
     "texto": "Demuestra la relación que existe entre el proceso de la meiosis y las segunda y tercera Leyes de la Herencia de Mendel."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "CN-EBC-8.9-EG-01",
+   "CN-EBC-8.9-EG-03"
+  ],
   "fuente": "dba-naturales.pdf",
   "fuente_pagina": 31
  },
@@ -616,7 +658,10 @@
     "texto": "Explica los principales mecanismos de cambio en el ADN (mutación y otros) identificando variaciones en la estructura de las proteínas que dan lugar a cambios en el fenotipo de los organismos y la diversidad en las poblaciones."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "CN-EBC-8.9-EG-01",
+   "CN-EBC-8.9-EG-03"
+  ],
   "fuente": "dba-naturales.pdf",
   "fuente_pagina": 32
  },
@@ -651,7 +696,9 @@
     "texto": "Identifica los procesos de transformación de los seres vivos ocurridos en cada una de las eras geológicas."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "CN-EBC-8.9-EG-01"
+  ],
   "fuente": "dba-naturales.pdf",
   "fuente_pagina": 33
  },
@@ -682,7 +729,9 @@
     "texto": "Identifica, en diferentes situaciones de interacción entre cuerpos (de forma directa y a distancia), la fuerza de acción y la de reacción e indica sus valores y direcciones (tercera ley de Newton)."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "CN-EBC-10.11-EG-03"
+  ],
   "fuente": "dba-naturales.pdf",
   "fuente_pagina": 34
  },
@@ -709,7 +758,9 @@
     "texto": "Identifica, en sistemas no conservativos (fricción, choques no elásticos, deformación, vibraciones) las transformaciones de energía que se producen en concordancia con la conservación de la energía."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "CN-EBC-10.11-EG-04"
+  ],
   "fuente": "dba-naturales.pdf",
   "fuente_pagina": 34
  },
@@ -744,7 +795,9 @@
     "texto": "Explica a partir de relaciones cuantitativas y reacciones químicas (oxido-reducción, descomposición, neutralización y precipitación) la formación de nuevos compuestos, dando ejemplos de cada tipo de reacción."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "CN-EBC-10.11-EG-02"
+  ],
   "fuente": "dba-naturales.pdf",
   "fuente_pagina": 35
  },
@@ -775,7 +828,10 @@
     "texto": "Argumenta, basado en evidencias, los impactos bioéticos, legales, sociales y ambientales generados por el uso de transgénicos, clonación y terapias génicas."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "CN-EBC-10.11-EG-01",
+   "CN-EBC-10.11-EG-05"
+  ],
   "fuente": "dba-naturales.pdf",
   "fuente_pagina": 35
  },
@@ -810,7 +866,9 @@
     "texto": "Explica las cualidades del sonido (tono, intensidad, audibilidad) y de la luz (color y visibilidad) a partir de las características del fenómeno ondulatorio (longitud de onda, frecuencia, amplitud)."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "CN-EBC-10.11-EG-04"
+  ],
   "fuente": "dba-naturales.pdf",
   "fuente_pagina": 37
  },
@@ -841,7 +899,9 @@
     "texto": "Construye y explica el funcionamiento de un electroimán."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "CN-EBC-10.11-EG-03"
+  ],
   "fuente": "dba-naturales.pdf",
   "fuente_pagina": 37
  },
@@ -876,7 +936,10 @@
     "texto": "Predice los cambios de iluminación en bombillos resistivos en un circuito al alterarlo (eliminar o agregar componentes en diferentes lugares)."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "CN-EBC-10.11-EG-03",
+   "CN-EBC-10.11-EG-05"
+  ],
   "fuente": "dba-naturales.pdf",
   "fuente_pagina": 38
  },
@@ -907,7 +970,9 @@
     "texto": "Explica el comportamiento exotérmico o endotérmico en una reacción química debido a la naturaleza de los reactivos, la variación de la temperatura, la presencia de catalizadores y los mecanismos propios de un grupo orgánico específico."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "CN-EBC-10.11-EG-02"
+  ],
   "fuente": "dba-naturales.pdf",
   "fuente_pagina": 38
  }

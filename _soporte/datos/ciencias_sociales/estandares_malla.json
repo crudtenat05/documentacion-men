@@ -1,0 +1,92 @@
+[
+ {
+  "codigo": "CS-EBC-6.7-EG-01",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Estándares",
+  "numero": 1,
+  "texto": "Reconozco y valoro la presencia de diversos legados culturales –de diferentes épocas y regiones– para el desarrollo de la humanidad.",
+  "pagina": 31,
+  "competencias": []
+ },
+ {
+  "codigo": "CS-EBC-6.7-EG-02",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Estándares",
+  "numero": 2,
+  "texto": "Analizo cómo diferentes culturas producen, transforman y distribuyen recursos, bienes y servicios de acuerdo con las características físicas de su entorno.",
+  "pagina": 32,
+  "competencias": []
+ },
+ {
+  "codigo": "CS-EBC-6.7-EG-03",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Estándares",
+  "numero": 3,
+  "texto": "Reconozco algunos de los sistemas políticos que se establecieron en diferentes épocas y culturas y las principales ideas que buscan legitimarlos.",
+  "pagina": 32,
+  "competencias": []
+ },
+ {
+  "codigo": "CS-EBC-8.9-EG-01",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Estándares",
+  "numero": 1,
+  "texto": "Identifico el potencial de diversos legados sociales, políticos, económicos y culturales como fuentes de identidad, promotores del desarrollo y fuentes de cooperación y conflicto en Colombia.",
+  "pagina": 33,
+  "competencias": []
+ },
+ {
+  "codigo": "CS-EBC-8.9-EG-02",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Estándares",
+  "numero": 2,
+  "texto": "Reconozco y analizo la interacción permanente entre el espacio geográfico y el ser humano y evalúo críticamente los avances y limitaciones de esta relación.",
+  "pagina": 34,
+  "competencias": []
+ },
+ {
+  "codigo": "CS-EBC-8.9-EG-03",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Estándares",
+  "numero": 3,
+  "texto": "Analizo críticamente los elementos constituyentes de la democracia, los derechos de las personas y la identidad en Colombia.",
+  "pagina": 34,
+  "competencias": []
+ },
+ {
+  "codigo": "CS-EBC-10.11-EG-01",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "Estándares",
+  "numero": 1,
+  "texto": "Identifico algunas características culturales y sociales de los procesos de transformación que se generaron a partir del desarrollo político y económico de Colombia y el mundo a lo largo del siglo XX.",
+  "pagina": 35,
+  "competencias": []
+ },
+ {
+  "codigo": "CS-EBC-10.11-EG-02",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "Estándares",
+  "numero": 2,
+  "texto": "Identifico y tomo posición frente a las principales causas y consecuencias políticas, económicas, sociales y ambientales de la aplicación de las diferentes teorías y modelos económicos en el siglo XX y formulo hipótesis que me permitan explicar la situación de Colombia en este contexto.",
+  "pagina": 35,
+  "competencias": []
+ },
+ {
+  "codigo": "CS-EBC-10.11-EG-03",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "Estándares",
+  "numero": 3,
+  "texto": "Comprendo que el ejercicio político es el resultado de esfuerzos por resolver conflictos y tensiones que surgen en las relaciones de poder entre los Estados y en el interior de ellos mismos.",
+  "pagina": 36,
+  "competencias": []
+ }
+]

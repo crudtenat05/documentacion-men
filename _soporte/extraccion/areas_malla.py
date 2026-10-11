@@ -9,10 +9,12 @@ Cada unidad de la malla es un DBA y lleva:
 Estándares relacionados:
 - Lenguaje: cada DBA se cruza con los estándares de su grupo de grados (6-7, 8-9, 10-11) según el factor de los
   Estándares Básicos de Competencias que corresponde a su eje (ver ESTANDARES_LENGUAJE abajo).
-- Ciencias: los estándares aún no están extraídos; la lista va vacía.
+- Ciencias Naturales y Sociales: cada DBA se cruza, por su contenido, con los estándares de su grupo de grados (los
+  enunciados de la franja «Al terminar…»; ver ESTANDARES_CIENCIAS abajo). Las acciones de pensamiento y producción
+  no se cruzan: el MEN aclara que no están numeradas ni dependen de un estándar en particular.
 
 Entradas: _soporte/datos/{area}/dba.json (extracción verificada).
-Salidas:  _soporte/datos/{area}/malla.json y, en Lenguaje, _soporte/datos/lenguaje/estandares_malla.json.
+Salidas:  _soporte/datos/{area}/malla.json y _soporte/datos/{area}/estandares_malla.json.
 
 Uso: python3 _soporte/extraccion/areas_malla.py
 """
@@ -179,14 +181,55 @@ ESTANDARES_LENGUAJE = {
 }
 
 
-def estandares_lenguaje():
-    """Estándares de Lenguaje de 6.° a 11.° en el formato común (código, nivel, habilidad, texto, página)."""
-    todos = json.loads((DATOS / 'lenguaje' / 'estandares.json').read_text(encoding='utf-8'))
+# DBA → estándares (sufijo dentro de su grupo de grados), por contenido. Criterio: el estándar que describe lo que
+# el DBA pide; si el DBA aplica un conocimiento a la tecnología, la industria o la calidad de vida, también el
+# estándar de aplicaciones de ese grupo.
+ESTANDARES_CIENCIAS = {
+    # Naturales 6.° y 7.°: EG-01 seres vivos y ecosistemas; EG-02 materia y sustancias; EG-03 recursos naturales y
+    # tecnología.
+    'CN-DBA-6-01': ['EG-02'], 'CN-DBA-6-02': ['EG-02', 'EG-03'], 'CN-DBA-6-03': ['EG-02'],
+    'CN-DBA-6-04': ['EG-01'], 'CN-DBA-6-05': ['EG-01'],
+    'CN-DBA-7-01': ['EG-02'], 'CN-DBA-7-02': ['EG-02'], 'CN-DBA-7-03': ['EG-01'], 'CN-DBA-7-04': ['EG-01', 'EG-03'],
+    # 8.° y 9.°: EG-01 variabilidad y diversidad; EG-02 energía y materia; EG-03 aplicaciones de la herencia y la
+    # reproducción; EG-04 aplicaciones del transporte de energía y de las interacciones de la materia.
+    'CN-DBA-8-01': ['EG-02', 'EG-04'], 'CN-DBA-8-02': ['EG-02'], 'CN-DBA-8-03': ['EG-02'],
+    'CN-DBA-8-04': ['EG-01'], 'CN-DBA-8-05': ['EG-01', 'EG-03'],
+    'CN-DBA-9-01': ['EG-02'], 'CN-DBA-9-02': ['EG-02', 'EG-04'], 'CN-DBA-9-03': ['EG-02'],
+    'CN-DBA-9-04': ['EG-01', 'EG-03'], 'CN-DBA-9-05': ['EG-01', 'EG-03'], 'CN-DBA-9-06': ['EG-01'],
+    # 10.° y 11.°: EG-01 diversidad biológica; EG-02 moléculas y cambio químico; EG-03 fuerzas por carga y masa;
+    # EG-04 transformación y conservación de la energía; EG-05 aplicaciones industriales y tecnológicas.
+    'CN-DBA-10-01': ['EG-03'], 'CN-DBA-10-02': ['EG-04'], 'CN-DBA-10-03': ['EG-02'], 'CN-DBA-10-04': ['EG-01', 'EG-05'],
+    'CN-DBA-11-01': ['EG-04'], 'CN-DBA-11-02': ['EG-03'], 'CN-DBA-11-03': ['EG-03', 'EG-05'], 'CN-DBA-11-04': ['EG-02'],
+
+    # Sociales 6.° y 7.°: EG-01 legados culturales; EG-02 culturas, recursos y entorno; EG-03 sistemas políticos.
+    'CS-DBA-6-01': ['EG-01'], 'CS-DBA-6-02': ['EG-02'], 'CS-DBA-6-03': ['EG-01', 'EG-02'], 'CS-DBA-6-04': ['EG-02'],
+    'CS-DBA-6-05': ['EG-01'], 'CS-DBA-6-06': ['EG-03'], 'CS-DBA-6-07': ['EG-03'], 'CS-DBA-6-08': ['EG-03'],
+    'CS-DBA-7-01': ['EG-01'], 'CS-DBA-7-02': ['EG-02'], 'CS-DBA-7-03': ['EG-01', 'EG-03'], 'CS-DBA-7-04': ['EG-01', 'EG-03'],
+    'CS-DBA-7-05': ['EG-01'], 'CS-DBA-7-06': ['EG-01', 'EG-02'], 'CS-DBA-7-07': ['EG-03'], 'CS-DBA-7-08': ['EG-03'],
+    # 8.° y 9.°: EG-01 legados como identidad, desarrollo y cooperación o conflicto; EG-02 espacio geográfico y ser
+    # humano; EG-03 democracia, derechos e identidad en Colombia.
+    'CS-DBA-8-01': ['EG-01'], 'CS-DBA-8-02': ['EG-02'], 'CS-DBA-8-03': ['EG-01'], 'CS-DBA-8-04': ['EG-01', 'EG-02'],
+    'CS-DBA-8-05': ['EG-01'], 'CS-DBA-8-06': ['EG-01', 'EG-02'], 'CS-DBA-8-07': ['EG-03'], 'CS-DBA-8-08': ['EG-03'],
+    'CS-DBA-9-01': ['EG-02'], 'CS-DBA-9-02': ['EG-02'], 'CS-DBA-9-03': ['EG-01'], 'CS-DBA-9-04': ['EG-01'],
+    'CS-DBA-9-05': ['EG-03'], 'CS-DBA-9-06': ['EG-03'], 'CS-DBA-9-07': ['EG-03'], 'CS-DBA-9-08': ['EG-02'],
+    # 10.° y 11.°: EG-01 transformaciones culturales y sociales del siglo XX; EG-02 teorías y modelos económicos y sus
+    # consecuencias (también ambientales); EG-03 ejercicio político y conflictos de poder.
+    'CS-DBA-10-01': ['EG-02', 'EG-03'], 'CS-DBA-10-02': ['EG-01', 'EG-03'], 'CS-DBA-10-03': ['EG-01'],
+    'CS-DBA-10-04': ['EG-03'], 'CS-DBA-10-05': ['EG-03'],
+    'CS-DBA-11-01': ['EG-02'], 'CS-DBA-11-02': ['EG-03'], 'CS-DBA-11-03': ['EG-03'], 'CS-DBA-11-04': ['EG-01', 'EG-03'],
+    'CS-DBA-11-05': ['EG-02'],
+}
+
+
+def estandares_comunes(area):
+    """Estándares de 6.° a 11.° en el formato común (código, nivel, habilidad, texto, página). En Ciencias, solo los
+    estándares de la franja «Al terminar…» (tipo «estandar»), no las acciones."""
+    todos = json.loads((DATOS / area / 'estandares.json').read_text(encoding='utf-8'))
     return [{
         'codigo': e['codigo'], 'nivel': f"{e['grado_desde']}-{e['grado_hasta']}",
         'grados': f"{e['grado_desde']}.° a {e['grado_hasta']}.°", 'habilidad': e['eje_nombre'],
         'numero': e['orden'], 'texto': e['texto'], 'pagina': e['pagina_pdf'], 'competencias': [],
-    } for e in todos if e['grado_desde'] >= 6]
+    } for e in todos if e['grado_desde'] >= 6 and e.get('tipo', 'estandar') == 'estandar']
 
 
 def main():
@@ -219,23 +262,23 @@ def main():
                 'ruta': (d.get('ejemplo_texto_plano') or '').strip(),
                 'evidencias': [{'codigo': ev['codigo'], 'texto': ev['texto']} for ev in d['evidencias']],
                 'estandares': [f'LEN-EBC-{GRUPOS[d["grado"]]}-{c}' for c in ESTANDARES_LENGUAJE[eje][GRUPOS[d['grado']]]]
-                if area == 'lenguaje' else [],
+                if area == 'lenguaje' else
+                [f'{d["codigo"].split("-")[0]}-EBC-{GRUPOS[d["grado"]]}-{c}' for c in ESTANDARES_CIENCIAS[d['codigo']]],
                 'fuente': d.get('fuente'),
                 'fuente_pagina': d.get('pagina_pdf'),
             })
 
-        if area == 'lenguaje':
-            comunes = estandares_lenguaje()
-            existentes = {e['codigo'] for e in comunes}
-            faltan = sorted({c for m in malla for c in m['estandares']} - existentes)
-            if faltan:
-                sys.exit(f'Lenguaje: estándares citados que no existen: {faltan}')
-            sin_uso = sorted(existentes - {c for m in malla for c in m['estandares']})
-            if sin_uso:
-                sys.exit(f'Lenguaje: estándares sin ningún DBA: {sin_uso}')
-            (DATOS / area / 'estandares_malla.json').write_text(
-                json.dumps(comunes, ensure_ascii=False, indent=1) + '\n', encoding='utf-8')
-            print(f'lenguaje: {sum(len(m["estandares"]) for m in malla)} relaciones DBA-estándar con los {len(comunes)} estándares de 6.° a 11.°.')
+        comunes = estandares_comunes(area)
+        existentes = {e['codigo'] for e in comunes}
+        faltan = sorted({c for m in malla for c in m['estandares']} - existentes)
+        if faltan:
+            sys.exit(f'{area}: estándares citados que no existen: {faltan}')
+        sin_uso = sorted(existentes - {c for m in malla for c in m['estandares']})
+        if sin_uso:
+            sys.exit(f'{area}: estándares sin ningún DBA: {sin_uso}')
+        (DATOS / area / 'estandares_malla.json').write_text(
+            json.dumps(comunes, ensure_ascii=False, indent=1) + '\n', encoding='utf-8')
+        print(f'{area}: {sum(len(m["estandares"]) for m in malla)} relaciones DBA-estándar con los {len(comunes)} estándares de 6.° a 11.°.')
         (DATOS / area / 'malla.json').write_text(json.dumps(malla, ensure_ascii=False, indent=1) + '\n', encoding='utf-8')
         evidencias = sum(len(m['evidencias']) for m in malla)
         print(f'{area}: {len(malla)} DBA de 6.° a 11.° en la malla común, con {evidencias} evidencias.')

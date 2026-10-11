@@ -1,0 +1,122 @@
+[
+ {
+  "codigo": "CN-EBC-6.7-EG-01",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Estándares",
+  "numero": 1,
+  "texto": "Identifico condiciones de cambio y de equilibrio en los seres vivos y en los ecosistemas.",
+  "pagina": 41,
+  "competencias": []
+ },
+ {
+  "codigo": "CN-EBC-6.7-EG-02",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Estándares",
+  "numero": 2,
+  "texto": "Establezco relaciones entre las características macroscópicas y microscópicas de la materia y las propiedades físicas y químicas de las sustancias que la constituyen.",
+  "pagina": 41,
+  "competencias": []
+ },
+ {
+  "codigo": "CN-EBC-6.7-EG-03",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "Estándares",
+  "numero": 3,
+  "texto": "Evalúo el potencial de los recursos naturales, la forma como se han utilizado en desarrollos tecnológicos y las consecuencias de la acción del ser humano sobre ellos.",
+  "pagina": 42,
+  "competencias": []
+ },
+ {
+  "codigo": "CN-EBC-8.9-EG-01",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Estándares",
+  "numero": 1,
+  "texto": "Explico la variabilidad en las poblaciones y la diversidad biológica como consecuencia de estrategias de reproducción, cambios genéticos y selección natural.",
+  "pagina": 43,
+  "competencias": []
+ },
+ {
+  "codigo": "CN-EBC-8.9-EG-02",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Estándares",
+  "numero": 2,
+  "texto": "Explico condiciones de cambio y conservación en diversos sistemas, teniendo en cuenta transferencia y transporte de energía y su interacción con la materia.",
+  "pagina": 43,
+  "competencias": []
+ },
+ {
+  "codigo": "CN-EBC-8.9-EG-03",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Estándares",
+  "numero": 3,
+  "texto": "Identifico aplicaciones de algunos conocimientos sobre la herencia y la reproducción al mejoramiento de la calidad de vida de las poblaciones.",
+  "pagina": 44,
+  "competencias": []
+ },
+ {
+  "codigo": "CN-EBC-8.9-EG-04",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "Estándares",
+  "numero": 4,
+  "texto": "Identifico aplicaciones comerciales e industriales del transporte de energía y de las interacciones de la materia.",
+  "pagina": 44,
+  "competencias": []
+ },
+ {
+  "codigo": "CN-EBC-10.11-EG-01",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "Estándares",
+  "numero": 1,
+  "texto": "Explico la diversidad biológica como consecuencia de cambios ambientales, genéticos y de relaciones dinámicas dentro de los ecosistemas.",
+  "pagina": 45,
+  "competencias": []
+ },
+ {
+  "codigo": "CN-EBC-10.11-EG-02",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "Estándares",
+  "numero": 2,
+  "texto": "Relaciono la estructura de las moléculas orgánicas e inorgánicas con sus propiedades físicas y químicas y su capacidad de cambio químico.",
+  "pagina": 45,
+  "competencias": []
+ },
+ {
+  "codigo": "CN-EBC-10.11-EG-03",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "Estándares",
+  "numero": 3,
+  "texto": "Explico las fuerzas entre objetos como interacciones debidas a la carga eléctrica y a la masa.",
+  "pagina": 46,
+  "competencias": []
+ },
+ {
+  "codigo": "CN-EBC-10.11-EG-04",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "Estándares",
+  "numero": 4,
+  "texto": "Utilizo modelos biológicos, físicos y químicos para explicar la transformación y conservación de la energía.",
+  "pagina": 46,
+  "competencias": []
+ },
+ {
+  "codigo": "CN-EBC-10.11-EG-05",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "Estándares",
+  "numero": 5,
+  "texto": "Identifico aplicaciones de diferentes modelos biológicos, químicos y físicos en procesos industriales y en el desarrollo tecnológico; analizo críticamente las implicaciones de sus usos.",
+  "pagina": 46,
+  "competencias": []
+ }
+]
