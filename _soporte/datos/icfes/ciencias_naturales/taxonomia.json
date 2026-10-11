@@ -1,0 +1,434 @@
+{
+ "documento": {
+  "codigo": "ICFES-GUIA-S11-2026-2",
+  "entidad": "ICFES",
+  "titulo": "Guía de orientación del Examen Saber 11º 2026-2 (Calendario A)",
+  "version": "2026-2",
+  "anio": 2026,
+  "archivo": "fuentes/icfes/guia-orientacion-saber11-2026-2.pdf"
+ },
+ "prueba": "ciencias_naturales",
+ "descripcion": "De acuerdo con el Marco de referencia, esta prueba evalúa la capacidad que tienen los evaluados para comprender y usar nociones, conceptos y teorías de las ciencias naturales en la solución de problemas. Evalúa también la habilidad de los evaluados para explicar cómo ocurren algunos fenómenos de la naturaleza, con base en observaciones, patrones y conceptos propios del conocimiento científico. La prueba, además, involucra en la evaluación el proceso de indagación, que incluye observar y relacionar patrones en los datos para llegar a conclusiones sobre fenómenos naturales. La prueba Ciencias Naturales no pretende evaluar conocimientos científicos en sentido estricto, sino la capacidad para reconstruir significativamente el conocimiento existente, razonar, tomar decisiones, resolver problemas, pensar con rigurosidad y valorar de manera crítica el conocimiento y sus consecuencias en la sociedad y en el ambiente.",
+ "pagina": 54,
+ "competencias": [
+  {
+   "codigo": "NAT-C1",
+   "nombre": "Explicación de fenómenos",
+   "descripcion": "Es la capacidad de construir explicaciones y comprender argumentos y modelos que den razón de fenómenos, así como de establecer la validez o coherencia de una afirmación o de un argumento relacionados con un fenómeno o problema científico.",
+   "porcentaje_preguntas": 30,
+   "orden": 1,
+   "pagina": 55,
+   "afirmaciones": [
+    {
+     "codigo": "NAT-A1",
+     "numero": 1,
+     "texto": "Analiza el potencial del uso de recursos naturales o artefactos y sus efectos sobre el entorno y la salud, así como las posibilidades de desarrollo para las comunidades.",
+     "pagina": 55,
+     "evidencias": [
+      {
+       "codigo": "NAT-E1.1",
+       "numero": "1.1",
+       "texto": "Explica algunos principios para mantener la salud individual y la pública basado en principios biológicos, químicos y físicos.",
+       "pagina": 55
+      },
+      {
+       "codigo": "NAT-E1.2",
+       "numero": "1.2",
+       "texto": "Explica cómo la explotación de un recurso o el uso de una tecnología tiene efectos positivos o negativos en las personas y en el entorno.",
+       "pagina": 55
+      },
+      {
+       "codigo": "NAT-E1.3",
+       "numero": "1.3",
+       "texto": "Explica el uso correcto y seguro de una tecnología o artefacto en un contexto específico.",
+       "pagina": 55
+      }
+     ]
+    },
+    {
+     "codigo": "NAT-A2",
+     "numero": 2,
+     "texto": "Explica cómo ocurren algunos fenómenos de la naturaleza basado en observaciones, patrones y conceptos propios del conocimiento científico.",
+     "pagina": 55,
+     "evidencias": [
+      {
+       "codigo": "NAT-E2.1",
+       "numero": "2.1",
+       "texto": "Da las razones por las cuales una reacción describe un fenómeno y justifica las relaciones cuantitativas existentes, teniendo en cuenta la ley de conservación de la masa y carga.",
+       "pagina": 55
+      },
+      {
+       "codigo": "NAT-E2.2",
+       "numero": "2.2",
+       "texto": "Reconoce las razones por las cuales la materia se puede diferenciar, según su estructura y propiedades, y justifica las diferencias existentes entre distintos elementos, compuestos y mezclas.",
+       "pagina": 55
+      },
+      {
+       "codigo": "NAT-E2.3",
+       "numero": "2.3",
+       "texto": "Reconoce los atributos que definen ciertos procesos fisicoquímicos simples (separación de mezclas, solubilidad, gases ideales, cambios de fase) y da razón de la manera en que ocurren.",
+       "pagina": 55
+      },
+      {
+       "codigo": "NAT-E2.4",
+       "numero": "2.4",
+       "texto": "Elabora explicaciones al relacionar las variables de estado que describen un sistema electrónico, argumentando a partir de los modelos básicos de circuitos.",
+       "pagina": 55
+      },
+      {
+       "codigo": "NAT-E2.5",
+       "numero": "2.5",
+       "texto": "Elabora explicaciones al relacionar las variables de estado que describen un sistema, argumentando a partir de los modelos básicos de cinemática y dinámica newtoniana.",
+       "pagina": 55
+      },
+      {
+       "codigo": "NAT-E2.6",
+       "numero": "2.6",
+       "texto": "Elabora explicaciones al relacionar las variables de estado que describen un sistema, argumentando a partir de los modelos básicos de la termodinámica.",
+       "pagina": 56
+      },
+      {
+       "codigo": "NAT-E2.7",
+       "numero": "2.7",
+       "texto": "Elabora explicaciones al relacionar las variables de estado que describen un sistema, argumentando a partir de los modelos básicos de ondas.",
+       "pagina": 56
+      },
+      {
+       "codigo": "NAT-E2.8",
+       "numero": "2.8",
+       "texto": "Analiza aspectos de los ecosistemas y da razón de cómo funcionan, de sus interrelaciones con los factores bióticos y abióticos y de sus efectos al modificarse alguna variable interna.",
+       "pagina": 56
+      },
+      {
+       "codigo": "NAT-E2.9",
+       "numero": "2.9",
+       "texto": "Analiza la dinámica interna de los organismos y da razón de cómo funcionan sus componentes por separado y en conjunto para mantener la vida en el organismo.",
+       "pagina": 56
+      }
+     ]
+    },
+    {
+     "codigo": "NAT-A3",
+     "numero": 3,
+     "texto": "Modela fenómenos de la naturaleza basado en el análisis de variables, la relación entre dos o más conceptos del conocimiento científico y de la evidencia derivada de investigaciones científicas.",
+     "pagina": 56,
+     "evidencias": [
+      {
+       "codigo": "NAT-E3.1",
+       "numero": "3.1",
+       "texto": "Usa modelos físicos basados en dinámica clásica para comprender un fenómeno particular en un sistema.",
+       "pagina": 56
+      },
+      {
+       "codigo": "NAT-E3.2",
+       "numero": "3.2",
+       "texto": "Identifica y usa modelos químicos para comprender fenómenos particulares de la naturaleza.",
+       "pagina": 56
+      },
+      {
+       "codigo": "NAT-E3.3",
+       "numero": "3.3",
+       "texto": "Analiza y usa modelos biológicos para comprender la dinámica que se da en lo vivo y en el entorno.",
+       "pagina": 56
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "codigo": "NAT-C2",
+   "nombre": "Uso comprensivo del conocimiento científico",
+   "descripcion": "Es la capacidad para comprender y usar nociones, conceptos y teorías de las ciencias naturales en la solución de problemas, y de establecer relaciones entre conceptos y conocimientos adquiridos y fenómenos que se observan con frecuencia.",
+   "porcentaje_preguntas": 30,
+   "orden": 2,
+   "pagina": 57,
+   "afirmaciones": [
+    {
+     "codigo": "NAT-A4",
+     "numero": 4,
+     "texto": "Asocia fenómenos naturales con conceptos propios del conocimiento científico.",
+     "pagina": 57,
+     "evidencias": [
+      {
+       "codigo": "NAT-E4.1",
+       "numero": "4.1",
+       "texto": "Relaciona los componentes de un circuito en serie y en paralelo con sus respectivos voltajes y corrientes.",
+       "pagina": 57
+      },
+      {
+       "codigo": "NAT-E4.2",
+       "numero": "4.2",
+       "texto": "Relaciona los distintos factores que determinan la dinámica de un sistema o fenómeno (condiciones iniciales, parámetros y constantes) para identificar su comportamiento, teniendo en cuenta las leyes de la física.",
+       "pagina": 57
+      },
+      {
+       "codigo": "NAT-E4.3",
+       "numero": "4.3",
+       "texto": "Relaciona los tipos de energía presentes en un objeto con las interacciones que presenta el sistema con su entorno.",
+       "pagina": 57
+      },
+      {
+       "codigo": "NAT-E4.4",
+       "numero": "4.4",
+       "texto": "Establece relaciones entre fenómenos biológicos para comprender la dinámica de lo vivo.",
+       "pagina": 57
+      },
+      {
+       "codigo": "NAT-E4.5",
+       "numero": "4.5",
+       "texto": "Establece relaciones entre fenómenos biológicos para comprender su entorno.",
+       "pagina": 57
+      },
+      {
+       "codigo": "NAT-E4.6",
+       "numero": "4.6",
+       "texto": "Diferencia distintos tipos de reacciones químicas y realiza de manera adecuada cálculos teniendo en cuenta la ley de conservación de la masa y carga.",
+       "pagina": 57
+      },
+      {
+       "codigo": "NAT-E4.7",
+       "numero": "4.7",
+       "texto": "Establece relaciones entre conceptos fisicoquímicos simples (separación de mezclas, solubilidad, gases ideales) con distintos fenómenos naturales.",
+       "pagina": 57
+      },
+      {
+       "codigo": "NAT-E4.8",
+       "numero": "4.8",
+       "texto": "Establece relaciones entre las propiedades y estructura de la materia con la formación de iones y moléculas.",
+       "pagina": 57
+      }
+     ]
+    },
+    {
+     "codigo": "NAT-A5",
+     "numero": 5,
+     "texto": "Identifica las características de algunos fenómenos de la naturaleza basado en el análisis de información y conceptos propios del conocimiento científico.",
+     "pagina": 58,
+     "evidencias": [
+      {
+       "codigo": "NAT-E5.1",
+       "numero": "5.1",
+       "texto": "Identifica las características fundamentales de las ondas, así como las variables y parámetros que afectan estas características en un medio de propagación.",
+       "pagina": 58
+      },
+      {
+       "codigo": "NAT-E5.2",
+       "numero": "5.2",
+       "texto": "Identifica las formas de energía presentes en un fenómeno físico y las transformaciones que se dan entre ellas.",
+       "pagina": 58
+      },
+      {
+       "codigo": "NAT-E5.3",
+       "numero": "5.3",
+       "texto": "Identifica los diferentes tipos de fuerzas que actúan sobre los cuerpos que conforman un sistema.",
+       "pagina": 58
+      },
+      {
+       "codigo": "NAT-E5.4",
+       "numero": "5.4",
+       "texto": "Identifica características de algunos procesos que se da en los ecosistemas para comprender la dinámica que se dan a su interior.",
+       "pagina": 58
+      },
+      {
+       "codigo": "NAT-E5.5",
+       "numero": "5.5",
+       "texto": "Identifica características de algunos procesos que se dan en los organismos para comprender la dinámica de lo vivo.",
+       "pagina": 58
+      },
+      {
+       "codigo": "NAT-E5.6",
+       "numero": "5.6",
+       "texto": "Identifica las propiedades y estructura de la materia y diferencia elementos, compuestos y mezclas.",
+       "pagina": 58
+      },
+      {
+       "codigo": "NAT-E5.7",
+       "numero": "5.7",
+       "texto": "Reconoce posibles cambios en el entorno por la explotación de un recurso o el uso de una tecnología.",
+       "pagina": 58
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "codigo": "NAT-C3",
+   "nombre": "Indagación",
+   "descripcion": "Vincular a los estudiantes con la forma como se amplía y modifica el conocimiento científico es esencial para formar ciudadanos alfabetizados científicamente. Esta competencia se define como la capacidad para comprender que, a partir de la investigación científica, se construyen explicaciones del mundo natural. Además, involucra los procedimientos o metodologías que se aplican para generar más preguntas o intentar dar respuestas a estas. El proceso de indagación en ciencias incluye, entre otras cosas, observar detenidamente la situación planteada, formular preguntas, recurrir a libros u otras fuentes de información, hacer predicciones, plantear experimentos, identificar variables, realizar mediciones y organizar y analizar resultados. En el aula de clases no se trata de que el alumno repita un protocolo ya establecido o elaborado por el docente, sino que el estudiante formule sus propias preguntas y diseñe su propio procedimiento.",
+   "porcentaje_preguntas": 40,
+   "orden": 3,
+   "pagina": 59,
+   "afirmaciones": [
+    {
+     "codigo": "NAT-A6",
+     "numero": 6,
+     "texto": "Comprende que a partir de la investigación científica se construyen explicaciones sobre el mundo natural.",
+     "pagina": 59,
+     "evidencias": [
+      {
+       "codigo": "NAT-E6.1",
+       "numero": "6.1",
+       "texto": "Analiza qué tipo de pregunta puede ser contestada a partir del contexto de una investigación científica.",
+       "pagina": 59
+      },
+      {
+       "codigo": "NAT-E6.2",
+       "numero": "6.2",
+       "texto": "Reconoce la importancia de la evidencia para comprender fenómenos naturales.",
+       "pagina": 59
+      }
+     ]
+    },
+    {
+     "codigo": "NAT-A7",
+     "numero": 7,
+     "texto": "Deriva conclusiones para algunos fenómenos de la naturaleza, basándose en conocimientos científicos y en la evidencia de su propia investigación y la de otros.",
+     "pagina": 59,
+     "evidencias": [
+      {
+       "codigo": "NAT-E7.1",
+       "numero": "7.1",
+       "texto": "Comunica de forma apropiada el proceso y los resultados de investigación en ciencias naturales.",
+       "pagina": 59
+      },
+      {
+       "codigo": "NAT-E7.2",
+       "numero": "7.2",
+       "texto": "Determina si los resultados derivados de una investigación son suficientes y pertinentes para sacar conclusiones en una situación dada.",
+       "pagina": 59
+      },
+      {
+       "codigo": "NAT-E7.3",
+       "numero": "7.3",
+       "texto": "Elabora conclusiones a partir de información o evidencias que las respalden.",
+       "pagina": 60
+      },
+      {
+       "codigo": "NAT-E7.4",
+       "numero": "7.4",
+       "texto": "Hace predicciones basado en información, patrones y regularidades.",
+       "pagina": 60
+      }
+     ]
+    },
+    {
+     "codigo": "NAT-A8",
+     "numero": 8,
+     "texto": "Observa y relaciona patrones en los datos para evaluar las predicciones.",
+     "pagina": 60,
+     "evidencias": [
+      {
+       "codigo": "NAT-E8.1",
+       "numero": "8.1",
+       "texto": "Interpreta y analiza datos representados en texto, gráficas, dibujos, diagramas o tablas.",
+       "pagina": 60
+      },
+      {
+       "codigo": "NAT-E8.2",
+       "numero": "8.2",
+       "texto": "Representa datos en gráficas y tablas.",
+       "pagina": 60
+      }
+     ]
+    },
+    {
+     "codigo": "NAT-A9",
+     "numero": 9,
+     "texto": "Utiliza algunas habilidades de pensamiento y de procedimiento para evaluar predicciones.",
+     "pagina": 60,
+     "evidencias": [
+      {
+       "codigo": "NAT-E9.1",
+       "numero": "9.1",
+       "texto": "Da posibles explicaciones de eventos o fenómenos consistentes con conceptos de la ciencia.",
+       "pagina": 60
+      },
+      {
+       "codigo": "NAT-E9.2",
+       "numero": "9.2",
+       "texto": "Diseña experimentos para dar respuesta a sus preguntas.",
+       "pagina": 60
+      },
+      {
+       "codigo": "NAT-E9.3",
+       "numero": "9.3",
+       "texto": "Elige y utiliza instrumentos adecuados para reunir datos.",
+       "pagina": 60
+      },
+      {
+       "codigo": "NAT-E9.4",
+       "numero": "9.4",
+       "texto": "Reconoce la necesidad de registrar y clasificar la información para realizar un buen análisis.",
+       "pagina": 60
+      },
+      {
+       "codigo": "NAT-E9.5",
+       "numero": "9.5",
+       "texto": "Usa información adicional para evaluar una predicción.",
+       "pagina": 60
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "componentes": [
+  {
+   "codigo": "NAT-CP-BIO",
+   "nombre": "Conceptos del componente biológico",
+   "porcentaje_preguntas": 30,
+   "texto": "Homeostasis en los seres vivos, la herencia y la reproducción, las relaciones ecológicas, la evolución y transformación de la vida en el planeta, la conservación de la energía.",
+   "pagina": 61
+  },
+  {
+   "codigo": "NAT-CP-FIS",
+   "nombre": "Conceptos del componente físico",
+   "porcentaje_preguntas": 30,
+   "texto": "Cinemática, dinámica, electromagnetismo, energía mecánica, ondas, energía térmica, campo gravitacional, transformación y conservación de la energía.",
+   "pagina": 61
+  },
+  {
+   "codigo": "NAT-CP-QUI",
+   "nombre": "Conceptos del componente químico",
+   "porcentaje_preguntas": 30,
+   "texto": "Cambios químicos, el átomo, tipos de enlaces, propiedades de la materia, estequiometría, separación de mezclas, solubilidad, gases ideales, transformación y conservación de la energía.",
+   "pagina": 61
+  },
+  {
+   "codigo": "NAT-CP-CTS",
+   "nombre": "Temáticas del componente de Ciencia, Tecnología y Sociedad (CTS)",
+   "porcentaje_preguntas": 10,
+   "texto": "Se trata de temáticas interdisciplinares relacionadas con las ciencias naturales. Algunas son globales, como la deforestación, el efecto invernadero y la producción de transgénicos; y otras son locales, como la explotación de recursos y el tratamiento de basuras. No se requiere un conocimiento previo de estas temáticas.",
+   "pagina": 61
+  }
+ ],
+ "distribucion_por_competencia_y_componente": [
+  {
+   "competencia_segun_tabla": "Uso comprensivo del pensamiento científico",
+   "biologico": 9,
+   "fisico": 9,
+   "quimico": 9,
+   "cts": 3,
+   "total": 30,
+   "pagina": 62
+  },
+  {
+   "competencia_segun_tabla": "Explicación de fenómenos",
+   "biologico": 9,
+   "fisico": 9,
+   "quimico": 9,
+   "cts": 3,
+   "total": 30,
+   "pagina": 62
+  },
+  {
+   "competencia_segun_tabla": "Indagación",
+   "biologico": 12,
+   "fisico": 12,
+   "quimico": 12,
+   "cts": 4,
+   "total": 40,
+   "pagina": 62
+  }
+ ]
+}

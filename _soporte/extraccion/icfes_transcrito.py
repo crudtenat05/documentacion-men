@@ -42,11 +42,15 @@ def pagina(n):
     return _paginas[n]
 
 
-def publicar(prueba, nombre, prefijo, descripcion, pagina_prueba, competencias, notas=(), pendientes=(), extra_md=''):
+def publicar(prueba, nombre, prefijo, descripcion, pagina_prueba, competencias, notas=(), pendientes=(), extra_md='', extra=None, comprobaciones=()):
     """`competencias`: lista de dicts con nombre, descripcion, porcentaje, pagina, pagina_porcentaje, rotulo_porcentaje,
     habilidades (opcional: numero, nombre, descripcion, pagina) y afirmaciones (numero, texto, pagina, evidencias:
-    {numero: texto})."""
-    fallos, cuenta = [], {'descripcion': 0, 'habilidad': 0, 'afirmacion': 0, 'evidencia': 0, 'porcentaje': 0}
+    {numero: texto} o {numero: (texto, pagina)} cuando la tabla sigue en otra página).
+    `extra`: datos propios de la prueba que se agregan al JSON; `comprobaciones`: sus textos, como (texto, pagina)."""
+    fallos, cuenta = [], {'descripcion': 0, 'habilidad': 0, 'afirmacion': 0, 'evidencia': 0, 'porcentaje': 0, 'extra': 0}
+    for c in competencias:
+        for a in c['afirmaciones']:
+            a['evidencias'] = {n: (v if isinstance(v, tuple) else (v, a['pagina'])) for n, v in a['evidencias'].items()}
 
     def revisar(tipo, texto, pag):
         cuenta[tipo] += 1
@@ -61,8 +65,10 @@ def publicar(prueba, nombre, prefijo, descripcion, pagina_prueba, competencias, 
             revisar('habilidad', f"{h['numero']}. {h['nombre']} {h['descripcion']}", h['pagina'])
         for a in c['afirmaciones']:
             revisar('afirmacion', f"{a['numero']}. {a['texto']}", a['pagina'])
-            for num, texto in a['evidencias'].items():
-                revisar('evidencia', f'{num} {texto}', a['pagina'])
+            for num, (texto, pag) in a['evidencias'].items():
+                revisar('evidencia', f'{num} {texto}', pag)
+    for texto, pag in comprobaciones:
+        revisar('extra', texto, pag)
     if sum(c['porcentaje'] for c in competencias) != 100:
         fallos.append('Los porcentajes de las competencias no suman 100.')
     if fallos:
@@ -80,13 +86,14 @@ def publicar(prueba, nombre, prefijo, descripcion, pagina_prueba, competencias, 
         nodo['afirmaciones'] = []
         for a in c['afirmaciones']:
             ca = f"{prefijo}-A{a['numero']}"
-            evs = [{'codigo': f'{prefijo}-E{num}', 'numero': num, 'texto': t} for num, t in a['evidencias'].items()]
+            evs = [{'codigo': f'{prefijo}-E{num}', 'numero': num, 'texto': t, 'pagina': pg} for num, (t, pg) in a['evidencias'].items()]
             nodo['afirmaciones'].append({'codigo': ca, 'numero': a['numero'], 'texto': a['texto'], 'pagina': a['pagina'], 'evidencias': evs})
             for e in evs:
-                filas.append([cc, c['nombre'], c['porcentaje'], ca, a['texto'], e['codigo'], e['texto'], a['pagina']])
+                filas.append([cc, c['nombre'], c['porcentaje'], ca, a['texto'], e['codigo'], e['texto'], e['pagina']])
         arbol.append(nodo)
 
     datos = {'documento': DOCUMENTO, 'prueba': prueba, 'descripcion': descripcion, 'pagina': pagina_prueba, 'competencias': arbol}
+    datos.update(extra or {})
     (salida / 'taxonomia.json').write_text(json.dumps(datos, ensure_ascii=False, indent=1) + '\n', encoding='utf-8')
     with open(salida / 'evidencias.csv', 'w', newline='', encoding='utf-8-sig') as f:
         w = csv.writer(f)

@@ -39,7 +39,7 @@ Todos traen texto incrustado (no son escaneados), por lo que la extracción no r
 
 | Archivo | Entidad | Título | Año | Páginas | SHA-256 | Estado |
 |---|---|---|---|---|---|---|
-| `icfes/guia-orientacion-saber11-2026-2.pdf` | ICFES | Guía de orientación del Examen Saber 11° 2026-2 (Calendario A) | 2026 | 73 | `9022a58a6ab2ff9d…` | Procesado Matemáticas: `datos/icfes/matematicas/`. Procesado Lectura Crítica: `datos/icfes/lectura_critica/`. Procesado Sociales y Ciudadanas: `datos/icfes/sociales_ciudadanas/`. Faltan Ciencias Naturales e Inglés |
+| `icfes/guia-orientacion-saber11-2026-2.pdf` | ICFES | Guía de orientación del Examen Saber 11° 2026-2 (Calendario A) | 2026 | 73 | `9022a58a6ab2ff9d…` | Procesado Matemáticas: `datos/icfes/matematicas/`. Procesado Lectura Crítica: `datos/icfes/lectura_critica/`. Procesado Sociales y Ciudadanas: `datos/icfes/sociales_ciudadanas/`. Procesado Ciencias Naturales: `datos/icfes/ciencias_naturales/`. Falta Inglés |
 
 Pendiente de conseguir: documento «Niveles de desempeño · Prueba Matemáticas · Saber 11°» del ICFES (PDF original).
 
