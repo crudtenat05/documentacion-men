@@ -30,7 +30,9 @@
     "texto": "Retoma los formatos empleados por algunos medios de comunicación y los emplea como modelos para sus elaboraciones textuales."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-6.7-MC-01"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 28
  },
@@ -65,7 +67,9 @@
     "texto": "Reconoce cómo se relacionan y estructuran los símbolos, colores, señales e imágenes en los organizadores gráficos."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-6.7-MC-02"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 28
  },
@@ -100,7 +104,10 @@
     "texto": "Reconoce que elementos como el ritmo y la rima se emplean para comunicar sentimientos o emociones cuando se declaman textos poéticos."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-6.7-LI-01",
+   "LEN-EBC-6.7-LI-02"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 29
  },
@@ -135,7 +142,10 @@
     "texto": "Recita textos literarios en los que se emplean expresiones populares con diferentes matices de voz."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-6.7-LI-01",
+   "LEN-EBC-6.7-LI-02"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 29
  },
@@ -174,7 +184,10 @@
     "texto": "Identifica los elementos líricos que acompañan la pronunciación de expresiones populares."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-6.7-LI-01",
+   "LEN-EBC-6.7-LI-02"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 30
  },
@@ -205,7 +218,9 @@
     "texto": "Interpreta la función de elementos no verbales en el sentido del texto, como uso de negrita, corchetes, comillas, guiones, entre otros."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-6.7-CI-01"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 30
  },
@@ -240,7 +255,10 @@
     "texto": "Adecúa las cualidades de la voz (volumen, tono) para dar expresividad a sus producciones orales."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-6.7-PT-01",
+   "LEN-EBC-6.7-EC-01"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 31
  },
@@ -271,7 +289,9 @@
     "texto": "Tiene en cuenta las concordancias gramaticales entre los elementos de la oración (género, número) al momento de escribir textos."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-6.7-PT-02"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 31
  },
@@ -302,7 +322,9 @@
     "texto": "Analiza la estructura de la información que circula por los medios de comunicación y la emplea como soporte para sus producciones discursivas."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-6.7-MC-01"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 32
  },
@@ -337,7 +359,9 @@
     "texto": "Comprende que los gestos permiten complementar los mensajes y ayudan en la construcción de sentido por parte del interlocutor."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-6.7-MC-02"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 32
  },
@@ -368,7 +392,10 @@
     "texto": "Señala las diferencias entre textos literarios y no literarios que tratan hechos históricos y conflictos sociales a partir del reconocimiento de sus recursos estilísticos."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-6.7-LI-01",
+   "LEN-EBC-6.7-LI-02"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 33
  },
@@ -399,7 +426,10 @@
     "texto": "Analiza las características formales de los textos literarios con los que se relaciona, y a partir de ellas establece el género al que pertenecen y la época en que fueron escritos."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-6.7-LI-01",
+   "LEN-EBC-6.7-LI-02"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 33
  },
@@ -434,7 +464,10 @@
     "texto": "Discrimina los sonidos que hay en el ambiente para comprender el contexto donde se produce un discurso oral."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-6.7-PT-01",
+   "LEN-EBC-6.7-EC-01"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 34
  },
@@ -465,7 +498,9 @@
     "texto": "Ubica el texto en una tipología particular de acuerdo con su estructura interna y las características formales empleadas."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-6.7-CI-01"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 34
  },
@@ -500,7 +535,10 @@
     "texto": "Articula los sonidos del discurso para dar claridad y expresividad a la narración."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-6.7-PT-01",
+   "LEN-EBC-6.7-EC-01"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 35
  },
@@ -535,7 +573,9 @@
     "texto": "Prepara esquemas previos a la escritura para estructurar jerárquicamente las ideas a desenvolver en su texto. Usa diversos tipos de conectores para unir las ideas del texto."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-6.7-PT-02"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 35
  },
@@ -566,7 +606,9 @@
     "texto": "Selecciona estrategias para organizar la información que circula en los medios masivos de comunicación."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-8.9-MC-01"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 36
  },
@@ -601,7 +643,9 @@
     "texto": "Reconoce las características de las distintas manifestaciones artísticas de una comunidad o grupo poblacional y las incorpora en sus elaboraciones."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-8.9-MC-02"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 36
  },
@@ -636,7 +680,9 @@
     "texto": "Distingue las estructuras formales de textos literarios como la presencia de diferentes narradores que se encargan de nutrir la historia con diferentes puntos de vista sobre un suceso."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-8.9-LI-01"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 37
  },
@@ -671,7 +717,9 @@
     "texto": "Comprende la diferencia que se presenta entre la segmentación silábica gramatical y la segmentación silábica métrica, en los textos poéticos que lee o escribe."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-8.9-LI-01"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 37
  },
@@ -702,7 +750,10 @@
     "texto": "Identifica el nivel de formalidad o informalidad que se da en un diálogo con sus compañeros."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-8.9-PT-01",
+   "LEN-EBC-8.9-EC-01"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 38
  },
@@ -733,7 +784,9 @@
     "texto": "Identifica las características retóricas de las tipologías textuales con las que trabaja y señala en sus notas de clase los conceptos más relevantes."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-8.9-CI-01"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 38
  },
@@ -764,7 +817,10 @@
     "texto": "Prepara una estructura retórica que contempla el contexto formal, el papel del orador y la posición del auditorio, como base para los intercambios orales en debates, plenarias y sustentaciones."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-8.9-PT-01",
+   "LEN-EBC-8.9-EC-01"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 39
  },
@@ -799,7 +855,9 @@
     "texto": "Emplea de forma precisa los signos de puntuación."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-8.9-PT-02"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 39
  },
@@ -830,7 +888,9 @@
     "texto": "Elabora esquemas en los que relaciona las problemáticas que identifica en los medios de comunicación para proponer alternativas de confrontación y resolución."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-8.9-MC-01"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 40
  },
@@ -861,7 +921,9 @@
     "texto": "Utiliza símbolos, íconos u otras representaciones gráficas en los discursos que produce y los vincula con los conceptos de las temáticas a las que se refieren."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-8.9-MC-02"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 40
  },
@@ -896,7 +958,9 @@
     "texto": "Reconoce que la literatura puede emplear lenguaje figurado y coloquial para dar expresividad al escrito."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-8.9-LI-01"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 41
  },
@@ -931,7 +995,9 @@
     "texto": "Reconoce los sonidos presentes en producciones audiovisuales: ruidos ambientales, música y cambios en la voz de los personajes."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-8.9-LI-01"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 41
  },
@@ -966,7 +1032,10 @@
     "texto": "Analiza las características de la voz de sus interlocutores con el propósito de comprender el tono del discurso: ironía, agresividad, etc."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-8.9-PT-01",
+   "LEN-EBC-8.9-EC-01"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 42
  },
@@ -997,7 +1066,9 @@
     "texto": "Identifica las estructuras propias de las tipologías textuales que conoce."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-8.9-CI-01"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 42
  },
@@ -1036,7 +1107,10 @@
     "texto": "Controla los matices de voz (tono, volumen, impostación) para apoyar su discurso."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-8.9-PT-01",
+   "LEN-EBC-8.9-EC-01"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 43
  },
@@ -1067,7 +1141,9 @@
     "texto": "Evalúa el seguimiento de un plan textual y el uso adecuado de elementos gramaticales y ortográficos en los textos que escribe."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-8.9-PT-02"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 43
  },
@@ -1102,7 +1178,9 @@
     "texto": "Comprende diferentes tipos de argumentos presentes en un discurso."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-10.11-MC-01"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 44
  },
@@ -1133,7 +1211,9 @@
     "texto": "Elabora guiones para la producción de textos audiovisuales, como cortos o películas, en los que integra recursos no verbales."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-10.11-MC-02"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 44
  },
@@ -1164,7 +1244,9 @@
     "texto": "Identifica las estructuras propias de cada género literario."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-10.11-LI-01"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 45
  },
@@ -1195,7 +1277,9 @@
     "texto": "Reconoce las diferencias formales entre las obras literarias y las artes plásticas o visuales."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-10.11-LI-01"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 45
  },
@@ -1234,7 +1318,10 @@
     "texto": "Infiere datos de sus interlocutores como carácter, actitud, propósito comunicativo a partir de las modulaciones de voz que estos emplean."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-10.11-PT-01",
+   "LEN-EBC-10.11-EC-01"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 46
  },
@@ -1265,7 +1352,9 @@
     "texto": "Identifica las estrategias organizativas sugeridas en el texto."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-10.11-CI-01"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 46
  },
@@ -1300,7 +1389,10 @@
     "texto": "Interviene oralmente empleando aspectos no verbales de la comunicación como la impostación, el volumen y el tono de voz."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-10.11-PT-01",
+   "LEN-EBC-10.11-EC-01"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 47
  },
@@ -1331,7 +1423,9 @@
     "texto": "Evalúa el uso adecuado de elementos gramaticales, ortográficos y sintácticos en los textos que produce."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-10.11-PT-01"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 47
  },
@@ -1366,7 +1460,9 @@
     "texto": "Comprende que la entonación revela la intención de resaltar o encubrir información de parte del interlocutor."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-10.11-MC-01"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 48
  },
@@ -1397,7 +1493,9 @@
     "texto": "Clasifica los elementos simbólicos presentes en diferentes situaciones como una clase, un videoclip o un concierto musical."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-10.11-MC-02"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 48
  },
@@ -1428,7 +1526,9 @@
     "texto": "Comprende las temáticas, características, estilos, tonos, sentido local y global de las obras literarias que lee."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-10.11-LI-01"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 49
  },
@@ -1463,7 +1563,9 @@
     "texto": "Encuentra que el sentido de las obras literarias clásicas está determinado por sus recursos narrativos, poéticos y dramáticos."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-10.11-LI-01"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 49
  },
@@ -1498,7 +1600,10 @@
     "texto": "Infiere las variantes dialectales, sociales y geográficas en la voz de sus interlocutores."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-10.11-PT-01",
+   "LEN-EBC-10.11-EC-01"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 50
  },
@@ -1529,7 +1634,9 @@
     "texto": "Da cuenta de la organización y de los componentes del texto."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-10.11-CI-01"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 51
  },
@@ -1568,7 +1675,10 @@
     "texto": "Evita el uso de falacias en discusiones académicas."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-10.11-PT-01",
+   "LEN-EBC-10.11-EC-01"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 51
  },
@@ -1603,7 +1713,9 @@
     "texto": "Emplea diferentes tipos de argumento para sustentar sus puntos de vista."
    }
   ],
-  "estandares": [],
+  "estandares": [
+   "LEN-EBC-10.11-PT-01"
+  ],
   "fuente": "dba-lenguaje.pdf",
   "fuente_pagina": 52
  }

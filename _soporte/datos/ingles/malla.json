@@ -111,7 +111,58 @@
   "evaluacion_del": [
    "Examen modular.",
    "Rúbrica de redacción."
-  ]
+  ],
+  "dba": [
+   {
+    "codigo": "ING-DBA-6-01",
+    "enunciado": "Participa en una conversación corta para decir su nombre, edad y datos básicos a profesores, amigos y familiares.",
+    "evidencias": [],
+    "pagina": 15
+   },
+   {
+    "codigo": "ING-DBA-6-02",
+    "enunciado": "Solicita y brinda aclaraciones sobre cómo se escriben nombres y palabras desconocidas en una conversación corta.",
+    "evidencias": [],
+    "pagina": 15
+   },
+   {
+    "codigo": "ING-DBA-6-03",
+    "enunciado": "Comprende y utiliza palabras familiares y frases cortas sobre rutinas, actividades cotidianas y gustos.",
+    "evidencias": [],
+    "pagina": 15
+   },
+   {
+    "codigo": "ING-DBA-6-04",
+    "enunciado": "Comprende instrucciones relacionadas con las actividades y tareas de la clase, la escuela y su comunidad y expresa de manera escrita y oral lo que entiende de estas.",
+    "evidencias": [],
+    "pagina": 15
+   },
+   {
+    "codigo": "ING-DBA-6-05",
+    "enunciado": "Describe las características básicas de personas, cosas y lugares de su escuela, ciudad y comunidad, a través de frases y oraciones sencillas.",
+    "evidencias": [],
+    "pagina": 16
+   },
+   {
+    "codigo": "ING-DBA-6-06",
+    "enunciado": "Responde a preguntas relacionadas con el “qué, quién y cuándo” después de leer o escuchar un texto corto y sencillo, siempre y cuando el tema esté relacionado con eventos que le son familiares.",
+    "evidencias": [],
+    "pagina": 16
+   },
+   {
+    "codigo": "ING-DBA-6-07",
+    "enunciado": "Escribe información personal básica en formatos preestablecidos que solicitan datos como nombre, edad, fecha de nacimiento, género, nacionalidad, dirección, teléfono, etc.",
+    "evidencias": [],
+    "pagina": 16
+   },
+   {
+    "codigo": "ING-DBA-6-08",
+    "enunciado": "Comprende el tema e información general de un texto corto y sencillo, valiéndose de ayudas tales como imágenes, títulos y palabras clave.",
+    "evidencias": [],
+    "pagina": 16
+   }
+  ],
+  "dba_nota": "Los DBA del grado se trabajan juntos a lo largo del año: el MEN indica que no siguen un orden y que cada actividad idealmente involucra varios DBA del mismo grado (DBA de Inglés, p. 8)."
  },
  {
   "codigo": "ING-MALLA-6-M2",
@@ -216,7 +267,58 @@
    "Rúbrica de redacción.",
    "Rúbrica de expresión oral.",
    "Examen modular."
-  ]
+  ],
+  "dba": [
+   {
+    "codigo": "ING-DBA-6-01",
+    "enunciado": "Participa en una conversación corta para decir su nombre, edad y datos básicos a profesores, amigos y familiares.",
+    "evidencias": [],
+    "pagina": 15
+   },
+   {
+    "codigo": "ING-DBA-6-02",
+    "enunciado": "Solicita y brinda aclaraciones sobre cómo se escriben nombres y palabras desconocidas en una conversación corta.",
+    "evidencias": [],
+    "pagina": 15
+   },
+   {
+    "codigo": "ING-DBA-6-03",
+    "enunciado": "Comprende y utiliza palabras familiares y frases cortas sobre rutinas, actividades cotidianas y gustos.",
+    "evidencias": [],
+    "pagina": 15
+   },
+   {
+    "codigo": "ING-DBA-6-04",
+    "enunciado": "Comprende instrucciones relacionadas con las actividades y tareas de la clase, la escuela y su comunidad y expresa de manera escrita y oral lo que entiende de estas.",
+    "evidencias": [],
+    "pagina": 15
+   },
+   {
+    "codigo": "ING-DBA-6-05",
+    "enunciado": "Describe las características básicas de personas, cosas y lugares de su escuela, ciudad y comunidad, a través de frases y oraciones sencillas.",
+    "evidencias": [],
+    "pagina": 16
+   },
+   {
+    "codigo": "ING-DBA-6-06",
+    "enunciado": "Responde a preguntas relacionadas con el “qué, quién y cuándo” después de leer o escuchar un texto corto y sencillo, siempre y cuando el tema esté relacionado con eventos que le son familiares.",
+    "evidencias": [],
+    "pagina": 16
+   },
+   {
+    "codigo": "ING-DBA-6-07",
+    "enunciado": "Escribe información personal básica en formatos preestablecidos que solicitan datos como nombre, edad, fecha de nacimiento, género, nacionalidad, dirección, teléfono, etc.",
+    "evidencias": [],
+    "pagina": 16
+   },
+   {
+    "codigo": "ING-DBA-6-08",
+    "enunciado": "Comprende el tema e información general de un texto corto y sencillo, valiéndose de ayudas tales como imágenes, títulos y palabras clave.",
+    "evidencias": [],
+    "pagina": 16
+   }
+  ],
+  "dba_nota": "Los DBA del grado se trabajan juntos a lo largo del año: el MEN indica que no siguen un orden y que cada actividad idealmente involucra varios DBA del mismo grado (DBA de Inglés, p. 8)."
  },
  {
   "codigo": "ING-MALLA-6-M3",
@@ -320,7 +422,58 @@
    "Rúbrica de presentación oral.",
    "Rúbrica de trabajo en grupo.",
    "Examen modular."
-  ]
+  ],
+  "dba": [
+   {
+    "codigo": "ING-DBA-6-01",
+    "enunciado": "Participa en una conversación corta para decir su nombre, edad y datos básicos a profesores, amigos y familiares.",
+    "evidencias": [],
+    "pagina": 15
+   },
+   {
+    "codigo": "ING-DBA-6-02",
+    "enunciado": "Solicita y brinda aclaraciones sobre cómo se escriben nombres y palabras desconocidas en una conversación corta.",
+    "evidencias": [],
+    "pagina": 15
+   },
+   {
+    "codigo": "ING-DBA-6-03",
+    "enunciado": "Comprende y utiliza palabras familiares y frases cortas sobre rutinas, actividades cotidianas y gustos.",
+    "evidencias": [],
+    "pagina": 15
+   },
+   {
+    "codigo": "ING-DBA-6-04",
+    "enunciado": "Comprende instrucciones relacionadas con las actividades y tareas de la clase, la escuela y su comunidad y expresa de manera escrita y oral lo que entiende de estas.",
+    "evidencias": [],
+    "pagina": 15
+   },
+   {
+    "codigo": "ING-DBA-6-05",
+    "enunciado": "Describe las características básicas de personas, cosas y lugares de su escuela, ciudad y comunidad, a través de frases y oraciones sencillas.",
+    "evidencias": [],
+    "pagina": 16
+   },
+   {
+    "codigo": "ING-DBA-6-06",
+    "enunciado": "Responde a preguntas relacionadas con el “qué, quién y cuándo” después de leer o escuchar un texto corto y sencillo, siempre y cuando el tema esté relacionado con eventos que le son familiares.",
+    "evidencias": [],
+    "pagina": 16
+   },
+   {
+    "codigo": "ING-DBA-6-07",
+    "enunciado": "Escribe información personal básica en formatos preestablecidos que solicitan datos como nombre, edad, fecha de nacimiento, género, nacionalidad, dirección, teléfono, etc.",
+    "evidencias": [],
+    "pagina": 16
+   },
+   {
+    "codigo": "ING-DBA-6-08",
+    "enunciado": "Comprende el tema e información general de un texto corto y sencillo, valiéndose de ayudas tales como imágenes, títulos y palabras clave.",
+    "evidencias": [],
+    "pagina": 16
+   }
+  ],
+  "dba_nota": "Los DBA del grado se trabajan juntos a lo largo del año: el MEN indica que no siguen un orden y que cada actividad idealmente involucra varios DBA del mismo grado (DBA de Inglés, p. 8)."
  },
  {
   "codigo": "ING-MALLA-6-M4",
@@ -415,7 +568,58 @@
   "evaluacion_del": [
    "Rúbrica para evaluar la socialización (stand).",
    "Examen modular."
-  ]
+  ],
+  "dba": [
+   {
+    "codigo": "ING-DBA-6-01",
+    "enunciado": "Participa en una conversación corta para decir su nombre, edad y datos básicos a profesores, amigos y familiares.",
+    "evidencias": [],
+    "pagina": 15
+   },
+   {
+    "codigo": "ING-DBA-6-02",
+    "enunciado": "Solicita y brinda aclaraciones sobre cómo se escriben nombres y palabras desconocidas en una conversación corta.",
+    "evidencias": [],
+    "pagina": 15
+   },
+   {
+    "codigo": "ING-DBA-6-03",
+    "enunciado": "Comprende y utiliza palabras familiares y frases cortas sobre rutinas, actividades cotidianas y gustos.",
+    "evidencias": [],
+    "pagina": 15
+   },
+   {
+    "codigo": "ING-DBA-6-04",
+    "enunciado": "Comprende instrucciones relacionadas con las actividades y tareas de la clase, la escuela y su comunidad y expresa de manera escrita y oral lo que entiende de estas.",
+    "evidencias": [],
+    "pagina": 15
+   },
+   {
+    "codigo": "ING-DBA-6-05",
+    "enunciado": "Describe las características básicas de personas, cosas y lugares de su escuela, ciudad y comunidad, a través de frases y oraciones sencillas.",
+    "evidencias": [],
+    "pagina": 16
+   },
+   {
+    "codigo": "ING-DBA-6-06",
+    "enunciado": "Responde a preguntas relacionadas con el “qué, quién y cuándo” después de leer o escuchar un texto corto y sencillo, siempre y cuando el tema esté relacionado con eventos que le son familiares.",
+    "evidencias": [],
+    "pagina": 16
+   },
+   {
+    "codigo": "ING-DBA-6-07",
+    "enunciado": "Escribe información personal básica en formatos preestablecidos que solicitan datos como nombre, edad, fecha de nacimiento, género, nacionalidad, dirección, teléfono, etc.",
+    "evidencias": [],
+    "pagina": 16
+   },
+   {
+    "codigo": "ING-DBA-6-08",
+    "enunciado": "Comprende el tema e información general de un texto corto y sencillo, valiéndose de ayudas tales como imágenes, títulos y palabras clave.",
+    "evidencias": [],
+    "pagina": 16
+   }
+  ],
+  "dba_nota": "Los DBA del grado se trabajan juntos a lo largo del año: el MEN indica que no siguen un orden y que cada actividad idealmente involucra varios DBA del mismo grado (DBA de Inglés, p. 8)."
  },
  {
   "codigo": "ING-MALLA-7-M1",
@@ -534,7 +738,52 @@
    "Rúbrica para evaluación del plan de acción.",
    "Rúbrica de presentación oral.",
    "Examen modular."
-  ]
+  ],
+  "dba": [
+   {
+    "codigo": "ING-DBA-7-01",
+    "enunciado": "Participa en conversaciones cortas en las que brinda información sobre sí mismo, sobre personas, lugares y eventos que le son familiares. Para ello, usa frases y oraciones sencillas previamente memorizadas.",
+    "evidencias": [],
+    "pagina": 18
+   },
+   {
+    "codigo": "ING-DBA-7-02",
+    "enunciado": "Describe, de manera oral, personas, actividades, eventos y experiencias personales. Estructura estas descripciones con frases y oraciones sencillas previamente ensayadas con sus compañeros y su docente.",
+    "evidencias": [],
+    "pagina": 18
+   },
+   {
+    "codigo": "ING-DBA-7-03",
+    "enunciado": "Escribe textos cortos y sencillos sobre acciones, experiencias y planes que le son familiares. Para la escritura se ayuda de una secuencia de imágenes y un modelo pre-establecido.",
+    "evidencias": [],
+    "pagina": 18
+   },
+   {
+    "codigo": "ING-DBA-7-04",
+    "enunciado": "Entiende la idea principal y algunos detalles relacionados con actividades, lugares y personas en un texto descriptivo corto. Para la comprensión del texto, se apoya en palabras y frases familiares.",
+    "evidencias": [],
+    "pagina": 18
+   },
+   {
+    "codigo": "ING-DBA-7-05",
+    "enunciado": "Reconoce información específica relacionada con objetos, personas y acciones cuando le son conocidos y le hablan de manera pausada. Para esto, puede llegar a requerir de ayudas visuales tales como imágenes o textos.",
+    "evidencias": [],
+    "pagina": 19
+   },
+   {
+    "codigo": "ING-DBA-7-06",
+    "enunciado": "Da y recibe instrucciones, recomendaciones y sugerencias sobre sobre temas relacionados con su entorno cotidiano.",
+    "evidencias": [],
+    "pagina": 19
+   },
+   {
+    "codigo": "ING-DBA-7-07",
+    "enunciado": "Describe acciones relacionadas con un tema de su entorno familiar o escolar. Para esto, usa oraciones sencillas y se apoya en imágenes.",
+    "evidencias": [],
+    "pagina": 19
+   }
+  ],
+  "dba_nota": "Los DBA del grado se trabajan juntos a lo largo del año: el MEN indica que no siguen un orden y que cada actividad idealmente involucra varios DBA del mismo grado (DBA de Inglés, p. 8)."
  },
  {
   "codigo": "ING-MALLA-7-M2",
@@ -642,7 +891,52 @@
   "evaluacion_del": [
    "Rúbrica para el texto escrito y oral de recomendaciones para una sana convivencia.",
    "Examen modular."
-  ]
+  ],
+  "dba": [
+   {
+    "codigo": "ING-DBA-7-01",
+    "enunciado": "Participa en conversaciones cortas en las que brinda información sobre sí mismo, sobre personas, lugares y eventos que le son familiares. Para ello, usa frases y oraciones sencillas previamente memorizadas.",
+    "evidencias": [],
+    "pagina": 18
+   },
+   {
+    "codigo": "ING-DBA-7-02",
+    "enunciado": "Describe, de manera oral, personas, actividades, eventos y experiencias personales. Estructura estas descripciones con frases y oraciones sencillas previamente ensayadas con sus compañeros y su docente.",
+    "evidencias": [],
+    "pagina": 18
+   },
+   {
+    "codigo": "ING-DBA-7-03",
+    "enunciado": "Escribe textos cortos y sencillos sobre acciones, experiencias y planes que le son familiares. Para la escritura se ayuda de una secuencia de imágenes y un modelo pre-establecido.",
+    "evidencias": [],
+    "pagina": 18
+   },
+   {
+    "codigo": "ING-DBA-7-04",
+    "enunciado": "Entiende la idea principal y algunos detalles relacionados con actividades, lugares y personas en un texto descriptivo corto. Para la comprensión del texto, se apoya en palabras y frases familiares.",
+    "evidencias": [],
+    "pagina": 18
+   },
+   {
+    "codigo": "ING-DBA-7-05",
+    "enunciado": "Reconoce información específica relacionada con objetos, personas y acciones cuando le son conocidos y le hablan de manera pausada. Para esto, puede llegar a requerir de ayudas visuales tales como imágenes o textos.",
+    "evidencias": [],
+    "pagina": 19
+   },
+   {
+    "codigo": "ING-DBA-7-06",
+    "enunciado": "Da y recibe instrucciones, recomendaciones y sugerencias sobre sobre temas relacionados con su entorno cotidiano.",
+    "evidencias": [],
+    "pagina": 19
+   },
+   {
+    "codigo": "ING-DBA-7-07",
+    "enunciado": "Describe acciones relacionadas con un tema de su entorno familiar o escolar. Para esto, usa oraciones sencillas y se apoya en imágenes.",
+    "evidencias": [],
+    "pagina": 19
+   }
+  ],
+  "dba_nota": "Los DBA del grado se trabajan juntos a lo largo del año: el MEN indica que no siguen un orden y que cada actividad idealmente involucra varios DBA del mismo grado (DBA de Inglés, p. 8)."
  },
  {
   "codigo": "ING-MALLA-7-M3",
@@ -741,7 +1035,52 @@
   "evaluacion_del": [
    "Ruta 1: rúbrica para la dramatización y examen modular.",
    "Ruta 2: rúbrica para el reporte escrito, rúbrica para las dramatizaciones y examen modular."
-  ]
+  ],
+  "dba": [
+   {
+    "codigo": "ING-DBA-7-01",
+    "enunciado": "Participa en conversaciones cortas en las que brinda información sobre sí mismo, sobre personas, lugares y eventos que le son familiares. Para ello, usa frases y oraciones sencillas previamente memorizadas.",
+    "evidencias": [],
+    "pagina": 18
+   },
+   {
+    "codigo": "ING-DBA-7-02",
+    "enunciado": "Describe, de manera oral, personas, actividades, eventos y experiencias personales. Estructura estas descripciones con frases y oraciones sencillas previamente ensayadas con sus compañeros y su docente.",
+    "evidencias": [],
+    "pagina": 18
+   },
+   {
+    "codigo": "ING-DBA-7-03",
+    "enunciado": "Escribe textos cortos y sencillos sobre acciones, experiencias y planes que le son familiares. Para la escritura se ayuda de una secuencia de imágenes y un modelo pre-establecido.",
+    "evidencias": [],
+    "pagina": 18
+   },
+   {
+    "codigo": "ING-DBA-7-04",
+    "enunciado": "Entiende la idea principal y algunos detalles relacionados con actividades, lugares y personas en un texto descriptivo corto. Para la comprensión del texto, se apoya en palabras y frases familiares.",
+    "evidencias": [],
+    "pagina": 18
+   },
+   {
+    "codigo": "ING-DBA-7-05",
+    "enunciado": "Reconoce información específica relacionada con objetos, personas y acciones cuando le son conocidos y le hablan de manera pausada. Para esto, puede llegar a requerir de ayudas visuales tales como imágenes o textos.",
+    "evidencias": [],
+    "pagina": 19
+   },
+   {
+    "codigo": "ING-DBA-7-06",
+    "enunciado": "Da y recibe instrucciones, recomendaciones y sugerencias sobre sobre temas relacionados con su entorno cotidiano.",
+    "evidencias": [],
+    "pagina": 19
+   },
+   {
+    "codigo": "ING-DBA-7-07",
+    "enunciado": "Describe acciones relacionadas con un tema de su entorno familiar o escolar. Para esto, usa oraciones sencillas y se apoya en imágenes.",
+    "evidencias": [],
+    "pagina": 19
+   }
+  ],
+  "dba_nota": "Los DBA del grado se trabajan juntos a lo largo del año: el MEN indica que no siguen un orden y que cada actividad idealmente involucra varios DBA del mismo grado (DBA de Inglés, p. 8)."
  },
  {
   "codigo": "ING-MALLA-7-M4",
@@ -840,7 +1179,52 @@
    "Rúbrica para el reporte escrito.",
    "Rúbrica para la presentación oral.",
    "Examen modular."
-  ]
+  ],
+  "dba": [
+   {
+    "codigo": "ING-DBA-7-01",
+    "enunciado": "Participa en conversaciones cortas en las que brinda información sobre sí mismo, sobre personas, lugares y eventos que le son familiares. Para ello, usa frases y oraciones sencillas previamente memorizadas.",
+    "evidencias": [],
+    "pagina": 18
+   },
+   {
+    "codigo": "ING-DBA-7-02",
+    "enunciado": "Describe, de manera oral, personas, actividades, eventos y experiencias personales. Estructura estas descripciones con frases y oraciones sencillas previamente ensayadas con sus compañeros y su docente.",
+    "evidencias": [],
+    "pagina": 18
+   },
+   {
+    "codigo": "ING-DBA-7-03",
+    "enunciado": "Escribe textos cortos y sencillos sobre acciones, experiencias y planes que le son familiares. Para la escritura se ayuda de una secuencia de imágenes y un modelo pre-establecido.",
+    "evidencias": [],
+    "pagina": 18
+   },
+   {
+    "codigo": "ING-DBA-7-04",
+    "enunciado": "Entiende la idea principal y algunos detalles relacionados con actividades, lugares y personas en un texto descriptivo corto. Para la comprensión del texto, se apoya en palabras y frases familiares.",
+    "evidencias": [],
+    "pagina": 18
+   },
+   {
+    "codigo": "ING-DBA-7-05",
+    "enunciado": "Reconoce información específica relacionada con objetos, personas y acciones cuando le son conocidos y le hablan de manera pausada. Para esto, puede llegar a requerir de ayudas visuales tales como imágenes o textos.",
+    "evidencias": [],
+    "pagina": 19
+   },
+   {
+    "codigo": "ING-DBA-7-06",
+    "enunciado": "Da y recibe instrucciones, recomendaciones y sugerencias sobre sobre temas relacionados con su entorno cotidiano.",
+    "evidencias": [],
+    "pagina": 19
+   },
+   {
+    "codigo": "ING-DBA-7-07",
+    "enunciado": "Describe acciones relacionadas con un tema de su entorno familiar o escolar. Para esto, usa oraciones sencillas y se apoya en imágenes.",
+    "evidencias": [],
+    "pagina": 19
+   }
+  ],
+  "dba_nota": "Los DBA del grado se trabajan juntos a lo largo del año: el MEN indica que no siguen un orden y que cada actividad idealmente involucra varios DBA del mismo grado (DBA de Inglés, p. 8)."
  },
  {
   "codigo": "ING-MALLA-8-M1",
@@ -944,7 +1328,58 @@
    "Rúbrica de evaluación para la presentación del póster.",
    "Escritura de un texto de síntesis.",
    "Examen modular."
-  ]
+  ],
+  "dba": [
+   {
+    "codigo": "ING-DBA-8-01",
+    "enunciado": "Solicita y brinda información sobre experiencias y planes de manera clara y breve. Para esto, utiliza información propia o de situaciones que le son familiares, empleando el vocabulario conocido y apoyándose en sus compañeros y el profesor.",
+    "evidencias": [],
+    "pagina": 21
+   },
+   {
+    "codigo": "ING-DBA-8-02",
+    "enunciado": "Explica por escrito, de forma coherente y sencilla, situaciones y hechos que le son familiares. Puede establecer relaciones de adición, de secuencia causa y efecto; y comparaciones sencillas.",
+    "evidencias": [],
+    "pagina": 21
+   },
+   {
+    "codigo": "ING-DBA-8-03",
+    "enunciado": "Reconoce información específica en textos cortos orales y escritos sobre temas de interés general. Para esto, utiliza diferentes estrategias de lectura: Pre-visualización (imágenes, títulos, subtítulos, etc), Predicción: Subrayado, palabras claves o parecidas al español; identificación del sentido general del texto (skimming).",
+    "evidencias": [],
+    "pagina": 21
+   },
+   {
+    "codigo": "ING-DBA-8-04",
+    "enunciado": "Intercambia información sobre temas académicos del entorno escolar y de interés general, a través de conversaciones sencillas, diálogos y juego de roles. En estas conversaciones, puede expresar opiniones de manera sencilla a partir de modelos previamente estudiados.",
+    "evidencias": [],
+    "pagina": 21
+   },
+   {
+    "codigo": "ING-DBA-8-05",
+    "enunciado": "Realiza recomendaciones a personas de su comunidad sobre qué hacer, dónde, cuándo o cómo, con base en situaciones cotidianas de su vida familiar, escolar o de su entorno.",
+    "evidencias": [],
+    "pagina": 22
+   },
+   {
+    "codigo": "ING-DBA-8-06",
+    "enunciado": "Hace exposiciones breves sobre un tema académico relacionado con su entorno escolar o su comunidad y tiene en cuenta: hechos relevantes, detalles concretos y vocabulario específico. Para esto, se ha preparado previamente y se ha asesorado con sus compañeros y profesor.",
+    "evidencias": [],
+    "pagina": 22
+   },
+   {
+    "codigo": "ING-DBA-8-07",
+    "enunciado": "Expresa sus emociones y sentimientos sobre una situación o tema específico de su entorno familiar o escolar, presentando sus razones de forma clara y sencilla. Para esto, se vale del vocabulario conocido.",
+    "evidencias": [],
+    "pagina": 22
+   },
+   {
+    "codigo": "ING-DBA-8-08",
+    "enunciado": "Narra brevemente hechos actuales, situaciones cotidianas o sus experiencias propias, en forma oral o escrita. Para esto, tiene en cuenta la secuencia de las acciones, la claridad de las ideas y se asesora con sus compañeros y su profesor.",
+    "evidencias": [],
+    "pagina": 22
+   }
+  ],
+  "dba_nota": "Los DBA del grado se trabajan juntos a lo largo del año: el MEN indica que no siguen un orden y que cada actividad idealmente involucra varios DBA del mismo grado (DBA de Inglés, p. 8)."
  },
  {
   "codigo": "ING-MALLA-8-M2",
@@ -1052,7 +1487,58 @@
    "Rúbrica de evaluación de la presentación oral de la campaña.",
    "Rúbrica de texto escrito.",
    "Examen modular."
-  ]
+  ],
+  "dba": [
+   {
+    "codigo": "ING-DBA-8-01",
+    "enunciado": "Solicita y brinda información sobre experiencias y planes de manera clara y breve. Para esto, utiliza información propia o de situaciones que le son familiares, empleando el vocabulario conocido y apoyándose en sus compañeros y el profesor.",
+    "evidencias": [],
+    "pagina": 21
+   },
+   {
+    "codigo": "ING-DBA-8-02",
+    "enunciado": "Explica por escrito, de forma coherente y sencilla, situaciones y hechos que le son familiares. Puede establecer relaciones de adición, de secuencia causa y efecto; y comparaciones sencillas.",
+    "evidencias": [],
+    "pagina": 21
+   },
+   {
+    "codigo": "ING-DBA-8-03",
+    "enunciado": "Reconoce información específica en textos cortos orales y escritos sobre temas de interés general. Para esto, utiliza diferentes estrategias de lectura: Pre-visualización (imágenes, títulos, subtítulos, etc), Predicción: Subrayado, palabras claves o parecidas al español; identificación del sentido general del texto (skimming).",
+    "evidencias": [],
+    "pagina": 21
+   },
+   {
+    "codigo": "ING-DBA-8-04",
+    "enunciado": "Intercambia información sobre temas académicos del entorno escolar y de interés general, a través de conversaciones sencillas, diálogos y juego de roles. En estas conversaciones, puede expresar opiniones de manera sencilla a partir de modelos previamente estudiados.",
+    "evidencias": [],
+    "pagina": 21
+   },
+   {
+    "codigo": "ING-DBA-8-05",
+    "enunciado": "Realiza recomendaciones a personas de su comunidad sobre qué hacer, dónde, cuándo o cómo, con base en situaciones cotidianas de su vida familiar, escolar o de su entorno.",
+    "evidencias": [],
+    "pagina": 22
+   },
+   {
+    "codigo": "ING-DBA-8-06",
+    "enunciado": "Hace exposiciones breves sobre un tema académico relacionado con su entorno escolar o su comunidad y tiene en cuenta: hechos relevantes, detalles concretos y vocabulario específico. Para esto, se ha preparado previamente y se ha asesorado con sus compañeros y profesor.",
+    "evidencias": [],
+    "pagina": 22
+   },
+   {
+    "codigo": "ING-DBA-8-07",
+    "enunciado": "Expresa sus emociones y sentimientos sobre una situación o tema específico de su entorno familiar o escolar, presentando sus razones de forma clara y sencilla. Para esto, se vale del vocabulario conocido.",
+    "evidencias": [],
+    "pagina": 22
+   },
+   {
+    "codigo": "ING-DBA-8-08",
+    "enunciado": "Narra brevemente hechos actuales, situaciones cotidianas o sus experiencias propias, en forma oral o escrita. Para esto, tiene en cuenta la secuencia de las acciones, la claridad de las ideas y se asesora con sus compañeros y su profesor.",
+    "evidencias": [],
+    "pagina": 22
+   }
+  ],
+  "dba_nota": "Los DBA del grado se trabajan juntos a lo largo del año: el MEN indica que no siguen un orden y que cada actividad idealmente involucra varios DBA del mismo grado (DBA de Inglés, p. 8)."
  },
  {
   "codigo": "ING-MALLA-8-M3",
@@ -1155,7 +1641,58 @@
    "Rúbrica de evaluación de la presentación oral de la campaña.",
    "Rúbrica de texto escrito.",
    "Examen modular."
-  ]
+  ],
+  "dba": [
+   {
+    "codigo": "ING-DBA-8-01",
+    "enunciado": "Solicita y brinda información sobre experiencias y planes de manera clara y breve. Para esto, utiliza información propia o de situaciones que le son familiares, empleando el vocabulario conocido y apoyándose en sus compañeros y el profesor.",
+    "evidencias": [],
+    "pagina": 21
+   },
+   {
+    "codigo": "ING-DBA-8-02",
+    "enunciado": "Explica por escrito, de forma coherente y sencilla, situaciones y hechos que le son familiares. Puede establecer relaciones de adición, de secuencia causa y efecto; y comparaciones sencillas.",
+    "evidencias": [],
+    "pagina": 21
+   },
+   {
+    "codigo": "ING-DBA-8-03",
+    "enunciado": "Reconoce información específica en textos cortos orales y escritos sobre temas de interés general. Para esto, utiliza diferentes estrategias de lectura: Pre-visualización (imágenes, títulos, subtítulos, etc), Predicción: Subrayado, palabras claves o parecidas al español; identificación del sentido general del texto (skimming).",
+    "evidencias": [],
+    "pagina": 21
+   },
+   {
+    "codigo": "ING-DBA-8-04",
+    "enunciado": "Intercambia información sobre temas académicos del entorno escolar y de interés general, a través de conversaciones sencillas, diálogos y juego de roles. En estas conversaciones, puede expresar opiniones de manera sencilla a partir de modelos previamente estudiados.",
+    "evidencias": [],
+    "pagina": 21
+   },
+   {
+    "codigo": "ING-DBA-8-05",
+    "enunciado": "Realiza recomendaciones a personas de su comunidad sobre qué hacer, dónde, cuándo o cómo, con base en situaciones cotidianas de su vida familiar, escolar o de su entorno.",
+    "evidencias": [],
+    "pagina": 22
+   },
+   {
+    "codigo": "ING-DBA-8-06",
+    "enunciado": "Hace exposiciones breves sobre un tema académico relacionado con su entorno escolar o su comunidad y tiene en cuenta: hechos relevantes, detalles concretos y vocabulario específico. Para esto, se ha preparado previamente y se ha asesorado con sus compañeros y profesor.",
+    "evidencias": [],
+    "pagina": 22
+   },
+   {
+    "codigo": "ING-DBA-8-07",
+    "enunciado": "Expresa sus emociones y sentimientos sobre una situación o tema específico de su entorno familiar o escolar, presentando sus razones de forma clara y sencilla. Para esto, se vale del vocabulario conocido.",
+    "evidencias": [],
+    "pagina": 22
+   },
+   {
+    "codigo": "ING-DBA-8-08",
+    "enunciado": "Narra brevemente hechos actuales, situaciones cotidianas o sus experiencias propias, en forma oral o escrita. Para esto, tiene en cuenta la secuencia de las acciones, la claridad de las ideas y se asesora con sus compañeros y su profesor.",
+    "evidencias": [],
+    "pagina": 22
+   }
+  ],
+  "dba_nota": "Los DBA del grado se trabajan juntos a lo largo del año: el MEN indica que no siguen un orden y que cada actividad idealmente involucra varios DBA del mismo grado (DBA de Inglés, p. 8)."
  },
  {
   "codigo": "ING-MALLA-8-M4",
@@ -1256,7 +1793,58 @@
    "Rúbrica de presentación oral.",
    "Rúbrica de texto argumentativo.",
    "Examen modular."
-  ]
+  ],
+  "dba": [
+   {
+    "codigo": "ING-DBA-8-01",
+    "enunciado": "Solicita y brinda información sobre experiencias y planes de manera clara y breve. Para esto, utiliza información propia o de situaciones que le son familiares, empleando el vocabulario conocido y apoyándose en sus compañeros y el profesor.",
+    "evidencias": [],
+    "pagina": 21
+   },
+   {
+    "codigo": "ING-DBA-8-02",
+    "enunciado": "Explica por escrito, de forma coherente y sencilla, situaciones y hechos que le son familiares. Puede establecer relaciones de adición, de secuencia causa y efecto; y comparaciones sencillas.",
+    "evidencias": [],
+    "pagina": 21
+   },
+   {
+    "codigo": "ING-DBA-8-03",
+    "enunciado": "Reconoce información específica en textos cortos orales y escritos sobre temas de interés general. Para esto, utiliza diferentes estrategias de lectura: Pre-visualización (imágenes, títulos, subtítulos, etc), Predicción: Subrayado, palabras claves o parecidas al español; identificación del sentido general del texto (skimming).",
+    "evidencias": [],
+    "pagina": 21
+   },
+   {
+    "codigo": "ING-DBA-8-04",
+    "enunciado": "Intercambia información sobre temas académicos del entorno escolar y de interés general, a través de conversaciones sencillas, diálogos y juego de roles. En estas conversaciones, puede expresar opiniones de manera sencilla a partir de modelos previamente estudiados.",
+    "evidencias": [],
+    "pagina": 21
+   },
+   {
+    "codigo": "ING-DBA-8-05",
+    "enunciado": "Realiza recomendaciones a personas de su comunidad sobre qué hacer, dónde, cuándo o cómo, con base en situaciones cotidianas de su vida familiar, escolar o de su entorno.",
+    "evidencias": [],
+    "pagina": 22
+   },
+   {
+    "codigo": "ING-DBA-8-06",
+    "enunciado": "Hace exposiciones breves sobre un tema académico relacionado con su entorno escolar o su comunidad y tiene en cuenta: hechos relevantes, detalles concretos y vocabulario específico. Para esto, se ha preparado previamente y se ha asesorado con sus compañeros y profesor.",
+    "evidencias": [],
+    "pagina": 22
+   },
+   {
+    "codigo": "ING-DBA-8-07",
+    "enunciado": "Expresa sus emociones y sentimientos sobre una situación o tema específico de su entorno familiar o escolar, presentando sus razones de forma clara y sencilla. Para esto, se vale del vocabulario conocido.",
+    "evidencias": [],
+    "pagina": 22
+   },
+   {
+    "codigo": "ING-DBA-8-08",
+    "enunciado": "Narra brevemente hechos actuales, situaciones cotidianas o sus experiencias propias, en forma oral o escrita. Para esto, tiene en cuenta la secuencia de las acciones, la claridad de las ideas y se asesora con sus compañeros y su profesor.",
+    "evidencias": [],
+    "pagina": 22
+   }
+  ],
+  "dba_nota": "Los DBA del grado se trabajan juntos a lo largo del año: el MEN indica que no siguen un orden y que cada actividad idealmente involucra varios DBA del mismo grado (DBA de Inglés, p. 8)."
  },
  {
   "codigo": "ING-MALLA-9-M1",
@@ -1361,7 +1949,58 @@
    "Rúbrica de participación en debate.",
    "Rúbrica de texto expositivo.",
    "Examen modular."
-  ]
+  ],
+  "dba": [
+   {
+    "codigo": "ING-DBA-9-01",
+    "enunciado": "Explica el por qué de planes y acciones relacionadas con su entorno personal, escolar y comunitario. Estructura sus explicaciones de manera apropiada y tiene en cuenta la ortografía, la pronunciación y conectores para comunicar sus ideas.",
+    "evidencias": [],
+    "pagina": 24
+   },
+   {
+    "codigo": "ING-DBA-9-02",
+    "enunciado": "Reconoce relaciones de causa y efecto en lecturas cortas sobre temas académicos. Para esto, tiene en cuenta el vocabulario, los conectores y sus conocimientos previos.",
+    "evidencias": [],
+    "pagina": 24
+   },
+   {
+    "codigo": "ING-DBA-9-03",
+    "enunciado": "Resume la información que ha leído o escuchado sobre temas relacionados con su entorno escolar y académico a través de escritos estructurados.",
+    "evidencias": [],
+    "pagina": 24
+   },
+   {
+    "codigo": "ING-DBA-9-04",
+    "enunciado": "Realiza exposiciones cortas sobre un tema académico de su interés. Para esto, tiene en cuenta la secuencia de las acciones, la claridad de las ideas y se asesora con sus compañeros y su profesor.",
+    "evidencias": [],
+    "pagina": 24
+   },
+   {
+    "codigo": "ING-DBA-9-05",
+    "enunciado": "Expresa su opinión sobre un tema discutido en clase y relacionado con su entorno académico. Para esto, cita lo que han dicho sus compañeros, otras personas o fuentes de información.",
+    "evidencias": [],
+    "pagina": 25
+   },
+   {
+    "codigo": "ING-DBA-9-06",
+    "enunciado": "Intercambia información sobre temas del entorno escolar y de interés general en una conversación. Para esto, se basa en los apuntes tomados después de leer o escuchar información sobre el tema tratado.",
+    "evidencias": [],
+    "pagina": 25
+   },
+   {
+    "codigo": "ING-DBA-9-07",
+    "enunciado": "Identifica el propósito, las partes y tipo de textos en una lectura o audio cortos y los comparte con sus compañeros. Para eso, se apoya en la estructura del texto, los títulos y subtítulos, marcadores de secuencia, conectores y el vocabulario que se repite.",
+    "evidencias": [],
+    "pagina": 25
+   },
+   {
+    "codigo": "ING-DBA-9-08",
+    "enunciado": "Redacta textos de mediana longitud en los cuales realiza recomendaciones o sugerencias sobre situaciones de interés personal, escolar o social. Para ello, tiene en cuenta las relaciones de contraste, comparación, adición, entre otras.",
+    "evidencias": [],
+    "pagina": 25
+   }
+  ],
+  "dba_nota": "Los DBA del grado se trabajan juntos a lo largo del año: el MEN indica que no siguen un orden y que cada actividad idealmente involucra varios DBA del mismo grado (DBA de Inglés, p. 8)."
  },
  {
   "codigo": "ING-MALLA-9-M2",
@@ -1461,7 +2100,58 @@
    "Rúbrica de trabajo en grupo.",
    "Rúbrica de texto expositivo.",
    "Examen modular."
-  ]
+  ],
+  "dba": [
+   {
+    "codigo": "ING-DBA-9-01",
+    "enunciado": "Explica el por qué de planes y acciones relacionadas con su entorno personal, escolar y comunitario. Estructura sus explicaciones de manera apropiada y tiene en cuenta la ortografía, la pronunciación y conectores para comunicar sus ideas.",
+    "evidencias": [],
+    "pagina": 24
+   },
+   {
+    "codigo": "ING-DBA-9-02",
+    "enunciado": "Reconoce relaciones de causa y efecto en lecturas cortas sobre temas académicos. Para esto, tiene en cuenta el vocabulario, los conectores y sus conocimientos previos.",
+    "evidencias": [],
+    "pagina": 24
+   },
+   {
+    "codigo": "ING-DBA-9-03",
+    "enunciado": "Resume la información que ha leído o escuchado sobre temas relacionados con su entorno escolar y académico a través de escritos estructurados.",
+    "evidencias": [],
+    "pagina": 24
+   },
+   {
+    "codigo": "ING-DBA-9-04",
+    "enunciado": "Realiza exposiciones cortas sobre un tema académico de su interés. Para esto, tiene en cuenta la secuencia de las acciones, la claridad de las ideas y se asesora con sus compañeros y su profesor.",
+    "evidencias": [],
+    "pagina": 24
+   },
+   {
+    "codigo": "ING-DBA-9-05",
+    "enunciado": "Expresa su opinión sobre un tema discutido en clase y relacionado con su entorno académico. Para esto, cita lo que han dicho sus compañeros, otras personas o fuentes de información.",
+    "evidencias": [],
+    "pagina": 25
+   },
+   {
+    "codigo": "ING-DBA-9-06",
+    "enunciado": "Intercambia información sobre temas del entorno escolar y de interés general en una conversación. Para esto, se basa en los apuntes tomados después de leer o escuchar información sobre el tema tratado.",
+    "evidencias": [],
+    "pagina": 25
+   },
+   {
+    "codigo": "ING-DBA-9-07",
+    "enunciado": "Identifica el propósito, las partes y tipo de textos en una lectura o audio cortos y los comparte con sus compañeros. Para eso, se apoya en la estructura del texto, los títulos y subtítulos, marcadores de secuencia, conectores y el vocabulario que se repite.",
+    "evidencias": [],
+    "pagina": 25
+   },
+   {
+    "codigo": "ING-DBA-9-08",
+    "enunciado": "Redacta textos de mediana longitud en los cuales realiza recomendaciones o sugerencias sobre situaciones de interés personal, escolar o social. Para ello, tiene en cuenta las relaciones de contraste, comparación, adición, entre otras.",
+    "evidencias": [],
+    "pagina": 25
+   }
+  ],
+  "dba_nota": "Los DBA del grado se trabajan juntos a lo largo del año: el MEN indica que no siguen un orden y que cada actividad idealmente involucra varios DBA del mismo grado (DBA de Inglés, p. 8)."
  },
  {
   "codigo": "ING-MALLA-9-M3",
@@ -1567,7 +2257,58 @@
    "Rúbrica de evaluación de la presentación de la campaña.",
    "Rúbrica de texto escrito.",
    "Examen modular."
-  ]
+  ],
+  "dba": [
+   {
+    "codigo": "ING-DBA-9-01",
+    "enunciado": "Explica el por qué de planes y acciones relacionadas con su entorno personal, escolar y comunitario. Estructura sus explicaciones de manera apropiada y tiene en cuenta la ortografía, la pronunciación y conectores para comunicar sus ideas.",
+    "evidencias": [],
+    "pagina": 24
+   },
+   {
+    "codigo": "ING-DBA-9-02",
+    "enunciado": "Reconoce relaciones de causa y efecto en lecturas cortas sobre temas académicos. Para esto, tiene en cuenta el vocabulario, los conectores y sus conocimientos previos.",
+    "evidencias": [],
+    "pagina": 24
+   },
+   {
+    "codigo": "ING-DBA-9-03",
+    "enunciado": "Resume la información que ha leído o escuchado sobre temas relacionados con su entorno escolar y académico a través de escritos estructurados.",
+    "evidencias": [],
+    "pagina": 24
+   },
+   {
+    "codigo": "ING-DBA-9-04",
+    "enunciado": "Realiza exposiciones cortas sobre un tema académico de su interés. Para esto, tiene en cuenta la secuencia de las acciones, la claridad de las ideas y se asesora con sus compañeros y su profesor.",
+    "evidencias": [],
+    "pagina": 24
+   },
+   {
+    "codigo": "ING-DBA-9-05",
+    "enunciado": "Expresa su opinión sobre un tema discutido en clase y relacionado con su entorno académico. Para esto, cita lo que han dicho sus compañeros, otras personas o fuentes de información.",
+    "evidencias": [],
+    "pagina": 25
+   },
+   {
+    "codigo": "ING-DBA-9-06",
+    "enunciado": "Intercambia información sobre temas del entorno escolar y de interés general en una conversación. Para esto, se basa en los apuntes tomados después de leer o escuchar información sobre el tema tratado.",
+    "evidencias": [],
+    "pagina": 25
+   },
+   {
+    "codigo": "ING-DBA-9-07",
+    "enunciado": "Identifica el propósito, las partes y tipo de textos en una lectura o audio cortos y los comparte con sus compañeros. Para eso, se apoya en la estructura del texto, los títulos y subtítulos, marcadores de secuencia, conectores y el vocabulario que se repite.",
+    "evidencias": [],
+    "pagina": 25
+   },
+   {
+    "codigo": "ING-DBA-9-08",
+    "enunciado": "Redacta textos de mediana longitud en los cuales realiza recomendaciones o sugerencias sobre situaciones de interés personal, escolar o social. Para ello, tiene en cuenta las relaciones de contraste, comparación, adición, entre otras.",
+    "evidencias": [],
+    "pagina": 25
+   }
+  ],
+  "dba_nota": "Los DBA del grado se trabajan juntos a lo largo del año: el MEN indica que no siguen un orden y que cada actividad idealmente involucra varios DBA del mismo grado (DBA de Inglés, p. 8)."
  },
  {
   "codigo": "ING-MALLA-9-M4",
@@ -1667,7 +2408,58 @@
    "Rúbrica de presentación oral.",
    "Rúbrica de texto argumentativo.",
    "Examen modular."
-  ]
+  ],
+  "dba": [
+   {
+    "codigo": "ING-DBA-9-01",
+    "enunciado": "Explica el por qué de planes y acciones relacionadas con su entorno personal, escolar y comunitario. Estructura sus explicaciones de manera apropiada y tiene en cuenta la ortografía, la pronunciación y conectores para comunicar sus ideas.",
+    "evidencias": [],
+    "pagina": 24
+   },
+   {
+    "codigo": "ING-DBA-9-02",
+    "enunciado": "Reconoce relaciones de causa y efecto en lecturas cortas sobre temas académicos. Para esto, tiene en cuenta el vocabulario, los conectores y sus conocimientos previos.",
+    "evidencias": [],
+    "pagina": 24
+   },
+   {
+    "codigo": "ING-DBA-9-03",
+    "enunciado": "Resume la información que ha leído o escuchado sobre temas relacionados con su entorno escolar y académico a través de escritos estructurados.",
+    "evidencias": [],
+    "pagina": 24
+   },
+   {
+    "codigo": "ING-DBA-9-04",
+    "enunciado": "Realiza exposiciones cortas sobre un tema académico de su interés. Para esto, tiene en cuenta la secuencia de las acciones, la claridad de las ideas y se asesora con sus compañeros y su profesor.",
+    "evidencias": [],
+    "pagina": 24
+   },
+   {
+    "codigo": "ING-DBA-9-05",
+    "enunciado": "Expresa su opinión sobre un tema discutido en clase y relacionado con su entorno académico. Para esto, cita lo que han dicho sus compañeros, otras personas o fuentes de información.",
+    "evidencias": [],
+    "pagina": 25
+   },
+   {
+    "codigo": "ING-DBA-9-06",
+    "enunciado": "Intercambia información sobre temas del entorno escolar y de interés general en una conversación. Para esto, se basa en los apuntes tomados después de leer o escuchar información sobre el tema tratado.",
+    "evidencias": [],
+    "pagina": 25
+   },
+   {
+    "codigo": "ING-DBA-9-07",
+    "enunciado": "Identifica el propósito, las partes y tipo de textos en una lectura o audio cortos y los comparte con sus compañeros. Para eso, se apoya en la estructura del texto, los títulos y subtítulos, marcadores de secuencia, conectores y el vocabulario que se repite.",
+    "evidencias": [],
+    "pagina": 25
+   },
+   {
+    "codigo": "ING-DBA-9-08",
+    "enunciado": "Redacta textos de mediana longitud en los cuales realiza recomendaciones o sugerencias sobre situaciones de interés personal, escolar o social. Para ello, tiene en cuenta las relaciones de contraste, comparación, adición, entre otras.",
+    "evidencias": [],
+    "pagina": 25
+   }
+  ],
+  "dba_nota": "Los DBA del grado se trabajan juntos a lo largo del año: el MEN indica que no siguen un orden y que cada actividad idealmente involucra varios DBA del mismo grado (DBA de Inglés, p. 8)."
  },
  {
   "codigo": "ING-MALLA-10-M1",
@@ -1779,7 +2571,52 @@
    "Rúbrica de evaluación de la presentación de la campaña.",
    "Rúbrica de texto escrito.",
    "Examen modular."
-  ]
+  ],
+  "dba": [
+   {
+    "codigo": "ING-DBA-10-01",
+    "enunciado": "Distingue información general y específica en textos de opinión y discusiones orales y escritos sobre temas conocidos. Para esto, responde a las preguntas ¿de qué trata el texto? y ¿cuál es el enunciado más importante que el autor hace acerca del tema?",
+    "evidencias": [],
+    "pagina": 27
+   },
+   {
+    "codigo": "ING-DBA-10-02",
+    "enunciado": "Explica las ideas de un texto oral o escrito acerca de temas de su interés o que le son familiares a partir de su conocimiento previo, inferencias e interpretaciones.",
+    "evidencias": [],
+    "pagina": 27
+   },
+   {
+    "codigo": "ING-DBA-10-03",
+    "enunciado": "Redacta textos narrativos, descriptivos y expositivos relacionados con temas de su interés o que le resultan familiares. Para esto, sigue un proceso de planeación, escritura, revisión y edición. Se apoya en su profesor(a) y/o compañeros(as) de clase.",
+    "evidencias": [],
+    "pagina": 27
+   },
+   {
+    "codigo": "ING-DBA-10-04",
+    "enunciado": "Produce mensajes escritos, tales como cartas y correos electrónicos, claros y bien estructurados teniendo en cuenta el contexto en el que tienen lugar. Para esto, utiliza el vocabulario y las estructuras de texto requeridas.",
+    "evidencias": [],
+    "pagina": 28
+   },
+   {
+    "codigo": "ING-DBA-10-05",
+    "enunciado": "Intercambia opiniones sobre situaciones de interés personal, escolar o social. Para esto, presenta sus opiniones de manera natural y coherente y hace uso de expresiones conocidas.",
+    "evidencias": [],
+    "pagina": 28
+   },
+   {
+    "codigo": "ING-DBA-10-06",
+    "enunciado": "Sostiene conversaciones espontáneas y sencillas acerca de temas que son de su conocimiento, interés personal o académico. Según su propósito y el conocimiento del interlocutor, es capaz de seleccionar expresiones apropiadas para iniciar, mantener y cerrar una conversación.",
+    "evidencias": [],
+    "pagina": 28
+   },
+   {
+    "codigo": "ING-DBA-10-07",
+    "enunciado": "Responde preguntas e inquietudes después de hacer una exposición oral sobre temas generales o académicos de interés. Para esto, se basa en la información consultada y organizada.",
+    "evidencias": [],
+    "pagina": 28
+   }
+  ],
+  "dba_nota": "Los DBA del grado se trabajan juntos a lo largo del año: el MEN indica que no siguen un orden y que cada actividad idealmente involucra varios DBA del mismo grado (DBA de Inglés, p. 8)."
  },
  {
   "codigo": "ING-MALLA-10-M2",
@@ -1898,7 +2735,52 @@
   "evaluacion_del": [
    "Rúbrica de texto escrito.",
    "Examen modular."
-  ]
+  ],
+  "dba": [
+   {
+    "codigo": "ING-DBA-10-01",
+    "enunciado": "Distingue información general y específica en textos de opinión y discusiones orales y escritos sobre temas conocidos. Para esto, responde a las preguntas ¿de qué trata el texto? y ¿cuál es el enunciado más importante que el autor hace acerca del tema?",
+    "evidencias": [],
+    "pagina": 27
+   },
+   {
+    "codigo": "ING-DBA-10-02",
+    "enunciado": "Explica las ideas de un texto oral o escrito acerca de temas de su interés o que le son familiares a partir de su conocimiento previo, inferencias e interpretaciones.",
+    "evidencias": [],
+    "pagina": 27
+   },
+   {
+    "codigo": "ING-DBA-10-03",
+    "enunciado": "Redacta textos narrativos, descriptivos y expositivos relacionados con temas de su interés o que le resultan familiares. Para esto, sigue un proceso de planeación, escritura, revisión y edición. Se apoya en su profesor(a) y/o compañeros(as) de clase.",
+    "evidencias": [],
+    "pagina": 27
+   },
+   {
+    "codigo": "ING-DBA-10-04",
+    "enunciado": "Produce mensajes escritos, tales como cartas y correos electrónicos, claros y bien estructurados teniendo en cuenta el contexto en el que tienen lugar. Para esto, utiliza el vocabulario y las estructuras de texto requeridas.",
+    "evidencias": [],
+    "pagina": 28
+   },
+   {
+    "codigo": "ING-DBA-10-05",
+    "enunciado": "Intercambia opiniones sobre situaciones de interés personal, escolar o social. Para esto, presenta sus opiniones de manera natural y coherente y hace uso de expresiones conocidas.",
+    "evidencias": [],
+    "pagina": 28
+   },
+   {
+    "codigo": "ING-DBA-10-06",
+    "enunciado": "Sostiene conversaciones espontáneas y sencillas acerca de temas que son de su conocimiento, interés personal o académico. Según su propósito y el conocimiento del interlocutor, es capaz de seleccionar expresiones apropiadas para iniciar, mantener y cerrar una conversación.",
+    "evidencias": [],
+    "pagina": 28
+   },
+   {
+    "codigo": "ING-DBA-10-07",
+    "enunciado": "Responde preguntas e inquietudes después de hacer una exposición oral sobre temas generales o académicos de interés. Para esto, se basa en la información consultada y organizada.",
+    "evidencias": [],
+    "pagina": 28
+   }
+  ],
+  "dba_nota": "Los DBA del grado se trabajan juntos a lo largo del año: el MEN indica que no siguen un orden y que cada actividad idealmente involucra varios DBA del mismo grado (DBA de Inglés, p. 8)."
  },
  {
   "codigo": "ING-MALLA-10-M3",
@@ -2008,7 +2890,52 @@
    "Rúbrica para evaluar la participación en el debate.",
    "Rúbrica de texto escrito.",
    "Examen modular."
-  ]
+  ],
+  "dba": [
+   {
+    "codigo": "ING-DBA-10-01",
+    "enunciado": "Distingue información general y específica en textos de opinión y discusiones orales y escritos sobre temas conocidos. Para esto, responde a las preguntas ¿de qué trata el texto? y ¿cuál es el enunciado más importante que el autor hace acerca del tema?",
+    "evidencias": [],
+    "pagina": 27
+   },
+   {
+    "codigo": "ING-DBA-10-02",
+    "enunciado": "Explica las ideas de un texto oral o escrito acerca de temas de su interés o que le son familiares a partir de su conocimiento previo, inferencias e interpretaciones.",
+    "evidencias": [],
+    "pagina": 27
+   },
+   {
+    "codigo": "ING-DBA-10-03",
+    "enunciado": "Redacta textos narrativos, descriptivos y expositivos relacionados con temas de su interés o que le resultan familiares. Para esto, sigue un proceso de planeación, escritura, revisión y edición. Se apoya en su profesor(a) y/o compañeros(as) de clase.",
+    "evidencias": [],
+    "pagina": 27
+   },
+   {
+    "codigo": "ING-DBA-10-04",
+    "enunciado": "Produce mensajes escritos, tales como cartas y correos electrónicos, claros y bien estructurados teniendo en cuenta el contexto en el que tienen lugar. Para esto, utiliza el vocabulario y las estructuras de texto requeridas.",
+    "evidencias": [],
+    "pagina": 28
+   },
+   {
+    "codigo": "ING-DBA-10-05",
+    "enunciado": "Intercambia opiniones sobre situaciones de interés personal, escolar o social. Para esto, presenta sus opiniones de manera natural y coherente y hace uso de expresiones conocidas.",
+    "evidencias": [],
+    "pagina": 28
+   },
+   {
+    "codigo": "ING-DBA-10-06",
+    "enunciado": "Sostiene conversaciones espontáneas y sencillas acerca de temas que son de su conocimiento, interés personal o académico. Según su propósito y el conocimiento del interlocutor, es capaz de seleccionar expresiones apropiadas para iniciar, mantener y cerrar una conversación.",
+    "evidencias": [],
+    "pagina": 28
+   },
+   {
+    "codigo": "ING-DBA-10-07",
+    "enunciado": "Responde preguntas e inquietudes después de hacer una exposición oral sobre temas generales o académicos de interés. Para esto, se basa en la información consultada y organizada.",
+    "evidencias": [],
+    "pagina": 28
+   }
+  ],
+  "dba_nota": "Los DBA del grado se trabajan juntos a lo largo del año: el MEN indica que no siguen un orden y que cada actividad idealmente involucra varios DBA del mismo grado (DBA de Inglés, p. 8)."
  },
  {
   "codigo": "ING-MALLA-10-M4",
@@ -2121,7 +3048,52 @@
    "Rúbrica de presentación oral.",
    "Rúbrica de texto argumentativo.",
    "Examen modular."
-  ]
+  ],
+  "dba": [
+   {
+    "codigo": "ING-DBA-10-01",
+    "enunciado": "Distingue información general y específica en textos de opinión y discusiones orales y escritos sobre temas conocidos. Para esto, responde a las preguntas ¿de qué trata el texto? y ¿cuál es el enunciado más importante que el autor hace acerca del tema?",
+    "evidencias": [],
+    "pagina": 27
+   },
+   {
+    "codigo": "ING-DBA-10-02",
+    "enunciado": "Explica las ideas de un texto oral o escrito acerca de temas de su interés o que le son familiares a partir de su conocimiento previo, inferencias e interpretaciones.",
+    "evidencias": [],
+    "pagina": 27
+   },
+   {
+    "codigo": "ING-DBA-10-03",
+    "enunciado": "Redacta textos narrativos, descriptivos y expositivos relacionados con temas de su interés o que le resultan familiares. Para esto, sigue un proceso de planeación, escritura, revisión y edición. Se apoya en su profesor(a) y/o compañeros(as) de clase.",
+    "evidencias": [],
+    "pagina": 27
+   },
+   {
+    "codigo": "ING-DBA-10-04",
+    "enunciado": "Produce mensajes escritos, tales como cartas y correos electrónicos, claros y bien estructurados teniendo en cuenta el contexto en el que tienen lugar. Para esto, utiliza el vocabulario y las estructuras de texto requeridas.",
+    "evidencias": [],
+    "pagina": 28
+   },
+   {
+    "codigo": "ING-DBA-10-05",
+    "enunciado": "Intercambia opiniones sobre situaciones de interés personal, escolar o social. Para esto, presenta sus opiniones de manera natural y coherente y hace uso de expresiones conocidas.",
+    "evidencias": [],
+    "pagina": 28
+   },
+   {
+    "codigo": "ING-DBA-10-06",
+    "enunciado": "Sostiene conversaciones espontáneas y sencillas acerca de temas que son de su conocimiento, interés personal o académico. Según su propósito y el conocimiento del interlocutor, es capaz de seleccionar expresiones apropiadas para iniciar, mantener y cerrar una conversación.",
+    "evidencias": [],
+    "pagina": 28
+   },
+   {
+    "codigo": "ING-DBA-10-07",
+    "enunciado": "Responde preguntas e inquietudes después de hacer una exposición oral sobre temas generales o académicos de interés. Para esto, se basa en la información consultada y organizada.",
+    "evidencias": [],
+    "pagina": 28
+   }
+  ],
+  "dba_nota": "Los DBA del grado se trabajan juntos a lo largo del año: el MEN indica que no siguen un orden y que cada actividad idealmente involucra varios DBA del mismo grado (DBA de Inglés, p. 8)."
  },
  {
   "codigo": "ING-MALLA-11-M1",
@@ -2235,7 +3207,58 @@
   "evaluacion_del": [
    "Rúbrica para evaluar las etapas y productos del proyecto y el trabajo en equipo.",
    "Examen modular."
-  ]
+  ],
+  "dba": [
+   {
+    "codigo": "ING-DBA-11-01",
+    "enunciado": "Identifica el propósito de textos orales y escritos de mediana longitud relacionados con temas de interés general y de su entorno académico y la comparte con otros. Para esto, utiliza su conocimiento acerca de la estructura de los textos.",
+    "evidencias": [],
+    "pagina": 30
+   },
+   {
+    "codigo": "ING-DBA-11-02",
+    "enunciado": "Explica tanto en forma oral como escrita las causas y los efectos, así como el problema y la solución de una situación. Para esto, define la relación entre las ideas que quiere explicar y utiliza el lenguaje correspondiente.",
+    "evidencias": [],
+    "pagina": 30
+   },
+   {
+    "codigo": "ING-DBA-11-03",
+    "enunciado": "Reconoce la opinión del autor(a) en textos orales y escritos de mediana longitud que se relacionan con su contexto escolar y académico. Para esto, hace uso tanto de su conocimiento previo del tema como de la estructura del texto.",
+    "evidencias": [],
+    "pagina": 30
+   },
+   {
+    "codigo": "ING-DBA-11-04",
+    "enunciado": "Redacta textos argumentativos con una estructura clara y sencilla sobre temas académicos. Para esto, sigue modelos y un proceso de planeación, escritura, revisión y edición; se apoya en su profesor(a) y/o compañeros(as) de clase.",
+    "evidencias": [],
+    "pagina": 31
+   },
+   {
+    "codigo": "ING-DBA-11-05",
+    "enunciado": "Expresa de manera oral y escrita su posición acerca de un tema conocido teniendo en cuenta a quién está dirigido el texto. Para esto, define el tono del mensaje de acuerdo con el contexto o la cercanía con su audiencia (formal o informal).",
+    "evidencias": [],
+    "pagina": 31
+   },
+   {
+    "codigo": "ING-DBA-11-06",
+    "enunciado": "Expresa de manera oral su punto de vista acerca de un tema controversial previamente estudiado. Para esto, consulta fuentes confiables, selecciona y organiza la información y la utiliza para desarrollar sus ideas de una manera clara y estructurada.",
+    "evidencias": [],
+    "pagina": 32
+   },
+   {
+    "codigo": "ING-DBA-11-07",
+    "enunciado": "Mantiene discusiones formales acerca de temas académicos que ha preparado previamente. Para esto, sigue las ideas de un tema propuesto, expresa su opinión y la contrasta con la de otros.",
+    "evidencias": [],
+    "pagina": 32
+   },
+   {
+    "codigo": "ING-DBA-11-08",
+    "enunciado": "Narra de manera oral o escrita experiencias personales o historias conocidas. Para esto, brinda detalles de las situaciones, los lugares, las personas y las acciones.",
+    "evidencias": [],
+    "pagina": 32
+   }
+  ],
+  "dba_nota": "Los DBA del grado se trabajan juntos a lo largo del año: el MEN indica que no siguen un orden y que cada actividad idealmente involucra varios DBA del mismo grado (DBA de Inglés, p. 8)."
  },
  {
   "codigo": "ING-MALLA-11-M2",
@@ -2347,7 +3370,58 @@
   "evaluacion_del": [
    "Rúbrica para evaluar las etapas y productos de la propuesta y el trabajo en equipo.",
    "Examen modular."
-  ]
+  ],
+  "dba": [
+   {
+    "codigo": "ING-DBA-11-01",
+    "enunciado": "Identifica el propósito de textos orales y escritos de mediana longitud relacionados con temas de interés general y de su entorno académico y la comparte con otros. Para esto, utiliza su conocimiento acerca de la estructura de los textos.",
+    "evidencias": [],
+    "pagina": 30
+   },
+   {
+    "codigo": "ING-DBA-11-02",
+    "enunciado": "Explica tanto en forma oral como escrita las causas y los efectos, así como el problema y la solución de una situación. Para esto, define la relación entre las ideas que quiere explicar y utiliza el lenguaje correspondiente.",
+    "evidencias": [],
+    "pagina": 30
+   },
+   {
+    "codigo": "ING-DBA-11-03",
+    "enunciado": "Reconoce la opinión del autor(a) en textos orales y escritos de mediana longitud que se relacionan con su contexto escolar y académico. Para esto, hace uso tanto de su conocimiento previo del tema como de la estructura del texto.",
+    "evidencias": [],
+    "pagina": 30
+   },
+   {
+    "codigo": "ING-DBA-11-04",
+    "enunciado": "Redacta textos argumentativos con una estructura clara y sencilla sobre temas académicos. Para esto, sigue modelos y un proceso de planeación, escritura, revisión y edición; se apoya en su profesor(a) y/o compañeros(as) de clase.",
+    "evidencias": [],
+    "pagina": 31
+   },
+   {
+    "codigo": "ING-DBA-11-05",
+    "enunciado": "Expresa de manera oral y escrita su posición acerca de un tema conocido teniendo en cuenta a quién está dirigido el texto. Para esto, define el tono del mensaje de acuerdo con el contexto o la cercanía con su audiencia (formal o informal).",
+    "evidencias": [],
+    "pagina": 31
+   },
+   {
+    "codigo": "ING-DBA-11-06",
+    "enunciado": "Expresa de manera oral su punto de vista acerca de un tema controversial previamente estudiado. Para esto, consulta fuentes confiables, selecciona y organiza la información y la utiliza para desarrollar sus ideas de una manera clara y estructurada.",
+    "evidencias": [],
+    "pagina": 32
+   },
+   {
+    "codigo": "ING-DBA-11-07",
+    "enunciado": "Mantiene discusiones formales acerca de temas académicos que ha preparado previamente. Para esto, sigue las ideas de un tema propuesto, expresa su opinión y la contrasta con la de otros.",
+    "evidencias": [],
+    "pagina": 32
+   },
+   {
+    "codigo": "ING-DBA-11-08",
+    "enunciado": "Narra de manera oral o escrita experiencias personales o historias conocidas. Para esto, brinda detalles de las situaciones, los lugares, las personas y las acciones.",
+    "evidencias": [],
+    "pagina": 32
+   }
+  ],
+  "dba_nota": "Los DBA del grado se trabajan juntos a lo largo del año: el MEN indica que no siguen un orden y que cada actividad idealmente involucra varios DBA del mismo grado (DBA de Inglés, p. 8)."
  },
  {
   "codigo": "ING-MALLA-11-M3",
@@ -2462,7 +3536,58 @@
   "evaluacion_del": [
    "Rúbrica para evaluar las etapas y productos del proyecto y el trabajo en equipo.",
    "Examen modular."
-  ]
+  ],
+  "dba": [
+   {
+    "codigo": "ING-DBA-11-01",
+    "enunciado": "Identifica el propósito de textos orales y escritos de mediana longitud relacionados con temas de interés general y de su entorno académico y la comparte con otros. Para esto, utiliza su conocimiento acerca de la estructura de los textos.",
+    "evidencias": [],
+    "pagina": 30
+   },
+   {
+    "codigo": "ING-DBA-11-02",
+    "enunciado": "Explica tanto en forma oral como escrita las causas y los efectos, así como el problema y la solución de una situación. Para esto, define la relación entre las ideas que quiere explicar y utiliza el lenguaje correspondiente.",
+    "evidencias": [],
+    "pagina": 30
+   },
+   {
+    "codigo": "ING-DBA-11-03",
+    "enunciado": "Reconoce la opinión del autor(a) en textos orales y escritos de mediana longitud que se relacionan con su contexto escolar y académico. Para esto, hace uso tanto de su conocimiento previo del tema como de la estructura del texto.",
+    "evidencias": [],
+    "pagina": 30
+   },
+   {
+    "codigo": "ING-DBA-11-04",
+    "enunciado": "Redacta textos argumentativos con una estructura clara y sencilla sobre temas académicos. Para esto, sigue modelos y un proceso de planeación, escritura, revisión y edición; se apoya en su profesor(a) y/o compañeros(as) de clase.",
+    "evidencias": [],
+    "pagina": 31
+   },
+   {
+    "codigo": "ING-DBA-11-05",
+    "enunciado": "Expresa de manera oral y escrita su posición acerca de un tema conocido teniendo en cuenta a quién está dirigido el texto. Para esto, define el tono del mensaje de acuerdo con el contexto o la cercanía con su audiencia (formal o informal).",
+    "evidencias": [],
+    "pagina": 31
+   },
+   {
+    "codigo": "ING-DBA-11-06",
+    "enunciado": "Expresa de manera oral su punto de vista acerca de un tema controversial previamente estudiado. Para esto, consulta fuentes confiables, selecciona y organiza la información y la utiliza para desarrollar sus ideas de una manera clara y estructurada.",
+    "evidencias": [],
+    "pagina": 32
+   },
+   {
+    "codigo": "ING-DBA-11-07",
+    "enunciado": "Mantiene discusiones formales acerca de temas académicos que ha preparado previamente. Para esto, sigue las ideas de un tema propuesto, expresa su opinión y la contrasta con la de otros.",
+    "evidencias": [],
+    "pagina": 32
+   },
+   {
+    "codigo": "ING-DBA-11-08",
+    "enunciado": "Narra de manera oral o escrita experiencias personales o historias conocidas. Para esto, brinda detalles de las situaciones, los lugares, las personas y las acciones.",
+    "evidencias": [],
+    "pagina": 32
+   }
+  ],
+  "dba_nota": "Los DBA del grado se trabajan juntos a lo largo del año: el MEN indica que no siguen un orden y que cada actividad idealmente involucra varios DBA del mismo grado (DBA de Inglés, p. 8)."
  },
  {
   "codigo": "ING-MALLA-11-M4",
@@ -2560,6 +3685,57 @@
    "Rúbrica para evaluar las etapas y productos del proyecto, con autoevaluación.",
    "Rúbrica para el ensayo.",
    "Examen modular."
-  ]
+  ],
+  "dba": [
+   {
+    "codigo": "ING-DBA-11-01",
+    "enunciado": "Identifica el propósito de textos orales y escritos de mediana longitud relacionados con temas de interés general y de su entorno académico y la comparte con otros. Para esto, utiliza su conocimiento acerca de la estructura de los textos.",
+    "evidencias": [],
+    "pagina": 30
+   },
+   {
+    "codigo": "ING-DBA-11-02",
+    "enunciado": "Explica tanto en forma oral como escrita las causas y los efectos, así como el problema y la solución de una situación. Para esto, define la relación entre las ideas que quiere explicar y utiliza el lenguaje correspondiente.",
+    "evidencias": [],
+    "pagina": 30
+   },
+   {
+    "codigo": "ING-DBA-11-03",
+    "enunciado": "Reconoce la opinión del autor(a) en textos orales y escritos de mediana longitud que se relacionan con su contexto escolar y académico. Para esto, hace uso tanto de su conocimiento previo del tema como de la estructura del texto.",
+    "evidencias": [],
+    "pagina": 30
+   },
+   {
+    "codigo": "ING-DBA-11-04",
+    "enunciado": "Redacta textos argumentativos con una estructura clara y sencilla sobre temas académicos. Para esto, sigue modelos y un proceso de planeación, escritura, revisión y edición; se apoya en su profesor(a) y/o compañeros(as) de clase.",
+    "evidencias": [],
+    "pagina": 31
+   },
+   {
+    "codigo": "ING-DBA-11-05",
+    "enunciado": "Expresa de manera oral y escrita su posición acerca de un tema conocido teniendo en cuenta a quién está dirigido el texto. Para esto, define el tono del mensaje de acuerdo con el contexto o la cercanía con su audiencia (formal o informal).",
+    "evidencias": [],
+    "pagina": 31
+   },
+   {
+    "codigo": "ING-DBA-11-06",
+    "enunciado": "Expresa de manera oral su punto de vista acerca de un tema controversial previamente estudiado. Para esto, consulta fuentes confiables, selecciona y organiza la información y la utiliza para desarrollar sus ideas de una manera clara y estructurada.",
+    "evidencias": [],
+    "pagina": 32
+   },
+   {
+    "codigo": "ING-DBA-11-07",
+    "enunciado": "Mantiene discusiones formales acerca de temas académicos que ha preparado previamente. Para esto, sigue las ideas de un tema propuesto, expresa su opinión y la contrasta con la de otros.",
+    "evidencias": [],
+    "pagina": 32
+   },
+   {
+    "codigo": "ING-DBA-11-08",
+    "enunciado": "Narra de manera oral o escrita experiencias personales o historias conocidas. Para esto, brinda detalles de las situaciones, los lugares, las personas y las acciones.",
+    "evidencias": [],
+    "pagina": 32
+   }
+  ],
+  "dba_nota": "Los DBA del grado se trabajan juntos a lo largo del año: el MEN indica que no siguen un orden y que cada actividad idealmente involucra varios DBA del mismo grado (DBA de Inglés, p. 8)."
  }
 ]

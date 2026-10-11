@@ -6,11 +6,13 @@ Cada unidad de la malla es un DBA y lleva:
 - el eje y un título corto (solo etiquetas para navegar, criterio editorial; el enunciado no cambia);
 - la página del documento del MEN de donde sale.
 
-Los estándares no se relacionan todavía: en Lenguaje el cruce DBA-estándar no es uno a uno y en Ciencias los
-estándares aún no están extraídos. La lista va vacía y se completa cuando se haga ese trabajo.
+Estándares relacionados:
+- Lenguaje: cada DBA se cruza con los estándares de su grupo de grados (6-7, 8-9, 10-11) según el factor de los
+  Estándares Básicos de Competencias que corresponde a su eje (ver ESTANDARES_LENGUAJE abajo).
+- Ciencias: los estándares aún no están extraídos; la lista va vacía.
 
 Entradas: _soporte/datos/{area}/dba.json (extracción verificada).
-Salidas:  _soporte/datos/{area}/malla.json.
+Salidas:  _soporte/datos/{area}/malla.json y, en Lenguaje, _soporte/datos/lenguaje/estandares_malla.json.
 
 Uso: python3 _soporte/extraccion/areas_malla.py
 """
@@ -160,6 +162,33 @@ UNIDADES = {
 }
 
 
+GRUPOS = {6: '6.7', 7: '6.7', 8: '8.9', 9: '8.9', 10: '10.11', 11: '10.11'}
+
+# Eje del DBA → estándares del mismo grupo de grados, por factor de los Estándares de Lenguaje (MEN, 2006):
+# medios → MC-01 (medios de comunicación); otros sistemas simbólicos → MC-02 (lenguaje no verbal);
+# literatura → todos los de literatura; comprensión → CI-01; producción escrita → el estándar de producción escrita;
+# oralidad → el estándar de producción oral y el de ética de la comunicación (escucha, respeto por el otro).
+# En 10.° y 11.° un solo estándar (PT-01) cubre la producción oral y la escrita.
+ESTANDARES_LENGUAJE = {
+    'ME': {'6.7': ['MC-01'], '8.9': ['MC-01'], '10.11': ['MC-01']},
+    'SS': {'6.7': ['MC-02'], '8.9': ['MC-02'], '10.11': ['MC-02']},
+    'LI': {'6.7': ['LI-01', 'LI-02'], '8.9': ['LI-01'], '10.11': ['LI-01']},
+    'CO': {'6.7': ['CI-01'], '8.9': ['CI-01'], '10.11': ['CI-01']},
+    'PT': {'6.7': ['PT-02'], '8.9': ['PT-02'], '10.11': ['PT-01']},
+    'OR': {'6.7': ['PT-01', 'EC-01'], '8.9': ['PT-01', 'EC-01'], '10.11': ['PT-01', 'EC-01']},
+}
+
+
+def estandares_lenguaje():
+    """Estándares de Lenguaje de 6.° a 11.° en el formato común (código, nivel, habilidad, texto, página)."""
+    todos = json.loads((DATOS / 'lenguaje' / 'estandares.json').read_text(encoding='utf-8'))
+    return [{
+        'codigo': e['codigo'], 'nivel': f"{e['grado_desde']}-{e['grado_hasta']}",
+        'grados': f"{e['grado_desde']}.° a {e['grado_hasta']}.°", 'habilidad': e['eje_nombre'],
+        'numero': e['orden'], 'texto': e['texto'], 'pagina': e['pagina_pdf'], 'competencias': [],
+    } for e in todos if e['grado_desde'] >= 6]
+
+
 def main():
     total = 0
     for area, ejes in EJES.items():
@@ -189,11 +218,24 @@ def main():
                 'meta_en': None,
                 'ruta': (d.get('ejemplo_texto_plano') or '').strip(),
                 'evidencias': [{'codigo': ev['codigo'], 'texto': ev['texto']} for ev in d['evidencias']],
-                'estandares': [],
+                'estandares': [f'LEN-EBC-{GRUPOS[d["grado"]]}-{c}' for c in ESTANDARES_LENGUAJE[eje][GRUPOS[d['grado']]]]
+                if area == 'lenguaje' else [],
                 'fuente': d.get('fuente'),
                 'fuente_pagina': d.get('pagina_pdf'),
             })
 
+        if area == 'lenguaje':
+            comunes = estandares_lenguaje()
+            existentes = {e['codigo'] for e in comunes}
+            faltan = sorted({c for m in malla for c in m['estandares']} - existentes)
+            if faltan:
+                sys.exit(f'Lenguaje: estándares citados que no existen: {faltan}')
+            sin_uso = sorted(existentes - {c for m in malla for c in m['estandares']})
+            if sin_uso:
+                sys.exit(f'Lenguaje: estándares sin ningún DBA: {sin_uso}')
+            (DATOS / area / 'estandares_malla.json').write_text(
+                json.dumps(comunes, ensure_ascii=False, indent=1) + '\n', encoding='utf-8')
+            print(f'lenguaje: {sum(len(m["estandares"]) for m in malla)} relaciones DBA-estándar con los {len(comunes)} estándares de 6.° a 11.°.')
         (DATOS / area / 'malla.json').write_text(json.dumps(malla, ensure_ascii=False, indent=1) + '\n', encoding='utf-8')
         evidencias = sum(len(m['evidencias']) for m in malla)
         print(f'{area}: {len(malla)} DBA de 6.° a 11.° en la malla común, con {evidencias} evidencias.')

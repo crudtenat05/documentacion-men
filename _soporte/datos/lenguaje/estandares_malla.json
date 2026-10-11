@@ -1,0 +1,212 @@
+[
+ {
+  "codigo": "LEN-EBC-6.7-PT-01",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "PRODUCCIÓN TEXTUAL",
+  "numero": 1,
+  "texto": "Conozco y utilizo algunas estrategias argumentativas que posibilitan la construcción de textos orales en situaciones comunicativas auténticas.",
+  "pagina": 19,
+  "competencias": []
+ },
+ {
+  "codigo": "LEN-EBC-6.7-PT-02",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "PRODUCCIÓN TEXTUAL",
+  "numero": 2,
+  "texto": "Produzco textos escritos que responden a necesidades específicas de comunicación, a procedimientos sistemáticos de elaboración y establezco nexos intertextuales y extratextuales.",
+  "pagina": 19,
+  "competencias": []
+ },
+ {
+  "codigo": "LEN-EBC-6.7-CI-01",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "COMPRENSIÓN E INTERPRETACIÓN TEXTUAL",
+  "numero": 1,
+  "texto": "Comprendo e interpreto diversos tipos de texto, para establecer sus relaciones internas y su clasificación en una tipología textual.",
+  "pagina": 19,
+  "competencias": []
+ },
+ {
+  "codigo": "LEN-EBC-6.7-LI-01",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "LITERATURA",
+  "numero": 1,
+  "texto": "Reconozco la tradición oral como fuente de la conformación y desarrollo de la literatura.",
+  "pagina": 19,
+  "competencias": []
+ },
+ {
+  "codigo": "LEN-EBC-6.7-LI-02",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "LITERATURA",
+  "numero": 2,
+  "texto": "Comprendo obras literarias de diferentes géneros, propiciando así el desarrollo de mi capacidad crítica y creativa.",
+  "pagina": 20,
+  "competencias": []
+ },
+ {
+  "codigo": "LEN-EBC-6.7-MC-01",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "MEDIOS DE COMUNICACIÓN Y OTROS SISTEMAS SIMBÓLICOS",
+  "numero": 1,
+  "texto": "Caracterizo los medios de comunicación masiva y selecciono la información que emiten para clasificarla y almacenarla.",
+  "pagina": 20,
+  "competencias": []
+ },
+ {
+  "codigo": "LEN-EBC-6.7-MC-02",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "MEDIOS DE COMUNICACIÓN Y OTROS SISTEMAS SIMBÓLICOS",
+  "numero": 2,
+  "texto": "Relaciono de manera intertextual obras que emplean el lenguaje no verbal y obras que emplean el lenguaje verbal.",
+  "pagina": 20,
+  "competencias": []
+ },
+ {
+  "codigo": "LEN-EBC-6.7-EC-01",
+  "nivel": "6-7",
+  "grados": "6.° a 7.°",
+  "habilidad": "ÉTICA DE LA COMUNICACIÓN",
+  "numero": 1,
+  "texto": "Reconozco, en situaciones comunicativas auténticas, la diversidad y el encuentro de culturas, con el fin de afianzar mis actitudes de respeto y tolerancia.",
+  "pagina": 20,
+  "competencias": []
+ },
+ {
+  "codigo": "LEN-EBC-8.9-PT-01",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "PRODUCCIÓN TEXTUAL",
+  "numero": 1,
+  "texto": "Produzco textos orales de tipo argumentativo para exponer mis ideas y llegar a acuerdos en los que prime el respeto por mi interlocutor y la valoración de los contextos comunicativos.",
+  "pagina": 21,
+  "competencias": []
+ },
+ {
+  "codigo": "LEN-EBC-8.9-PT-02",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "PRODUCCIÓN TEXTUAL",
+  "numero": 2,
+  "texto": "Produzco textos escritos que evidencian el conocimiento que he alcanzado acerca del funcionamiento de la lengua en situaciones de comunicación y el uso de las estrategias de producción textual.",
+  "pagina": 21,
+  "competencias": []
+ },
+ {
+  "codigo": "LEN-EBC-8.9-CI-01",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "COMPRENSIÓN E INTERPRETACIÓN TEXTUAL",
+  "numero": 1,
+  "texto": "Comprendo e interpreto textos, teniendo en cuenta el funcionamiento de la lengua en situaciones de comunicación, el uso de estrategias de lectura y el papel del interlocutor y del contexto.",
+  "pagina": 21,
+  "competencias": []
+ },
+ {
+  "codigo": "LEN-EBC-8.9-LI-01",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "LITERATURA",
+  "numero": 1,
+  "texto": "Determino en las obras literarias latinoamericanas, elementos textuales que dan cuenta de sus características estéticas, históricas y sociológicas, cuando sea pertinente.",
+  "pagina": 21,
+  "competencias": []
+ },
+ {
+  "codigo": "LEN-EBC-8.9-MC-01",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "MEDIOS DE COMUNICACIÓN Y OTROS SISTEMAS SIMBÓLICOS",
+  "numero": 1,
+  "texto": "Retomo crítica y selectivamente la información que circula a través de los medios de comunicación masiva, para confrontarla con la que proviene de otras fuentes.",
+  "pagina": 22,
+  "competencias": []
+ },
+ {
+  "codigo": "LEN-EBC-8.9-MC-02",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "MEDIOS DE COMUNICACIÓN Y OTROS SISTEMAS SIMBÓLICOS",
+  "numero": 2,
+  "texto": "Comprendo los factores sociales y culturales que determinan algunas manifestaciones del lenguaje no verbal.",
+  "pagina": 22,
+  "competencias": []
+ },
+ {
+  "codigo": "LEN-EBC-8.9-EC-01",
+  "nivel": "8-9",
+  "grados": "8.° a 9.°",
+  "habilidad": "ÉTICA DE LA COMUNICACIÓN",
+  "numero": 1,
+  "texto": "Reflexiono en forma crítica acerca de los actos comunicativos y explico los componentes del proceso de comunicación, con énfasis en los agentes, los discursos, los contextos y el funcionamiento de la lengua, en tanto sistema de signos, símbolos y reglas de uso.",
+  "pagina": 22,
+  "competencias": []
+ },
+ {
+  "codigo": "LEN-EBC-10.11-PT-01",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "PRODUCCIÓN TEXTUAL",
+  "numero": 1,
+  "texto": "Produzco textos argumentativos que evidencian mi conocimiento de la lengua y el control sobre el uso que hago de ella en contextos comunicativos orales y escritos.",
+  "pagina": 23,
+  "competencias": []
+ },
+ {
+  "codigo": "LEN-EBC-10.11-CI-01",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "COMPRENSIÓN E INTERPRETACIÓN TEXTUAL",
+  "numero": 1,
+  "texto": "Comprendo e interpreto textos con actitud crítica y capacidad argumentativa.",
+  "pagina": 23,
+  "competencias": []
+ },
+ {
+  "codigo": "LEN-EBC-10.11-LI-01",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "LITERATURA",
+  "numero": 1,
+  "texto": "Analizo crítica y creativamente diferentes manifestaciones literarias del contexto universal.",
+  "pagina": 23,
+  "competencias": []
+ },
+ {
+  "codigo": "LEN-EBC-10.11-MC-01",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "MEDIOS DE COMUNICACIÓN Y OTROS SISTEMAS SIMBÓLICOS",
+  "numero": 1,
+  "texto": "Interpreto en forma crítica la información difundida por los medios de comunicación masiva.",
+  "pagina": 24,
+  "competencias": []
+ },
+ {
+  "codigo": "LEN-EBC-10.11-MC-02",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "MEDIOS DE COMUNICACIÓN Y OTROS SISTEMAS SIMBÓLICOS",
+  "numero": 2,
+  "texto": "Retomo críticamente los lenguajes no verbales para desarrollar procesos comunicativos intencionados.",
+  "pagina": 24,
+  "competencias": []
+ },
+ {
+  "codigo": "LEN-EBC-10.11-EC-01",
+  "nivel": "10-11",
+  "grados": "10.° a 11.°",
+  "habilidad": "ÉTICA DE LA COMUNICACIÓN",
+  "numero": 1,
+  "texto": "Expreso respeto por la diversidad cultural y social del mundo contemporáneo, en las situaciones comunicativas en las que intervengo.",
+  "pagina": 24,
+  "competencias": []
+ }
+]
