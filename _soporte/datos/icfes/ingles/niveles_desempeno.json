@@ -1,0 +1,96 @@
+{
+ "documento": {
+  "entidad": "ICFES",
+  "titulo": "Saber 11º · Niveles de Desempeño · Prueba Inglés",
+  "anio": 2025,
+  "archivo": "fuentes/icfes/22-septiembre-nd-prueba-ingles-saber-11.pdf",
+  "origen": "https://www.icfes.gov.co/wp-content/uploads/2025/09/22-septiembre-nd-prueba-ingles-saber-11.pdf"
+ },
+ "prueba": "ingles",
+ "niveles": [
+  {
+   "nivel": "Pre A1",
+   "introduccion": "El evaluado que se ubica en el nivel Pre A1, reconoce y comprende información simple e identifica vocabulario básico de su entorno, también demuestra que:",
+   "descriptores": [
+    {
+     "codigo": "ING-NPreA1.1",
+     "texto": "Comprende oraciones, preguntas, instrucciones o conversaciones cuando se utiliza vocabulario simple."
+    },
+    {
+     "codigo": "ING-NPreA1.2",
+     "texto": "Identifica palabras simples en frases sencillas que incluyen personas o lugares que le son familiares en su cotidianidad."
+    }
+   ],
+   "codigo": "ING-NPreA1",
+   "orden": 1,
+   "puntaje_desde": 0,
+   "puntaje_hasta": 36
+  },
+  {
+   "nivel": "A1",
+   "introduccion": "El evaluado que se ubica en el nivel A1, además de lo descrito en el nivel Pre A1, comprende enunciados simples relacionados con situaciones comunicativas sencillas y cotidianas, que incluyen la interpretación y la descripción de su entorno, también demuestra que:",
+   "descriptores": [
+    {
+     "codigo": "ING-NA1.1",
+     "texto": "Identifica el uso de lenguaje básico para proporcionar información personal, saludos, despedidas, indicaciones de lugares y acciones del presente."
+    },
+    {
+     "codigo": "ING-NA1.2",
+     "texto": "Entiende información e indicaciones que encuentra en avisos de acuerdo con el contexto donde se aplica."
+    }
+   ],
+   "codigo": "ING-NA1",
+   "orden": 2,
+   "puntaje_desde": 37,
+   "puntaje_hasta": 57
+  },
+  {
+   "nivel": "A2",
+   "introduccion": "El evaluado que se ubica en el nivel A2, además de lo descrito en los niveles Pre A1 y A1, comprende información específica en textos informativos y descriptivos sencillos, también demuestra que:",
+   "descriptores": [
+    {
+     "codigo": "ING-NA2.1",
+     "texto": "Comprende textos que abordan temáticas relacionadas con sus contextos inmediatos, tales como ocupaciones, personas, objetos, lugares o situaciones familiares."
+    },
+    {
+     "codigo": "ING-NA2.2",
+     "texto": "Identifica vocabulario simple en textos cortos que narran acciones o eventos presentes, pasados o futuros."
+    },
+    {
+     "codigo": "ING-NA2.3",
+     "texto": "Interpreta enunciados que expresan puntos de vista particulares en una situación comunicativa simple."
+    },
+    {
+     "codigo": "ING-NA2.4",
+     "texto": "Identifica y comprende información literal o parafraseada en textos cortos."
+    }
+   ],
+   "codigo": "ING-NA2",
+   "orden": 3,
+   "puntaje_desde": 58,
+   "puntaje_hasta": 70
+  },
+  {
+   "nivel": "B1",
+   "introduccion": "El evaluado que se ubica en el nivel B1, además de lo descrito en los niveles Pre A1, A1 y A2, posee vocabulario y estructuras del lenguaje que le permiten inferir y comprender un mayor rango de textos que abarcan temáticas de diferentes campos, también demuestra que:",
+   "descriptores": [
+    {
+     "codigo": "ING-NB1.1",
+     "texto": "Comprende textos sobre temas generales y específicos en ámbitos como el laboral, académico, cultural y personal."
+    },
+    {
+     "codigo": "ING-NB1.2",
+     "texto": "Infiere el significado de palabras desconocidas a partir del contexto dado."
+    },
+    {
+     "codigo": "ING-NB1.3",
+     "texto": "Identifica puntos de vista como sentimientos, deseos e intenciones en escritos determinados."
+    }
+   ],
+   "codigo": "ING-NB1",
+   "orden": 4,
+   "puntaje_desde": 71,
+   "puntaje_hasta": 100
+  }
+ ]
+}

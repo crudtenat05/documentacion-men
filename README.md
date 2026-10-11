@@ -30,7 +30,9 @@ Qué evalúa cada prueba, con los textos literales de la guía y su página. Dat
 | Ciencias Naturales | 3 competencias, 9 afirmaciones, 43 evidencias, 4 componentes y su distribución | 64 de 64 |
 | Inglés | 7 partes con su habilidad y 4 niveles (la guía no da afirmaciones ni evidencias) | 17 de 17 |
 
-Falta conseguir, para las cinco: el **marco de referencia** de cada prueba y los **niveles de desempeño** con sus descriptores. La guía los cita pero no los trae.
+**Niveles de desempeño** (documentos del ICFES de 2025): extraídos para las cinco pruebas, 107 descriptores con su código, en `_soporte/datos/icfes/<prueba>/niveles_desempeno.*`; acta en `_soporte/verificacion/icfes_niveles_desempeno.md`.
+
+**Marcos de referencia**: los cinco están en `fuentes/icfes/`, sin procesar.
 
 ## Formato de los DBA
 

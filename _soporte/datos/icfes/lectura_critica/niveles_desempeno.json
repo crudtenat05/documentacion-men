@@ -1,0 +1,160 @@
+{
+ "documento": {
+  "entidad": "ICFES",
+  "titulo": "Saber 11º · Niveles de Desempeño · Prueba Lectura Crítica",
+  "anio": 2025,
+  "archivo": "fuentes/icfes/22-septiembre-nd-prueba-lectura-critica-saber-11.pdf",
+  "origen": "https://www.icfes.gov.co/wp-content/uploads/2025/09/22-septiembre-nd-prueba-lectura-critica-saber-11.pdf"
+ },
+ "prueba": "lectura_critica",
+ "niveles": [
+  {
+   "nivel": "1",
+   "introduccion": "El evaluado que se ubica en el nivel 1, demuestra que:",
+   "descriptores": [
+    {
+     "codigo": "LEC-N1.1",
+     "texto": "Identifica elementos literales en textos continuos y discontinuos sin establecer relaciones de significado."
+    }
+   ],
+   "codigo": "LEC-N1",
+   "orden": 1,
+   "puntaje_desde": 0,
+   "puntaje_hasta": 35
+  },
+  {
+   "nivel": "2",
+   "introduccion": "El evaluado que se ubica en el nivel 2, además de lo descrito en el nivel 1, comprende textos continuos y discontinuos de manera literal. Asimismo, reconoce información explícita y la relaciona con el contexto, también demuestra que:",
+   "descriptores": [
+    {
+     "codigo": "LEC-N2.1",
+     "texto": "Identifica información local del texto."
+    },
+    {
+     "codigo": "LEC-N2.2",
+     "texto": "Identifica la estructura de textos continuos y discontinuos."
+    },
+    {
+     "codigo": "LEC-N2.3",
+     "texto": "Identifica relaciones básicas entre componentes del texto."
+    },
+    {
+     "codigo": "LEC-N2.4",
+     "texto": "Identifica fenómenos semánticos básicos: sinónimos y antónimos."
+    },
+    {
+     "codigo": "LEC-N2.5",
+     "texto": "Reconoce en un texto la diferencia entre proposición y párrafo."
+    },
+    {
+     "codigo": "LEC-N2.6",
+     "texto": "Reconoce el sentido local y global del texto."
+    },
+    {
+     "codigo": "LEC-N2.7",
+     "texto": "Identifica intenciones comunicativas explícitas."
+    },
+    {
+     "codigo": "LEC-N2.8",
+     "texto": "Identifica relaciones básicas: contraste, similitud y complementación entre textos presentes."
+    }
+   ],
+   "codigo": "LEC-N2",
+   "orden": 2,
+   "puntaje_desde": 36,
+   "puntaje_hasta": 50
+  },
+  {
+   "nivel": "3",
+   "introduccion": "El evaluado que se ubica en el nivel 3, además de lo descrito en los niveles 1 y 2, interpreta información de textos al inferir contenidos implícitos y reconocer estructuras, estrategias discursivas y juicios valorativos, también demuestra que:",
+   "descriptores": [
+    {
+     "codigo": "LEC-N3.1",
+     "texto": "Jerarquiza la información presente en un texto."
+    },
+    {
+     "codigo": "LEC-N3.2",
+     "texto": "Infiere información implícita en textos continuos y discontinuos."
+    },
+    {
+     "codigo": "LEC-N3.3",
+     "texto": "Establece relaciones intertextuales: definición, causa-efecto, oposición y antecedente-consecuente, entre textos presentes."
+    },
+    {
+     "codigo": "LEC-N3.4",
+     "texto": "Relaciona marcadores textuales en la interpretación de textos."
+    },
+    {
+     "codigo": "LEC-N3.5",
+     "texto": "Reconoce la intención comunicativa del texto."
+    },
+    {
+     "codigo": "LEC-N3.6",
+     "texto": "Reconoce la función de figuras literarias."
+    },
+    {
+     "codigo": "LEC-N3.7",
+     "texto": "Identifica el uso del lenguaje en contexto."
+    },
+    {
+     "codigo": "LEC-N3.8",
+     "texto": "Analiza y sintetiza la información contenida en un texto."
+    },
+    {
+     "codigo": "LEC-N3.9",
+     "texto": "Identifica la estructura sintáctica en textos discontinuos."
+    },
+    {
+     "codigo": "LEC-N3.10",
+     "texto": "Establece la validez de argumentos en un texto."
+    }
+   ],
+   "codigo": "LEC-N3",
+   "orden": 3,
+   "puntaje_desde": 51,
+   "puntaje_hasta": 65
+  },
+  {
+   "nivel": "4",
+   "introduccion": "El evaluado que se ubica en el nivel 4, además de lo descrito en los niveles 1, 2 y 3, reflexiona a partir de un texto sobre la visión de mundo del autor (costumbres, creencias, juicios, carácter ideológico-político y posturas éticas, entre otros). Asimismo, da cuenta de elementos paratextuales significativos presentes en el texto. Finalmente, valora y contrasta los elementos mencionados, también demuestra que:",
+   "descriptores": [
+    {
+     "codigo": "LEC-N4.1",
+     "texto": "Propone soluciones a problemas de interpretación que subyacen en un texto."
+    },
+    {
+     "codigo": "LEC-N4.2",
+     "texto": "Evalúa contenidos, estrategias discursivas y argumentativas presentes en un texto."
+    },
+    {
+     "codigo": "LEC-N4.3",
+     "texto": "Relaciona información de dos o más textos o fragmentos de texto para llegar a una conclusión."
+    },
+    {
+     "codigo": "LEC-N4.4",
+     "texto": "Aplica conceptos de análisis literario para caracterizar diferentes elementos en un texto."
+    },
+    {
+     "codigo": "LEC-N4.5",
+     "texto": "Reconoce los contextos como elementos importantes en la valoración de un texto."
+    },
+    {
+     "codigo": "LEC-N4.6",
+     "texto": "Selecciona elementos locales y construye argumentos que sustentan una tesis con base en textos relacionados."
+    },
+    {
+     "codigo": "LEC-N4.7",
+     "texto": "Asume una postura crítica frente a los planteamientos de un texto."
+    },
+    {
+     "codigo": "LEC-N4.8",
+     "texto": "Plantea hipótesis de lectura a partir de las ideas presentes en un texto."
+    }
+   ],
+   "codigo": "LEC-N4",
+   "orden": 4,
+   "puntaje_desde": 66,
+   "puntaje_hasta": 100
+  }
+ ]
+}

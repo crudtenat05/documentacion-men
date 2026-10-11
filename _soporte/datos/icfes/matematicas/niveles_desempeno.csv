@@ -1,0 +1,30 @@
+﻿nivel,codigo_nivel,puntaje_desde,puntaje_hasta,codigo_descriptor,descriptor
+1,MAT-N1,0,35,MAT-N1.1,"Lee información puntual (un dato, por ejemplo) relacionada con situaciones cotidianas y presentada en tablas o gráficas con escala explícita, cuadrícula o, por lo menos, líneas horizontales."
+2,MAT-N2,36,50,MAT-N2.1,Compara datos de dos variables presensentadas en una misma gráfica sin necesidad de hacer operaciones aritméticas.
+2,MAT-N2,36,50,MAT-N2.2,Identifica valores o puntos representativos en diferentes tipos de registro a partir del significado que tienen en la situación.
+2,MAT-N2,36,50,MAT-N2.3,Compara la probabilidad de eventos simples (casos favorables/ casos posibles) cuando los casos posibles son los mismos en ambos eventos y en contextos similares a los presentados en el aula.
+2,MAT-N2,36,50,MAT-N2.4,Toma decisiones sobre la veracidad o falsedad de una afirmación cuando esta se puede explicar verbalizando la lectura directa que se hace de la información.
+2,MAT-N2,36,50,MAT-N2.5,Cambia gráficas de barras a tablas de doble entrada.
+2,MAT-N2,36,50,MAT-N2.6,"Reconoce e interpreta, según el contexto, el significado de promedio simple, moda, mayor, menor, máximo y mínimo."
+3,MAT-N3,51,70,MAT-N3.1,"Selecciona la gráfica (que puede ser de doble entrada correspondiente a la información de una tabla, o a partir de verbalizaciones (características de crecimiento o decrecimiento deseadas), teniendo en cuenta para la selección la escala, el tipo de variable y el tipo de gráfica."
+3,MAT-N3,51,70,MAT-N3.2,Compara información gráfica que requiere algunas manipulaciones aritméticas.
+3,MAT-N3,51,70,MAT-N3.3,Señala información representada en formatos no convencionales (mapas o infografías).
+3,MAT-N3,51,70,MAT-N3.4,Reconoce errores ocurridos al realizar una trasformación entre diferentes tipos de registro.
+3,MAT-N3,51,70,MAT-N3.5,Reconoce desarrollos planos de una forma tridimensional y viceversa.
+3,MAT-N3,51,70,MAT-N3.6,"Compara la probabilidad de eventos simples en diversos contextos (casos favorables/casos posibles), incluso cuando los casos posibles de cada evento son diferentes."
+3,MAT-N3,51,70,MAT-N3.7,Selecciona información necesaria para resolver problemas que involucran operaciones aritméticas.
+3,MAT-N3,51,70,MAT-N3.8,"Selecciona información necesaria para resolver problemas que involucran características medibles de figuras geométricas elementales (triángulos, cuadriláteros y circunferencias)."
+3,MAT-N3,51,70,MAT-N3.9,Cambia la escala cuando la trasformación no es convencional.
+3,MAT-N3,51,70,MAT-N3.10,"Justifica afirmaciones utilizando planteamientos y operaciones aritméticas o haciendo uso directo de un concepto, es decir, a partir de un único argumento."
+3,MAT-N3,51,70,MAT-N3.11,Identifica información relevante cuando el tipo de registro contiene información de más de tres categorías.
+3,MAT-N3,51,70,MAT-N3.12,Hace manipulaciones algebraicas sencillas (aritmética de términos semejantes).
+4,MAT-N4,71,100,MAT-N4.1,Resuelve problemas que requieren interpretar información de eventos dependientes.
+4,MAT-N4,71,100,MAT-N4.2,Realiza transformaciones de subconjuntos de información que pueden requerir el uso de operaciones complejas (cálculos de porcentajes).
+4,MAT-N4,71,100,MAT-N4.3,Resuelve problemas que requieren construir una representación auxiliar (gráficas y fórmulas) como paso intermedio para su solución.
+4,MAT-N4,71,100,MAT-N4.4,"Modela usando lenguaje algebraico información dada en lenguaje natural, tablas o representaciones geométricas."
+4,MAT-N4,71,100,MAT-N4.5,Manipula expresiones algebraicas o aritméticas haciendo uso de las propiedades de las operaciones.
+4,MAT-N4,71,100,MAT-N4.6,Modela fenómenos variacionales no explícitos haciendo uso de lenguaje simbólico o gráficas.
+4,MAT-N4,71,100,MAT-N4.7,"Reconoce en diferentes formatos (árboles, listas o diagramas) el espacio muestral de un experimento aleatorio."
+4,MAT-N4,71,100,MAT-N4.8,Resuelve problemas de conteo que requieren el uso de permutaciones.
+4,MAT-N4,71,100,MAT-N4.9,Justifica si hay falta de información en una situación problema para tomar una decisión.
+4,MAT-N4,71,100,MAT-N4.10,Toma decisiones sobre la veracidad o falsedad de una afirmación cuando requiere el uso de varias propiedades o conceptualizaciones formales.

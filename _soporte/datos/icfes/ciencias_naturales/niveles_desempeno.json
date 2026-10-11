@@ -1,0 +1,120 @@
+{
+ "documento": {
+  "entidad": "ICFES",
+  "titulo": "Saber 11º · Niveles de Desempeño · Prueba Ciencias Naturales",
+  "anio": 2025,
+  "archivo": "fuentes/icfes/22-septiembre-nd-prueba-ciencias-naturales-saber-11.pdf",
+  "origen": "https://www.icfes.gov.co/wp-content/uploads/2025/09/22-septiembre-nd-prueba-ciencias-naturales-saber-11.pdf"
+ },
+ "prueba": "ciencias_naturales",
+ "niveles": [
+  {
+   "nivel": "1",
+   "introduccion": "El evaluado que se ubica en el nivel 1, demuestra que:",
+   "descriptores": [
+    {
+     "codigo": "NAT-N1.1",
+     "texto": "Reconoce información explícita, presentada de manera ordenada en tablas o gráficas, con un lenguaje cotidiano y que implica la lectura de una sola variable independiente."
+    }
+   ],
+   "codigo": "NAT-N1",
+   "orden": 1,
+   "puntaje_desde": 0,
+   "puntaje_hasta": 40
+  },
+  {
+   "nivel": "2",
+   "introduccion": "El evaluado que se ubica en el nivel 2, además de lo descrito en el nivel 1, reconoce información suministrada en tablas, gráficas y esquemas de una sola variable independiente, y la asocia con nociones de los conceptos básicos de las ciencias naturales (tiempo, posición, velocidad, imantación y filtración), también demuestra que:",
+   "descriptores": [
+    {
+     "codigo": "NAT-N2.1",
+     "texto": "Identifica patrones y características a partir de información presentada en textos, gráficas y tablas."
+    },
+    {
+     "codigo": "NAT-N2.2",
+     "texto": "Relaciona esquemas con nociones básicas del conocimiento científico."
+    },
+    {
+     "codigo": "NAT-N2.3",
+     "texto": "Establece predicciones a partir de datos presentados en tablas, gráficas y esquemas en donde se presentan patrones claramente crecientes o decrecientes."
+    },
+    {
+     "codigo": "NAT-N2.4",
+     "texto": "Ordena datos e información en gráficas y tablas."
+    }
+   ],
+   "codigo": "NAT-N2",
+   "orden": 2,
+   "puntaje_desde": 41,
+   "puntaje_hasta": 55
+  },
+  {
+   "nivel": "3",
+   "introduccion": "El evaluado que se ubica en el nivel 3, además de lo descrito en los niveles 1 y 2, interrelaciona conceptos, leyes y teorías científicas con información presentada en diversos contextos, en los que intervienen dos o más variables, para hacer inferencias sobre una situación problema o un fenómeno natural, también demuestra que:",
+   "descriptores": [
+    {
+     "codigo": "NAT-N3.1",
+     "texto": "Establece relaciones de causa-efecto usando conceptos, leyes y teorías científicas."
+    },
+    {
+     "codigo": "NAT-N3.2",
+     "texto": "Interpreta gráficas, tablas y modelos para hacer predicciones."
+    },
+    {
+     "codigo": "NAT-N3.3",
+     "texto": "Establece relaciones entre conceptos, leyes y teorías científicas con diseños experimentales y sus resultados."
+    },
+    {
+     "codigo": "NAT-N3.4",
+     "texto": "Diferencia entre evidencias y conclusiones."
+    },
+    {
+     "codigo": "NAT-N3.5",
+     "texto": "Plantea hipótesis basadas en evidencias."
+    },
+    {
+     "codigo": "NAT-N3.6",
+     "texto": "Relaciona variables para explicar algunos fenómenos naturales."
+    }
+   ],
+   "codigo": "NAT-N3",
+   "orden": 3,
+   "puntaje_desde": 56,
+   "puntaje_hasta": 70
+  },
+  {
+   "nivel": "4",
+   "introduccion": "El evaluado que se ubica en el nivel 4, además de lo descrito en los niveles 1, 2 y 3, usa conceptos, teorías o leyes en la solución de situaciones problema que involucran procedimientos, habilidades, conocimientos y un lenguaje propio de las ciencias naturales, también demuestra que:",
+   "descriptores": [
+    {
+     "codigo": "NAT-N4.1",
+     "texto": "Plantea preguntas de investigación desde las ciencias naturales a partir de un contexto determinado."
+    },
+    {
+     "codigo": "NAT-N4.2",
+     "texto": "Establece conclusiones derivadas de una investigación."
+    },
+    {
+     "codigo": "NAT-N4.3",
+     "texto": "Contrasta modelos de las ciencias naturales con fenómenos cotidianos."
+    },
+    {
+     "codigo": "NAT-N4.4",
+     "texto": "Resuelve situaciones problema haciendo uso de conceptos, leyes y teorías de las ciencias naturales."
+    },
+    {
+     "codigo": "NAT-N4.5",
+     "texto": "Comunica resultados de procesos de investigación científica."
+    },
+    {
+     "codigo": "NAT-N4.6",
+     "texto": "Analiza fenómenos naturales con base en los procedimientos propios de la investigación científica."
+    }
+   ],
+   "codigo": "NAT-N4",
+   "orden": 4,
+   "puntaje_desde": 71,
+   "puntaje_hasta": 100
+  }
+ ]
+}

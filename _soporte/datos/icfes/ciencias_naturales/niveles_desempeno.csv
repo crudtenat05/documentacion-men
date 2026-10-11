@@ -1,0 +1,18 @@
+﻿nivel,codigo_nivel,puntaje_desde,puntaje_hasta,codigo_descriptor,descriptor
+1,NAT-N1,0,40,NAT-N1.1,"Reconoce información explícita, presentada de manera ordenada en tablas o gráficas, con un lenguaje cotidiano y que implica la lectura de una sola variable independiente."
+2,NAT-N2,41,55,NAT-N2.1,"Identifica patrones y características a partir de información presentada en textos, gráficas y tablas."
+2,NAT-N2,41,55,NAT-N2.2,Relaciona esquemas con nociones básicas del conocimiento científico.
+2,NAT-N2,41,55,NAT-N2.3,"Establece predicciones a partir de datos presentados en tablas, gráficas y esquemas en donde se presentan patrones claramente crecientes o decrecientes."
+2,NAT-N2,41,55,NAT-N2.4,Ordena datos e información en gráficas y tablas.
+3,NAT-N3,56,70,NAT-N3.1,"Establece relaciones de causa-efecto usando conceptos, leyes y teorías científicas."
+3,NAT-N3,56,70,NAT-N3.2,"Interpreta gráficas, tablas y modelos para hacer predicciones."
+3,NAT-N3,56,70,NAT-N3.3,"Establece relaciones entre conceptos, leyes y teorías científicas con diseños experimentales y sus resultados."
+3,NAT-N3,56,70,NAT-N3.4,Diferencia entre evidencias y conclusiones.
+3,NAT-N3,56,70,NAT-N3.5,Plantea hipótesis basadas en evidencias.
+3,NAT-N3,56,70,NAT-N3.6,Relaciona variables para explicar algunos fenómenos naturales.
+4,NAT-N4,71,100,NAT-N4.1,Plantea preguntas de investigación desde las ciencias naturales a partir de un contexto determinado.
+4,NAT-N4,71,100,NAT-N4.2,Establece conclusiones derivadas de una investigación.
+4,NAT-N4,71,100,NAT-N4.3,Contrasta modelos de las ciencias naturales con fenómenos cotidianos.
+4,NAT-N4,71,100,NAT-N4.4,"Resuelve situaciones problema haciendo uso de conceptos, leyes y teorías de las ciencias naturales."
+4,NAT-N4,71,100,NAT-N4.5,Comunica resultados de procesos de investigación científica.
+4,NAT-N4,71,100,NAT-N4.6,Analiza fenómenos naturales con base en los procedimientos propios de la investigación científica.

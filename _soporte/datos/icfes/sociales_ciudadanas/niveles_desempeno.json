@@ -1,0 +1,144 @@
+{
+ "documento": {
+  "entidad": "ICFES",
+  "titulo": "Saber 11º · Niveles de Desempeño · Prueba Sociales y Ciudadanas",
+  "anio": 2025,
+  "archivo": "fuentes/icfes/22-septiembre-nd-prueba-sociales-y-ciudadanas-saber-11.pdf",
+  "origen": "https://www.icfes.gov.co/wp-content/uploads/2025/09/22-septiembre-nd-prueba-sociales-y-ciudadanas-saber-11.pdf"
+ },
+ "prueba": "sociales_ciudadanas",
+ "niveles": [
+  {
+   "nivel": "1",
+   "introduccion": "El evaluado que se ubica en el nivel 1, demuestra que:",
+   "descriptores": [
+    {
+     "codigo": "SOC-N1.1",
+     "texto": "Reconoce algunos derechos ciudadanos en situaciones sencillas."
+    },
+    {
+     "codigo": "SOC-N1.2",
+     "texto": "Reconoce factores que generan un conflicto."
+    },
+    {
+     "codigo": "SOC-N1.3",
+     "texto": "Identifica creencias que explican algunos comportamientos."
+    }
+   ],
+   "codigo": "SOC-N1",
+   "orden": 1,
+   "puntaje_desde": 0,
+   "puntaje_hasta": 40
+  },
+  {
+   "nivel": "2",
+   "introduccion": "El evaluado que se ubica en el nivel 2, además de lo descrito en el nivel 1, reconoce deberes del Estado colombiano y situaciones de protección o vulneración de derechos en el marco del Estado social de derecho, también demuestra que:",
+   "descriptores": [
+    {
+     "codigo": "SOC-N2.1",
+     "texto": "Identifica relaciones entre conductas de las personas y sus cosmovisiones."
+    },
+    {
+     "codigo": "SOC-N2.2",
+     "texto": "Reconoce las dimensiones presentes en una situación, problema, decisión tomada o propuesta de solución. Además, contextualiza fuentes y procesos sociales."
+    },
+    {
+     "codigo": "SOC-N2.3",
+     "texto": "Identifica derechos ciudadanos y deberes del Estado establecidos en la Constitución Política de Colombia."
+    },
+    {
+     "codigo": "SOC-N2.4",
+     "texto": "Relaciona la conducta de una persona con su cosmovisión o forma de entender el mundo."
+    },
+    {
+     "codigo": "SOC-N2.5",
+     "texto": "Reconoce los efectos de una solución y las dimensiones que privilegia."
+    },
+    {
+     "codigo": "SOC-N2.6",
+     "texto": "Identifica contextos o procesos en los que se inscribe una fuente o evento."
+    }
+   ],
+   "codigo": "SOC-N2",
+   "orden": 2,
+   "puntaje_desde": 41,
+   "puntaje_hasta": 55
+  },
+  {
+   "nivel": "3",
+   "introduccion": "El evaluado que se ubica en el nivel 3, además de lo descrito en los niveles 1 y 2, identifica prejuicios o intenciones contenidos en una afirmación y reconoce las dimensiones e intereses involucrados en un problema o alternativa de solución. Asimismo, identifica algunos conceptos básicos de las ciencias sociales y modelos conceptuales, también demuestra que:",
+   "descriptores": [
+    {
+     "codigo": "SOC-N3.1",
+     "texto": "Valora y contextualiza la información presentada en una fuente."
+    },
+    {
+     "codigo": "SOC-N3.2",
+     "texto": "Reconoce intenciones y prejuicios, así como argumentos similares o diferentes dados en un contexto o una situación específica."
+    },
+    {
+     "codigo": "SOC-N3.3",
+     "texto": "Identifica dimensiones (económicas, políticas, culturales, ambientales, etc.) involucradas en situaciones, problemáticas o propuestas de solución."
+    },
+    {
+     "codigo": "SOC-N3.4",
+     "texto": "Identifica y compara opiniones e intereses de diferentes actores involucrados en una situación problemática y establece relaciones entre esas posturas y posibles soluciones."
+    },
+    {
+     "codigo": "SOC-N3.5",
+     "texto": "Reconoce algunos conceptos básicos de las ciencias sociales."
+    },
+    {
+     "codigo": "SOC-N3.6",
+     "texto": "Identifica supuestos y usos de algunos modelos conceptuales."
+    },
+    {
+     "codigo": "SOC-N3.7",
+     "texto": "Relaciona contextos históricos y/o geográficos con fuentes, situaciones y prácticas sociales."
+    },
+    {
+     "codigo": "SOC-N3.8",
+     "texto": "Valora la información contenida en una fuente y reconoce sus alcances."
+    }
+   ],
+   "codigo": "SOC-N3",
+   "orden": 3,
+   "puntaje_desde": 56,
+   "puntaje_hasta": 70
+  },
+  {
+   "nivel": "4",
+   "introduccion": "El evaluado que se ubica en el nivel 4, además de lo descrito en los niveles 1, 2 y 3, demuestra que:",
+   "descriptores": [
+    {
+     "codigo": "SOC-N4.1",
+     "texto": "Conoce los procedimientos de reforma a la Constitución Política de Colombia, los mecanismos de participación ciudadana y las funciones de los organismos de control."
+    },
+    {
+     "codigo": "SOC-N4.2",
+     "texto": "Compara enunciados o argumentos, así como intereses y posiciones de actores en contextos en los que se discuten situaciones problemáticas o sus alternativas de solución."
+    },
+    {
+     "codigo": "SOC-N4.3",
+     "texto": "Relaciona propuestas de solución a un problema con su contexto de implementación o con sus posibles impactos en ciertas dimensiones (económicas, políticas, culturales, ambientales, etc.)."
+    },
+    {
+     "codigo": "SOC-N4.4",
+     "texto": "Entiende problemáticas, eventos o procesos sociales a partir del uso de conceptos básicos de las ciencias sociales o a partir de contextos históricos y/o geográficos."
+    },
+    {
+     "codigo": "SOC-N4.5",
+     "texto": "Analiza fuentes (primarias y secundarias) para valorar inferencias o identificar intenciones, características de los actores involucrados y contextos en los que se ubican dichas fuentes."
+    },
+    {
+     "codigo": "SOC-N4.6",
+     "texto": "Establece relaciones entre modelos conceptuales y fuentes que los abordan o decisiones sociales que los aplican."
+    }
+   ],
+   "codigo": "SOC-N4",
+   "orden": 4,
+   "puntaje_desde": 71,
+   "puntaje_hasta": 100
+  }
+ ]
+}

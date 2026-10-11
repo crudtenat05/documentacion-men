@@ -1,0 +1,168 @@
+{
+ "documento": {
+  "entidad": "ICFES",
+  "titulo": "Saber 11º · Niveles de Desempeño · Prueba Matemáticas",
+  "anio": 2025,
+  "archivo": "fuentes/icfes/22-septiembre-nd-prueba-matematicas-saber-11.pdf",
+  "origen": "https://www.icfes.gov.co/wp-content/uploads/2025/09/22-septiembre-nd-prueba-matematicas-saber-11.pdf"
+ },
+ "prueba": "matematicas",
+ "niveles": [
+  {
+   "nivel": "1",
+   "introduccion": "El evaluado que se ubica en el nivel 1, demuestra que:",
+   "descriptores": [
+    {
+     "codigo": "MAT-N1.1",
+     "texto": "Lee información puntual (un dato, por ejemplo) relacionada con situaciones cotidianas y presentada en tablas o gráficas con escala explícita, cuadrícula o, por lo menos, líneas horizontales."
+    }
+   ],
+   "codigo": "MAT-N1",
+   "orden": 1,
+   "puntaje_desde": 0,
+   "puntaje_hasta": 35
+  },
+  {
+   "nivel": "2",
+   "introduccion": "El evaluado que se ubica en el nivel 2, además de lo descrito en el nivel 1, demuestra que:",
+   "descriptores": [
+    {
+     "codigo": "MAT-N2.1",
+     "texto": "Compara datos de dos variables presensentadas en una misma gráfica sin necesidad de hacer operaciones aritméticas."
+    },
+    {
+     "codigo": "MAT-N2.2",
+     "texto": "Identifica valores o puntos representativos en diferentes tipos de registro a partir del significado que tienen en la situación."
+    },
+    {
+     "codigo": "MAT-N2.3",
+     "texto": "Compara la probabilidad de eventos simples (casos favorables/ casos posibles) cuando los casos posibles son los mismos en ambos eventos y en contextos similares a los presentados en el aula."
+    },
+    {
+     "codigo": "MAT-N2.4",
+     "texto": "Toma decisiones sobre la veracidad o falsedad de una afirmación cuando esta se puede explicar verbalizando la lectura directa que se hace de la información."
+    },
+    {
+     "codigo": "MAT-N2.5",
+     "texto": "Cambia gráficas de barras a tablas de doble entrada."
+    },
+    {
+     "codigo": "MAT-N2.6",
+     "texto": "Reconoce e interpreta, según el contexto, el significado de promedio simple, moda, mayor, menor, máximo y mínimo."
+    }
+   ],
+   "codigo": "MAT-N2",
+   "orden": 2,
+   "puntaje_desde": 36,
+   "puntaje_hasta": 50
+  },
+  {
+   "nivel": "3",
+   "introduccion": "El evaluado que se ubica en el nivel 3, además de lo descrito en los niveles 1 y 2, demuestra que:",
+   "descriptores": [
+    {
+     "codigo": "MAT-N3.1",
+     "texto": "Selecciona la gráfica (que puede ser de doble entrada correspondiente a la información de una tabla, o a partir de verbalizaciones (características de crecimiento o decrecimiento deseadas), teniendo en cuenta para la selección la escala, el tipo de variable y el tipo de gráfica."
+    },
+    {
+     "codigo": "MAT-N3.2",
+     "texto": "Compara información gráfica que requiere algunas manipulaciones aritméticas."
+    },
+    {
+     "codigo": "MAT-N3.3",
+     "texto": "Señala información representada en formatos no convencionales (mapas o infografías)."
+    },
+    {
+     "codigo": "MAT-N3.4",
+     "texto": "Reconoce errores ocurridos al realizar una trasformación entre diferentes tipos de registro."
+    },
+    {
+     "codigo": "MAT-N3.5",
+     "texto": "Reconoce desarrollos planos de una forma tridimensional y viceversa."
+    },
+    {
+     "codigo": "MAT-N3.6",
+     "texto": "Compara la probabilidad de eventos simples en diversos contextos (casos favorables/casos posibles), incluso cuando los casos posibles de cada evento son diferentes."
+    },
+    {
+     "codigo": "MAT-N3.7",
+     "texto": "Selecciona información necesaria para resolver problemas que involucran operaciones aritméticas."
+    },
+    {
+     "codigo": "MAT-N3.8",
+     "texto": "Selecciona información necesaria para resolver problemas que involucran características medibles de figuras geométricas elementales (triángulos, cuadriláteros y circunferencias)."
+    },
+    {
+     "codigo": "MAT-N3.9",
+     "texto": "Cambia la escala cuando la trasformación no es convencional."
+    },
+    {
+     "codigo": "MAT-N3.10",
+     "texto": "Justifica afirmaciones utilizando planteamientos y operaciones aritméticas o haciendo uso directo de un concepto, es decir, a partir de un único argumento."
+    },
+    {
+     "codigo": "MAT-N3.11",
+     "texto": "Identifica información relevante cuando el tipo de registro contiene información de más de tres categorías."
+    },
+    {
+     "codigo": "MAT-N3.12",
+     "texto": "Hace manipulaciones algebraicas sencillas (aritmética de términos semejantes)."
+    }
+   ],
+   "codigo": "MAT-N3",
+   "orden": 3,
+   "puntaje_desde": 51,
+   "puntaje_hasta": 70
+  },
+  {
+   "nivel": "4",
+   "introduccion": "El evaluado que se ubica en el nivel 4, además de lo descrito en los niveles 1, 2 y 3, demuestra que:",
+   "descriptores": [
+    {
+     "codigo": "MAT-N4.1",
+     "texto": "Resuelve problemas que requieren interpretar información de eventos dependientes."
+    },
+    {
+     "codigo": "MAT-N4.2",
+     "texto": "Realiza transformaciones de subconjuntos de información que pueden requerir el uso de operaciones complejas (cálculos de porcentajes)."
+    },
+    {
+     "codigo": "MAT-N4.3",
+     "texto": "Resuelve problemas que requieren construir una representación auxiliar (gráficas y fórmulas) como paso intermedio para su solución."
+    },
+    {
+     "codigo": "MAT-N4.4",
+     "texto": "Modela usando lenguaje algebraico información dada en lenguaje natural, tablas o representaciones geométricas."
+    },
+    {
+     "codigo": "MAT-N4.5",
+     "texto": "Manipula expresiones algebraicas o aritméticas haciendo uso de las propiedades de las operaciones."
+    },
+    {
+     "codigo": "MAT-N4.6",
+     "texto": "Modela fenómenos variacionales no explícitos haciendo uso de lenguaje simbólico o gráficas."
+    },
+    {
+     "codigo": "MAT-N4.7",
+     "texto": "Reconoce en diferentes formatos (árboles, listas o diagramas) el espacio muestral de un experimento aleatorio."
+    },
+    {
+     "codigo": "MAT-N4.8",
+     "texto": "Resuelve problemas de conteo que requieren el uso de permutaciones."
+    },
+    {
+     "codigo": "MAT-N4.9",
+     "texto": "Justifica si hay falta de información en una situación problema para tomar una decisión."
+    },
+    {
+     "codigo": "MAT-N4.10",
+     "texto": "Toma decisiones sobre la veracidad o falsedad de una afirmación cuando requiere el uso de varias propiedades o conceptualizaciones formales."
+    }
+   ],
+   "codigo": "MAT-N4",
+   "orden": 4,
+   "puntaje_desde": 71,
+   "puntaje_hasta": 100
+  }
+ ]
+}

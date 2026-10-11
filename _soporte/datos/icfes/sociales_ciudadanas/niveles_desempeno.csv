@@ -1,0 +1,24 @@
+﻿nivel,codigo_nivel,puntaje_desde,puntaje_hasta,codigo_descriptor,descriptor
+1,SOC-N1,0,40,SOC-N1.1,Reconoce algunos derechos ciudadanos en situaciones sencillas.
+1,SOC-N1,0,40,SOC-N1.2,Reconoce factores que generan un conflicto.
+1,SOC-N1,0,40,SOC-N1.3,Identifica creencias que explican algunos comportamientos.
+2,SOC-N2,41,55,SOC-N2.1,Identifica relaciones entre conductas de las personas y sus cosmovisiones.
+2,SOC-N2,41,55,SOC-N2.2,"Reconoce las dimensiones presentes en una situación, problema, decisión tomada o propuesta de solución. Además, contextualiza fuentes y procesos sociales."
+2,SOC-N2,41,55,SOC-N2.3,Identifica derechos ciudadanos y deberes del Estado establecidos en la Constitución Política de Colombia.
+2,SOC-N2,41,55,SOC-N2.4,Relaciona la conducta de una persona con su cosmovisión o forma de entender el mundo.
+2,SOC-N2,41,55,SOC-N2.5,Reconoce los efectos de una solución y las dimensiones que privilegia.
+2,SOC-N2,41,55,SOC-N2.6,Identifica contextos o procesos en los que se inscribe una fuente o evento.
+3,SOC-N3,56,70,SOC-N3.1,Valora y contextualiza la información presentada en una fuente.
+3,SOC-N3,56,70,SOC-N3.2,"Reconoce intenciones y prejuicios, así como argumentos similares o diferentes dados en un contexto o una situación específica."
+3,SOC-N3,56,70,SOC-N3.3,"Identifica dimensiones (económicas, políticas, culturales, ambientales, etc.) involucradas en situaciones, problemáticas o propuestas de solución."
+3,SOC-N3,56,70,SOC-N3.4,Identifica y compara opiniones e intereses de diferentes actores involucrados en una situación problemática y establece relaciones entre esas posturas y posibles soluciones.
+3,SOC-N3,56,70,SOC-N3.5,Reconoce algunos conceptos básicos de las ciencias sociales.
+3,SOC-N3,56,70,SOC-N3.6,Identifica supuestos y usos de algunos modelos conceptuales.
+3,SOC-N3,56,70,SOC-N3.7,"Relaciona contextos históricos y/o geográficos con fuentes, situaciones y prácticas sociales."
+3,SOC-N3,56,70,SOC-N3.8,Valora la información contenida en una fuente y reconoce sus alcances.
+4,SOC-N4,71,100,SOC-N4.1,"Conoce los procedimientos de reforma a la Constitución Política de Colombia, los mecanismos de participación ciudadana y las funciones de los organismos de control."
+4,SOC-N4,71,100,SOC-N4.2,"Compara enunciados o argumentos, así como intereses y posiciones de actores en contextos en los que se discuten situaciones problemáticas o sus alternativas de solución."
+4,SOC-N4,71,100,SOC-N4.3,"Relaciona propuestas de solución a un problema con su contexto de implementación o con sus posibles impactos en ciertas dimensiones (económicas, políticas, culturales, ambientales, etc.)."
+4,SOC-N4,71,100,SOC-N4.4,"Entiende problemáticas, eventos o procesos sociales a partir del uso de conceptos básicos de las ciencias sociales o a partir de contextos históricos y/o geográficos."
+4,SOC-N4,71,100,SOC-N4.5,"Analiza fuentes (primarias y secundarias) para valorar inferencias o identificar intenciones, características de los actores involucrados y contextos en los que se ubican dichas fuentes."
+4,SOC-N4,71,100,SOC-N4.6,Establece relaciones entre modelos conceptuales y fuentes que los abordan o decisiones sociales que los aplican.

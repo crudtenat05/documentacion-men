@@ -1,0 +1,12 @@
+﻿nivel,codigo_nivel,puntaje_desde,puntaje_hasta,codigo_descriptor,descriptor
+Pre A1,ING-NPreA1,0,36,ING-NPreA1.1,"Comprende oraciones, preguntas, instrucciones o conversaciones cuando se utiliza vocabulario simple."
+Pre A1,ING-NPreA1,0,36,ING-NPreA1.2,Identifica palabras simples en frases sencillas que incluyen personas o lugares que le son familiares en su cotidianidad.
+A1,ING-NA1,37,57,ING-NA1.1,"Identifica el uso de lenguaje básico para proporcionar información personal, saludos, despedidas, indicaciones de lugares y acciones del presente."
+A1,ING-NA1,37,57,ING-NA1.2,Entiende información e indicaciones que encuentra en avisos de acuerdo con el contexto donde se aplica.
+A2,ING-NA2,58,70,ING-NA2.1,"Comprende textos que abordan temáticas relacionadas con sus contextos inmediatos, tales como ocupaciones, personas, objetos, lugares o situaciones familiares."
+A2,ING-NA2,58,70,ING-NA2.2,"Identifica vocabulario simple en textos cortos que narran acciones o eventos presentes, pasados o futuros."
+A2,ING-NA2,58,70,ING-NA2.3,Interpreta enunciados que expresan puntos de vista particulares en una situación comunicativa simple.
+A2,ING-NA2,58,70,ING-NA2.4,Identifica y comprende información literal o parafraseada en textos cortos.
+B1,ING-NB1,71,100,ING-NB1.1,"Comprende textos sobre temas generales y específicos en ámbitos como el laboral, académico, cultural y personal."
+B1,ING-NB1,71,100,ING-NB1.2,Infiere el significado de palabras desconocidas a partir del contexto dado.
+B1,ING-NB1,71,100,ING-NB1.3,"Identifica puntos de vista como sentimientos, deseos e intenciones en escritos determinados."

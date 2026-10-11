@@ -1,0 +1,28 @@
+﻿nivel,codigo_nivel,puntaje_desde,puntaje_hasta,codigo_descriptor,descriptor
+1,LEC-N1,0,35,LEC-N1.1,Identifica elementos literales en textos continuos y discontinuos sin establecer relaciones de significado.
+2,LEC-N2,36,50,LEC-N2.1,Identifica información local del texto.
+2,LEC-N2,36,50,LEC-N2.2,Identifica la estructura de textos continuos y discontinuos.
+2,LEC-N2,36,50,LEC-N2.3,Identifica relaciones básicas entre componentes del texto.
+2,LEC-N2,36,50,LEC-N2.4,Identifica fenómenos semánticos básicos: sinónimos y antónimos.
+2,LEC-N2,36,50,LEC-N2.5,Reconoce en un texto la diferencia entre proposición y párrafo.
+2,LEC-N2,36,50,LEC-N2.6,Reconoce el sentido local y global del texto.
+2,LEC-N2,36,50,LEC-N2.7,Identifica intenciones comunicativas explícitas.
+2,LEC-N2,36,50,LEC-N2.8,"Identifica relaciones básicas: contraste, similitud y complementación entre textos presentes."
+3,LEC-N3,51,65,LEC-N3.1,Jerarquiza la información presente en un texto.
+3,LEC-N3,51,65,LEC-N3.2,Infiere información implícita en textos continuos y discontinuos.
+3,LEC-N3,51,65,LEC-N3.3,"Establece relaciones intertextuales: definición, causa-efecto, oposición y antecedente-consecuente, entre textos presentes."
+3,LEC-N3,51,65,LEC-N3.4,Relaciona marcadores textuales en la interpretación de textos.
+3,LEC-N3,51,65,LEC-N3.5,Reconoce la intención comunicativa del texto.
+3,LEC-N3,51,65,LEC-N3.6,Reconoce la función de figuras literarias.
+3,LEC-N3,51,65,LEC-N3.7,Identifica el uso del lenguaje en contexto.
+3,LEC-N3,51,65,LEC-N3.8,Analiza y sintetiza la información contenida en un texto.
+3,LEC-N3,51,65,LEC-N3.9,Identifica la estructura sintáctica en textos discontinuos.
+3,LEC-N3,51,65,LEC-N3.10,Establece la validez de argumentos en un texto.
+4,LEC-N4,66,100,LEC-N4.1,Propone soluciones a problemas de interpretación que subyacen en un texto.
+4,LEC-N4,66,100,LEC-N4.2,"Evalúa contenidos, estrategias discursivas y argumentativas presentes en un texto."
+4,LEC-N4,66,100,LEC-N4.3,Relaciona información de dos o más textos o fragmentos de texto para llegar a una conclusión.
+4,LEC-N4,66,100,LEC-N4.4,Aplica conceptos de análisis literario para caracterizar diferentes elementos en un texto.
+4,LEC-N4,66,100,LEC-N4.5,Reconoce los contextos como elementos importantes en la valoración de un texto.
+4,LEC-N4,66,100,LEC-N4.6,Selecciona elementos locales y construye argumentos que sustentan una tesis con base en textos relacionados.
+4,LEC-N4,66,100,LEC-N4.7,Asume una postura crítica frente a los planteamientos de un texto.
+4,LEC-N4,66,100,LEC-N4.8,Plantea hipótesis de lectura a partir de las ideas presentes en un texto.
