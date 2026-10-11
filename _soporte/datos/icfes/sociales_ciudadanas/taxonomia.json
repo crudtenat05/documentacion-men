@@ -1,0 +1,221 @@
+{
+ "documento": {
+  "codigo": "ICFES-GUIA-S11-2026-2",
+  "entidad": "ICFES",
+  "titulo": "Guía de orientación del Examen Saber 11º 2026-2 (Calendario A)",
+  "version": "2026-2",
+  "anio": 2026,
+  "archivo": "fuentes/icfes/guia-orientacion-saber11-2026-2.pdf"
+ },
+ "prueba": "sociales_ciudadanas",
+ "descripcion": "De acuerdo con el Marco de referencia, esta prueba evalúa los conocimientos y habilidades que les permiten a los evaluados comprender el mundo social a partir de las ciencias sociales y establecer esa comprensión como referente para su ejercicio ciudadano. Asimismo, evalúa la habilidad para analizar distintos eventos, argumentos, posturas, conceptos, modelos, dimensiones y contextos, al igual que la capacidad para reflexionar y emitir juicios críticos de estos. En concordancia, la prueba no les pide a los evaluados que respondan desde su opinión, ni desde lo que se considera “políticamente correcto” o desde el “deber ser”, entendido este último como una forma correcta de actuar o pensar, que es aceptada o valorada positivamente por la sociedad.",
+ "pagina": 46,
+ "competencias": [
+  {
+   "codigo": "SOC-C1",
+   "nombre": "Pensamiento social",
+   "descripcion": "Esta competencia evalúa la capacidad de los evaluados para usar y apropiarse de categorías básicas de las ciencias sociales; así como el conocimiento que tienen de principios constitucionales, del ordenamiento político colombiano y de los mecanismos constitucionales de participación.",
+   "porcentaje_preguntas": 30,
+   "orden": 1,
+   "pagina": 47,
+   "habilidades": [
+    {
+     "codigo": "SOC-H1.1",
+     "numero": 1,
+     "pagina": 47,
+     "nombre": "Capacidad para identificar y usar conceptos básicos de las ciencias sociales",
+     "descripcion": "Para evaluar esta habilidad se plantean preguntas que se deben analizar a través de conceptos básicos de las ciencias sociales. Se evalúan los conocimientos referidos a la Constitución, en especial, sus fundamentos, los derechos y deberes de los ciudadanos y la organización del Estado. Así mismo, se evalúan los conocimientos en torno a los mecanismos de participación que los ciudadanos tienen a su disposición para velar por el cumplimiento de sus derechos y principios, como la defensa de la diversidad étnica y cultural. También se evalúan conceptos básicos de las ciencias sociales, que no están ligados al conocimiento de la Constitución."
+    },
+    {
+     "codigo": "SOC-H1.2",
+     "numero": 2,
+     "pagina": 47,
+     "nombre": "Capacidad para identificar dimensiones temporales y espaciales de eventos y problemáticas sociales",
+     "descripcion": "Esta habilidad evalúa la comprensión de dimensiones temporales y espaciales de eventos y prácticas sociales; así como la capacidad para analizar las dimensiones históricas de eventos o problemáticas, y para relacionarlos con contextos geográficos y sus características, es decir, para conectar eventos e identificar razones que justifiquen esas conexiones."
+    }
+   ],
+   "afirmaciones": [
+    {
+     "codigo": "SOC-A1",
+     "numero": 1,
+     "texto": "Comprende modelos conceptuales, sus características y contextos de aplicación.",
+     "pagina": 48,
+     "evidencias": [
+      {
+       "codigo": "SOC-E1.1",
+       "numero": "1.1",
+       "texto": "Identifica y usa conceptos sociales básicos (económicos, políticos, culturales y geográficos)."
+      },
+      {
+       "codigo": "SOC-E1.2",
+       "numero": "1.2",
+       "texto": "Conoce el modelo de Estado Social de Derecho y su aplicación en Colombia."
+      },
+      {
+       "codigo": "SOC-E1.3",
+       "numero": "1.3",
+       "texto": "Conoce la organización del Estado: Conoce las funciones y alcances de las ramas del poder y de los organismos de control."
+      },
+      {
+       "codigo": "SOC-E1.4",
+       "numero": "1.4",
+       "texto": "Conoce los mecanismos que los ciudadanos tienen a su disposición para participar activamente en la democracia y para garantizar el respeto de sus derechos."
+      }
+     ]
+    },
+    {
+     "codigo": "SOC-A2",
+     "numero": 2,
+     "texto": "Comprende dimensiones espaciales y temporales de eventos, problemáticas y prácticas sociales.",
+     "pagina": 48,
+     "evidencias": [
+      {
+       "codigo": "SOC-E2.1",
+       "numero": "2.1",
+       "texto": "Localiza en el tiempo y en el espacio eventos históricos y prácticas sociales."
+      },
+      {
+       "codigo": "SOC-E2.2",
+       "numero": "2.2",
+       "texto": "Relaciona dimensiones históricas y geográficas de eventos y problemáticas sociales."
+      },
+      {
+       "codigo": "SOC-E2.3",
+       "numero": "2.3",
+       "texto": "Relaciona problemáticas o prácticas sociales con características del espacio geográfico."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "codigo": "SOC-C2",
+   "nombre": "Interpretación y análisis de perspectivas",
+   "descripcion": "Esta competencia evalúa la habilidad de los evaluados para analizar críticamente la información que circula en la sociedad acerca de asuntos políticos, económicos y culturales, con la intención de valorar argumentos y explicaciones sobre problemáticas sociales e identificar diversos intereses, opiniones y perspectivas de personas y grupos sociales que interactúan en un momento dado. Esta competencia se fundamenta en procesos cognitivos de identificación, comprensión; análisis y evaluación de sentido, pertinencia y solidez de enunciados o planteamientos (capacidad de emitir y valorar juicios).",
+   "porcentaje_preguntas": 40,
+   "orden": 2,
+   "pagina": 49,
+   "habilidades": [
+    {
+     "codigo": "SOC-H2.1",
+     "numero": 1,
+     "pagina": 49,
+     "nombre": "Reconocimiento de diversas opiniones, posturas e intereses",
+     "descripcion": "En esta habilidad se evalúa la capacidad de los evaluados para analizar una problemática según las perspectivas de diferentes actores sociales o colectivos involucrados. Las preguntas correspondientes a esta habilidad requieren que los evaluados, a partir de un conflicto, comprendan su origen, entiendan qué buscan los diferentes actores, identifiquen las coincidencias y diferencias entre sus intereses y valoren la reacción (por ejemplo, de aceptación o rechazo) de las partes ante una propuesta de solución."
+    },
+    {
+     "codigo": "SOC-H2.2",
+     "numero": 2,
+     "pagina": 49,
+     "nombre": "Análisis crítico de fuentes y argumentos",
+     "descripcion": "En esta habilidad se evalúa la capacidad de los evaluados para valorar fuentes primarias y secundarias, corroborar y contextualizar la información suministrada y la pertinencia y solidez de los enunciados o argumentos expuestos. Se espera que los evaluados estén en capacidad de identificar prejuicios presentes en discursos; comprender las intenciones implícitas en un determinado acto comunicativo; establecer relaciones entre diferentes argumentos; evaluar la validez de generalizaciones y la confiabilidad de un enunciado, así como de las fuentes en las que este se sustenta o pretende sustentarse. También se valora la capacidad para anticipar el efecto de un determinado discurso en individuos o grupos de personas."
+    }
+   ],
+   "afirmaciones": [
+    {
+     "codigo": "SOC-A3",
+     "numero": 3,
+     "texto": "Contextualiza y evalúa usos de fuentes y argumentos.",
+     "pagina": 50,
+     "evidencias": [
+      {
+       "codigo": "SOC-E3.1",
+       "numero": "3.1",
+       "texto": "Inscribe una fuente primaria dada en un contexto económico, político o cultural."
+      },
+      {
+       "codigo": "SOC-E3.2",
+       "numero": "3.2",
+       "texto": "Evalúa posibilidades y limitaciones del uso de una fuente para apoyar argumentos o explicaciones."
+      },
+      {
+       "codigo": "SOC-E3.3",
+       "numero": "3.3",
+       "texto": "Devela prejuicios e intenciones en enunciados o argumentos."
+      }
+     ]
+    },
+    {
+     "codigo": "SOC-A4",
+     "numero": 4,
+     "texto": "Comprende perspectivas de distintos actores y grupos sociales.",
+     "pagina": 50,
+     "evidencias": [
+      {
+       "codigo": "SOC-E4.1",
+       "numero": "4.1",
+       "texto": "Reconoce y compara perspectivas de actores y grupos sociales."
+      },
+      {
+       "codigo": "SOC-E4.2",
+       "numero": "4.2",
+       "texto": "Reconoce que las cosmovisiones, ideologías y roles sociales influyen en diferentes argumentos, posiciones y conductas."
+      },
+      {
+       "codigo": "SOC-E4.3",
+       "numero": "4.3",
+       "texto": "Establece relaciones entre las perspectivas de los individuos en una situación conflictiva y las propuestas de solución."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "codigo": "SOC-C3",
+   "nombre": "Pensamiento reflexivo y sistémico",
+   "descripcion": "Esta competencia evalúa la capacidad de los evaluados para identificar las diferentes dimensiones presentes en una problemática social y las relaciones que se dan entre ellas, así como la capacidad para comprender y evaluar el uso de modelos conceptuales en la toma de decisiones en contextos sociales.",
+   "porcentaje_preguntas": 30,
+   "orden": 3,
+   "pagina": 51,
+   "habilidades": [
+    {
+     "codigo": "SOC-H3.1",
+     "numero": 1,
+     "pagina": 51,
+     "nombre": "Identificar modelos conceptuales que orientan decisiones sociales",
+     "descripcion": "Esta habilidad hace referencia al conocimiento de modelos conceptuales y de sus posibles usos en determinados contextos. Evalúa la capacidad para identificar las características de un modelo y de los principios que lo sustentan, así como y posibilidad de valorar decisiones, como coherentes o incoherentes, acerca de y en relación con los objetivos o postulados del modelo."
+    },
+    {
+     "codigo": "SOC-H3.2",
+     "numero": 2,
+     "pagina": 51,
+     "nombre": "Establecer relaciones entre dimensiones presentes en una situación problemática y sus posibles alternativas de solución",
+     "descripcion": "Esta habilidad evalúa la capacidad de los evaluados para identificar distintas dimensiones de la vida social y analizar los posibles efectos que una intervención tiene en tales dimensiones. Esto implica el reconocimiento de las relaciones entre los ámbitos (social, económico, ambiental y político, entre otros) que están presentes en un problema o decisión. Cabe indicar que, para entender una situación problemática, es necesario identificar su contexto y reconocer que en cada caso particular pueden presentarse diferentes valores o ideas que se privilegian en un momento dado. Se espera, en consecuencia, que los evaluados comprendan que cada situación involucra diferentes dimensiones y que, en ocasiones, estas pueden contraponerse entre sí. Por ende, se debe comprender que las decisiones que se toman pueden favorecer unas dimensiones e ir en detrimento de otras."
+    }
+   ],
+   "afirmaciones": [
+    {
+     "codigo": "SOC-A5",
+     "numero": 5,
+     "texto": "Evalúa usos sociales de las ciencias sociales.",
+     "pagina": 52,
+     "evidencias": [
+      {
+       "codigo": "SOC-E5.1",
+       "numero": "5.1",
+       "texto": "Analiza modelos conceptuales y sus usos en decisiones sociales."
+      }
+     ]
+    },
+    {
+     "codigo": "SOC-A6",
+     "numero": 6,
+     "texto": "Comprende que los problemas y sus soluciones involucran distintas dimensiones y reconoce relaciones entre estas.",
+     "pagina": 52,
+     "evidencias": [
+      {
+       "codigo": "SOC-E6.1",
+       "numero": "6.1",
+       "texto": "Establece relaciones que hay entre dimensiones presentes en una situación problemática."
+      },
+      {
+       "codigo": "SOC-E6.2",
+       "numero": "6.2",
+       "texto": "Analiza los efectos en distintas dimensiones que tendría una posible intervención."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
